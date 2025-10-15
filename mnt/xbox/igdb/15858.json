@@ -1,0 +1,73 @@
+{
+  "id": 15858,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 29943,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 29944,
+      "company": {
+        "id": 860,
+        "name": "Fatshark"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Bionic Commando Rearmed 2",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/bionic-commando-rearmed-2"
+}

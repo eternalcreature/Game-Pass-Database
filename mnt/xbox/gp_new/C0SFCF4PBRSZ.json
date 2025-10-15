@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 4848,
+    "specific_id": 4848,
+    "title": "Max: The Curse of Brotherhood",
+    "store_title": "Max: The Curse of Brotherhood",
+    "pid": "C0SFCF4PBRSZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C0SFCF4PBRSZ"
+      ]
+    ],
+    "original_release_date": "2013-12-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Pressplay"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4848,
+      "name": "Max: The Curse of Brotherhood",
+      "url": "https://www.igdb.com/games/max-the-curse-of-brotherhood",
+      "publishers": [
+        "Flashbulb Games",
+        "Microsoft Studios",
+        "Stage Clear Studios",
+        "Wired Productions"
+      ],
+      "developers": [
+        "Flashbulb Games",
+        "Press Play",
+        "Stage Clear Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

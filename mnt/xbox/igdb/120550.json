@@ -1,0 +1,78 @@
+{
+  "id": 120550,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 81576,
+      "company": {
+        "id": 21120,
+        "name": "Skeleton Crew Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 129622,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 129621,
+      "company": {
+        "id": 13425,
+        "name": "Skeleton Crew Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Olija",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/olija"
+}

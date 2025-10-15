@@ -1,0 +1,147 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "120fps": "120 fps",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Blood",
+      "Language",
+      "Use of Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "ORGANS.\r\nEveryone has them, and everyone wants them. You are an Organ Trader, the funnel for fleshy meat parts into a strange, evolving, and desperate universe full of clients.\r\n\r\nContend with the cutthroat organ market. Trade viscera with dubious figures. Keep vampire-leech organs from devouring the rest of the goods inside your cargo hold. Flood galaxies with meat. Make a profit.\r\nThis is Space Warlord Organ Trading Simulator: the sci-fi body horror market tycoon you didn't know you needed.",
+  "developerName": "Strange Scaffold",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1623638016,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NVD5DB5T3HD",
+  "productKind": "Game",
+  "publisherName": "Strange Scaffold",
+  "ratingCount": 212,
+  "releaseDate": "2021-12-07T14:00:00.0000000Z",
+  "shortDescription": "Dive into the quivering innards of alien capitalism in Space Warlord Organ Trading Simulator: the sci-fi body horror market tycoon game you didn't know you needed.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B1GS6BFFN03J",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4FD5NP88KRP",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Space Warlord Organ Trading Simulator",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-12-07T14:00:00Z",
+      "exitDateUTC": "2022-12-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-12-07T14:00:00Z",
+      "exitDateUTC": "2022-12-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-12-07T14:00:00Z",
+      "exitDateUTC": "2022-12-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SPACEWARLORDORGANTRADINGSIMULATOR",
+    "xboxTitleId": 1867036629,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

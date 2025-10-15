@@ -1,0 +1,144 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Fantasy Violence",
+      "Language",
+      "Use of Alcohol And Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry and overflow with greed and power.",
+  "developerName": "Acid Nerve",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3222106112,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NDZ7NXFF622",
+  "productKind": "Game",
+  "publisherName": "Devolver Digital",
+  "ratingCount": 326,
+  "releaseDate": "2021-07-20T13:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XNM9XCRW8LD",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XFNP21DNWSF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Death's Door",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-01-20T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-01-20T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DEATHSDOORXBOX",
+    "xboxTitleId": 1959842755,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": 334243,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 310423,
+      "company": {
+        "id": 66,
+        "name": "Activision"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 310424,
+      "company": {
+        "id": 2121,
+        "name": "Iron Galaxy Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Tony Hawk's Pro Skater 3+4",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4"
+}

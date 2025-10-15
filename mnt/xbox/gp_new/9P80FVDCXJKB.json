@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 247383,
+    "specific_id": 247383,
+    "title": "F1 Manager 2023",
+    "store_title": "F1\u00ae Manager 2023",
+    "pid": "9P80FVDCXJKB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P80FVDCXJKB"
+      ]
+    ],
+    "original_release_date": "2023-07-31",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-10-19",
+        "removed": "2024-10-16"
+      },
+      "Ultimate": {
+        "added": "2023-10-19",
+        "removed": "2024-10-16"
+      },
+      "Console": {
+        "added": "2023-10-19",
+        "removed": "2024-10-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "publisher": "Frontier Developments",
+    "developer": "Frontier Developments"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 247383,
+      "name": "F1 Manager 2023",
+      "url": "https://www.igdb.com/games/f1-manager-2023",
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "developers": [
+        "Frontier Developments"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

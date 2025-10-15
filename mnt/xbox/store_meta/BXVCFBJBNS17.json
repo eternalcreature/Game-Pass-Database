@@ -1,0 +1,156 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "The Elder Scrolls III: Morrowind is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Your actions define your character, and your gameplay changes and evolves in response to your actions.  Confront the assassins' guild, and they take out a contract on you; impress them, and they try to recruit you instead. No two sagas are the same in the world of Morrowind. The end result is the most open-ended RPG possible—one with an infinite number of possible paths through the game.  Includes Morrowind plus all of the content from the Bloodmoon and Tribunal expansions.",
+  "developerName": "Bethesda Game Studios",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1633636352,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BXVCFBJBNS17",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 327,
+  "releaseDate": "2018-04-17T00:00:00.0000000Z",
+  "shortDescription": "The Elder Scrolls III: Morrowind is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Your actions define your character, and your gameplay changes and evolves in response to your actions.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B03V58VFT74J",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "03/11/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9ZG5NLLNPVTG",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "The Elder Scrolls III: Morrowind",
+  "xCloudProperties": {
+    "xCloudId": "THEELDERSCROLLSIIIMORROWIND",
+    "xboxTitleId": 508319625,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEELDERSCROLLSIIIMORROWIND",
+    "xboxTitleId": 508319625,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

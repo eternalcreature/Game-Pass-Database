@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 11118,
+    "specific_id": 11118,
+    "title": "Dishonored 2",
+    "store_title": "Dishonored 2",
+    "pid": "BSZM480TSWGP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MW4RJDRSF78"
+    ],
+    "sku_groups": [
+      [
+        "9MW4RJDRSF78"
+      ],
+      [
+        "BSZM480TSWGP"
+      ]
+    ],
+    "original_release_date": "2016-11-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-10-03",
+        "removed": null
+      },
+      "Console": {
+        "added": "2019-10-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Arkane Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11118,
+      "name": "Dishonored 2",
+      "url": "https://www.igdb.com/games/dishonored-2",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Arkane Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 202417,
+    "specific_id": 202417,
+    "title": "Paw Patrol: Grand Prix",
+    "store_title": "PAW Patrol: Grand Prix",
+    "pid": "9MWBT3HFCZ3Z",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MWBT3HFCZ3Z"
+      ]
+    ],
+    "original_release_date": "2022-09-30",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-30",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-09-30",
+        "removed": "2024-10-01"
+      },
+      "Console": {
+        "added": "2022-09-30",
+        "removed": "2024-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Family & kids",
+      "Action & adventure",
+      "Racing & flying",
+      "Sports"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "3DClouds"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 202417,
+      "name": "Paw Patrol: Grand Prix",
+      "url": "https://www.igdb.com/games/paw-patrol-grand-prix",
+      "publishers": [],
+      "developers": [
+        "3DClouds"
+      ],
+      "genres": [
+        "Racing",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

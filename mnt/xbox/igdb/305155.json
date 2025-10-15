@@ -1,0 +1,52 @@
+{
+  "id": 305155,
+  "game_modes": [
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 5,
+      "name": "Massively Multiplayer Online (MMO)"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 36,
+      "name": "MOBA"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 273186,
+      "company": {
+        "id": 55163,
+        "name": "Bad Guitar Studio"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "FragPunk",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/fragpunk"
+}

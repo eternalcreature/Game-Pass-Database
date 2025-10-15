@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 133302,
+    "specific_id": 133302,
+    "title": "Scarlet Nexus",
+    "store_title": "SCARLET NEXUS",
+    "pid": "9N9RMHTJX41P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N9RMHTJX41P"
+      ]
+    ],
+    "original_release_date": "2021-06-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-30",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-30",
+        "removed": "2023-01-01"
+      },
+      "Console": {
+        "added": "2021-09-30",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "BANDAI NAMCO Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133302,
+      "name": "Scarlet Nexus",
+      "url": "https://www.igdb.com/games/scarlet-nexus",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios",
+        "Tose"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

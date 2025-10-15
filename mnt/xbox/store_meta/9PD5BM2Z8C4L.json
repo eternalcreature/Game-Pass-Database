@@ -1,0 +1,276 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable with keyboard only",
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Single stick gameplay"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.8,
+  "badges": [
+    {
+      "type": 8
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Mow down thousands of night creatures and survive until dawn! \r\n\r\nVampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.\r\n\r\nHell is empty, the devils are here, and there's no place to run or hide. All you can do is survive as long as you can until death inevitably puts an end to your struggles. Gather gold in each run to buy upgrades and help the next survivor.\r\n\r\nThe supernatural indie phenomenon that lets you be the bullet hell!\r\n\r\nStarting Tips:\r\n\r\n- Take your time to grab gems and items, they won't disappear.\r\n- Get two or three offensive weapons at first, but focus on levelling them up one at a time.\r\n- Armour and Luck are good starting power-ups to spend money on.\r\n- Refund power-ups often, it's free, and try new upgrade paths.",
+  "developerName": "Poncle",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DJ",
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeEuropa",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 929595392,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PD5BM2Z8C4L",
+  "productKind": "Game",
+  "publisherName": "Poncle",
+  "ratingCount": 640,
+  "releaseDate": "2022-10-20T00:00:00.0000000Z",
+  "shortDescription": "Vampire Survivors is a time survival game with minimalistic gameplay and roguelite elements.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z6R366ZTDTX",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/01/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9NRWKXCL57QG",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9V1WGJR3R6GD",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PWZZNJCVZ69",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B3H48W3TQS17",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B0G7MX3W2J3R",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/01/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 3
+  },
+  "title": "Vampire Survivors",
+  "xCloudProperties": {
+    "xCloudId": "VAMPIRESURVIVORS",
+    "xboxTitleId": 1695638358,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DJ": {
+      "entryDateUTC": "2023-09-14T12:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-09-14T12:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-11-10T08:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-05-19T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "VAMPIRESURVIVORS",
+    "xboxTitleId": 1695638358,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

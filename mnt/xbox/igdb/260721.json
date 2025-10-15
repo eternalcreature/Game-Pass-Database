@@ -1,0 +1,67 @@
+{
+  "id": 260721,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 241311,
+      "company": {
+        "id": 19676,
+        "name": "24 Bit Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 225983,
+      "company": {
+        "id": 32720,
+        "name": "Free Lives"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 225984,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Broforce: Forever",
+  "parent_game": 5973,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/broforce-forever"
+}

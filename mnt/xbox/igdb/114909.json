@@ -1,0 +1,57 @@
+{
+  "id": 114909,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 87138,
+      "company": {
+        "id": 13699,
+        "name": "Wired Productions"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 87139,
+      "company": {
+        "id": 22590,
+        "name": "Emily M Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Fractured Minds",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 34,
+      "name": "Educational"
+    }
+  ],
+  "url": "https://www.igdb.com/games/fractured-minds"
+}

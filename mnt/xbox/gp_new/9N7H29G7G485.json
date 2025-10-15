@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 3193,
+    "specific_id": 3193,
+    "title": "Need for Speed: Most Wanted",
+    "store_title": "Need for Speed\u2122 Most Wanted",
+    "pid": "9N7H29G7G485",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N7H29G7G485"
+      ]
+    ],
+    "original_release_date": "2012-10-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Electronic Arts ",
+    "developer": "Criterion Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3193,
+      "name": "Need for Speed: Most Wanted",
+      "url": "https://www.igdb.com/games/need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Criterion Games"
+      ],
+      "genres": [
+        "Racing",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

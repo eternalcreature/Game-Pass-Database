@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 1968,
+    "specific_id": 1968,
+    "title": "Rayman Legends",
+    "store_title": "Rayman Legends",
+    "pid": "C26K4DVGR45B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NQ4M2DG11L0"
+    ],
+    "sku_groups": [
+      [
+        "9NQ4M2DG11L0"
+      ],
+      [
+        "C26K4DVGR45B"
+      ]
+    ],
+    "original_release_date": "2013-09-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montpellier"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1968,
+      "name": "Rayman Legends",
+      "url": "https://www.igdb.com/games/rayman-legends",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montpellier"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

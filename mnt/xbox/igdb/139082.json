@@ -1,0 +1,61 @@
+{
+  "id": 139082,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 109144,
+      "company": {
+        "id": 18288,
+        "name": "Gamera Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 262952,
+      "company": {
+        "id": 51251,
+        "name": "Shiying Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Firework",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/firework--1"
+}

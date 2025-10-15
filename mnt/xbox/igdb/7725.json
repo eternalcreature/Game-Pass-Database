@@ -1,0 +1,91 @@
+{
+  "id": 7725,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 57565,
+      "company": {
+        "id": 6970,
+        "name": "Frima Studio"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 128956,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 181892,
+      "company": {
+        "id": 13634,
+        "name": "Sony Computer Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184692,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil: Revelations 2",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/resident-evil-revelations-2"
+}

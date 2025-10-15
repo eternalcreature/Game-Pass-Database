@@ -1,0 +1,113 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "CapabilityHDR": "HDR10",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "METAL GEAR SURVIVE builds upon METAL GEAR SOLID V’S enduring stealth action gameplay while introducing the new elements of exploration and survival to create a bold new experience.\nMETAL GEAR SURVIVE is a spin off from the main METAL GEAR SOLID V story that takes place in a strange alternative universe. \nCreate your own character and learn to survive. Scavenge resources, craft weapons, build a base camp and explore the unknown while developing the survival skills necessary in this hostile environment.\nIn CO-OP mode, assemble a team of four players to infiltrate and defend areas from hordes of creatures. Place fortifications and defensive weapons strategically to give you an advantage against ever intensifying enemies. Team work and resourcefulness are key in these fast paced co-op missions.\n*An internet connection is required to play the game.",
+  "developerName": "Konami Digital Entertainment",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 21774254080,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BR6DLJ4RDR9Q",
+  "productKind": "Game",
+  "publisherName": "Konami Digital Entertainment",
+  "ratingCount": 317,
+  "releaseDate": "2018-02-20T00:00:00.0000000Z",
+  "shortDescription": "METAL GEAR SURVIVE builds upon MGSV’s stealth action gameplay with elements of exploration and survival creating a bold new experience.\n*An internet connection is required to play the game.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9P18RXP2VRLM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9P9QQGM0JP3N",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "METAL GEAR SURVIVE",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

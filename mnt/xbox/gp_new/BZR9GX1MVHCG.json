@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 9928,
+    "specific_id": 9928,
+    "title": "Dirt Rally",
+    "store_title": "Dirt Rally",
+    "pid": "BZR9GX1MVHCG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BZR9GX1MVHCG"
+      ]
+    ],
+    "original_release_date": "2015-12-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-10",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Racing & flying",
+      "Sports",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Codemasters",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9928,
+      "name": "Dirt Rally",
+      "url": "https://www.igdb.com/games/dirt-rally",
+      "publishers": [
+        "Codemasters",
+        "Feral Interactive"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

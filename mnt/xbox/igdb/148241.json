@@ -1,0 +1,61 @@
+{
+  "id": 148241,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 229746,
+      "company": {
+        "id": 30237,
+        "name": "Neowiz"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 229747,
+      "company": {
+        "id": 34183,
+        "name": "Round8 Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Lies of P",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lies-of-p"
+}

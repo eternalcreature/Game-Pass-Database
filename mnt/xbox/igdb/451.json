@@ -1,0 +1,73 @@
+{
+  "id": 451,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 18815,
+      "company": {
+        "id": 115,
+        "name": "Codemasters"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 18801,
+      "company": {
+        "id": 412,
+        "name": "Codemasters Southam"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Operation Flashpoint: Dragon Rising",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/operation-flashpoint-dragon-rising"
+}

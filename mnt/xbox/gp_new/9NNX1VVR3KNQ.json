@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 141503,
+    "specific_id": 141503,
+    "title": "Forza Horizon 5",
+    "store_title": "Forza Horizon 5",
+    "pid": "9NNX1VVR3KNQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NKX70BBCDRN"
+    ],
+    "sku_groups": [
+      [
+        "9NKX70BBCDRN",
+        "9NNX1VVR3KNQ"
+      ]
+    ],
+    "original_release_date": "2021-11-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-11-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-11-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-11-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Playground Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141503,
+      "name": "Forza Horizon 5",
+      "url": "https://www.igdb.com/games/forza-horizon-5",
+      "publishers": [
+        "Microsoft Corporation",
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Playground Games"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

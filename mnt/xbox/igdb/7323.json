@@ -1,0 +1,86 @@
+{
+  "id": 7323,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 22397,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 37679,
+      "company": {
+        "id": 552,
+        "name": "Crystal Dynamics"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 184710,
+      "company": {
+        "id": 4940,
+        "name": "Square Enix Europe"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Rise of the Tomb Raider",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/rise-of-the-tomb-raider"
+}

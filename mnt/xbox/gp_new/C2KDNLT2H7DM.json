@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 103292,
+    "specific_id": 103292,
+    "title": "Gears 5",
+    "store_title": "Gears 5",
+    "pid": "C2KDNLT2H7DM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P4KMR76PLLQ"
+    ],
+    "sku_groups": [
+      [
+        "9P4KMR76PLLQ",
+        "C2KDNLT2H7DM"
+      ]
+    ],
+    "original_release_date": "2019-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2024-08-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-10-16",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-09",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-3)",
+      "XblOnlineCoop": "Online co-op (2-5)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "The Coalition"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103292,
+      "name": "Gears 5",
+      "url": "https://www.igdb.com/games/gears-5",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "The Coalition"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

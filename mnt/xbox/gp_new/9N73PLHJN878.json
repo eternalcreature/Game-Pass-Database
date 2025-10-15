@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "base_id": 115278,
+    "specific_id": 136190,
+    "title": "Rune Factory 4 Special",
+    "store_title": "Rune Factory 4 Special - Windows Edition",
+    "pid": "9N73PLHJN878",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N97D021SH83"
+    ],
+    "sku_groups": [
+      [
+        "9N73PLHJN878"
+      ],
+      [
+        "9N97D021SH83"
+      ]
+    ],
+    "original_release_date": "2012-07-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-06-08",
+        "removed": "2024-06-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-08",
+        "removed": "2024-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "Marvelous Inc.",
+    "developer": "Marvelous Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115278,
+      "name": "Rune Factory 4 Special",
+      "url": "https://www.igdb.com/games/rune-factory-4-special",
+      "publishers": [
+        "Marvelous Europe Ltd.",
+        "Marvelous USA, Inc.",
+        "XSEED Games"
+      ],
+      "developers": [
+        "HAKAMA",
+        "Marvelous"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 115278,
+      "name": "Rune Factory 4 Special",
+      "url": "https://www.igdb.com/games/rune-factory-4-special",
+      "publishers": [
+        "Marvelous Europe Ltd.",
+        "Marvelous USA, Inc.",
+        "XSEED Games"
+      ],
+      "developers": [
+        "HAKAMA",
+        "Marvelous"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

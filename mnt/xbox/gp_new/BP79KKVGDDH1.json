@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 11064,
+    "specific_id": 11064,
+    "title": "Shadow Warrior 2",
+    "store_title": "Shadow Warrior 2",
+    "pid": "BP79KKVGDDH1",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P6SFBR1TCWQ"
+    ],
+    "sku_groups": [
+      [
+        "9P6SFBR1TCWQ"
+      ],
+      [
+        "BP79KKVGDDH1"
+      ]
+    ],
+    "original_release_date": "2016-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-04-01",
+        "removed": "2022-04-01"
+      },
+      "Ultimate": {
+        "added": "2021-04-01",
+        "removed": "2022-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledX": "FPS Boost Series X"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Flying Wild Hog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11064,
+      "name": "Shadow Warrior 2",
+      "url": "https://www.igdb.com/games/shadow-warrior-2",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Flying Wild Hog"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

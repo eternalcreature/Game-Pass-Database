@@ -1,0 +1,175 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.2,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Intense Violence",
+      "Blood and Gore",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Call of Duty®: WWII - a breathtaking experience that redefines World War II.\n\nLand in Normandy on D-Day and battle across Europe through iconic locations in history’s most monumental war. Experience classic Call of Duty® combat, the bonds of camaraderie and the unforgiving nature of war against a global power throwing the world into tyranny.\n\nCall of Duty®: WWII creates the definitive World War II experience across three different game modes: Campaign, Multiplayer and Co-Operative.\n\n- Featuring stunning visuals, the Campaign transports players to the European theater, as they engage in a Call of Duty® story set in iconic World War II battles.\n- Multiplayer brings players classic, boots-on-the ground Call of Duty® gameplay. Authentic weapons and traditional run-and-gun action immerse you in a vast array of World War II-themed locations.\n- The Co-Operative mode unleashes an original story in a standalone game experience full of unexpected, adrenaline-pumping moments.\n\n\nCross-platform Multiplayer is not supported.\n\nFor more information, please visit www.callofduty.com.\n\n© 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY and CALL OF DUTY WWII are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the property of their respective owners. This product contains software technology licensed from Id Software ('Id Technology'). Id Technology © 1999-2025 Id Software, Inc.",
+  "editions": [],
+  "franchiseId": "CALLOFDUTY",
+  "franchiseName": "Call of Duty",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 151807594496,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P3QS4LX8BM9",
+  "productKind": "Game",
+  "publisherName": "Activision Publishing Inc.",
+  "ratingCount": 202,
+  "releaseDate": "2024-12-16T18:00:00.0000000Z",
+  "shortDescription": "Call of Duty®: WWII - a breathtaking experience that redefines World War II.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B146WS9PGB0H",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B0LBB6LQPK0C",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B21665SN9154",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9R0KRN6K67TW",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Call of Duty®: WWII (Windows)",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-08-27T17:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-08-27T17:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

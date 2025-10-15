@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 119285,
+    "specific_id": 119285,
+    "title": "Lost in Random",
+    "store_title": "Lost in Random\u2122",
+    "pid": "9NVRJS95FLM9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PN3SWBMPJXJ"
+    ],
+    "sku_groups": [
+      [
+        "9NVRJS95FLM9"
+      ],
+      [
+        "9PN3SWBMPJXJ"
+      ]
+    ],
+    "original_release_date": "2021-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-04-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-04-14",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Card & board",
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Zoink/Thunderful"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119285,
+      "name": "Lost in Random",
+      "url": "https://www.igdb.com/games/lost-in-random",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Zoink"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

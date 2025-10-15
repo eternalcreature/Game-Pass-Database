@@ -1,0 +1,122 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood and Gore"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Besiege is a physics based building game in which you construct medieval siege engines and lay waste to immense fortresses and peaceful hamlets. Build a machine which can crush windmills, wipe out battalions of brave soldiers and transport valuable resources, defending your creation against cannons, archers and whatever else the desperate enemies have at their disposal. Create a trundling behemoth, or take clumsily to the skies, and cause carnage in fully destructible environments. Ultimately, you must conquer every Kingdom by crippling their castles and annihilating their men and livestock, in as creative or clinical a manner as possible!",
+  "developerName": "Spiderling Studios",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1428115456,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PPFBQG81Q5J",
+  "productKind": "Game",
+  "publisherName": "Spiderling Studios",
+  "ratingCount": 200,
+  "releaseDate": "2023-05-01T00:00:00.0000000Z",
+  "shortDescription": "Besiege is a physics based building game in which you construct medieval siege engines. Battle your way through a 54 level singleplayer campaign, construct your masterpiece doom machines from a selection of over 60 blocks and roam around in 3 expansive sandbox environments!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V2SZVHVLS3F",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XLT6JKB8K3B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Besiege Console",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-05-01T17:00:00Z",
+      "exitDateUTC": "2024-05-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-05-01T17:00:00Z",
+      "exitDateUTC": "2024-05-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

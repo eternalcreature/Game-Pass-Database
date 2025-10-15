@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 136560,
+    "specific_id": 136560,
+    "title": "EA Sports UFC 4",
+    "store_title": "UFC\u00ae 4",
+    "pid": "BPBV3PCB0X44",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPBV3PCB0X44"
+      ]
+    ],
+    "original_release_date": "2020-08-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-07-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-07-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 136560,
+      "name": "EA Sports UFC 4",
+      "url": "https://www.igdb.com/games/ea-sports-ufc-4",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Fighting",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

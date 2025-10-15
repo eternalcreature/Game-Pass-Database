@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 119295,
+    "specific_id": 119295,
+    "title": "Microsoft Flight Simulator",
+    "store_title": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
+    "pid": "9PMQDM08SNK9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MTJ74MKQM46"
+    ],
+    "sku_groups": [
+      [
+        "9MTJ74MKQM46",
+        "9PMQDM08SNK9"
+      ]
+    ],
+    "original_release_date": "2020-08-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-11-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-11-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-11-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Asobo Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119295,
+      "name": "Microsoft Flight Simulator",
+      "url": "https://www.igdb.com/games/microsoft-flight-simulator",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Asobo Studio"
+      ],
+      "genres": [
+        "Simulator"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

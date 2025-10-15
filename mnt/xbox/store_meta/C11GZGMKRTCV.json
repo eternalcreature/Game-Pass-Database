@@ -1,0 +1,133 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PPJV0ZDBSKT"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing",
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Mild Language",
+      "Use of Alcohol"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of the year. Build & manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch-burning festivals, and scare nearby villagers into attending church. This is a game of capitalism and doing whatever it takes to build a thriving business. \n\nFace ethical dilemmas. Do you really want to spend money on that proper hotdog meat for the festival when you have so many resources lying around? \nGather valuable resources & craft new items. Expand your Graveyard into a thriving business, go ahead and gather valuable resources scattered in the surrounding areas, and explore what this land has to offer. \nMake business alliances. These dead bodies don't need all that blood, do they? Why not sell it to someone who can put it to good use. Same for body parts. Hey, it's being efficient with recycling! \nExplore mysterious dungeons. No medieval game would be complete without these. Take a trip into the unknown and find useful new ingredients which may or may not poison a whole bunch of nearby villagers. Capitalism.",
+  "developerName": "Lazy Bear Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 1209806848,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C11GZGMKRTCV",
+  "productKind": "Game",
+  "publisherName": "tinyBuild",
+  "ratingCount": 267,
+  "releaseDate": "2018-08-15T00:00:00.0000000Z",
+  "shortDescription": "Build & manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch-burning festivals, and scare nearby villagers into attending church.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9NS2X5RXZH8P",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VDBWVS4CD79",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Graveyard Keeper",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "GRAVEYARDKEEPER",
+    "xboxTitleId": 984363462,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

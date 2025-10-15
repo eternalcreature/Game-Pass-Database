@@ -1,0 +1,161 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without rapid button presses",
+      "Single stick gameplay"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Puzzle & trivia",
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Use of Tobacco",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Venba is a narrative cooking game where you play as an Indian mom who immigrates to Canada with her family in the 1980s. Players will cook various dishes and restore lost recipes, hold branching conversations and explore in this story about family, love, loss and more.\r\n\r\nCook Mouth Watering Dishes\r\nVenba's recipe book gets damaged when she moves to Canada. Restore the lost recipes to cook delicious, mouth-watering dishes that serve as a connection to the home left behind.\r\n\r\nExplore, Converse, Experience\r\nGet to know the family well, hold branching conversations, and explore as you face the challenges that arise from day to day life.",
+  "developerName": "Visai Games Inc",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1631498240,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P5P55S7HB9S",
+  "productKind": "Game",
+  "publisherName": "Visai Games Inc",
+  "ratingCount": 325,
+  "releaseDate": "2023-07-31T13:00:00.0000000Z",
+  "shortDescription": "Cook delicious South-Indian food and experience the journey of an immigrant family in Venba!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B15TB5V8LJS3",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TV6F0GFC3KX",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Venba",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-07-31T13:00:00Z",
+      "exitDateUTC": "2024-08-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-07-31T13:00:00Z",
+      "exitDateUTC": "2024-08-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-07-31T13:00:00Z",
+      "exitDateUTC": "2024-08-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "VENBA",
+    "xboxTitleId": 2073438212,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

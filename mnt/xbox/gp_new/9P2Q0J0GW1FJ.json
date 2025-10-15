@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 196655,
+    "specific_id": 196655,
+    "title": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
+    "store_title": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
+    "pid": "9P2Q0J0GW1FJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P2Q0J0GW1FJ"
+      ]
+    ],
+    "original_release_date": "2023-06-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-06-01",
+        "removed": "2025-06-01"
+      },
+      "Ultimate": {
+        "added": "2023-06-01",
+        "removed": "2025-06-01"
+      },
+      "PC": {
+        "added": "2023-06-01",
+        "removed": "2025-06-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "No More Robots",
+    "developer": "Big Z Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 196655,
+      "name": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
+      "url": "https://www.igdb.com/games/slayers-x-terminal-aftermath-vengance-of-the-slayer",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "Tendershoot"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

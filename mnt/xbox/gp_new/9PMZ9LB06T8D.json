@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 28955,
+    "specific_id": 28955,
+    "title": "SimCity 3000 Unlimited",
+    "store_title": "Sim City 3000\u2122 Unlimited",
+    "pid": "9PMZ9LB06T8D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PMZ9LB06T8D"
+      ]
+    ],
+    "original_release_date": "2000-05-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-04-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-15",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-04-15",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28955,
+      "name": "SimCity 3000 Unlimited",
+      "url": "https://www.igdb.com/games/simcity-3000-unlimited",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

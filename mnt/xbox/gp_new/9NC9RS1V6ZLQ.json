@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 114287,
+    "specific_id": 114287,
+    "title": "FIFA 20",
+    "store_title": "EA SPORTS\u2122 FIFA 20",
+    "pid": "9NC9RS1V6ZLQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C3C71TV51SQC"
+    ],
+    "sku_groups": [
+      [
+        "9NC9RS1V6ZLQ"
+      ],
+      [
+        "C3C71TV51SQC"
+      ]
+    ],
+    "original_release_date": "2019-09-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114287,
+      "name": "FIFA 20",
+      "url": "https://www.igdb.com/games/fifa-20",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Romania",
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

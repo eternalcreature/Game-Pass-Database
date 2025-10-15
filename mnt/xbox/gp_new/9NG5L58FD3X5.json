@@ -1,0 +1,133 @@
+{
+  "basic_info": {
+    "base_id": 119304,
+    "specific_id": 187506,
+    "title": "Spiritfarer",
+    "store_title": "Spiritfarer\u00ae: Farewell Edition",
+    "pid": "9NG5L58FD3X5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NG5L58FD3X5"
+      ]
+    ],
+    "original_release_date": "2020-08-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-09-13",
+        "removed": null
+      },
+      "Console": {
+        "added": "2023-09-13",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-09-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Simulation"
+    ],
+    "publisher": "Thunder Lotus",
+    "developer": "Thunder Lotus"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119304,
+      "name": "Spiritfarer",
+      "url": "https://www.igdb.com/games/spiritfarer",
+      "publishers": [
+        "Thunder Lotus"
+      ],
+      "developers": [
+        "Thunder Lotus"
+      ],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 119304,
+      "name": "Spiritfarer",
+      "url": "https://www.igdb.com/games/spiritfarer",
+      "publishers": [
+        "Thunder Lotus"
+      ],
+      "developers": [
+        "Thunder Lotus"
+      ],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

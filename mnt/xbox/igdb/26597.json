@@ -1,0 +1,77 @@
+{
+  "id": 26597,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 96595,
+      "company": {
+        "id": 1418,
+        "name": "Chucklefish Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 96594,
+      "company": {
+        "id": 4747,
+        "name": "Robotality"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Pathway",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/pathway"
+}

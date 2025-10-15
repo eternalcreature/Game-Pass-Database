@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 12595,
+    "specific_id": 12595,
+    "title": "Yakuza Kiwami",
+    "store_title": "Yakuza Kiwami",
+    "pid": "9NBJ51BD0LTH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P40SC5DQ9K0"
+    ],
+    "sku_groups": [
+      [
+        "9NBJ51BD0LTH"
+      ],
+      [
+        "9P40SC5DQ9K0"
+      ]
+    ],
+    "original_release_date": "2016-01-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-07-05",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2022-07-05",
+        "removed": "2025-04-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "SEGA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 12595,
+      "name": "Yakuza Kiwami",
+      "url": "https://www.igdb.com/games/yakuza-kiwami",
+      "publishers": [
+        "Deep Silver",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Fighting",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

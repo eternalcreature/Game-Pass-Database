@@ -1,0 +1,117 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NMHK7T44J8W"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol Reference",
+      "Fantasy Violence",
+      "Suggestive Themes",
+      "Use of Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "RPG with over 100 companions?! Set out on an adventure in a retro-styled world!\r\n\r\nAfter encountering the man who killed their parents ten years prior, Elmia and her brother Alan set out to avenge their deaths as they fight to stem the tide of monsters flooding into the upper world, and restore peace to Alvastia.\r\n\r\nHowever, in their quest to amass an army of diverse companions with the same goal, will they really be able to gain the strength necessary to bring their parents' killer to justice, and save the world...?\r\n\r\nEncounter more than 100 companions as Alan and Elmia travel the world. Do you have what it takes to recruit them all? Engage in heated turn-based battles with up to 13 party members. Unlock bonds connected to companions and utilize various effects! Weapon upgrades, a battle arena, and quests are only the beginning of what is in store!",
+  "developerName": "EXE-CREATE",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 736407552,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MVJGBNNFPPS",
+  "productKind": "Game",
+  "publisherName": "KEMCO",
+  "ratingCount": 829,
+  "releaseDate": "2019-01-18T00:00:00.0000000Z",
+  "shortDescription": "RPG with over 100 companions?! Set out on an adventure in a retro-styled world!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RC6GV31MXJR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9MSSZKWNH13Q",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Alvastia Chronicles",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

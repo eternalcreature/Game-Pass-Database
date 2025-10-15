@@ -1,0 +1,57 @@
+{
+  "id": 141568,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 114731,
+      "company": {
+        "id": 326,
+        "name": "Cyan Worlds"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Myst",
+  "parent_game": 236,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/myst--1"
+}

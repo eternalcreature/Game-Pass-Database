@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 131756,
+    "specific_id": 131756,
+    "title": "Plebby Quest: The Crusades",
+    "store_title": "Plebby Quest: The Crusades",
+    "pid": "9MWBPSQ5PKQR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MWBPSQ5PKQR"
+      ]
+    ],
+    "original_release_date": "2020-04-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-05-21",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2020-05-21",
+        "removed": "2021-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Neowiz",
+    "developer": "Neowiz / PiedPipers"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 131756,
+      "name": "Plebby Quest: The Crusades",
+      "url": "https://www.igdb.com/games/plebby-quest-the-crusades",
+      "publishers": [
+        "Neowiz"
+      ],
+      "developers": [
+        "PiedPipers Team"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

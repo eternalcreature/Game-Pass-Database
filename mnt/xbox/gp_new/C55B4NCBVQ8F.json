@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 20123,
+    "specific_id": 20123,
+    "title": "State of Mind",
+    "store_title": "State of Mind",
+    "pid": "C55B4NCBVQ8F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C55B4NCBVQ8F"
+      ]
+    ],
+    "original_release_date": "2018-08-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Daedalic Entertainment GmbH",
+    "developer": "Daedalic Entertainment GmbH"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20123,
+      "name": "State of Mind",
+      "url": "https://www.igdb.com/games/state-of-mind",
+      "publishers": [
+        "Daedalic Entertainment",
+        "Daedalic Studio West"
+      ],
+      "developers": [
+        "Daedalic Entertainment"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Thriller"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

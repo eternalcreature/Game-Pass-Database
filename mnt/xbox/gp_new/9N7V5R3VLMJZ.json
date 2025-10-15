@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "base_id": 11772,
+    "specific_id": 35842,
+    "title": "Shadowrun: Hong Kong",
+    "store_title": "Shadowrun: Hong Kong - Extended Edition",
+    "pid": "9N7V5R3VLMJZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NK2DT3K7DTF"
+    ],
+    "sku_groups": [
+      [
+        "9N7V5R3VLMJZ"
+      ],
+      [
+        "9NK2DT3K7DTF"
+      ]
+    ],
+    "original_release_date": "2015-08-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Harebrained Schemes, Codeglue"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11772,
+      "name": "Shadowrun: Hong Kong",
+      "url": "https://www.igdb.com/games/shadowrun-hong-kong",
+      "publishers": [
+        "Harebrained Schemes"
+      ],
+      "developers": [
+        "Harebrained Schemes"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 11772,
+      "name": "Shadowrun: Hong Kong",
+      "url": "https://www.igdb.com/games/shadowrun-hong-kong",
+      "publishers": [
+        "Harebrained Schemes"
+      ],
+      "developers": [
+        "Harebrained Schemes"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

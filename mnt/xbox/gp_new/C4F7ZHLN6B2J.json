@@ -1,0 +1,121 @@
+{
+  "basic_info": {
+    "base_id": 3812,
+    "specific_id": 82422,
+    "title": "Ryse: Son of Rome",
+    "store_title": "Ryse: Legendary Edition",
+    "pid": "C4F7ZHLN6B2J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C10QTNC7JWNJ"
+    ],
+    "sku_groups": [
+      [
+        "C10QTNC7JWNJ",
+        "C4F7ZHLN6B2J"
+      ]
+    ],
+    "original_release_date": "2013-11-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-07-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-07-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Crytek"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3812,
+      "name": "Ryse: Son of Rome",
+      "url": "https://www.igdb.com/games/ryse-son-of-rome",
+      "publishers": [
+        "Crytek",
+        "Deep Silver",
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Crytek",
+        "Crytek Frankfurt"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 3812,
+      "name": "Ryse: Son of Rome",
+      "url": "https://www.igdb.com/games/ryse-son-of-rome",
+      "publishers": [
+        "Crytek",
+        "Deep Silver",
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Crytek",
+        "Crytek Frankfurt"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

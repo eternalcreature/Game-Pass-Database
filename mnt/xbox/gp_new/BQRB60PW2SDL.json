@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 113113,
+    "specific_id": 113113,
+    "title": "Crash Team Racing Nitro-Fueled",
+    "store_title": "Crash\u2122 Team Racing Nitro-Fueled",
+    "pid": "BQRB60PW2SDL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQRB60PW2SDL"
+      ]
+    ],
+    "original_release_date": "2019-06-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2024-12-04",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-12-04",
+        "removed": null
+      },
+      "Console": {
+        "added": "2024-12-04",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-12-04",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Activision",
+    "developer": "Beenox"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113113,
+      "name": "Crash Team Racing Nitro-Fueled",
+      "url": "https://www.igdb.com/games/crash-team-racing-nitro-fueled",
+      "publishers": [
+        "Activision",
+        "Activision Blizzard"
+      ],
+      "developers": [
+        "Beenox"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

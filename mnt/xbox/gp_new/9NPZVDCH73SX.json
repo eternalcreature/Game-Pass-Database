@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 27270,
+    "specific_id": 27270,
+    "title": "Payday 3",
+    "store_title": "PAYDAY 3",
+    "pid": "9NPZVDCH73SX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NPZVDCH73SX"
+      ]
+    ],
+    "original_release_date": "2023-09-21",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-09-21",
+        "removed": "2024-09-16"
+      },
+      "Ultimate": {
+        "added": "2023-09-21",
+        "removed": "2024-09-16"
+      },
+      "Console": {
+        "added": "2023-09-21",
+        "removed": "2024-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Deep Silver",
+    "developer": "Starbreeze Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27270,
+      "name": "Payday 3",
+      "url": "https://www.igdb.com/games/payday-3",
+      "publishers": [
+        "PLAION",
+        "Prime Matter"
+      ],
+      "developers": [
+        "Starbreeze Studios"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

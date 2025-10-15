@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 127348,
+    "specific_id": 298938,
+    "title": "Dungeons & Dragons: Dark Alliance",
+    "store_title": "Dark Alliance",
+    "pid": "9MZ55WCBW7TK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZ55WCBW7TK"
+      ]
+    ],
+    "original_release_date": "2021-06-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-22",
+        "removed": "2022-06-16"
+      },
+      "Ultimate": {
+        "added": "2021-06-22",
+        "removed": "2022-06-16"
+      },
+      "PC": {
+        "added": "2021-06-22",
+        "removed": "2022-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Wizards of the Coast",
+    "developer": "Tuque Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127348,
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "url": "https://www.igdb.com/games/dungeons-and-dragons-dark-alliance",
+      "publishers": [
+        "Wizards of the Coast LLC"
+      ],
+      "developers": [
+        "Tuque Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 127348,
+      "name": "Dungeons & Dragons: Dark Alliance",
+      "url": "https://www.igdb.com/games/dungeons-and-dragons-dark-alliance",
+      "publishers": [
+        "Wizards of the Coast LLC"
+      ],
+      "developers": [
+        "Tuque Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

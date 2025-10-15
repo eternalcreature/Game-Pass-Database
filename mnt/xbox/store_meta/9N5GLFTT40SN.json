@@ -1,0 +1,174 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [
+      "Playable with keyboard only",
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Playable with buttons only",
+      "Basic input remapping",
+      "Playable without motion controls",
+      "Playable without touch controls",
+      "Stick inversion"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.9,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NKLS9ZCPMTZ"
+  ],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Other",
+    "Role playing",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Strong Language",
+      "Use of Drugs"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "It's September 1, 1986. You take on the role of forty-something Meredith Weiss, who returns from the big city to her quiet hometown. She exchanges her busy career at a software company to fill in for her dad, the local mail carrier.\r\n\r\nDuring her two-week stay in beautiful Providence Oaks, Oregon, she runs into a few familiar faces as well as plenty of new folk. As Meredith, you get to decide who to talk to, who to befriend and perhaps even start a romantic relationship with.\r\n\r\nWhatever happens, at the end of her stint she'll have to make up her mind: return to her demanding job in the big city, or stay in the town she grew up in?\r\n",
+  "developerName": "Gamious",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 2630545408,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N5GLFTT40SN",
+  "productKind": "Game",
+  "publisherName": "Whitethorn Games",
+  "ratingCount": 292,
+  "releaseDate": "2021-09-01T13:00:00.0000000Z",
+  "shortDescription": "It's 1986 - Meredith Weiss takes a break from her career in the big city to deliver mail in her hometown. How will she experience two weeks in beautiful Providence Oaks, with its iconic lake and quirky community? And what will she do next? It's up to you.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T78GP7V26QM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2C38CRV8GCS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Lake",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "LAKE",
+    "xboxTitleId": 2041063925,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

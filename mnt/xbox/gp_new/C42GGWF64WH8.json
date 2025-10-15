@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 4845,
+    "specific_id": 4845,
+    "title": "The LEGO Movie Videogame",
+    "store_title": "The LEGO Movie Videogame",
+    "pid": "C42GGWF64WH8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C42GGWF64WH8"
+      ]
+    ],
+    "original_release_date": "2014-02-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Traveller's Tales"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4845,
+      "name": "The LEGO Movie Videogame",
+      "url": "https://www.igdb.com/games/the-lego-movie-videogame",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "TT Fusion"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

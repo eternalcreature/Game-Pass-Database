@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 3087,
+    "specific_id": 3087,
+    "title": "Broken Age",
+    "store_title": "Broken Age",
+    "pid": "BRT1K9FV4LRR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MZZNL8J2MSZ"
+    ],
+    "sku_groups": [
+      [
+        "9MZZNL8J2MSZ"
+      ],
+      [
+        "BRT1K9FV4LRR"
+      ]
+    ],
+    "original_release_date": "2014-01-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-12-16",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Double Fine Productions",
+    "developer": "Double Fine Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3087,
+      "name": "Broken Age",
+      "url": "https://www.igdb.com/games/broken-age",
+      "publishers": [
+        "Double Fine Productions",
+        "Nordic Games Publishing"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

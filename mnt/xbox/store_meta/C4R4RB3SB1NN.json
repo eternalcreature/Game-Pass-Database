@@ -1,0 +1,149 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PBVKVBFDH9N"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Use of Tobacco",
+      "Blood",
+      "Suggestive Themes",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "The classic courtroom adventure series that has sold over 6.7 million copies worldwide is finally here. Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection. Solve the intriguing mysteries behind each case and witness the final truth for yourself!",
+  "developerName": "CAPCOM CO., LTD.",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2679918592,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C4R4RB3SB1NN",
+  "productKind": "Game",
+  "publisherName": "CAPCOM CO., LTD.",
+  "ratingCount": 263,
+  "releaseDate": "2019-04-09T00:00:00.0000000Z",
+  "shortDescription": "Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B4VQHQKJNRLH",
+        "discountPercentage": 67.02234,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.89,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9N6LX1LT6X41",
+        "discountPercentage": 67.02234,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.89,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Phoenix Wright: Ace Attorney Trilogy",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-09-26T10:00:00Z",
+      "exitDateUTC": "2024-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-09-26T10:00:00Z",
+      "exitDateUTC": "2024-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-09-26T10:00:00Z",
+      "exitDateUTC": "2024-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2024-10-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "PHOENIXWRIGHTACEATTORNEYTRILOGY",
+    "xboxTitleId": 838746653,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

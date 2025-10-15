@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 28526,
+    "specific_id": 28526,
+    "title": "Edge of Eternity",
+    "store_title": "Edge of Eternity",
+    "pid": "9P934697Z4W4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P934697Z4W4"
+      ]
+    ],
+    "original_release_date": "2018-12-05",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-10",
+        "removed": "2023-08-16"
+      },
+      "Ultimate": {
+        "added": "2022-02-10",
+        "removed": "2023-08-16"
+      },
+      "Console": {
+        "added": "2022-02-10",
+        "removed": "2023-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Dear Villagers",
+    "developer": "Midgar Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28526,
+      "name": "Edge of Eternity",
+      "url": "https://www.igdb.com/games/edge-of-eternity",
+      "publishers": [
+        "Playdius",
+        "Plug In Digital"
+      ],
+      "developers": [
+        "Midgar Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 2115,
+    "specific_id": 2115,
+    "title": "Titanfall",
+    "store_title": "Titanfall",
+    "pid": "BPB9XVH92Z7T",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P17G3K8RKPM"
+    ],
+    "sku_groups": [
+      [
+        "9P17G3K8RKPM"
+      ],
+      [
+        "BPB9XVH92Z7T"
+      ]
+    ],
+    "original_release_date": "2014-03-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2022-03-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2022-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (6-12)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Respawn Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2115,
+      "name": "Titanfall",
+      "url": "https://www.igdb.com/games/titanfall",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Respawn Entertainment"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

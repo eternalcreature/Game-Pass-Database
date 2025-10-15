@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 6292,
+    "specific_id": 6292,
+    "title": "Black Desert",
+    "store_title": "Black Desert",
+    "pid": "BTPDCJXNFSZL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BTPDCJXNFSZL"
+      ]
+    ],
+    "original_release_date": "2016-03-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-09-16",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-09-16",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-1000)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-1000)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "120fps": "120 fps",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Pearl Abyss",
+    "developer": "Pearl Abyss"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 6292,
+      "name": "Black Desert",
+      "url": "https://www.igdb.com/games/black-desert",
+      "publishers": [
+        "Pearl Abyss"
+      ],
+      "developers": [
+        "Pearl Abyss"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

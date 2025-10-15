@@ -1,0 +1,91 @@
+{
+  "id": 7599,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 58954,
+      "company": {
+        "id": 894,
+        "name": "DON'T NOD"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 58956,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 58955,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 232096,
+      "company": {
+        "id": 38591,
+        "name": "Pingle Game Studio"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Life is Strange",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/life-is-strange"
+}

@@ -1,0 +1,131 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NPJMJJFJV4H"
+  ],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Fantasy Violence",
+      "Mild Language",
+      "Simulated Gambling",
+      "Drug And Alcohol Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Streets of Rogue is a rogue-lite about player choice, freedom, and anarchic fun. The game takes inspiration from fast-paced top-down rogue-lites and adds free-form, experimentation-driven, emergent gameplay elements of immersive sims and RPGs.\r\n\r\nRather than taking place in a dungeon, the game is set in a functioning, procedurally generated city, where complex AI informs denizens from all walks of life, who are just trying to get by in their daily activities.\r\n\r\nIn order to progress, the player will need to accomplish specific mission goals in any way they see fit through the use of their special character traits, items, and the environment.\r\nWill you play as a soldier who shoots first and asks questions later?\r\nA stealthy doctor who uses chloroform and tranquilizer darts to take down the opposition?\r\nOr how about a gorilla, rescuing other caged gorillas to form a small mobilized gorilla army?",
+  "developerName": "Matt Dabrowski",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 564932608,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MZVTHHJKD3G",
+  "productKind": "Game",
+  "publisherName": "tinyBuild",
+  "ratingCount": 207,
+  "releaseDate": "2019-07-12T00:00:00.0000000Z",
+  "shortDescription": "Fight, sneak, and hack your way through randomly generated cities. It's an anarchy riddled Twin-Stick, Rogue-lite, RPG, Immersive Sim, that goes completely insane.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QJR1L0WQ902",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2B7PCB21W20",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Streets of Rogue",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-06-25T00:00:00Z",
+      "exitDateUTC": "2021-11-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-06-25T00:00:00Z",
+      "exitDateUTC": "2021-11-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

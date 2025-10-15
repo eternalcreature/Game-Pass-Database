@@ -1,0 +1,216 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.1,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BXZ0B7S1JD0Z"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Developed by Shinji Mikami and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror.  Highly-crafted environments, horrifying anxiety, and an intricate story are combined to create an immersive world that will bring you to the height of tension. With limited resources at your disposal, you’ll fight for survival and experience profound fear in this perfect blend of horror and action.\n\nhttps://bethesda.net/en/document/privacy-policy",
+  "developerName": "Tango Gameworks",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 37200908288,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C2M8HBNVPT1T",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 725,
+  "releaseDate": "2014-10-14T00:00:00.0000000Z",
+  "shortDescription": "Developed by Shinji Mikami, The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments and an intricate story are combined to create an immersive world that will bring you to the height of tension. With limited resources at your disposal, you’ll fight for survival in this perfect blend of horror and action.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B1FMBBR19MQR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "03/11/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9R1LFQ8HQ2WV",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B18FSB2Z9KCK",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9RXLTJZGQMJF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "03/11/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "The Evil Within",
+  "xCloudProperties": {
+    "xCloudId": "THEEVILWITHIN",
+    "xboxTitleId": 144439061,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEEVILWITHIN",
+    "xboxTitleId": 144439061,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

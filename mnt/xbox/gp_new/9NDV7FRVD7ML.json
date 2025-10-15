@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 17,
+    "specific_id": 17,
+    "title": "Fallout Tactics: Brotherhood of Steel",
+    "store_title": "Fallout Tactics",
+    "pid": "9NDV7FRVD7ML",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDV7FRVD7ML"
+      ]
+    ],
+    "original_release_date": "2001-03-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "14\u00b0 East"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 17,
+      "name": "Fallout Tactics: Brotherhood of Steel",
+      "url": "https://www.igdb.com/games/fallout-tactics-brotherhood-of-steel",
+      "publishers": [
+        "14 Degrees East",
+        "Bethesda Softworks",
+        "Interplay Entertainment"
+      ],
+      "developers": [
+        "Micro Fort\u00e9"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

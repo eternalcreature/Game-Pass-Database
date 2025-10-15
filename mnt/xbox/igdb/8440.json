@@ -1,0 +1,78 @@
+{
+  "id": 8440,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 27136,
+      "company": {
+        "id": 7057,
+        "name": "Ty Taylor & Mario Castañeda"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 134339,
+      "company": {
+        "id": 7058,
+        "name": "The Quantum Astrophysicists Guild"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 134338,
+      "company": {
+        "id": 7058,
+        "name": "The Quantum Astrophysicists Guild"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "The Bridge",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-bridge"
+}

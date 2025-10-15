@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 36662,
+    "specific_id": 23161,
+    "title": "Need for Speed: Payback",
+    "store_title": "Need for Speed\u2122 Payback - Deluxe Edition",
+    "pid": "9P00J6DXK9LX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C355T88BBX1S"
+    ],
+    "sku_groups": [
+      [
+        "9P00J6DXK9LX"
+      ],
+      [
+        "C355T88BBX1S"
+      ]
+    ],
+    "original_release_date": "2017-11-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Ghost Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36662,
+      "name": "Need for Speed: Payback",
+      "url": "https://www.igdb.com/games/need-for-speed-payback",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Ghost Games"
+      ],
+      "genres": [
+        "Racing",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 36662,
+      "name": "Need for Speed: Payback",
+      "url": "https://www.igdb.com/games/need-for-speed-payback",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Ghost Games"
+      ],
+      "genres": [
+        "Racing",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,168 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 0,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 10
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Strategy",
+    "Family & kids",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol And Tobacco Reference",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Welcome to the dawn of the Industrial Age. Experience one of the most exciting and fast-changing periods of all time in a rich city-building experience.\n\nDiscover new technologies, continents, and societies. The strategy you choose will define your world.\n\nPlay solo, PvP, or co-op. How the world remembers your name is up to you.\n\nTHE DAWN OF A NEW ERA: Prove your skills as you create huge cities, plan logistic networks, settle exotic new continents, send out expeditions around the globe, and dominate opponents by diplomacy, trade, or warfare.\n\nA CLASSIC ANNO EXPERIENCE: Includes a story-based campaign, customizable sandbox mode, and a classic Anno multiplayer experience.\n\nNEW FEATURES FOR A NEW AGE, such as expeditions across the globe to seek fame and fortune and a new workforce feature.\n\nTeam up with up to three friends to build the industrial empire of your dreams together in the co-op mode for Anno 1800™.",
+  "developerName": "BLUE BYTE",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "nakupcgce"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 64424509440,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P2KNSPZ9292",
+  "productKind": "Game",
+  "publisherName": "UBISOFT",
+  "ratingCount": 0,
+  "releaseDate": "2019-04-19T00:00:00.0000000Z",
+  "shortDescription": "Welcome to the dawn of the Industrial Age. Experience one of the most exciting & fast-changing periods of all time in a rich city-building experience.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TFTCNHZR1KN",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "05/01/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZJ3RVSP57MN",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QFDH94L7DST",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B4VHN6Z5DDRP",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "05/01/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Anno 1800™",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-05-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-05-01T16:00:00Z"
+    },
+    "nakupcgce": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,142 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Platformer",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Unto The End is a hand-crafted cinematic platformer about a desperate journey home. Master combat through improvisation and observation in intense sword fights. Spot opportunities to use artifacts and trade supplies. An adventure told through your actions, how will you make it home?\r\n\r\nFeatures: \r\n\r\nRead-React Combat: One of a kind combat system focused on skill and mastery, designed and built from the ground up specifically for 2D. Fight intelligently and strike tactically with your sword and range weapons in fierce one-on-one and group battles\r\n\r\nHandcrafted Nuanced Encounters: The adventure unfolds through carefully crafted encounters, each featuring intelligent, worthy opponents, all with their own motivations and place in the world\r\n\r\nPlayer-Skill Focused: A challenging single-player experience with minimal handholding. All the father's abilities are available from the outset and mastery of those skills, as well as keen observation of your surroundings, are key to survival and success\r\n\r\nUnforgiving Terrain: From cavernous underground ruins to harsh mountain peaks, overcome environmental challenges and deadly traps as you travel through a world of meticulously crafted landscapes",
+  "developerName": "2 Ton Studios / Stage Clear Studios",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2469359616,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MVJ0W5N2L2Q",
+  "productKind": "Game",
+  "publisherName": "Big Sugar Games",
+  "ratingCount": 229,
+  "releaseDate": "2020-12-09T00:00:00.0000000Z",
+  "shortDescription": "Unto The End is a challenging combat adventure game in the style of a cinematic platformer. The story is simple: get home to your family. Master read-react combat in intense sword fights. Spot opportunities to trade and use items. An adventure told through your actions, how will you make it home?\r\n",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4Z1JPT6H79P",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XXL9RV6WNCL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Unto The End",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-12-09T00:00:00Z",
+      "exitDateUTC": "2021-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-12-09T00:00:00Z",
+      "exitDateUTC": "2021-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-12-09T00:00:00Z",
+      "exitDateUTC": "2021-12-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "UNTOTHEEND",
+    "xboxTitleId": 2026577202,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

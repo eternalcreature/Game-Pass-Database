@@ -1,0 +1,54 @@
+{
+  "id": 329132,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 304587,
+      "company": {
+        "id": 769,
+        "name": "Team NINJA"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 304589,
+      "company": {
+        "id": 18532,
+        "name": "Koei Tecmo"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Ninja Gaiden II Black",
+  "parent_game": 6782,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/ninja-gaiden-ii-black"
+}

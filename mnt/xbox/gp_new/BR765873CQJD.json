@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 1942,
+    "specific_id": 1942,
+    "title": "The Witcher 3: Wild Hunt",
+    "store_title": "The Witcher 3: Wild Hunt",
+    "pid": "BR765873CQJD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR765873CQJD"
+      ]
+    ],
+    "original_release_date": "2015-05-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "CD PROJEKT S.A.",
+    "developer": "CD PROJEKT RED"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1942,
+      "name": "The Witcher 3: Wild Hunt",
+      "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt",
+      "publishers": [
+        "Bandai Namco Entertainment",
+        "Spike Chunsoft",
+        "WB Games",
+        "cdp.pl"
+      ],
+      "developers": [
+        "CD Projekt RED"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

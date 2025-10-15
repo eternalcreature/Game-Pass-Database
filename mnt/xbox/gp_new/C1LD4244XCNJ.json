@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 54996,
+    "specific_id": 54996,
+    "title": "Jurassic World Evolution",
+    "store_title": "Jurassic World Evolution",
+    "pid": "C1LD4244XCNJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1LD4244XCNJ"
+      ]
+    ],
+    "original_release_date": "2018-06-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-02-15",
+        "removed": "2022-07-01"
+      },
+      "Ultimate": {
+        "added": "2022-02-15",
+        "removed": "2022-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Frontier Developments",
+    "developer": "Frontier Developments"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 54996,
+      "name": "Jurassic World Evolution",
+      "url": "https://www.igdb.com/games/jurassic-world-evolution",
+      "publishers": [
+        "Frontier Developments",
+        "Universal Pictures"
+      ],
+      "developers": [
+        "Frontier Developments"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

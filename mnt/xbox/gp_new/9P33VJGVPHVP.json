@@ -1,0 +1,114 @@
+{
+  "basic_info": {
+    "base_id": 250509,
+    "specific_id": 250509,
+    "title": "Ark: Survival Ascended",
+    "store_title": "ARK: Survival Ascended",
+    "pid": "9P33VJGVPHVP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P33VJGVPHVP"
+      ]
+    ],
+    "original_release_date": "2023-11-30",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-04-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-70)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "Studio Wildcard",
+    "developer": "Studio Wildcard, Grove Street Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 250509,
+      "name": "Ark: Survival Ascended",
+      "url": "https://www.igdb.com/games/ark-survival-ascended",
+      "publishers": [
+        "Studio Wildcard"
+      ],
+      "developers": [
+        "Studio Wildcard"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

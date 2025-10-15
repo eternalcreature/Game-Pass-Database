@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 152267,
+    "specific_id": 152267,
+    "title": "Tinykin",
+    "store_title": "Tinykin",
+    "pid": "9NLLP82XVSKH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLLP82XVSKH"
+      ]
+    ],
+    "original_release_date": "2022-08-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      },
+      "Console": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Splashteam"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152267,
+      "name": "Tinykin",
+      "url": "https://www.igdb.com/games/tinykin",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Splashteam"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

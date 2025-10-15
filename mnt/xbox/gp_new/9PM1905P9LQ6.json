@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 152288,
+    "specific_id": 152288,
+    "title": "Immortality",
+    "store_title": "Immortality",
+    "pid": "9PM1905P9LQ6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PM1905P9LQ6"
+      ]
+    ],
+    "original_release_date": "2022-08-30",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      },
+      "Console": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Half Mermaid Productions",
+    "developer": "Half Mermaid Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152288,
+      "name": "Immortality",
+      "url": "https://www.igdb.com/games/immortality",
+      "publishers": [
+        "Half Mermaid"
+      ],
+      "developers": [
+        "Half Mermaid",
+        "Sam Barlow"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

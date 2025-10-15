@@ -1,0 +1,59 @@
+{
+  "id": 115473,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 146590,
+      "company": {
+        "id": 18107,
+        "name": "The Wandering Band"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 156115,
+      "company": {
+        "id": 28837,
+        "name": "Freedom Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Airborne Kingdom",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "url": "https://www.igdb.com/games/airborne-kingdom"
+}

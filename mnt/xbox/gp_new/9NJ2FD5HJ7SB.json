@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 26196,
+    "specific_id": 26196,
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "store_title": "Crash Bandicoot\u2122 N. Sane Trilogy",
+    "pid": "9NJ2FD5HJ7SB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C27XPR5XDMFT"
+    ],
+    "sku_groups": [
+      [
+        "9NJ2FD5HJ7SB"
+      ],
+      [
+        "C27XPR5XDMFT"
+      ]
+    ],
+    "original_release_date": "2017-06-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-08-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-08-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26196,
+      "name": "Crash Bandicoot N. Sane Trilogy",
+      "url": "https://www.igdb.com/games/crash-bandicoot-n-sane-trilogy",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Vicarious Visions"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 3471,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 193176,
+      "company": {
+        "id": 4111,
+        "name": "Midway Studios San Diego"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 193177,
+      "company": {
+        "id": 1783,
+        "name": "Midway Home Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Doom 64",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/doom-64"
+}

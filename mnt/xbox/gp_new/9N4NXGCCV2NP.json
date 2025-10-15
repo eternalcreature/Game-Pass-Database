@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 143615,
+    "specific_id": 143615,
+    "title": "Knockout City",
+    "store_title": "Knockout City\u2122",
+    "pid": "9N4NXGCCV2NP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N05CV7HCQZ0"
+    ],
+    "sku_groups": [
+      [
+        "9N05CV7HCQZ0"
+      ],
+      [
+        "9N4NXGCCV2NP"
+      ]
+    ],
+    "original_release_date": "2021-05-21",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Fighting",
+      "Shooter",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Velan Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143615,
+      "name": "Knockout City",
+      "url": "https://www.igdb.com/games/knockout-city",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Velan Studios"
+      ],
+      "genres": [
+        "Fighting",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

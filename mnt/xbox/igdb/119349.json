@@ -1,0 +1,79 @@
+{
+  "id": 119349,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 104913,
+      "company": {
+        "id": 20498,
+        "name": "SYCK"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 125854,
+      "company": {
+        "id": 20497,
+        "name": "Dreams Uncorporated"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 125857,
+      "company": {
+        "id": 14755,
+        "name": "Modus Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 301408,
+      "company": {
+        "id": 53109,
+        "name": "Maximum Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Cris Tales",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/cris-tales"
+}

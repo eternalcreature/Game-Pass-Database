@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 7385,
+    "specific_id": 7385,
+    "title": "Ninja Gaiden Sigma 2",
+    "store_title": "NINJA GAIDEN \u03a32",
+    "pid": "9PGSC3PW4N8Z",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGSC3PW4N8Z"
+      ]
+    ],
+    "original_release_date": "2009-09-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "PC": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": "KOEI TECMO GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7385,
+      "name": "Ninja Gaiden Sigma 2",
+      "url": "https://www.igdb.com/games/ninja-gaiden-sigma-2",
+      "publishers": [
+        "Koei Tecmo Games"
+      ],
+      "developers": [
+        "Team NINJA"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

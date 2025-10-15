@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 102060,
+    "specific_id": 102060,
+    "title": "Imperator: Rome",
+    "store_title": "Imperator: Rome",
+    "pid": "9NBS8BB3M72N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBS8BB3M72N"
+      ]
+    ],
+    "original_release_date": "2019-04-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer ",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Paradox Development Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 102060,
+      "name": "Imperator: Rome",
+      "url": "https://www.igdb.com/games/imperator-rome",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

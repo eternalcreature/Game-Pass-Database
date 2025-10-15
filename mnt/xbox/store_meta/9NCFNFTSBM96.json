@@ -1,0 +1,142 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "As members of a family of lore-hunting mystics, you and your cousin Luridia separately wander the land following rumors of occult power. After discovering a demonic pit in a nearby village, Luridia’s once prolific letters grow silent.\r\n\r\nSomething has gone terribly wrong.\r\n\r\nNow it is up to you to journey to the desolate hamlet under dark eldritch skies. What did Luridia discover? And what great power has this village unearthed?",
+  "developerName": " Nullpointer Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2377748480,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NCFNFTSBM96",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 232,
+  "releaseDate": "2021-10-19T16:00:00.0000000Z",
+  "shortDescription": "A fast-paced retro-FPS roguelite! As a member of a family of lore-hunting mystics you are summoned to a cursed village, drawn by rumors of a demonic portal. Dark magics have overwhelmed the village, It's up to you to rescue the survivors, grow your powers, and journey forth INTO THE PIT.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9N1CJ22W71WL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TH46RGJ1XFZ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Into the Pit",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-10-19T16:00:00Z",
+      "exitDateUTC": "2022-10-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-10-19T16:00:00Z",
+      "exitDateUTC": "2022-10-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-10-19T16:00:00Z",
+      "exitDateUTC": "2022-10-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "INTOTHEPIT",
+    "xboxTitleId": 1797613403,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

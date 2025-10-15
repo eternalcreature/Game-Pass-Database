@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 27891,
+    "specific_id": 27891,
+    "title": "SimCity 4: Deluxe Edition",
+    "store_title": "SimCity\u2122 4 Deluxe Edition",
+    "pid": "9NGDQGHWZX13",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGDQGHWZX13"
+      ]
+    ],
+    "original_release_date": "2003-01-12",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27891,
+      "name": "SimCity 4: Deluxe Edition",
+      "url": "https://www.igdb.com/games/simcity-4-deluxe-edition",
+      "publishers": [
+        "Aspyr Media",
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

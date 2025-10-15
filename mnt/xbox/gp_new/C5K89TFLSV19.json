@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 59,
+    "specific_id": 59,
+    "title": "The Elder Scrolls IV: Oblivion",
+    "store_title": "The Elder Scrolls IV: Oblivion",
+    "pid": "C5K89TFLSV19",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P2J5D12GJL5"
+    ],
+    "sku_groups": [
+      [
+        "9P2J5D12GJL5"
+      ],
+      [
+        "C5K89TFLSV19"
+      ]
+    ],
+    "original_release_date": "2006-03-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 59,
+      "name": "The Elder Scrolls IV: Oblivion",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-iv-oblivion",
+      "publishers": [
+        "2K Games",
+        "Bethesda Softworks",
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 312870,
+    "specific_id": 312870,
+    "title": "He is Coming",
+    "store_title": "He is Coming (Game Preview)",
+    "pid": "9N86QX607TMR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N86QX607TMR"
+      ]
+    ],
+    "original_release_date": "2025-07-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy",
+      "Role playing"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "Chronocle"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 312870,
+      "name": "He is Coming",
+      "url": "https://www.igdb.com/games/he-is-coming",
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "developers": [
+        "Chronocle"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

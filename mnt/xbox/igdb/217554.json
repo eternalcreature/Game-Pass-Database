@@ -1,0 +1,66 @@
+{
+  "id": 217554,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 336122,
+      "company": {
+        "id": 1383,
+        "name": "ACQUIRE Corp."
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 336124,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 336125,
+      "company": {
+        "id": 52310,
+        "name": "Square Enix Creative Business Unit II"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Octopath Traveler II",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/octopath-traveler-ii"
+}

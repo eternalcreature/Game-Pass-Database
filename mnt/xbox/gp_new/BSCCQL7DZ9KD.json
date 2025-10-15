@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 3751,
+    "specific_id": 3751,
+    "title": "Peggle",
+    "store_title": "Peggle",
+    "pid": "BSCCQL7DZ9KD",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVPD3Z5N4QL"
+    ],
+    "sku_groups": [
+      [
+        "9MVPD3Z5N4QL"
+      ],
+      [
+        "BSCCQL7DZ9KD"
+      ]
+    ],
+    "original_release_date": "2007-04-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "PopCap Games, Inc.",
+    "developer": "PopCap Games, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3751,
+      "name": "Peggle",
+      "url": "https://www.igdb.com/games/peggle",
+      "publishers": [
+        "Magmic",
+        "PopCap Games",
+        "Sony Online Entertainment"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

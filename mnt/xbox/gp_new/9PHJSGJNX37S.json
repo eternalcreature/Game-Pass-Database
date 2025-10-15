@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 89326,
+    "specific_id": 89326,
+    "title": "Breathedge",
+    "store_title": "Breathedge",
+    "pid": "9PHJSGJNX37S",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NR7LV9PB9SD"
+    ],
+    "sku_groups": [
+      [
+        "9NR7LV9PB9SD"
+      ],
+      [
+        "9PHJSGJNX37S"
+      ]
+    ],
+    "original_release_date": "2018-09-13",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-09",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-09",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "HypeTrain Digital\u202c",
+    "developer": "RedRuins Softworks"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 89326,
+      "name": "Breathedge",
+      "url": "https://www.igdb.com/games/breathedge",
+      "publishers": [
+        "HypeTrain Digital"
+      ],
+      "developers": [
+        "RedRuins Softworks"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

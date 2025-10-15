@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 286,
+    "specific_id": 286,
+    "title": "Quake II",
+    "store_title": "Quake II",
+    "pid": "9P7L9H478GGV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7L9H478GGV"
+      ]
+    ],
+    "original_release_date": "1997-12-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-08-10",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-08-10",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-08-10",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software, Nightdive Studios, MachineGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 286,
+      "name": "Quake II",
+      "url": "https://www.igdb.com/games/quake-ii",
+      "publishers": [
+        "Activision",
+        "Hyperion Entertainment",
+        "Macmillan Digital Publishing",
+        "TecToy"
+      ],
+      "developers": [
+        "Hammerhead",
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

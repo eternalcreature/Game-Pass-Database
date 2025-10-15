@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 14172,
+    "specific_id": 14172,
+    "title": "Everspace",
+    "store_title": "EVERSPACE\u2122",
+    "pid": "9NBLGGH4SF90",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLGGH4SF90"
+      ]
+    ],
+    "original_release_date": "2016-09-14",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "ROCKFISH Games",
+    "developer": "ROCKFISH Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14172,
+      "name": "Everspace",
+      "url": "https://www.igdb.com/games/everspace",
+      "publishers": [
+        "ROCKFISH Games"
+      ],
+      "developers": [
+        "ROCKFISH Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

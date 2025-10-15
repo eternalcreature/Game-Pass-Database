@@ -1,0 +1,60 @@
+{
+  "id": 146112,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 143093,
+      "company": {
+        "id": 1527,
+        "name": "Giants Software"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Farming Simulator 22",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 28,
+      "name": "Business"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/farming-simulator-22"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 135400,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    },
+    {
+      "id": 5,
+      "name": "Massively Multiplayer Online (MMO)"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 276859,
+      "company": {
+        "id": 58,
+        "name": "Mojang Studios"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Minecraft",
+  "parent_game": 121,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    },
+    {
+      "id": 41,
+      "name": "4X (explore, expand, exploit, and exterminate)"
+    }
+  ],
+  "url": "https://www.igdb.com/games/minecraft--1"
+}

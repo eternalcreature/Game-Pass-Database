@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 5793,
+    "specific_id": 5793,
+    "title": "Crimson Skies: High Road to Revenge",
+    "store_title": "Crimson Skies\u00ae: High Road to Revenge\u2122",
+    "pid": "C4B8XR1LCXR5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C4B8XR1LCXR5"
+      ]
+    ],
+    "original_release_date": "2003-10-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-07-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-07-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Microsoft Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5793,
+      "name": "Crimson Skies: High Road to Revenge",
+      "url": "https://www.igdb.com/games/crimson-skies-high-road-to-revenge",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "FASA Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

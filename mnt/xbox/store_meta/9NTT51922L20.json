@@ -1,0 +1,124 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Earn World Glory At The Pinnacle Of Cricket!\r\n\r\nLead your team to international glory with Cricket 19. The truly global cricket simulation from Big Ant Studios, the leading name in authentic, realistic cricket action, Cricket 19 allows you to take control of your team, from club through national level, and lead them to T20, ODI, or Test Match glory. \r\n\r\nCreate your own club, stadia, sponsor logos and uniforms via Big Ant’s acclaimed Cricket Academy to recreate your local matches and dramas! \r\n\r\nDive into the deepest, story-driven career mode in the history of cricket video games. Build a rookie player’s career from their junior years at club cricket. Perform well and before you know it, you’ll be leading your nation on to the field.\r\n\r\nKey features include:\r\nDeep player, stadia, logo and scenario creator.\r\nFull support for all formats of cricket - T20, ODI and Test Match.\r\nReal world AI and tactics.\r\nDozens of teams to choose between.",
+  "developerName": "Big Ant Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 22695624704,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NTT51922L20",
+  "productKind": "Game",
+  "publisherName": "Big Ant Studios",
+  "ratingCount": 141,
+  "releaseDate": "2019-05-28T04:00:00.0000000Z",
+  "shortDescription": "Lead your team to international glory with Cricket 19. The truly global cricket simulation from Big Ant Studios, the leading name in authentic, realistic cricket action, Cricket 19 allows you to take control of your team, from club through national level, and lead them to T20, ODI, or Test Match glory. ",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B47JLKZX4SR7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 20.99,
+        "msrp": 20.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B38XQKSXB6TJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 20.99,
+        "msrp": 20.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Cricket 19",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-09-01T00:00:00Z",
+      "exitDateUTC": "2022-05-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-09-01T00:00:00Z",
+      "exitDateUTC": "2022-05-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 267306,
+    "specific_id": 267306,
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "store_title": "The Elder Scrolls IV: Oblivion Remastered",
+    "pid": "9NQR437K7PQH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NQR437K7PQH"
+      ]
+    ],
+    "original_release_date": "2025-04-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-22",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios, Virtuos"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 267306,
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-iv-oblivion-remastered",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Virtuos"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

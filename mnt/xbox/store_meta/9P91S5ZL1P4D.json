@@ -1,0 +1,140 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Single stick gameplay",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Large text",
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "A turn based-tactical RPG about a group of troublesome magic students. Use timing mechanics to power your spells and block attacks, explore the twisted halls of a vast magic school, fight challenging monsters and bosses, find tons of hidden treasure, and uncover dark secrets never meant to be found.\r\n\r\nFeatures:\r\n- A heartwarming and twist-filled story about friendship, trust, love and loss\r\n- 3 students in battle, from a total of 6, each with unique powers and strengths\r\n- 48 unique spells: blast your enemies, knock them back, poison them, or heal and buff your allies. There is no \"MP\"... spells are about skill and strategy! Each with its own timing to master\r\n- 100+ enemies to battle: spirits, myths, monsters... even students and teachers! Learn their tricks and traps, and master the timing of their attacks to overcome them\r\n- 22 challenging bosses who will push your strategy and timing to the limit\r\n- Hundreds of items to discover: wands, hats, cloaks, rings, and magical artifacts. Secret treasure is hidden everywhere, and every item you find helps you fight against the powers threatening you.\r\n- Explore a vast school of magic: the dorms, alchemy labs, astronomy tower, twilight yard, and a dozen more mysterious and magical locations\r\n- Beautiful soundtrack from the composers behind Steven Universe\r\n- Cats. Everywhere.",
+  "developerName": "Happy Ray Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 391712768,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P91S5ZL1P4D",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 209,
+  "releaseDate": "2020-10-08T00:00:00.0000000Z",
+  "shortDescription": "A turn based-tactical RPG about a group of troublesome magic students. Use timing mechanics to power your spells and block attacks, explore the twisted halls of a vast magic school, fight challenging monsters and bosses, find tons of hidden treasure, and uncover dark secrets never meant to be found.\r\n",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4GKBNNTTR8K",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RCBQSRMGDCP",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Ikenfell",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-10-08T00:00:00Z",
+      "exitDateUTC": "2021-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-10-08T00:00:00Z",
+      "exitDateUTC": "2021-10-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

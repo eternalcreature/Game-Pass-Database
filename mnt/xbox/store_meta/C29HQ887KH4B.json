@@ -1,0 +1,163 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.7,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Sexual Themes",
+      "Use of Drugs",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "This game supports English. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Fallout 3 includes an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters. Every minute is a fight for survival against the terrors of the outside world – radiation, Super Mutants, and hostile mutated creatures. From Vault-Tec®, America’s First Choice in Post-Nuclear Simulation™. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+  "developerName": "Bethesda Game Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 6580285440,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C29HQ887KH4B",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 979,
+  "releaseDate": "2010-03-02T00:00:00.0000000Z",
+  "shortDescription": "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Fallout 3 includes an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters. Every minute is a fight for survival against the terrors of the outside world – radiation, Super Mutants, and hostile mutated creatures.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9XCGW42C7STC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/20/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B2DV14GRBX12",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Fallout 3",
+  "xCloudProperties": {
+    "xCloudId": "FALLOUT3",
+    "xboxTitleId": 1231228627,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-06-13T19:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-06-13T19:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "FALLOUT3",
+    "xboxTitleId": 1231228627,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

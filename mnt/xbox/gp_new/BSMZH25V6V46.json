@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "base_id": 16992,
+    "specific_id": 16992,
+    "title": "Human: Fall Flat",
+    "store_title": "Human Fall Flat",
+    "pid": "BSMZH25V6V46",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BSMZH25V6V46"
+      ]
+    ],
+    "original_release_date": "2016-07-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-07-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2018-07-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-05-27",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op",
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Curve Games",
+    "developer": "No Brakes Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16992,
+      "name": "Human: Fall Flat",
+      "url": "https://www.igdb.com/games/human-fall-flat",
+      "publishers": [
+        "Curve Digital"
+      ],
+      "developers": [
+        "No Brakes Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

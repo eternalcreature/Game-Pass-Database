@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 96394,
+    "specific_id": 96394,
+    "title": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+    "store_title": "Record of Lodoss War-Deedlit in Wonder Labyrinth-",
+    "pid": "9NRBH9HS807L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NRBH9HS807L"
+      ]
+    ],
+    "original_release_date": "2020-03-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Console": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Role playing"
+    ],
+    "publisher": "PLAYISM",
+    "developer": "Team Ladybug, WSS Playground"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 96394,
+      "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
+      "url": "https://www.igdb.com/games/record-of-lodoss-war-deedlit-in-wonder-labyrinth",
+      "publishers": [
+        "PLAYISM",
+        "WSS playground"
+      ],
+      "developers": [
+        "Team Ladybug"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 302156,
+    "specific_id": 302156,
+    "title": "Call of Duty: Black Ops 6",
+    "store_title": "Call of Duty\u00ae: Black Ops 6 - Cross-Gen Bundle",
+    "pid": "9PF528M6CRHQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PNCL2R6G8D0"
+    ],
+    "sku_groups": [
+      [
+        "9PF528M6CRHQ"
+      ],
+      [
+        "9PNCL2R6G8D0"
+      ]
+    ],
+    "original_release_date": "2024-10-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-11-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 302156,
+      "name": "Call of Duty: Black Ops 6",
+      "url": "https://www.igdb.com/games/call-of-duty-black-ops-6",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Raven Software",
+        "Treyarch"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

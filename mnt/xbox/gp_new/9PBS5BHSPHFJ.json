@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 228334,
+    "specific_id": 228334,
+    "title": "Soul Hackers 2",
+    "store_title": "Soul Hackers 2",
+    "pid": "9PBS5BHSPHFJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PBS5BHSPHFJ"
+      ]
+    ],
+    "original_release_date": "2022-08-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-02-28",
+        "removed": "2024-03-01"
+      },
+      "Ultimate": {
+        "added": "2023-02-28",
+        "removed": "2024-03-01"
+      },
+      "Console": {
+        "added": "2023-02-28",
+        "removed": "2024-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 228334,
+      "name": "Soul Hackers 2",
+      "url": "https://www.igdb.com/games/soul-hackers-2--1",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

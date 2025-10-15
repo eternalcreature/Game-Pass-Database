@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "base_id": 138950,
+    "specific_id": 138950,
+    "title": "Monster Hunter Rise",
+    "store_title": "Monster Hunter Rise",
+    "pid": "9N1VP8WDQK4D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N1VP8WDQK4D"
+      ]
+    ],
+    "original_release_date": "2021-03-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-01-20",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2023-01-20",
+        "removed": "2025-04-01"
+      },
+      "Console": {
+        "added": "2023-01-20",
+        "removed": "2025-04-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 138950,
+      "name": "Monster Hunter Rise",
+      "url": "https://www.igdb.com/games/monster-hunter-rise",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Development Division 2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

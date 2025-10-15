@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 2112,
+    "specific_id": 2112,
+    "title": "Mirror's Edge Catalyst",
+    "store_title": "Mirror's Edge\u2122 Catalyst",
+    "pid": "C48LBRJJCP2L",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PJPZ1DQD0WM"
+    ],
+    "sku_groups": [
+      [
+        "9PJPZ1DQD0WM"
+      ],
+      [
+        "C48LBRJJCP2L"
+      ]
+    ],
+    "original_release_date": "2016-06-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledX": "FPS Boost Series X"
+    },
+    "categories": [
+      "Other"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2112,
+      "name": "Mirror's Edge Catalyst",
+      "url": "https://www.igdb.com/games/mirrors-edge-catalyst",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

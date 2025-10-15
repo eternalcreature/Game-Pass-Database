@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 4179,
+    "specific_id": 4179,
+    "title": "SSX",
+    "store_title": "SSX",
+    "pid": "BWK0Q0RQMH7V",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWK0Q0RQMH7V"
+      ]
+    ],
+    "original_release_date": "2012-02-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "EA SPORTS",
+    "developer": "Electronic Arts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4179,
+      "name": "SSX",
+      "url": "https://www.igdb.com/games/ssx--1",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Canada"
+      ],
+      "genres": [
+        "Racing",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

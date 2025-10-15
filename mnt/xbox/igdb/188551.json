@@ -1,0 +1,51 @@
+{
+  "id": 188551,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 7,
+      "name": "Music"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 162928,
+      "company": {
+        "id": 8381,
+        "name": "Bandai Namco Amusement"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 194638,
+      "company": {
+        "id": 248,
+        "name": "Bandai Namco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Taiko no Tatsujin: The Drum Master!",
+  "themes": [
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/taiko-no-tatsujin-the-drum-master"
+}

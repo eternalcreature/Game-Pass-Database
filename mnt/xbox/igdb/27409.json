@@ -1,0 +1,73 @@
+{
+  "id": 27409,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 120076,
+      "company": {
+        "id": 16437,
+        "name": "Team17"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 120075,
+      "company": {
+        "id": 13928,
+        "name": "Studio Koba"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Narita Boy",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/narita-boy"
+}

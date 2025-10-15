@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 252835,
+    "specific_id": 252835,
+    "title": "Kunitsu-Gami: Path of the Goddess",
+    "store_title": "Kunitsu-Gami: Path of the Goddess",
+    "pid": "9PCWXX0MS15S",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCWXX0MS15S"
+      ]
+    ],
+    "original_release_date": "2024-07-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-19",
+        "removed": "2025-08-01"
+      },
+      "Ultimate": {
+        "added": "2024-07-19",
+        "removed": "2025-08-01"
+      },
+      "PC": {
+        "added": "2024-07-19",
+        "removed": "2025-08-01"
+      },
+      "Premium": {
+        "added": "2025-01-22",
+        "removed": "2025-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252835,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "url": "https://www.igdb.com/games/kunitsu-gami-path-of-the-goddess",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom"
+      ],
+      "genres": [
+        "Strategy",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

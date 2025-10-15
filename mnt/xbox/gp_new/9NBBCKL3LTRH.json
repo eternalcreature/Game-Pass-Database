@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 146112,
+    "specific_id": 146112,
+    "title": "Farming Simulator 22",
+    "store_title": "Farming Simulator 22 PC",
+    "pid": "9NBBCKL3LTRH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P6SRW1HVW9K"
+    ],
+    "sku_groups": [
+      [
+        "9NBBCKL3LTRH"
+      ],
+      [
+        "9P6SRW1HVW9K"
+      ]
+    ],
+    "original_release_date": "2021-11-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-19",
+        "removed": "2025-08-16"
+      },
+      "Ultimate": {
+        "added": "2022-05-19",
+        "removed": "2025-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-16)",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "GIANTS Software GmbH",
+    "developer": "GIANTS Software GmbH"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146112,
+      "name": "Farming Simulator 22",
+      "url": "https://www.igdb.com/games/farming-simulator-22",
+      "publishers": [
+        "Giants Software"
+      ],
+      "developers": [
+        "Giants Software"
+      ],
+      "genres": [
+        "Simulator"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,114 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Bad North is a charming but brutal real-time tactics roguelite. Defend your idyllic island kingdom against a horde of Viking invaders, as you lead the desperate exodus of your people. Command your loyal subjects to take full tactical advantage of the unique shape of each island. Everything is at stake: fail, and watch the blood of your subjects stain the ground red.\r\n\r\nIt’s charmingly brutal, with beautiful procedurally-generated islands and adorable soldiers juxtaposed against the blood-stained realities of war. You control the broad strokes of the battle, giving high level commands to your soldiers who try their best to carry them out in the heat of the moment. It’s accessibly deep, with simple player inputs masking a dynamic combat simulation that make it inviting to new players while challenging veterans.\r\n\r\nKeep fighting, warriors. Not for power or riches or glory, but for hope of peace to come once again in the harsh lands of the Bad North.\r\n\r\nKey Features\r\n\r\nREAL-TIME TACTICS ROGUELITE: Position and relocate your troops to fend off the Vikings, who each have their own counters to the threats you pose. Pick your battles and plan your evacuations carefully! Lose a commander and they’re gone forever; lose everything, and it’s game over! \r\n\r\nINTELLIGENT UNIT CONTROLS: You command the broad strokes of your defenses and monitor positioning — your soldiers do the rest, navigating and engaging intuitively in response to the situation at hand.\r\n\r\nPROCEDURALLY-GENERATED ISLANDS: Each island is both stylistically charming and unique in its layout. Plan your strategies around every nook and cranny, for you only get one chance to save them from the enemy invasion.\r\n\r\nUNLOCKABLE UPGRADES: A stronger, smarter defense leads to greater rewards. Use these to develop your subjects from a ragtag militia into seasoned warriors.",
+  "developerName": "Plausible Concept",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 474226688,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BR47R4J78FH8",
+  "productKind": "Game",
+  "publisherName": "Raw Fury",
+  "ratingCount": 218,
+  "releaseDate": "2018-08-28T00:00:00.0000000Z",
+  "shortDescription": "Your home is under attack. The king is dead at the hands of Viking invaders. Hope is a distant glimmer in the fog, fading fast with every passing moment. As you rise to take your father’s place as ruler, it will fall to you to stage your defenses. But make no mistake – this is no fight for victory, but a desperate grasp for survival.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9Q6CPB4TRKMJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9PX37P4FSPZR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Bad North: Jotunn Edition",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 26970,
+    "specific_id": 26970,
+    "title": "Minit",
+    "store_title": "Minit",
+    "pid": "9PJR1F15JBX0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJR1F15JBX0"
+      ]
+    ],
+    "original_release_date": "2018-04-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26970,
+      "name": "Minit",
+      "url": "https://www.igdb.com/games/minit",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Dominik Johann",
+        "Jan Willem Nijman",
+        "Jukio Kallio",
+        "Kitty Calis"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

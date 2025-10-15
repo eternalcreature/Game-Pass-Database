@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 103316,
+    "specific_id": 103316,
+    "title": "Trials Rising",
+    "store_title": "Trials\u00ae Rising",
+    "pid": "BP6V6QZBMFP0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3F9256SF8K"
+    ],
+    "sku_groups": [
+      [
+        "9N3F9256SF8K"
+      ],
+      [
+        "BP6V6QZBMFP0"
+      ]
+    ],
+    "original_release_date": "2019-02-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft RedLynx, Ubisoft Kiev"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103316,
+      "name": "Trials Rising",
+      "url": "https://www.igdb.com/games/trials-rising",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "RedLynx"
+      ],
+      "genres": [
+        "Platform",
+        "Racing",
+        "Sport",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

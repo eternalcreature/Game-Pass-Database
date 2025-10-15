@@ -1,0 +1,61 @@
+{
+  "id": 141539,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 185459,
+      "company": {
+        "id": 11662,
+        "name": "Annapurna Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 214717,
+      "company": {
+        "id": 47242,
+        "name": "The Open Roads Team"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Open Roads",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/open-roads"
+}

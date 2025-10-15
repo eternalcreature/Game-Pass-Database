@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 1465,
+    "specific_id": 1465,
+    "title": "Perfect Dark Zero",
+    "store_title": "Perfect Dark Zero",
+    "pid": "BZF7N4FQWHNR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BX5M231L9ZTN"
+    ],
+    "sku_groups": [
+      [
+        "BX5M231L9ZTN",
+        "BZF7N4FQWHNR"
+      ]
+    ],
+    "original_release_date": "2006-06-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Rare Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1465,
+      "name": "Perfect Dark Zero",
+      "url": "https://www.igdb.com/games/perfect-dark-zero",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

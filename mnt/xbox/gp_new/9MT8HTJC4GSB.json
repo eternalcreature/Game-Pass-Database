@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "base_id": 120654,
+    "specific_id": 146166,
+    "title": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
+    "store_title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+    "pid": "9MT8HTJC4GSB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MT8HTJC4GSB"
+      ]
+    ],
+    "original_release_date": "2020-08-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-17",
+        "removed": "2023-04-16"
+      },
+      "Console": {
+        "added": "2022-03-17",
+        "removed": "2023-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Dear Villagers",
+    "developer": "Artefacts Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120654,
+      "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
+      "url": "https://www.igdb.com/games/the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+      "publishers": [
+        "Dear Villagers"
+      ],
+      "developers": [
+        "Artefacts Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 120654,
+      "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
+      "url": "https://www.igdb.com/games/the-dungeon-of-naheulbeuk-the-amulet-of-chaos",
+      "publishers": [
+        "Dear Villagers"
+      ],
+      "developers": [
+        "Artefacts Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

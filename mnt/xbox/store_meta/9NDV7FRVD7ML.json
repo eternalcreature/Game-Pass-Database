@@ -1,0 +1,167 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.6,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Tactical Squad-Based Combat comes to the Fallout® Universe!\r\n\r\nYou are the wretched refuse. You may be born from dirt, but we will forge you into steel. You will learn to bend; if not you, will you break. In these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.\r\n\r\nYour weapons will become more than your tools, they will become your friends. You will use your skills to inspire the lowly and protect the weak... whether they like it or not. Your squadmates will be more dear to you than your kin and for those that survive there will be honor, respect and the spoils of war.",
+  "developerName": "14° East",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 5107191808,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NDV7FRVD7ML",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 54,
+  "releaseDate": "2021-06-13T19:00:00.0000000Z",
+  "shortDescription": "Tactical Squad-Based Combat comes to the Fallout® Universe!\r\nIn these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SJTF9K2QQS2",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "06/13/2799 18:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B4H1WD8D3BDQ",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XWL31CGL38R",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z58M7SZ6TMC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "06/13/2799 18:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Fallout Tactics",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-06-13T19:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-06-13T19:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

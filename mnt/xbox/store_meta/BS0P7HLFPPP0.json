@@ -1,0 +1,165 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without rapid button presses",
+      "Single stick gameplay"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NLNZSXVZX1G"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Music"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Crude Humor",
+      "Fantasy Violence",
+      "Language",
+      "Mild Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "A musical action-adventure set in the recesses of the human mind... Welcome to the world of Figment. A strange and surreal world; a place filled with our deepest thoughts, urges and memories, populated by the many voices we hear in our heads. \r\n \r\nThis mind has been quiet and calm for many years. But something has changed. New thoughts have started to emerge - taking the shape of nightmarish creatures who spread fear wherever they go. The only hope is for the grumpy Dusty, the mind's former voice of courage, to get back to his old self and help the mind to face its fears. \r\n \r\nJoin Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind, solving puzzles to set things straight, beating back the nightmares and seeking to restore the courage that's been lost.",
+  "developerName": "Bedtime Digital Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1314484224,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BS0P7HLFPPP0",
+  "productKind": "Game",
+  "publisherName": "Bedtime Digital Games",
+  "ratingCount": 202,
+  "releaseDate": "2022-11-16T00:00:00.0000000Z",
+  "shortDescription": "Figment is an action-adventure game that invites you to explore a unique surreal universe filled with music, humor and multi layered narrative. Join Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind seeking to restore the courage that's been lost.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B4DNGFXJHB9H",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3CZHW5Q7MXF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Figment: Journey Into the Mind",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2024-01-09T00:00:00Z",
+      "exitDateUTC": "2025-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-01-09T00:00:00Z",
+      "exitDateUTC": "2025-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-01-09T00:00:00Z",
+      "exitDateUTC": "2025-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-01-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "FIGMENTJOURNEYINTOTHEMIND",
+    "xboxTitleId": 719720294,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

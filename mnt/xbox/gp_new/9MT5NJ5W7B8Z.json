@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 136625,
+    "specific_id": 136625,
+    "title": "Hogwarts Legacy",
+    "store_title": "Hogwarts Legacy",
+    "pid": "9MT5NJ5W7B8Z",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NK4NTBFWW81"
+    ],
+    "sku_groups": [
+      [
+        "9MT5NJ5W7B8Z"
+      ],
+      [
+        "9NK4NTBFWW81"
+      ]
+    ],
+    "original_release_date": "2023-02-10",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Avalanche Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 136625,
+      "name": "Hogwarts Legacy",
+      "url": "https://www.igdb.com/games/hogwarts-legacy",
+      "publishers": [
+        "Portkey Games"
+      ],
+      "developers": [
+        "Avalanche Software"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,139 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 2.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "\"In a world shredded by the devastating war against the Mechs, the remnants of humanity scavenge and fight to survive. Now, the metal war machines have reawakened—and only your electric guitar can turn their technology against them!\r\n\r\nGather up the party, tune up your favorite axe, and get ready to rock in Infinite Guitars, a genre-melting rhythm RPG featuring vibrant anime-inspired art, adrenaline-fueled Mech battles, and a blazing original soundtrack.\r\n\r\nRole-playing rhythm\r\nAmp up your skills and test your reflexes in rock duels that mix elements of turn-based role-playing, action, and rhythm games.\r\n\r\nElectrifying anime-inspired adventure\r\nExplore a stylish sci-fi world filled with Colossal-Type Mechs, guitar-wielding heroes, and over-the-top attacks.\r\n\r\nGuitar-driven team battles\r\nPerform metal-crushing solos and devastating duets as JJ, Sam, Kaylee, and Ru—a scrappy team of wastelanders with their own strengths and abilities.\r\n\r\nRage against the Mechs\r\nUnleash the full force of your skills in epic boss battles that fuse electrifying anime-inspired action and hyperkinetic rock.\r\n\r\nExplosive 100% original soundtrack\r\nCrank up the volume to steel-shattering levels for the ultimate showdown against the War Mechs!\"",
+  "developerName": "Nikko Nikko",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 4590383104,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PKV7B0XXPK4",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 216,
+  "releaseDate": "2023-03-30T16:00:00.0000000Z",
+  "shortDescription": "Fight mechs with metal-crushing rock in Infinite Guitars, a genre-melting Rhythm RPG featuring vibrant anime-inspired art and a blazing original soundtrack. Battle against war machines with electrifying Guitar Solos, and save the planet!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PTZJJ6XSC08",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XGK1J106H51",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Infinite Guitars",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-03-30T16:00:00Z",
+      "exitDateUTC": "2024-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-03-30T16:00:00Z",
+      "exitDateUTC": "2024-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-03-30T16:00:00Z",
+      "exitDateUTC": "2024-04-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "INFINITEGUITARS",
+    "xboxTitleId": 1817127941,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

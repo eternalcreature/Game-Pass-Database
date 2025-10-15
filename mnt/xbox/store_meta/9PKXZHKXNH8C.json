@@ -1,0 +1,120 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.9,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N527SN000V9"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "PcGamePad": "PC Game Pad"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Sexual Themes",
+      "Partial Nudity"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring.\r\n\r\nRecruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond. You'll battle not only unimaginable foes, but stress, famine, disease, and the ever-encroaching dark. Uncover strange mysteries, and pit the heroes against an array of fearsome monsters with an innovative strategic turn-based combat system.\r\n\r\nCan you stem the tide of eldritch horrors erupting across your family’s ancestral estate?\r\n\r\nDescend at your peril!",
+  "developerName": "Red Hook Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 2396221440,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PKXZHKXNH8C",
+  "productKind": "Game",
+  "publisherName": "Red Hook Studios",
+  "ratingCount": 195,
+  "releaseDate": "2021-06-10T00:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RM4SGDC9TXB",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NPW6KNTK8QL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Darkest Dungeon PC",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-02-02T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-02-02T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 151665,
+    "specific_id": 151665,
+    "title": "Palworld",
+    "store_title": "Palworld (Game Preview)",
+    "pid": "9NKV34XDW014",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NKV34XDW014"
+      ]
+    ],
+    "original_release_date": "2024-01-19",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-19",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-01-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Pocketpair",
+    "developer": "Pocketpair"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 151665,
+      "name": "Palworld",
+      "url": "https://www.igdb.com/games/palworld",
+      "publishers": [
+        "PocketPair"
+      ],
+      "developers": [
+        "PocketPair"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 110807,
+    "specific_id": 110807,
+    "title": "Observation",
+    "store_title": "Observation",
+    "pid": "9PBLH1322GX0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PBLH1322GX0"
+      ]
+    ],
+    "original_release_date": "2019-05-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-25",
+        "removed": "2021-06-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-25",
+        "removed": "2021-06-16"
+      },
+      "PC": {
+        "added": "2020-06-25",
+        "removed": "2021-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "No Code"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 110807,
+      "name": "Observation",
+      "url": "https://www.igdb.com/games/observation",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "No Code"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Science fiction",
+        "Horror",
+        "Thriller"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

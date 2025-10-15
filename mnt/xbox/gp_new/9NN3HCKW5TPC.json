@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 103291,
+    "specific_id": 103291,
+    "title": "Gears Tactics",
+    "store_title": "Gears Tactics",
+    "pid": "9NN3HCKW5TPC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NN3HCKW5TPC"
+      ]
+    ],
+    "original_release_date": "2020-04-28",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Splash Damage | The Coalition"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103291,
+      "name": "Gears Tactics",
+      "url": "https://www.igdb.com/games/gears-tactics",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Splash Damage"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

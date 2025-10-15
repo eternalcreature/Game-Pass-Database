@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 217635,
+    "specific_id": 217635,
+    "title": "Homestead Arcana",
+    "store_title": "Homestead Arcana",
+    "pid": "9N7THWLZZBWR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N7THWLZZBWR"
+      ]
+    ],
+    "original_release_date": "2023-04-21",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-04-21",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2023-04-21",
+        "removed": "2025-04-16"
+      },
+      "PC": {
+        "added": "2023-04-21",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Skybound Games",
+    "developer": "Serenity Forge"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217635,
+      "name": "Homestead Arcana",
+      "url": "https://www.igdb.com/games/homestead-arcana",
+      "publishers": [
+        "Skybound Games"
+      ],
+      "developers": [
+        "Serenity Forge"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Fantasy",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

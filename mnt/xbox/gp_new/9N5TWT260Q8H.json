@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 363,
+    "specific_id": 363,
+    "title": "Heroes of Might and Magic II: The Succession Wars",
+    "store_title": "Heroes of Might and Magic II - Gold Edition",
+    "pid": "9N5TWT260Q8H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5TWT260Q8H"
+      ]
+    ],
+    "original_release_date": "1998-12-31",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-10-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-09",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Strategy",
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "New World Computing"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 363,
+      "name": "Heroes of Might and Magic II: The Succession Wars",
+      "url": "https://www.igdb.com/games/heroes-of-might-and-magic-ii-the-succession-wars",
+      "publishers": [
+        "The 3DO Company"
+      ],
+      "developers": [
+        "New World Computing"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

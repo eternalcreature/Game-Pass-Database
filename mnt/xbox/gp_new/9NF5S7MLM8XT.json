@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 145937,
+    "specific_id": 145937,
+    "title": "Little Kitty, Big City",
+    "store_title": "Little Kitty, Big City",
+    "pid": "9NF5S7MLM8XT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NF5S7MLM8XT"
+      ]
+    ],
+    "original_release_date": "2024-05-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-05-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-05-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-11-20",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Simulation"
+    ],
+    "publisher": "Double Dagger Studio",
+    "developer": "Double Dagger Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145937,
+      "name": "Little Kitty, Big City",
+      "url": "https://www.igdb.com/games/little-kitty-big-city",
+      "publishers": [
+        "Double Dagger Studio"
+      ],
+      "developers": [
+        "Double Dagger Studio"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy",
+        "Kids",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

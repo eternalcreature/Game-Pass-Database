@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 24417,
+    "specific_id": 24417,
+    "title": "Eastward",
+    "store_title": "Eastward",
+    "pid": "9NSBX56ZNP7X",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NSBX56ZNP7X"
+      ]
+    ],
+    "original_release_date": "2021-12-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-12-01",
+        "removed": "2023-12-01"
+      },
+      "Ultimate": {
+        "added": "2022-12-01",
+        "removed": "2023-12-01"
+      },
+      "Console": {
+        "added": "2022-12-01",
+        "removed": "2023-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Chucklefish",
+    "developer": "Pixpil"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 24417,
+      "name": "Eastward",
+      "url": "https://www.igdb.com/games/eastward",
+      "publishers": [
+        "Chucklefish Games"
+      ],
+      "developers": [
+        "Pixpil Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 164994,
+    "specific_id": 164994,
+    "title": "Volcano Princess",
+    "store_title": "Volcano Princess",
+    "pid": "9PLNGNZVB1ZP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLNGNZVB1ZP"
+      ]
+    ],
+    "original_release_date": "2023-04-21",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-24",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Gamirror Games",
+    "developer": "\u517b\u86cb\u4eba Egg Hatcher"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 164994,
+      "name": "Volcano Princess",
+      "url": "https://www.igdb.com/games/volcano-princess",
+      "publishers": [
+        "Gamera Games"
+      ],
+      "developers": [
+        "Egg Hatcher"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Turn-based strategy (TBS)",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

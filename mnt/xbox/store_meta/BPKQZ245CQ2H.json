@@ -1,0 +1,106 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled"
+  },
+  "categories": [
+    "Action & adventure",
+    "Platformer"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Suggestive Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Momodora: Reverie Under the Moonlight explores a cursed land in decline. Evil spreads, the dead rise, and corruption reigns. Hope is but a faded memory for all but one, a priestess named Kaho from the village of Lun. An audience with her majesty, the queen, would surely save the land--but time is short and each night darker than the last.",
+  "developerName": "Bombservice",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 352952320,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BPKQZ245CQ2H",
+  "productKind": "Game",
+  "publisherName": "PLAYISM",
+  "ratingCount": 205,
+  "releaseDate": "2017-03-17T00:00:00.0000000Z",
+  "shortDescription": "Reverie Under the Moonlight is the fourth entry in the fan-beloved, 2D platformer series, Momodora. Combo and dodge your way through a cursed land to seek audience with the Queen and dispel the evil that threatens all life.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3S91ZT3CL6F",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9NWTNKS84RBS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Momodora: Reverie Under the Moonlight",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

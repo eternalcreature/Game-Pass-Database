@@ -1,0 +1,123 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Crude Humor",
+      "Cartoon Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Join the Chase! In LEGO® CITY Undercover, play as Chase McCain, a police officer who's been tasked with going undercover to hunt down the notorious – and recently escaped – criminal Rex Fury and putting an end to his city-wide crime wave. With two player co-op, friends can explore the sprawling open-world metropolis that is LEGO® City, with more than 20 unique districts to investigate, car thieves to bust, hilarious movie references to discover, vehicles to drive, and hundreds of collectibles. LEGO CITY Undercover brings together witty, original storytelling with signature LEGO humor to create a fun-filled experience for players of all ages to enjoy.",
+  "developerName": "TT Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 19469688832,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BS5RXLL3WQ2J",
+  "productKind": "Game",
+  "publisherName": "Warner Bros. Games",
+  "ratingCount": 234,
+  "releaseDate": "2017-04-04T00:00:00.0000000Z",
+  "shortDescription": "Join the Chase! In LEGO® CITY Undercover, play as Chase McCain, a police officer who's been tasked with going undercover to hunt down the notorious – and recently escaped – criminal Rex Fury and putting an end to his city-wide crime wave.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3R821N02G83",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9Q9CZJRT99BM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "LEGO® CITY Undercover",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "LEGOCITYUNDERCOVER",
+    "xboxTitleId": 668438210,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,123 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Racing & flying",
+    "Simulation",
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "With MotoGP™20, experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team and race together with the official riders or join a totally brand new team.\r\n\r\nDiscover more realistic physics, improved graphics, new 3D models of riders and face scans of official MotoGP™ team managers, plus new animations. Learn to manage gasoline and tire consumption.\r\n\r\nCustomize your bike and your suit! Find the best combination of sponsor and livery, and choose colors and materials. Coordinate everything to win in style!\r\n\r\nCompete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP™ history.\r\nChallenge your friends, create custom events and become the Race Director thanks to a brand new multiplayer experience supported by dedicated servers!",
+  "developerName": "Milestone S.r.l.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 21543063552,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N88HSBP6RJ8",
+  "productKind": "Game",
+  "publisherName": "Milestone S.r.l.",
+  "ratingCount": 96,
+  "releaseDate": "2020-12-17T00:00:00.0000000Z",
+  "shortDescription": "This year, experience all the thrills of the more-complete-than-ever Managerial Career mode and enjoy new technical improvements and graphics. Customize your bike and suit! Compete against the MotoGP™ legends or challenge your friends online!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WRKNQ9S4PBC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B3NS2J2JL397",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "MotoGP™20 - Windows Edition",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-12-17T00:00:00Z",
+      "exitDateUTC": "2022-07-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-12-17T00:00:00Z",
+      "exitDateUTC": "2022-07-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

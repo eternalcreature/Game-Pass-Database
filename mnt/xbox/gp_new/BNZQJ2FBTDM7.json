@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "base_id": 24869,
+    "specific_id": 24869,
+    "title": "Resident Evil",
+    "store_title": "Resident Evil",
+    "pid": "BNZQJ2FBTDM7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNZQJ2FBTDM7"
+      ]
+    ],
+    "original_release_date": "2002-03-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 24869,
+      "name": "Resident Evil",
+      "url": "https://www.igdb.com/games/resident-evil--1",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Production Studio 4"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

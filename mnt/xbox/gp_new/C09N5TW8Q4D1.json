@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 36912,
+    "specific_id": 36912,
+    "title": "Laser League",
+    "store_title": "Laser League",
+    "pid": "C09N5TW8Q4D1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C09N5TW8Q4D1"
+      ]
+    ],
+    "original_release_date": "2018-05-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-3)",
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "505 Games",
+    "developer": "Roll7"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36912,
+      "name": "Laser League",
+      "url": "https://www.igdb.com/games/laser-league",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Roll7"
+      ],
+      "genres": [
+        "Sport",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

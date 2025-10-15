@@ -1,0 +1,85 @@
+{
+  "id": 151956,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 218468,
+      "company": {
+        "id": 34820,
+        "name": "Igloosoft"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 218469,
+      "company": {
+        "id": 5040,
+        "name": "tinyBuild"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Farworld Pioneers",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/farworld-pioneers"
+}

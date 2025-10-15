@@ -1,0 +1,313 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Pausable",
+      "Save anytime"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable with keyboard only",
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Single stick gameplay",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.4,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NV5WGKTJ0MF"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Classics",
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Celebrate DOOM's 25th anniversary  with the release of DOOM 64, originally released on the Nintendo 64 in 1997.\r\n\r\nFight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+  "developerName": "id Software / Nightdive Studios",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 292913152,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MXND4PQLK3W",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 250,
+  "releaseDate": "2020-03-20T04:00:00.0000000Z",
+  "shortDescription": "Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B0DWP1SCP044",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B4RKT6KFS0DD",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9XVPZ03CK06J",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePassCore",
+          "productId": "CFQ7TTC0K5DJ"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B0M50S2P6ZB0",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B45WLV9QQ4M2",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B1JRPDBXZTM0",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePassCore",
+          "productId": "CFQ7TTC0K5DJ"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9XPQB0XP48JL",
+        "discountPercentage": 60.120235,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 1.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9PQK3L4VSWQ7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 4
+  },
+  "title": "DOOM 64",
+  "xCloudProperties": {
+    "xCloudId": "DOOM64",
+    "xboxTitleId": 2136041956,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-03-12T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DOOM64",
+    "xboxTitleId": 2136041956,
+    "programs": [
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "GPULTIMATE",
+      "HIMALIA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "MKB"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

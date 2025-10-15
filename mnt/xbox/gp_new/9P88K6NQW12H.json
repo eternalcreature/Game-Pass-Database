@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "base_id": 214397,
+    "specific_id": 214397,
+    "title": "Moving Out 2",
+    "store_title": "Moving Out 2",
+    "pid": "9P88K6NQW12H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P88K6NQW12H"
+      ]
+    ],
+    "original_release_date": "2023-08-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-05-28",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-05-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Strategy"
+    ],
+    "publisher": "Team17",
+    "developer": "SMG Studio & DEVM Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 214397,
+      "name": "Moving Out 2",
+      "url": "https://www.igdb.com/games/moving-out-2",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "DEVM Games",
+        "SMG Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

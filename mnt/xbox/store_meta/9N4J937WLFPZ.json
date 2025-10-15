@@ -1,0 +1,194 @@
+{
+  "availableOn": [
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.1,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PGLQPMHWCH2"
+  ],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Reshape the aftermath\n\nYou run a disaster recovery company, specialized in restoring sites devastated by natural disasters. Many tasks await you to restart the local industry: clearing debris, replacing faulty equipment, rebuilding roads and bridges damaged by weather, and much more! With your vehicles, choose carefully your itinerary through abandoned factories, submerged dams, or out-of-service solar fields. As the operations manager, guide your transport trucks by plotting their routes on the map and ensure no obstacles block their way! Experience a new generation of advanced simulation developed by Saber Interactive, the creators of MudRunner and SnowRunner.\n\n- Rebuild devastated areas alone or in co-op up to 4 players in an advanced physics simulation.\n- Operate over 40 vehicles, from bulldozers to construction cranes.\n- Intervene in various regions around the world across 8 maps, each 4 km² in size.\n- Manipulate elements like wood, sand, and asphalt powered by Saber Interactive's new physics engine.\n- Construct new roads and bridges to ease travel across rough terrain.\n- Plot point-to-point routes on your map to guide your logistics convoys, and recycle every piece of debris into reconstruction material.",
+  "developerName": "Saber Interactive",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 34909536256,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N4J937WLFPZ",
+  "productKind": "Game",
+  "publisherName": "Focus Entertainment",
+  "ratingCount": 237,
+  "releaseDate": "2025-05-20T04:00:00.0000000Z",
+  "shortDescription": "As the leader of a company specialized in restoring sites devastated by natural disasters, use your construction machinery to restart the local industry. Clear debris and faulty equipment, rebuild roads and bridges damaged by weather, and much more! ",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9S44W9PWDKJ9",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B2P0G67STGCK",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SRGTQZ7CVSM",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9S7FXZPVL63K",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "RoadCraft",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-09-16T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-09-16T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-09-16T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "ROADCRAFT",
+    "xboxTitleId": 1818602982,
+    "programs": [
+      "GPULTIMATE",
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

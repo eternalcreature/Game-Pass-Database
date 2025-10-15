@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 83728,
+    "specific_id": 83728,
+    "title": "Battlefield V",
+    "store_title": "Battlefield\u2122 V",
+    "pid": "BZ2N7TQ0XCF2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PDH3TB5548T"
+    ],
+    "sku_groups": [
+      [
+        "9PDH3TB5548T"
+      ],
+      [
+        "BZ2N7TQ0XCF2"
+      ]
+    ],
+    "original_release_date": "2018-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (10-64)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 83728,
+      "name": "Battlefield V",
+      "url": "https://www.igdb.com/games/battlefield-v",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

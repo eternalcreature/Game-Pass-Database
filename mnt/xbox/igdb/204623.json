@@ -1,0 +1,61 @@
+{
+  "id": 204623,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 175254,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 175255,
+      "company": {
+        "id": 47,
+        "name": "Obsidian Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Pentiment",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/pentiment"
+}

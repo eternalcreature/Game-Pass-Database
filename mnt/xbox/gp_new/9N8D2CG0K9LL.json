@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 343,
+    "specific_id": 41888,
+    "title": "Battlefield 3",
+    "store_title": "Battlefield 3 Premium Edition",
+    "pid": "9N8D2CG0K9LL",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRN6BHDHB58J"
+    ],
+    "sku_groups": [
+      [
+        "9N8D2CG0K9LL"
+      ],
+      [
+        "BRN6BHDHB58J"
+      ]
+    ],
+    "original_release_date": "2011-10-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 343,
+      "name": "Battlefield 3",
+      "url": "https://www.igdb.com/games/battlefield-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 343,
+      "name": "Battlefield 3",
+      "url": "https://www.igdb.com/games/battlefield-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

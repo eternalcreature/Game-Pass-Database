@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 23733,
+    "specific_id": 23733,
+    "title": "Tunic",
+    "store_title": "TUNIC",
+    "pid": "9NLRT31Z4RWM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLRT31Z4RWM"
+      ]
+    ],
+    "original_release_date": "2022-03-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-03-16",
+        "removed": null
+      },
+      "Console": {
+        "added": "2022-03-16",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-03-16",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Finji",
+    "developer": "ISOMETRICORP Games Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 23733,
+      "name": "Tunic",
+      "url": "https://www.igdb.com/games/tunic",
+      "publishers": [
+        "Finji"
+      ],
+      "developers": [
+        "Andrew Shouldice"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

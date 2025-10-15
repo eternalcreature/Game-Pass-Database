@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 8259,
+    "specific_id": 8259,
+    "title": "Tacoma",
+    "store_title": "Tacoma",
+    "pid": "9P4WKZXWP1QW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P4WKZXWP1QW"
+      ]
+    ],
+    "original_release_date": "2017-08-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Fullbright",
+    "developer": "Fullbright"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8259,
+      "name": "Tacoma",
+      "url": "https://www.igdb.com/games/tacoma",
+      "publishers": [
+        "Fullbright"
+      ],
+      "developers": [
+        "Fullbright"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

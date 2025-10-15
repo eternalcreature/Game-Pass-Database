@@ -1,0 +1,107 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BZ83238KZD7N"
+  ],
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Resident Evil 0 reveals the truth behind the Mansion Incident, the catalyst for the entire storyline of the Resident Evil series. This remastered version takes the story and gameplay of the original and adds stunning HD graphics, 5.1 channel surround sound, optional modernised controls and widescreen TV compatibility. Get ready to discover the terrible secrets lurking in the origins of evil.",
+  "developerName": "CAPCOM CO., LTD.",
+  "editions": [],
+  "franchiseId": "RESIDENTEVIL",
+  "franchiseName": "Resident Evil",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 11505901568,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BXHG2GX28L23",
+  "productKind": "Game",
+  "publisherName": "CAPCOM CO., LTD.",
+  "ratingCount": 401,
+  "releaseDate": "2016-01-19T00:00:00.0000000Z",
+  "shortDescription": "The remastered version of Resident Evil 0 features stunning HD graphics, optional modernised controls and much more.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9PH9TH6NLTVG",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/15/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B2372GZLZC5C",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/15/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Resident Evil 0",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

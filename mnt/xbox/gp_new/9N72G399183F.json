@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 314476,
+    "specific_id": 314476,
+    "title": "Lost in Random: The Eternal Die",
+    "store_title": "Lost in Random: The Eternal Die",
+    "pid": "9N72G399183F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N72G399183F"
+      ]
+    ],
+    "original_release_date": "2025-06-17",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": " Thunderful Publishing",
+    "developer": "Stormteller Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 314476,
+      "name": "Lost in Random: The Eternal Die",
+      "url": "https://www.igdb.com/games/lost-in-random-the-eternal-die",
+      "publishers": [
+        "Thunderful Publishing"
+      ],
+      "developers": [
+        "Stormteller Games",
+        "Thunderful Publishing"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

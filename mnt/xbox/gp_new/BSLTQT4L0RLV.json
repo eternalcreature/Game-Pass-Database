@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 3839,
+    "specific_id": 3839,
+    "title": "Contrast",
+    "store_title": "Contrast",
+    "pid": "BSLTQT4L0RLV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BSLTQT4L0RLV"
+      ]
+    ],
+    "original_release_date": "2013-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-02-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-02-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Compulsion Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3839,
+      "name": "Contrast",
+      "url": "https://www.igdb.com/games/contrast",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Compulsion Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

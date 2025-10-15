@@ -1,0 +1,199 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.1,
+  "badges": [
+    {
+      "type": 8
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "C1WP25BWLVTF"
+  ],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Blood",
+      "Mild Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Uncertain of his sister's fate, a boy enters LIMBO",
+  "developerName": "Playdead, Double Eleven",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DJ",
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeEuropa",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 222785536,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BTQMHK78ZPF9",
+  "productKind": "Game",
+  "publisherName": "Playdead",
+  "ratingCount": 585,
+  "releaseDate": "2014-12-05T00:00:00.0000000Z",
+  "shortDescription": "Uncertain of his sister's fate, a boy enters LIMBO",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9NVCXHWX4R4R",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "08/16/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B4ZSZQR05HG4",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VVZJQKS5MPZ",
+        "discountPercentage": 20.02002,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 7.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9VHDGVVMVBFT",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "08/16/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "LIMBO",
+  "xCloudProperties": {
+    "xCloudId": "LIMBO",
+    "xboxTitleId": 398011207,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DJ": {
+      "entryDateUTC": "2023-09-14T12:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-09-14T12:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-08-09T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "LIMBO",
+    "xboxTitleId": 398011207,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

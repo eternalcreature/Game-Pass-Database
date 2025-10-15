@@ -1,0 +1,263 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.5,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "60fps": "60 fps+",
+    "SpatialSound": "Spatial Sound",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Language",
+      "Simulated Gambling",
+      "Alcohol And Tobacco Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Journey back to the other world in Ni no Kuni: Wrath of the White Witch Remastered. LEVEL-5’s classic tale returns better than ever, with improved graphics and performance. Join Oliver as he embarks on an adventure through a world inhabited by new friends and ferocious foes alike in the hopes of bringing back his mother after a tragic incident.\r\n\r\nThis charming tale unfolds through the use of animation storyboarded and created by the legendary Studio Ghibli and music composed by the renowned Joe Hisaishi. Ni no Kuni: Wrath of the White Witch combines beautiful animated visuals, masterful storytelling, and a sweeping score to create an epic role-playing adventure like no other.",
+  "developerName": "QLOC S.A.",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDia",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 47703826432,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P7SL78VHVMF",
+  "productKind": "Game",
+  "publisherName": "Bandai Namco Entertainment America Inc.",
+  "ratingCount": 257,
+  "releaseDate": "2022-09-15T10:00:00.0000000Z",
+  "shortDescription": "Journey back to the other world in Ni no Kuni: Wrath of the White Witch Remastered. LEVEL-5’s classic tale returns better than ever, with improved graphics and performance. Join Oliver as he embarks on an adventure through a world inhabited by new friends and ferocious foes alike in the hopes of bringing back his mother after a tragic incident.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Q9MK6RNQS10",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/31/2799 22:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9SXZP3RKQDGF",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9N9RDNL1V6WC",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9P7KTP5MSJJC",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9V9GX6SSD03L",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9N9Z83BDWLF5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/31/2799 22:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 3
+  },
+  "title": "Ni no Kuni Wrath of the White Witch™ Remastered",
+  "xCloudProperties": {
+    "xCloudId": "NINOKUNIWRATHOFTHEWHITEWITCHREMASTERED",
+    "xboxTitleId": 1757462338,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-09-15T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-09-15T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-09-15T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "NINOKUNIWRATHOFTHEWHITEWITCHREMASTERED",
+    "xboxTitleId": 1757462338,
+    "programs": [
+      "CALLISTO",
+      "DIA",
+      "GPULTIMATE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

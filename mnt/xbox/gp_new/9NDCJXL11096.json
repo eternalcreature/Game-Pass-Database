@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 107315,
+    "specific_id": 107315,
+    "title": "Subnautica: Below Zero",
+    "store_title": "Subnautica: Below Zero",
+    "pid": "9NDCJXL11096",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDCJXL11096"
+      ]
+    ],
+    "original_release_date": "2019-01-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-23",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-23",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2021-09-23",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Unknown Worlds Entertainment, Inc.",
+    "developer": "Unknown Worlds Entertainment, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107315,
+      "name": "Subnautica: Below Zero",
+      "url": "https://www.igdb.com/games/subnautica-below-zero",
+      "publishers": [
+        "Unknown Worlds Entertainment"
+      ],
+      "developers": [
+        "Unknown Worlds Entertainment"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "base_id": 2165,
+    "specific_id": 245059,
+    "title": "War Thunder",
+    "store_title": "War Thunder",
+    "pid": "BX1DTCBD1HXJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BX1DTCBD1HXJ"
+      ]
+    ],
+    "original_release_date": "2023-08-15",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "Gaijin Distribution Kft",
+    "developer": "Gaijin Distribution Kft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2165,
+      "name": "War Thunder",
+      "url": "https://www.igdb.com/games/war-thunder",
+      "publishers": [
+        "Gaijin Entertainment"
+      ],
+      "developers": [
+        "Gaijin Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    },
+    "specific": {
+      "id": 2165,
+      "name": "War Thunder",
+      "url": "https://www.igdb.com/games/war-thunder",
+      "publishers": [
+        "Gaijin Entertainment"
+      ],
+      "developers": [
+        "Gaijin Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

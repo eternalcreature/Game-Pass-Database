@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "base_id": 1217,
+    "specific_id": 1217,
+    "title": "Shenmue",
+    "store_title": "Shenmue",
+    "pid": "BZ75XHFDZ14Q",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BZ75XHFDZ14Q"
+      ]
+    ],
+    "original_release_date": "1999-12-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "d3t Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1217,
+      "name": "Shenmue",
+      "url": "https://www.igdb.com/games/shenmue",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sega AM2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

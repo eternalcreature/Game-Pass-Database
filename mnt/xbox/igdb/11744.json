@@ -1,0 +1,73 @@
+{
+  "id": 11744,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 31173,
+      "company": {
+        "id": 5792,
+        "name": "Mouldy Toof Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 98246,
+      "company": {
+        "id": 16437,
+        "name": "Team17"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Escapists: The Walking Dead",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-escapists-the-walking-dead--1"
+}

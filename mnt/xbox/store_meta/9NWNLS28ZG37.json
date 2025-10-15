@@ -1,0 +1,170 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.9,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "LocalMultiplayer": "Local multiplayer",
+    "OnlineMultiplayerWithGold": "Online multiplayer",
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Quake III Arena is a critically acclaimed, multiplayer-focused, arena first-person shooter developed by id Software and released in 1999. \r\n\r\nWelcome to the Arena \r\n\r\nThe greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in high-tech and gothic arenas in this fast-paced, skill-based single-player and multiplayer FPS. \r\n\r\n- Compete in fast-paced multiplayer action for up to 16 players \r\n- Play offline in single-player mode with AI-controlled bots \r\n- Enjoy exciting modes including Free for All (FFA), Team Deathmatch (TDM), Tournament (1v1), and Capture the Flag (CTF) \r\n- Experience thirty-five unique, gothic and sci-fi-infused arenas \r\n- Wield twelve powerful and unique weapons ",
+  "developerName": "id Software",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 522678272,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NWNLS28ZG37",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 104,
+  "releaseDate": "2021-08-19T17:00:00.0000000Z",
+  "shortDescription": "The greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in this fast-paced single-player and multiplayer FPS.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XCRN2M2BQ03",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9S8T4XMDZWMS",
+        "discountPercentage": 60.040028,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 5.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WPBL2MH1WQC",
+        "discountPercentage": 60.040028,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 5.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B4CLGMLVXVWX",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Quake III Arena",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-08-19T17:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-08-19T17:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 65445,
+    "specific_id": 65445,
+    "title": "Generation Zero",
+    "store_title": "Generation Zero\u00ae",
+    "pid": "C20WW4W29FQ1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C20WW4W29FQ1"
+      ]
+    ],
+    "original_release_date": "2019-03-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-11-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-11-30",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-11-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Avalanche Studios",
+    "developer": "Systemic Reaction"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 65445,
+      "name": "Generation Zero",
+      "url": "https://www.igdb.com/games/generation-zero",
+      "publishers": [
+        "Systemic Reaction"
+      ],
+      "developers": [
+        "Systemic Reaction"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

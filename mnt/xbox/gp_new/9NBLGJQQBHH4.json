@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 105447,
+    "specific_id": 105447,
+    "title": "Touhou Luna Nights",
+    "store_title": "Touhou Luna Nights",
+    "pid": "9NBLGJQQBHH4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLGJQQBHH4"
+      ]
+    ],
+    "original_release_date": "2019-02-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-03",
+        "removed": "2022-03-01"
+      },
+      "Ultimate": {
+        "added": "2020-09-03",
+        "removed": "2022-03-01"
+      },
+      "PC": {
+        "added": "2020-09-03",
+        "removed": "2022-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "PLAYISM",
+    "developer": "Team Ladybug"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 105447,
+      "name": "Touhou Luna Nights",
+      "url": "https://www.igdb.com/games/touhou-luna-nights",
+      "publishers": [
+        "PLAYISM",
+        "Phoenixx Inc."
+      ],
+      "developers": [
+        "Team Ladybug"
+      ],
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

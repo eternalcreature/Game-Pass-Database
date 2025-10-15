@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 421,
+    "specific_id": 421,
+    "title": "Final Fantasy IX",
+    "store_title": "FINAL FANTASY IX",
+    "pid": "9NPGTNQFC8B5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NPGTNQFC8B5"
+      ]
+    ],
+    "original_release_date": "2000-07-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-05-14",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2020-05-14",
+        "removed": "2021-05-16"
+      },
+      "PC": {
+        "added": "2020-05-14",
+        "removed": "2021-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "SQUARE ENIX CO. LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 421,
+      "name": "Final Fantasy IX",
+      "url": "https://www.igdb.com/games/final-fantasy-ix",
+      "publishers": [
+        "Square",
+        "Square Electronic Arts",
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Product Development Division 1",
+        "Square USA"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

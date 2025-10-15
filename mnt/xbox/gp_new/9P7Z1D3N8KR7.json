@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 306944,
+    "specific_id": 262516,
+    "title": "Wolfenstein 3D",
+    "store_title": "Wolfenstein 3D",
+    "pid": "9P7Z1D3N8KR7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7Z1D3N8KR7"
+      ]
+    ],
+    "original_release_date": "1992-05-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 306944,
+      "name": "Wolfenstein 3D",
+      "url": "https://www.igdb.com/games/wolfenstein-3d--3",
+      "publishers": [
+        "Imagineer"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 306944,
+      "name": "Wolfenstein 3D",
+      "url": "https://www.igdb.com/games/wolfenstein-3d--3",
+      "publishers": [
+        "Imagineer"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

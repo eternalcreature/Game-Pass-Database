@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 299592,
+    "specific_id": 299592,
+    "title": "All You Need is Help",
+    "store_title": "All You Need is Help",
+    "pid": "9NS4Q51TVR51",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NS4Q51TVR51"
+      ]
+    ],
+    "original_release_date": "2024-09-26",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "Ultimate": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "PC": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "Premium": {
+        "added": "2025-04-03",
+        "removed": "2025-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (4-4)",
+      "XblOnlineCoop": "Online co-op (4-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (4-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia",
+      "Family & kids"
+    ],
+    "publisher": "Q-Games Ltd.",
+    "developer": "Q-Games Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 299592,
+      "name": "All You Need is Help",
+      "url": "https://www.igdb.com/games/all-you-need-is-help",
+      "publishers": [
+        "Q-Games Ltd."
+      ],
+      "developers": [
+        "Q-Games Ltd."
+      ],
+      "genres": [
+        "Puzzle",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

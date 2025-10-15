@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 281,
+    "specific_id": 281,
+    "title": "Return to Castle Wolfenstein",
+    "store_title": "Return to Castle Wolfenstein",
+    "pid": "9N1WT4X26SHW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N1WT4X26SHW"
+      ]
+    ],
+    "original_release_date": "2001-11-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Gray Matter Interactive, Nerve Software, Splash Damage"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 281,
+      "name": "Return to Castle Wolfenstein",
+      "url": "https://www.igdb.com/games/return-to-castle-wolfenstein",
+      "publishers": [
+        "Activision",
+        "Aspyr Media",
+        "Microsoft Game Studios",
+        "id Software"
+      ],
+      "developers": [
+        "Gray Matter Interactive",
+        "Nerve Software, LLC",
+        "Raster Productions",
+        "Splash Damage",
+        "Westlake Interactive"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Historical",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 125009,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 123476,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 123477,
+      "company": {
+        "id": 722,
+        "name": "343 Industries"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 123478,
+      "company": {
+        "id": 620,
+        "name": "Bungie"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 123479,
+      "company": {
+        "id": 946,
+        "name": "Saber Interactive"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Halo 2: Anniversary",
+  "parent_game": 986,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/halo-2-anniversary"
+}

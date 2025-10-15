@@ -1,0 +1,57 @@
+{
+  "id": 119307,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 158805,
+      "company": {
+        "id": 305,
+        "name": "Remedy Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 158807,
+      "company": {
+        "id": 5220,
+        "name": "Smilegate"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "CrossfireX",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/crossfirex"
+}

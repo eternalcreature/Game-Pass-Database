@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 288741,
+    "specific_id": 288741,
+    "title": "9 Kings",
+    "store_title": "9 Kings (Game Preview)",
+    "pid": "9NNM7PKZN3JF",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NNM7PKZN3JF"
+      ]
+    ],
+    "original_release_date": "2025-05-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-08-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy",
+      "Role playing"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "Sad Socket"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 288741,
+      "name": "9 Kings",
+      "url": "https://www.igdb.com/games/9-kings",
+      "publishers": [
+        "Hooded Horse",
+        "INSTINCT3"
+      ],
+      "developers": [
+        "Sad Socket"
+      ],
+      "genres": [
+        "Strategy",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

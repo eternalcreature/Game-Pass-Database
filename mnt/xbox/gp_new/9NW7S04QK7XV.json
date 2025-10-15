@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 106985,
+    "specific_id": 106985,
+    "title": "The Procession to Calvary",
+    "store_title": "The Procession to Calvary",
+    "pid": "9NW7S04QK7XV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NW7S04QK7XV"
+      ]
+    ],
+    "original_release_date": "2020-04-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Digerati",
+    "developer": "Joe Richardson / Nephilim Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106985,
+      "name": "The Procession to Calvary",
+      "url": "https://www.igdb.com/games/the-procession-to-calvary",
+      "publishers": [
+        "Digerati Distribution",
+        "Joe Richardson",
+        "SUPERHOT PRESENTS"
+      ],
+      "developers": [
+        "Joe Richardson"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Historical",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

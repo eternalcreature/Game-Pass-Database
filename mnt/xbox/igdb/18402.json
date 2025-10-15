@@ -1,0 +1,31 @@
+{
+  "id": 18402,
+  "genres": [
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 33904,
+      "company": {
+        "id": 2712,
+        "name": "Taniko"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 237361,
+      "company": {
+        "id": 2406,
+        "name": "Atari, Inc."
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Retro Atari Classics",
+  "url": "https://www.igdb.com/games/retro-atari-classics"
+}

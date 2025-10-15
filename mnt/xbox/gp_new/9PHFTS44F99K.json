@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 103301,
+    "specific_id": 103301,
+    "title": "Wolfenstein: Youngblood",
+    "store_title": "Wolfenstein: Youngblood (PC)",
+    "pid": "9PHFTS44F99K",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C421ZX7RCG0W"
+    ],
+    "sku_groups": [
+      [
+        "9PHFTS44F99K"
+      ],
+      [
+        "C421ZX7RCG0W"
+      ]
+    ],
+    "original_release_date": "2019-07-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-02-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-02-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "MachineGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103301,
+      "name": "Wolfenstein: Youngblood",
+      "url": "https://www.igdb.com/games/wolfenstein-youngblood",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "MachineGames"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

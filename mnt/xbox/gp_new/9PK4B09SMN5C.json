@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 2985,
+    "specific_id": 2985,
+    "title": "Persona 4 Golden",
+    "store_title": "Persona 4 Golden",
+    "pid": "9PK4B09SMN5C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PK4B09SMN5C"
+      ]
+    ],
+    "original_release_date": "2012-06-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-08-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-08-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-08-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-20",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2023-01-19",
+        "removed": "2024-01-15"
+      },
+      "Ultimate": {
+        "added": "2023-01-19",
+        "removed": "2024-01-15"
+      },
+      "Console": {
+        "added": "2023-01-19",
+        "removed": "2024-01-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2985,
+      "name": "Persona 4 Golden",
+      "url": "https://www.igdb.com/games/persona-4-golden",
+      "publishers": [
+        "Atlus",
+        "Atlus USA",
+        "NIS America"
+      ],
+      "developers": [
+        "Atlus"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

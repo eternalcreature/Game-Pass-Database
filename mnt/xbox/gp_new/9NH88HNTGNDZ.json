@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 204626,
+    "specific_id": 204626,
+    "title": "Ravenlok",
+    "store_title": "Ravenlok",
+    "pid": "9NH88HNTGNDZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NH88HNTGNDZ"
+      ]
+    ],
+    "original_release_date": "2023-05-04",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-05-04",
+        "removed": "2024-05-01"
+      },
+      "Ultimate": {
+        "added": "2023-05-04",
+        "removed": "2024-05-01"
+      },
+      "Console": {
+        "added": "2023-05-04",
+        "removed": "2024-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Cococucumber",
+    "developer": "Cococucumber"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204626,
+      "name": "Ravenlok",
+      "url": "https://www.igdb.com/games/ravenlok",
+      "publishers": [
+        "Cococucumber"
+      ],
+      "developers": [
+        "Cococucumber"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

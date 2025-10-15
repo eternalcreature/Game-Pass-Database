@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 1339,
+    "specific_id": 1339,
+    "title": "Psychonauts",
+    "store_title": "Psychonauts",
+    "pid": "C5HHPG1TXDNG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NCT87FKQ4GM"
+    ],
+    "sku_groups": [
+      [
+        "9NCT87FKQ4GM"
+      ],
+      [
+        "C5HHPG1TXDNG"
+      ]
+    ],
+    "original_release_date": "2005-04-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-05-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-05-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Platformer"
+    ],
+    "publisher": "Double Fine Productions",
+    "developer": "Double Fine Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1339,
+      "name": "Psychonauts",
+      "url": "https://www.igdb.com/games/psychonauts",
+      "publishers": [
+        "Double Fine Productions",
+        "Majesco Entertainment",
+        "THQ",
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

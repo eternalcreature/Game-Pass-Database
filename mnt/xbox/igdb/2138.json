@@ -1,0 +1,78 @@
+{
+  "id": 2138,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 7482,
+      "company": {
+        "id": 412,
+        "name": "Codemasters Southam"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 7483,
+      "company": {
+        "id": 115,
+        "name": "Codemasters"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 42759,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Grid 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 32,
+      "name": "Non-fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/grid-2"
+}

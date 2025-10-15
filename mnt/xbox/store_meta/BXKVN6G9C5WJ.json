@@ -1,0 +1,147 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BQMWB8LGQX81"
+  ],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing",
+    "Strategy",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Suggestive Themes",
+      "Alcohol Reference",
+      "Mild Language",
+      "Partial Nudity",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "\"Darkest Dungeon® is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring.\n\nRecruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond. You'll battle not only unimaginable foes, but stress, famine, disease, and the ever-encroaching dark. Uncover strange mysteries, and pit your heroes against an array of fearsome monsters with an innovative strategic turn-based combat system.\n\nCan you stem the tide of eldritch horrors erupting across your family’s ancestral estate? Remember: nothing can be gained without loss.\n\nDescend at your peril into this award-winning game.\n\nNominated for Grand Prize - Independent Game Festival 2016\n“Darkest Dungeon is an incredible take on the classic dungeon crawl.”  - Game Informer\n\"\"Darkest Dungeon is a masterpiece of emergent storytelling.\"\" - Pelit\"",
+  "developerName": "Red Hook Studios Inc.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 3060023296,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BXKVN6G9C5WJ",
+  "productKind": "Game",
+  "publisherName": "Red Hook Studios Inc.",
+  "ratingCount": 267,
+  "releaseDate": "2018-02-28T00:00:00.0000000Z",
+  "shortDescription": "Darkest Dungeon® is an award-winning challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, famine, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9QPPXQT78LNV",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9ZR3TJ6R0G8B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Darkest Dungeon®",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-02-02T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-02-02T00:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-02-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DARKESTDUNGEON",
+    "xboxTitleId": 217802058,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

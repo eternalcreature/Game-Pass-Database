@@ -1,0 +1,77 @@
+{
+  "id": 26227,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 232206,
+      "company": {
+        "id": 233,
+        "name": "Piranha Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 232207,
+      "company": {
+        "id": 41013,
+        "name": "Fireshine Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "MechWarrior 5: Mercenaries",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mechwarrior-5-mercenaries"
+}

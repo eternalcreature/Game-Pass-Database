@@ -1,0 +1,146 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Use of Drugs",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "At twilight in Kentucky, as bird songs give way to the choir of frogs and insects, familiar roads become strange, and it's easy to get lost. Those who are already lost may find their way to a secret highway winding through underground caves. The people who live and work along this highway are themselves a little strange at first, but soon seem familiar: the aging driver making the last delivery for a doomed antique shop; the young woman who fixes obsolete TVs surrounded by ghosts; the child and his giant eagle companion; the robot musicians; the invisible power company lurking everywhere, and the threadbare communities who struggle against its grip.\r\n\r\nKENTUCKY ROUTE ZERO: TV EDITION is a magical realist adventure game in five acts, featuring a haunting electronic score, and a suite of hymns and bluegrass standards recorded by The Bedquilt Ramblers. Rendered in a striking visual style that draws as much from theater, film, and experimental electronic art as it does from the history of videogames, this is a story of unpayable debts, abandoned futures, and the human drive to find community.",
+  "developerName": "Cardboard Computer",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2082295808,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P6FTM76L1S7",
+  "productKind": "Game",
+  "publisherName": "Annapurna Interactive",
+  "ratingCount": 211,
+  "releaseDate": "2020-01-28T00:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WB8FMWMTRXH",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B23Q4J4G5N4M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Kentucky Route Zero: TV Edition",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-03-10T00:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-03-10T00:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-03-10T00:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "KENTUCKYROUTEZERO",
+    "xboxTitleId": 1833960090,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

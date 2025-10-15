@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 76253,
+    "specific_id": 76253,
+    "title": "Devil May Cry 5",
+    "store_title": "Devil May Cry 5",
+    "pid": "BNLG5J5KDVJ3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNLG5J5KDVJ3"
+      ]
+    ],
+    "original_release_date": "2019-03-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-3)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 76253,
+      "name": "Devil May Cry 5",
+      "url": "https://www.igdb.com/games/devil-may-cry-5",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Development Division 1"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 200899,
+    "specific_id": 200899,
+    "title": "Wildfrost",
+    "store_title": "Wildfrost",
+    "pid": "9N061M9R7BVQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N061M9R7BVQ"
+      ]
+    ],
+    "original_release_date": "2023-04-12",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-12-10",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-12-10",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-12-10",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Strategy",
+      "Other"
+    ],
+    "publisher": "Chucklefish",
+    "developer": "Deadpan Games & Gaziter"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 200899,
+      "name": "Wildfrost",
+      "url": "https://www.igdb.com/games/wildfrost",
+      "publishers": [
+        "Chucklefish Games"
+      ],
+      "developers": [
+        "Deadpan Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Tactical",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

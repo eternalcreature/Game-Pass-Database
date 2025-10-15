@@ -1,0 +1,73 @@
+{
+  "id": 139090,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 35,
+      "name": "Card & Board Game"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 178127,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 178128,
+      "company": {
+        "id": 7871,
+        "name": "Daniel Mullins Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Inscryption",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/inscryption"
+}

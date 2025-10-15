@@ -1,0 +1,63 @@
+{
+  "id": 158603,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 284361,
+      "company": {
+        "id": 3957,
+        "name": "M2H"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 284362,
+      "company": {
+        "id": 5680,
+        "name": "Blackmill Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Isonzo",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/isonzo"
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 129097,
+    "specific_id": 129097,
+    "title": "Norco",
+    "store_title": "NORCO",
+    "pid": "9NZFZXDRZQLR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NZFZXDRZQLR"
+      ]
+    ],
+    "original_release_date": "2022-03-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-24",
+        "removed": "2024-05-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-24",
+        "removed": "2024-05-16"
+      },
+      "Console": {
+        "added": "2022-11-17",
+        "removed": "2024-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Geography of Robots"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 129097,
+      "name": "Norco",
+      "url": "https://www.igdb.com/games/norco",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Geography of Robots"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

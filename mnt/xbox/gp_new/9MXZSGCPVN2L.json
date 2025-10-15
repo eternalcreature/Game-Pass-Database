@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 127939,
+    "specific_id": 127939,
+    "title": "Amazing Cultivation Simulator",
+    "store_title": "Amazing Cultivation Simulator",
+    "pid": "9MXZSGCPVN2L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXZSGCPVN2L"
+      ]
+    ],
+    "original_release_date": "2019-01-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-14",
+        "removed": "2023-09-16"
+      },
+      "Ultimate": {
+        "added": "2022-09-14",
+        "removed": "2023-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "SpatialSound": "Spatial Sound",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation",
+      "Role playing"
+    ],
+    "publisher": "Gamera Games",
+    "developer": "GSQ Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127939,
+      "name": "Amazing Cultivation Simulator",
+      "url": "https://www.igdb.com/games/amazing-cultivation-simulator",
+      "publishers": [
+        "Gamera Games"
+      ],
+      "developers": [
+        "GSQ Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Survival",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 133306,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 98712,
+      "company": {
+        "id": 19006,
+        "name": "Raw Fury"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 198022,
+      "company": {
+        "id": 36498,
+        "name": "Out of the Blue Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Call of the Sea",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/call-of-the-sea"
+}

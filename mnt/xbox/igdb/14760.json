@@ -1,0 +1,74 @@
+{
+  "id": 14760,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 68987,
+      "company": {
+        "id": 7397,
+        "name": "White Rabbit"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 68988,
+      "company": {
+        "id": 16242,
+        "name": "Skybound Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 68986,
+      "company": {
+        "id": 4440,
+        "name": "Adult Swim Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Death's Gambit",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/deaths-gambit"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 11233,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 190222,
+      "company": {
+        "id": 11662,
+        "name": "Annapurna Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 190223,
+      "company": {
+        "id": 4356,
+        "name": "Giant Sparrow"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "What Remains of Edith Finch",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/what-remains-of-edith-finch"
+}

@@ -1,0 +1,132 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable with keyboard only",
+      "Playable without button holds",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Phantom Abyss is a massive asynchronous multiplayer game that casts players into procedurally-generated temples and tasks them with retrieving the sacred relics hidden within deadly chambers. Intrepid adventurers will dodge scores of hidden traps, leap treacherous chasms, and flee relentless guardians through branching paths until one of the relics are claimed or the devices of death overwhelm them. Be warned, you only get one attempt at each temple and failure or settling for a lesser relic means you will never see that temple again...\r\n\r\nThe cleverest players will use the phantom runs of failed attempts from other players to their advantage and avoid the missteps and mistakes that led to their doom.\r\n\r\nAsynchronous Multiplayer\r\nExplore the perilous halls and colossal rooms of each temple alongside the phantoms of fallen players that came before you. Use their successes and failures to your advantage to progress deeper than they ever could have hoped.\r\n\r\nBlessings from the Gods\r\nAs adventurers venture further into a temple, offerings of collected treasures can be made at altars to gain a new blessing for the rest of the run. Collect as much treasure as you can to please the gods and gain a double jump, glide jump, extended slide, damage protection, and more!\r\n\r\nUnlockable Whips\r\nUnlock new whips with success and choose from your collection before venturing into your next run. Each whips carries a minor blessing but also a curse that may complicate your attempt at riches and glory.\r\n\r\nThree modes\r\nComplete a series of progressively more challenging temples in Adventure mode, compete for the best time in Daily mode, and undergo the ultimate challenge in Abyss mode.\r\n\r\nPermanent Upgrades\r\nScour every nook and cranny to uncover rare keys and unlock your full potential. More health, more speed, more power.",
+  "developerName": "Team WIBY",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2952638464,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NH9W1N1XWV5",
+  "productKind": "Game",
+  "publisherName": "Devolver Digital",
+  "ratingCount": 50,
+  "releaseDate": "2022-10-20T00:00:00.0000000Z",
+  "shortDescription": "Phantom Abyss is a massive asynchronous multiplayer game that casts players into procedurally-generated temples and tasks them with retrieving the sacred relics hidden within deadly chambers.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PJKDMXBQWW7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z61MNC5G37B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Phantom Abyss",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-10-20T00:00:00Z",
+      "exitDateUTC": "2024-04-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-10-20T00:00:00Z",
+      "exitDateUTC": "2024-04-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

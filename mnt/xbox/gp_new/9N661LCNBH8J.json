@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 126290,
+    "specific_id": 126290,
+    "title": "Far Cry 6",
+    "store_title": "Far Cry\u00ae 6",
+    "pid": "9N661LCNBH8J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PBNGCVBGML0"
+    ],
+    "sku_groups": [
+      [
+        "9N661LCNBH8J"
+      ],
+      [
+        "9PBNGCVBGML0"
+      ]
+    ],
+    "original_release_date": "2021-10-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-12-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-12-14",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT TORONTO"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 126290,
+      "name": "Far Cry 6",
+      "url": "https://www.igdb.com/games/far-cry-6",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Toronto"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,151 @@
+{
+  "availableOn": [
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.8,
+  "badges": [
+    {
+      "type": 8
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (9-24)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "RayTracing": "Ray Tracing",
+    "120fps": "120 fps",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Come out on top, reach THE FINALS, and win the hearts of the viewers. \n\nIn THE FINALS, nothing can stand in your way. Crash through walls and ceilings, destroy anything and everything in sight, and build bridges and barricades in this fast-paced, high-stakes fight for fame on the world’s biggest stage. \nTHE FINALS may be a team sport, but you’ll fight for individual glory too. Build your contestant with a wild combination of looks, abilities, accessories, weapons, and gadgets. \n\nTrap and surprise your opponents with a range of dynamic tools scattered throughout the arena. Send exploding canisters of gas and goo through the air, burst through windows, or drop fire from above. \n\nUse moving platforms, ziplines, jumppads, and more to create treacherous and unforgettable moments. Take out your enemies with garbage cans, flower pots, office chairs, and hospital beds. \n\nOnly your imagination sets the limits.",
+  "developerName": "Embark Studios AB",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DJ",
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeEuropa",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 58791464960,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PGD71CMDS0Z",
+  "productKind": "Game",
+  "publisherName": "Embark Studios AB",
+  "ratingCount": 1117,
+  "releaseDate": "2023-12-08T04:00:00.0000000Z",
+  "shortDescription": "THE FINALS is the ultimate virtual combat game show, where you and your team fight for fame, riches, and the favor of generous seasonal sponsors. This free-to-play, team-based, first-person shooter pits contestants against each other in Virtual Arenas based on iconic real-world locations that can be altered and even destroyed.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RWTZM2W68ML",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "04/01/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 0,
+        "msrp": 0,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "THE FINALS",
+  "xCloudProperties": {
+    "xCloudId": "THEFINALS",
+    "xboxTitleId": 2099828114,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DJ": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-03-26T16:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-03-26T16:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEFINALS",
+    "xboxTitleId": 2099828114,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

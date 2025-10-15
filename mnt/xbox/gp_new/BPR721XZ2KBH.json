@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 6059,
+    "specific_id": 6059,
+    "title": "Blood Bowl 2",
+    "store_title": "Blood Bowl 2",
+    "pid": "BPR721XZ2KBH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPR721XZ2KBH"
+      ]
+    ],
+    "original_release_date": "2015-09-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)"
+    },
+    "categories": [
+      "Sports",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Focus Home Interactive",
+    "developer": "Cyanide Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 6059,
+      "name": "Blood Bowl 2",
+      "url": "https://www.igdb.com/games/blood-bowl-2",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Cyanide Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Sport",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 127355,
+    "specific_id": 127355,
+    "title": "Surgeon Simulator 2",
+    "store_title": "Surgeon Simulator 2",
+    "pid": "9P1ZVVW7NRR3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NPPK20VCTGM"
+    ],
+    "sku_groups": [
+      [
+        "9NPPK20VCTGM"
+      ],
+      [
+        "9P1ZVVW7NRR3"
+      ]
+    ],
+    "original_release_date": "2020-08-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-02",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-02",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Puzzle & trivia",
+      "Simulation"
+    ],
+    "publisher": "Bossa Studios",
+    "developer": "Bossa Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127355,
+      "name": "Surgeon Simulator 2",
+      "url": "https://www.igdb.com/games/surgeon-simulator-2",
+      "publishers": [
+        "Bossa Studios"
+      ],
+      "developers": [
+        "Bossa Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

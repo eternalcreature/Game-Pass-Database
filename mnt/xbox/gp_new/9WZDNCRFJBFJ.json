@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 7849,
+    "specific_id": 7849,
+    "title": "Halo: Spartan Strike",
+    "store_title": "Halo: Spartan Strike",
+    "pid": "9WZDNCRFJBFJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9WZDNCRFJBFJ"
+      ]
+    ],
+    "original_release_date": "2015-04-16",
+    "release_date": null,
+    "platforms": [
+      "MobileDevice",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Microsoft Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7849,
+      "name": "Halo: Spartan Strike",
+      "url": "https://www.igdb.com/games/halo-spartan-strike",
+      "publishers": [
+        "Microsoft"
+      ],
+      "developers": [
+        "343 Industries",
+        "Vanguard Entertainment"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

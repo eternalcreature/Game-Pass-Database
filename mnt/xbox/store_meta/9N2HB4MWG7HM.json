@@ -1,0 +1,216 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Single stick gameplay",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.7,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [
+    "BP4S3XLJG78M",
+    "9PM6BVF83G9W"
+  ],
+  "bundlesBySeed": [],
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Mild Suggestive Themes",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases",
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Celebrate 10 years of Killer Instinct, the legendary fighting game series for Xbox and PC. The Killer Instinct Anniversary Edition includes all 29 Fighters and all premium content ever released for Killer Instinct. Unleash your killer instinct in stunning 4K resolution and 60 FPS on Xbox Series X and compatible PCs, with improved matchmaking, balance updates, and more. Whether you're a veteran or a newcomer, you'll find plenty of challenges and rewards in the single-player modes, online multiplayer, and cross-play with Windows 11 PC. Don't miss this opportunity to join the ultimate fight club and prove yourself as the supreme champion of Killer Instinct!\r\n",
+  "developerName": "Iron Galaxy",
+  "editions": [
+    "9N2HB4MWG7HM"
+  ],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 92730613760,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N2HB4MWG7HM",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 2172,
+  "releaseDate": "2023-11-28T16:00:00.0000000Z",
+  "shortDescription": "Killer Instinct Anniversary Edition is the ultimate fighting game for Xbox Series X|S.  Includes all 29 Fighters and all premium content ever released for Killer Instinct. Fight in 4K resolution and 60 FPS on Xbox Series X and Compatible PCs. Enjoy improved matchmaking, balance updates, and cross-play with Windows 11 PC. Join the fight club and unleash your killer instinct!\r\n",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PVLF6P4N5J5",
+        "discountPercentage": 67.02234,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.89,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B1C8FK9C06GZ",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z5J768H43G0",
+        "discountPercentage": 67.02234,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.89,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9NVLRP2LTG5N",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Killer Instinct: Anniversary Edition",
+  "xCloudProperties": {
+    "xCloudId": "KILLERINSTINCT",
+    "xboxTitleId": 58472989,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-11-28T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-11-28T16:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "KILLERINSTINCT",
+    "xboxTitleId": 58472989,
+    "programs": [
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "GPULTIMATE",
+      "HIMALIA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

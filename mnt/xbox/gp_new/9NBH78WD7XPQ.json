@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 166722,
+    "specific_id": 166722,
+    "title": "The Case of the Golden Idol",
+    "store_title": "The Case of the Golden Idol",
+    "pid": "9NBH78WD7XPQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBH78WD7XPQ"
+      ]
+    ],
+    "original_release_date": "2022-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-09",
+        "removed": "2025-07-16"
+      },
+      "Ultimate": {
+        "added": "2024-07-09",
+        "removed": "2025-07-16"
+      },
+      "PC": {
+        "added": "2024-07-09",
+        "removed": "2025-07-16"
+      },
+      "Premium": {
+        "added": "2025-01-22",
+        "removed": "2025-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Playstack",
+    "developer": "Color Gray Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 166722,
+      "name": "The Case of the Golden Idol",
+      "url": "https://www.igdb.com/games/the-case-of-the-golden-idol",
+      "publishers": [
+        "Netflix",
+        "Playstack"
+      ],
+      "developers": [
+        "Color Gray Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Thriller",
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

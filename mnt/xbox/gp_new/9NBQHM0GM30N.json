@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 161220,
+    "specific_id": 161220,
+    "title": "Lapin",
+    "store_title": "LAPIN",
+    "pid": "9NBQHM0GM30N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBQHM0GM30N"
+      ]
+    ],
+    "original_release_date": "2022-11-17",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-17",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-17",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2022-11-17",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Studio Doodal",
+    "developer": "Studio Doodal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 161220,
+      "name": "Lapin",
+      "url": "https://www.igdb.com/games/lapin",
+      "publishers": [
+        "CFK",
+        "Studio Doodal"
+      ],
+      "developers": [
+        "Studio Doodal"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

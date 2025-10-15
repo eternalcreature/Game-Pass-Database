@@ -1,0 +1,73 @@
+{
+  "id": 79259,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 285023,
+      "company": {
+        "id": 24000,
+        "name": "Sega R&D 2"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 285024,
+      "company": {
+        "id": 4981,
+        "name": "Sega Enterprises, Ltd."
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 285025,
+      "company": {
+        "id": 781,
+        "name": "M2"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 285026,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Sega Vintage Collection: Alex Kidd & Co.",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "url": "https://www.igdb.com/games/sega-vintage-collection-alex-kidd-and-co"
+}

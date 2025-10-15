@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 2058,
+    "specific_id": 20041,
+    "title": "Payday 2",
+    "store_title": "PAYDAY 2: CRIMEWAVE EDITION",
+    "pid": "9N3K69GS7FWR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3K69GS7FWR"
+      ]
+    ],
+    "original_release_date": "2013-08-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2024-09-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-30",
+        "removed": null
+      },
+      "Console": {
+        "added": "2024-09-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-09-30",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "505 Games",
+    "developer": "OVERKILL Software\u2122"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2058,
+      "name": "Payday 2",
+      "url": "https://www.igdb.com/games/payday-2",
+      "publishers": [
+        "505 Games",
+        "Starbreeze Studios"
+      ],
+      "developers": [
+        "Overkill Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 2058,
+      "name": "Payday 2",
+      "url": "https://www.igdb.com/games/payday-2",
+      "publishers": [
+        "505 Games",
+        "Starbreeze Studios"
+      ],
+      "developers": [
+        "Overkill Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

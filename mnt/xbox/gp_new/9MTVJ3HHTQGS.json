@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 18402,
+    "specific_id": 18402,
+    "title": "Retro Atari Classics",
+    "store_title": "Retro Classics",
+    "pid": "9MTVJ3HHTQGS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MTVJ3HHTQGS"
+      ]
+    ],
+    "original_release_date": "2025-05-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SinglePlayer": "Single player",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Classics",
+      "Puzzle & trivia",
+      "Action & adventure",
+      "Family & kids",
+      "Racing & flying",
+      "Role playing",
+      "Shooter",
+      "Strategy",
+      "Platformer"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Antstream"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18402,
+      "name": "Retro Atari Classics",
+      "url": "https://www.igdb.com/games/retro-atari-classics",
+      "publishers": [
+        "Taniko"
+      ],
+      "developers": [
+        "Atari, Inc."
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

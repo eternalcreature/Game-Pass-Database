@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 252445,
+    "specific_id": 252445,
+    "title": "Mullet Madjack",
+    "store_title": "MULLET MADJACK",
+    "pid": "9PG8TV30NN9H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PG8TV30NN9H"
+      ]
+    ],
+    "original_release_date": "2024-05-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-03-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-03-13",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-03-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "Epopeia Games",
+    "developer": "HAMMER95"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252445,
+      "name": "Mullet Madjack",
+      "url": "https://www.igdb.com/games/mullet-madjack",
+      "publishers": [
+        "Epopeia Games",
+        "HAMMER95"
+      ],
+      "developers": [
+        "HAMMER95"
+      ],
+      "genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

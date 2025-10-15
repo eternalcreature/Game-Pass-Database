@@ -1,0 +1,154 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Become a farming Witch and pioneer the range that has been mysteriously corrupted with Miasma. Discover the secret behind its appearance, grow plants to power up your spells, and use nature’s magic to heal the land.\r\n\r\nCreate Your Own Farm\r\nBuild your very own homestead from the ground up. Discover new plants and tend to your ever-growing garden to heal the land and make it your own.\r\n\r\nVenture into the Miasma and Discover Its Secrets\r\nSurvive the deathly Miasma, where dangerous warped creatures roam free, and explore it to find its secrets.\r\n\r\nFind new powerful plants and spells to grow your garden\r\nBring back new plants and spells, grow your homestead, then journey even deeper into the corrupted land in search of new seeds, recipes, and knowledge.\r\n\r\nBecome an All-Powerful Witch and Wield Nature’s Magic to Heal the World\r\nTap into the strength of nature to craft spells and ready yourself for the mysterious challenges ahead as you work with your friendly cat familiar, Huckleberry to beat back the deathly Miasma.",
+  "developerName": "Serenity Forge",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 7200993280,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N7THWLZZBWR",
+  "productKind": "Game",
+  "publisherName": "Skybound Games",
+  "ratingCount": 233,
+  "releaseDate": "2023-04-21T15:00:00.0000000Z",
+  "shortDescription": "Become a farming Witch and pioneer the range that has been mysteriously corrupted with Miasma. Discover the secret behind its appearance, grow plants to power up your spells, and use nature’s magic to heal the land.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T5RVLH1D4LJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B468TMTZ39S6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Homestead Arcana",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-04-21T15:00:00Z",
+      "exitDateUTC": "2025-04-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-04-21T15:00:00Z",
+      "exitDateUTC": "2025-04-16T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-04-21T15:00:00Z",
+      "exitDateUTC": "2025-04-16T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-04-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "HOMESTEADARCANA",
+    "xboxTitleId": 1966804514,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

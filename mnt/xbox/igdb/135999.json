@@ -1,0 +1,86 @@
+{
+  "id": 135999,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 7,
+      "name": "Music"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 316779,
+      "company": {
+        "id": 10190,
+        "name": "Monstars"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 316780,
+      "company": {
+        "id": 13246,
+        "name": "Resonair"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 316781,
+      "company": {
+        "id": 27261,
+        "name": "Stage Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 316782,
+      "company": {
+        "id": 27260,
+        "name": "Enhance"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Tetris Effect: Connected",
+  "parent_game": 103221,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tetris-effect-connected"
+}

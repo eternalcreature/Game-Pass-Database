@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 6803,
+    "specific_id": 6803,
+    "title": "Halo 5: Guardians",
+    "store_title": "Halo 5: Guardians",
+    "pid": "BRRC2BP0G9P0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRRC2BP0G9P0"
+      ]
+    ],
+    "original_release_date": "2015-10-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "343 Industries"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 6803,
+      "name": "Halo 5: Guardians",
+      "url": "https://www.igdb.com/games/halo-5-guardians",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "343 Industries"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

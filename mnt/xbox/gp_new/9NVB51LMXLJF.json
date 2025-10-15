@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 73,
+    "specific_id": 73,
+    "title": "Mass Effect",
+    "store_title": "Mass Effect\u2122",
+    "pid": "9NVB51LMXLJF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV5N90RDT0SH"
+    ],
+    "sku_groups": [
+      [
+        "9NVB51LMXLJF"
+      ],
+      [
+        "BV5N90RDT0SH"
+      ]
+    ],
+    "original_release_date": "2007-11-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts ",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 73,
+      "name": "Mass Effect",
+      "url": "https://www.igdb.com/games/mass-effect",
+      "publishers": [
+        "Electronic Arts",
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "BioWare",
+        "BioWare Edmonton"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

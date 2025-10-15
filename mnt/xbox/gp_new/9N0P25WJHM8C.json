@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 204634,
+    "specific_id": 204634,
+    "title": "The Alters",
+    "store_title": "The Alters",
+    "pid": "9N0P25WJHM8C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0P25WJHM8C"
+      ]
+    ],
+    "original_release_date": "2025-06-13",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-13",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-13",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "11 bit studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204634,
+      "name": "The Alters",
+      "url": "https://www.igdb.com/games/the-alters",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "11 bit studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,121 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Intense Violence",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph outbreak. Crash-landed on the frozen planet of Tau Volantis, Isaac must comb the harsh environment for raw materials and scavenged parts. He will then put his engineering skills to the ultimate test to create and customize weapons and survival tools. The ice planet holds the key to ending the Necromorph plague, but first Isaac must overcome avalanches, treacherous ice-climbs, and the violent wilderness. Facing evolved enemies and the brutal elements, Isaac can choose to team up, not only for his own survival, but for that of mankind’s. Play together with a friend or alone as Isaac Clarke using the seamless drop in, drop out co-op functionality.  Amplify the action with Kinect and add voice to your arsenal in single player or co-op.• Play the full campaign in online co-op or single player • Create custom weapons• Add voice to the action with Kinect",
+  "developerName": "Visceral",
+  "editions": [],
+  "franchiseId": "DEADSPACE",
+  "franchiseName": "Dead Space",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 17167327232,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BP73LMGB1DFD",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 296,
+  "releaseDate": "2013-02-06T00:00:00.0000000Z",
+  "shortDescription": "Dead Space 3 brings Isaac Clarke and merciless soldier John Carver on a journey across space to discover the source of the Necromorph plague and uncover the secrets that lay within Tau Volantis.  Play alone as Isaac Clarke or with a friend as John Carver in seamless drop in, drop out co-op feature. Amplify the action with Kinect and add voice to your arsenal in single player or co-op.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3V00HF220FR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dead Space™ 3",
+  "xCloudProperties": {
+    "xCloudId": "DEADSPACE3",
+    "xboxTitleId": 840545531,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DEADSPACE3",
+    "xboxTitleId": 840545531,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

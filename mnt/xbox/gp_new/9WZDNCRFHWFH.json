@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 4839,
+    "specific_id": 4839,
+    "title": "Halo: Spartan Assault",
+    "store_title": "Halo: Spartan Assault",
+    "pid": "9WZDNCRFHWFH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV0K9LMLQ9W5"
+    ],
+    "sku_groups": [
+      [
+        "9WZDNCRFHWFH"
+      ],
+      [
+        "BV0K9LMLQ9W5"
+      ]
+    ],
+    "original_release_date": "2013-07-18",
+    "release_date": null,
+    "platforms": [
+      "MobileDevice",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Microsoft Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4839,
+      "name": "Halo: Spartan Assault",
+      "url": "https://www.igdb.com/games/halo-spartan-assault",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "343 Industries",
+        "Vanguard Entertainment"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

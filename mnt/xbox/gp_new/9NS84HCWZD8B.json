@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 22344,
+    "specific_id": 22344,
+    "title": "Rise of Nations: Extended Edition",
+    "store_title": "Rise of Nations: Extended Edition",
+    "pid": "9NS84HCWZD8B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NS84HCWZD8B"
+      ]
+    ],
+    "original_release_date": "2003-05-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Big Huge Games & SkyBox Labs"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 22344,
+      "name": "Rise of Nations: Extended Edition",
+      "url": "https://www.igdb.com/games/rise-of-nations-extended-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Big Huge Games",
+        "Skybox Labs"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 121767,
+    "specific_id": 121767,
+    "title": "The Big Con",
+    "store_title": "The Big Con",
+    "pid": "9P01R01ZJ9BX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P01R01ZJ9BX"
+      ]
+    ],
+    "original_release_date": "2021-08-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-06-01",
+        "removed": "2025-05-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-01",
+        "removed": "2025-05-16"
+      },
+      "PC": {
+        "added": "2023-06-01",
+        "removed": "2025-05-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Skybound Games",
+    "developer": "Mighty Yell Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 121767,
+      "name": "The Big Con",
+      "url": "https://www.igdb.com/games/the-big-con",
+      "publishers": [
+        "Mighty Yell",
+        "Skybound Games"
+      ],
+      "developers": [
+        "Mighty Yell"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

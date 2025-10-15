@@ -1,0 +1,73 @@
+{
+  "id": 136993,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 106240,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 106241,
+      "company": {
+        "id": 937,
+        "name": "WB Games Montréal"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Gotham Knights",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/gotham-knights"
+}

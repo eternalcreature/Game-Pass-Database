@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 217008,
+    "specific_id": 217008,
+    "title": "Hauntii",
+    "store_title": "Hauntii",
+    "pid": "9N9DVL82PR0D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N9DVL82PR0D"
+      ]
+    ],
+    "original_release_date": "2024-05-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-23",
+        "removed": "2025-05-16"
+      },
+      "Ultimate": {
+        "added": "2024-05-23",
+        "removed": "2025-05-16"
+      },
+      "PC": {
+        "added": "2024-05-23",
+        "removed": "2025-05-16"
+      },
+      "Premium": {
+        "added": "2024-12-04",
+        "removed": "2025-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia",
+      "Family & kids"
+    ],
+    "publisher": "Firestoke",
+    "developer": "Moonloop Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217008,
+      "name": "Hauntii",
+      "url": "https://www.igdb.com/games/hauntii",
+      "publishers": [
+        "Firestoke"
+      ],
+      "developers": [
+        "Moonloop Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

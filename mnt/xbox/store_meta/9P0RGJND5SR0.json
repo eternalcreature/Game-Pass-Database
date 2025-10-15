@@ -1,0 +1,245 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2.4,
+  "badges": [
+    {
+      "type": 10
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 5
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-6)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-6)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure",
+    "Classics",
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "MONOPOLY, in a way you’ve never seen before. With shorter rounds, race other players across the chaotic streets of Monopoly City, collect resources, buy and upgrade properties, mess with your opponents, and avoid their tricks to win the race for riches.\r\n\r\nIn this race for fame and fortune, the rules have changed slightly:\r\n•\tNo more board! Roam the streets of Monopoly City to collect money, water, and electricity.\r\n•\t20 NEW playable characters inspired by classic MONOPOLY tokens.\r\n•\tDiscover 4 unique environments, each with several levels and layouts.\r\n•\tPlay with up to 6 players online or locally. \r\n•\tGet power-ups from the Community Chests! Use them to mess with your opponents and gain an advantage to win.\r\n\r\nThis is Madness!",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0QH5H",
+    "nakuconsole"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 3593928704,
+  "optimalSatisfyingPassId": "CFQ7TTC0QH5H",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P0RGJND5SR0",
+  "productKind": "Game",
+  "publisherName": "Ubisoft",
+  "ratingCount": 45,
+  "releaseDate": "2021-12-09T05:00:00.0000000Z",
+  "shortDescription": "Rediscover the MONOPOLY you love in a way you’ve never seen before. With shorter rounds, race other players across the chaotic streets of Monopoly City, collect resources, buy and upgrade properties, mess with your opponents and avoid their tricks to win the race for riches. This is Madness!\r\n",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V750C8FB64B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "04/21/2099 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VJ3QCHQ2HGJ",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9WTBFR8H472V",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "Unknown",
+          "productId": "CFQ7TTC0QH5H"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "endDateUtc": "04/21/2099 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Q5K80SGQRJV",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9W53HD9QKS3S",
+        "discountPercentage": 20.006668,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "Unknown",
+          "productId": "CFQ7TTC0QH5H"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "04/21/2099 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B2F00DB71ZS2",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "04/21/2099 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 3
+  },
+  "title": "Monopoly Madness",
+  "passMetadataByPassProductId": {
+    "nakuconsole": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0QH5H": {}
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "MONOPOLYMADNESS",
+    "xboxTitleId": 2136035101,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

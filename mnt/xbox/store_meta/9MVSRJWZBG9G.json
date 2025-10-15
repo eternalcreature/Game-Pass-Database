@@ -1,0 +1,171 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.3,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "CoopSupportLocal": "Local co-op",
+    "CoopSupportOnline": "Online co-op",
+    "LocalMultiplayer": "Local multiplayer",
+    "OnlineMultiplayerWithGold": "Online multiplayer",
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Mature Sexual Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "TRAPPED IN THE REALM OF DARKNESS\r\n\r\nThe Imperial Battle College has lost contact with the Battlespire, an elite training center hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire’s staff dead and the gate back to Tamriel blocked With the facility under siege by vile daedra, the only way out is to go deep into darkness and into the Daedric Realms.",
+  "developerName": "Bethesda Game Studios",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 861167616,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MVSRJWZBG9G",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 23,
+  "releaseDate": "2022-08-18T00:00:00.0000000Z",
+  "shortDescription": "TRAPPED IN THE REALM OF DARKNESS\r\n\r\nThe Imperial Battle College has lost contact with the Battlespire, an elite training center hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire’s staff dead and the gate back to Tamriel blocked With the facility under siege by vile daedra, the only way out is to go deep into darkness and into the Daedric Realms.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4X023ZF7ZS2",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 5.99,
+        "msrp": 5.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VGT97V28G0H",
+        "discountPercentage": 20.03339,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 4.79,
+        "msrp": 5.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SPHCVPST4M5",
+        "discountPercentage": 20.03339,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 4.79,
+        "msrp": 5.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B2TLNF4GJTRJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 5.99,
+        "msrp": 5.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "An Elder Scrolls Legend: Battlespire",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-08-18T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-08-18T16:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

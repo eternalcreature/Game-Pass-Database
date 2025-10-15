@@ -1,0 +1,140 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NGP921N0C15"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Airborne Kingdom is a stunning airborne city building and management game. Embark on a journey as a small kingdom to expand your population, researching new technologies and buildings, and forging alliances with terrestrial kingdoms. Each journey will begin on a unique procedurally-generated map encompassing three distinct areas with 12 cities to discover.\r\n\r\nSoar through the skies as you complete quests, gather and manage resources, and work to keep your kingdom balanced both literally and in service of the needs and desires of your workers. Ultimately it is up to you to unite all of the kingdoms together into a single alliance guided along by the legendary Airborne Kingdom.\r\n\r\n\r\n",
+  "developerName": "The Wandering Band",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1492979712,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NCX7DGDZGF4",
+  "productKind": "Game",
+  "publisherName": "Freedom Games",
+  "ratingCount": 213,
+  "releaseDate": "2021-11-09T06:00:00.0000000Z",
+  "shortDescription": "Airborne Kingdom — the sky city builder. Grow your unique town among the clouds, and fly it across a wide-open landscape. Explore the skies to restore serenity to the world below!\r\n",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2RJ7DG8LPMG",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VV5GGXNDSKJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Airborne Kingdom",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-08-10T00:00:00Z",
+      "exitDateUTC": "2024-08-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-08-10T00:00:00Z",
+      "exitDateUTC": "2024-08-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-08-10T00:00:00Z",
+      "exitDateUTC": "2024-08-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "AIRBORNEKINGDOM",
+    "xboxTitleId": 1718032869,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

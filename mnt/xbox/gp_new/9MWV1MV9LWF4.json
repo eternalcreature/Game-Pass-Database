@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 172023,
+    "specific_id": 172023,
+    "title": "My Friendly Neighborhood",
+    "store_title": "My Friendly Neighborhood",
+    "pid": "9MWV1MV9LWF4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MWV1MV9LWF4"
+      ]
+    ],
+    "original_release_date": "2023-07-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "DreadXP",
+    "developer": "John Szymanski & Evan Szymanski"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 172023,
+      "name": "My Friendly Neighborhood",
+      "url": "https://www.igdb.com/games/my-friendly-neighborhood",
+      "publishers": [
+        "DreadXP"
+      ],
+      "developers": [
+        "Evan Szymanski",
+        "John Szymanski"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 233585,
+    "specific_id": 233585,
+    "title": "Hi-Fi Rush",
+    "store_title": "Hi-Fi RUSH",
+    "pid": "9NFTC552K3GJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFTC552K3GJ"
+      ]
+    ],
+    "original_release_date": "2023-01-25",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-01-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-01-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-01-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Tango Gameworks"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 233585,
+      "name": "Hi-Fi Rush",
+      "url": "https://www.igdb.com/games/hi-fi-rush",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Tango Gameworks"
+      ],
+      "genres": [
+        "Music",
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

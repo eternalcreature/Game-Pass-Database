@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 217815,
+    "specific_id": 217815,
+    "title": "Call of Duty: Warzone",
+    "store_title": "Call of Duty\u00ae: Warzone\u2122",
+    "pid": "9NNFG8BQRCXL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NNFG8BQRCXL"
+      ]
+    ],
+    "original_release_date": "2022-11-16",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-04-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-150)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217815,
+      "name": "Call of Duty: Warzone",
+      "url": "https://www.igdb.com/games/call-of-duty-warzone--2",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Infinity Ward"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

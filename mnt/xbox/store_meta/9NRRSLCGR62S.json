@@ -1,0 +1,146 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Language",
+      "Mild Blood",
+      "Mild Suggestive Themes",
+      "Alcohol And Tobacco Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "One fine fall day, Tess Devine and her mother, Opal, discover a cache of old notes and letters carefully stashed away in the attic of their house. Hints of deep-rooted family secrets, decades-old burglaries, a lost treasure somewhere near the Canadian border... What they uncover suggests a much darker mystery, best left well enough alone.\r\n\r\nBut that’s not going to happen.\r\n\r\nIn Open Roads, Tess and Opal embark on a road trip adventure to explore a series of long-abandoned family properties, unearthing the past. They’ll search the ruins of these places that hold buried memories, things Opal has tried for years to forget. And in this search, they'll discover not just the truth they've been seeking, but each other.\r\n\r\nFeaturing star performances by Keri Russell (The Americans, Star Wars: Rise of Skywalker) and Kaitlyn Dever (Booksmart, Uncharted 4).\r\n\r\nFeatures:\r\n• Experience the story of Open Roads as 16-year-old Tess Devine, on a road trip with her mother to discover what has been left behind in evocative places forgotten to time.\r\n• Bask in classic road trip vibes as you chill in the car en route to your next destination, fiddling with the radio and chatting with your mom.\r\n• A groundbreaking art style melds detailed first-person environments with beautifully hand-animated characters, bringing the adventure to life.\r\n• A unique and engaging interactive dialogue system moves the narrative along, exposing character flaws, secrets, and buried truths.",
+  "developerName": "Open Roads Team",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 9282211840,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NRRSLCGR62S",
+  "productKind": "Game",
+  "publisherName": "Annapurna Interactive",
+  "ratingCount": 268,
+  "releaseDate": "2024-03-28T16:00:00.0000000Z",
+  "shortDescription": "Long-lost family secrets. Hints of a hidden fortune. And miles to go before they sleep. Tess Devine’s relationship with her mom has never been easy, but they’re about to set out together on a journey into the past that they’ll never forget.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T0HS1HD8NNR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9R70K3K2HGQ5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Open Roads",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2024-03-28T16:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-03-28T16:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-03-28T16:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-10-02T00:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "OPENROADS",
+    "xboxTitleId": 1762554040,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

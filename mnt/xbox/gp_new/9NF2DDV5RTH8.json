@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 117974,
+    "specific_id": 117974,
+    "title": "The Swords of Ditto: Mormo's Curse",
+    "store_title": "The Swords of Ditto: Mormo's Curse",
+    "pid": "9NF2DDV5RTH8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NF2DDV5RTH8"
+      ]
+    ],
+    "original_release_date": "2018-04-24",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-10-15",
+        "removed": "2021-10-16"
+      },
+      "Ultimate": {
+        "added": "2020-10-15",
+        "removed": "2021-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "onebitbeyond"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 117974,
+      "name": "The Swords of Ditto: Mormo's Curse",
+      "url": "https://www.igdb.com/games/the-swords-of-ditto-mormos-curse",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "onebitbeyond"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

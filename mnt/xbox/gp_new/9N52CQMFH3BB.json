@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 107198,
+    "specific_id": 107198,
+    "title": "UnderMine",
+    "store_title": "UnderMine",
+    "pid": "9N52CQMFH3BB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N52CQMFH3BB"
+      ]
+    ],
+    "original_release_date": "2019-08-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-06",
+        "removed": "2021-08-01"
+      },
+      "Ultimate": {
+        "added": "2020-08-06",
+        "removed": "2021-08-01"
+      },
+      "PC": {
+        "added": "2020-08-06",
+        "removed": "2021-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "Thorium Entertainment",
+    "developer": "Thorium Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107198,
+      "name": "UnderMine",
+      "url": "https://www.igdb.com/games/undermine--1",
+      "publishers": [
+        "Fandom"
+      ],
+      "developers": [
+        "Thorium"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 25580,
+    "specific_id": 25580,
+    "title": "Forager",
+    "store_title": "Forager",
+    "pid": "9MV2S7Q5PHSW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P5SFDNW6V13"
+    ],
+    "sku_groups": [
+      [
+        "9MV2S7Q5PHSW"
+      ],
+      [
+        "9P5SFDNW6V13"
+      ]
+    ],
+    "original_release_date": "2019-04-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-07-16",
+        "removed": "2024-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-07-16",
+        "removed": "2024-12-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Humble Games",
+    "developer": "HopFrog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25580,
+      "name": "Forager",
+      "url": "https://www.igdb.com/games/forager",
+      "publishers": [
+        "Humble Bundle",
+        "Humble Games"
+      ],
+      "developers": [
+        "Hop Frog",
+        "HopFrog"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

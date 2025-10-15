@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 102420,
+    "specific_id": 102420,
+    "title": "Dicey Dungeons",
+    "store_title": "Dicey Dungeons",
+    "pid": "9PC4C9NLP3ZD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PC4C9NLP3ZD"
+      ]
+    ],
+    "original_release_date": "2019-08-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-11",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2021-11-11",
+        "removed": "2024-11-16"
+      },
+      "Console": {
+        "added": "2021-11-11",
+        "removed": "2024-11-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Distractionware Limited",
+    "developer": "Distractionware Limited"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 102420,
+      "name": "Dicey Dungeons",
+      "url": "https://www.igdb.com/games/dicey-dungeons",
+      "publishers": [
+        "Distractionware",
+        "Terry Cavanagh"
+      ],
+      "developers": [
+        "Terry Cavanagh"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

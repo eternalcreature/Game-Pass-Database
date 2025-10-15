@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 64480,
+    "specific_id": 64480,
+    "title": "Wheel of Fortune",
+    "store_title": "Wheel Of Fortune\u00ae",
+    "pid": "BR76VBTV0NK0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR76VBTV0NK0"
+      ]
+    ],
+    "original_release_date": "2017-11-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-3)"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 64480,
+      "name": "Wheel of Fortune",
+      "url": "https://www.igdb.com/games/wheel-of-fortune--17",
+      "publishers": [
+        "Nordic Games Publishing",
+        "Sony Online Entertainment",
+        "THQ Inc."
+      ],
+      "developers": [
+        "Pipeworks Software"
+      ],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [
+        "Non-fiction",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

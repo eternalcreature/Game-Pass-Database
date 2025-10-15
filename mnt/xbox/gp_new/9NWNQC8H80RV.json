@@ -1,0 +1,122 @@
+{
+  "basic_info": {
+    "base_id": 248294,
+    "specific_id": 141533,
+    "title": "Loop Hero: Deluxe Edition",
+    "store_title": "Loop Hero",
+    "pid": "9NWNQC8H80RV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NWNQC8H80RV"
+      ]
+    ],
+    "original_release_date": "2021-03-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-04-04",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2023-04-04",
+        "removed": "2024-10-01"
+      },
+      "Console": {
+        "added": "2023-04-04",
+        "removed": "2024-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Four Quarters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 248294,
+      "name": "Loop Hero: Deluxe Edition",
+      "url": "https://www.igdb.com/games/loop-hero-deluxe-edition",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Four Quarters"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 248294,
+      "name": "Loop Hero: Deluxe Edition",
+      "url": "https://www.igdb.com/games/loop-hero-deluxe-edition",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Four Quarters"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

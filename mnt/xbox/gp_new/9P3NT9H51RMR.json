@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "base_id": 252683,
+    "specific_id": 194464,
+    "title": "Escape Academy: Escape From the Past",
+    "store_title": "Escape Academy",
+    "pid": "9P3NT9H51RMR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3NT9H51RMR"
+      ]
+    ],
+    "original_release_date": "2022-07-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-14",
+        "removed": "2025-01-16"
+      },
+      "Ultimate": {
+        "added": "2022-07-14",
+        "removed": "2025-01-16"
+      },
+      "Console": {
+        "added": "2022-07-14",
+        "removed": "2025-01-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "iam8bit, Inc.",
+    "developer": "Coin Crew Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252683,
+      "name": "Escape Academy: Escape From the Past",
+      "url": "https://www.igdb.com/games/escape-academy-escape-from-the-past",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    },
+    "specific": {
+      "id": 252683,
+      "name": "Escape Academy: Escape From the Past",
+      "url": "https://www.igdb.com/games/escape-academy-escape-from-the-past",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 11147,
+    "specific_id": 11147,
+    "title": "Rare Replay",
+    "store_title": "Rare Replay",
+    "pid": "C22T53SQ7FLM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C22T53SQ7FLM"
+      ]
+    ],
+    "original_release_date": "2015-08-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-06-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-32)",
+      "XblOnlineCoop": "Online co-op (2-32)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Rare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11147,
+      "name": "Rare Replay",
+      "url": "https://www.igdb.com/games/rare-replay",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Puzzle",
+        "Racing",
+        "Quiz/Trivia",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

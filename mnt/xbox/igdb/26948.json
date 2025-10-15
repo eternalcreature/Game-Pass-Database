@@ -1,0 +1,65 @@
+{
+  "id": 26948,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 43944,
+      "company": {
+        "id": 115,
+        "name": "Codemasters"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 72159,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dirt 4",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 32,
+      "name": "Non-fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dirt-4"
+}

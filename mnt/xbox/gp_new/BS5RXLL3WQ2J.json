@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 2177,
+    "specific_id": 2177,
+    "title": "LEGO City Undercover",
+    "store_title": "LEGO\u00ae CITY Undercover",
+    "pid": "BS5RXLL3WQ2J",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS5RXLL3WQ2J"
+      ]
+    ],
+    "original_release_date": "2013-03-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "TT Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2177,
+      "name": "LEGO City Undercover",
+      "url": "https://www.igdb.com/games/lego-city-undercover",
+      "publishers": [
+        "Nintendo"
+      ],
+      "developers": [
+        "TT Fusion"
+      ],
+      "genres": [
+        "Platform",
+        "Racing",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

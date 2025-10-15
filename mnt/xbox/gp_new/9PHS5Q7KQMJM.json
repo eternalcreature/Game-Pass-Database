@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 55322,
+    "specific_id": 55322,
+    "title": "Pathologic 2",
+    "store_title": "Pathologic 2",
+    "pid": "9PHS5Q7KQMJM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PHS5Q7KQMJM"
+      ]
+    ],
+    "original_release_date": "2019-05-23",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Ice-Pick Lodge"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55322,
+      "name": "Pathologic 2",
+      "url": "https://www.igdb.com/games/pathologic-2",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Ice-Pick Lodge"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Horror",
+        "Thriller",
+        "Survival",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

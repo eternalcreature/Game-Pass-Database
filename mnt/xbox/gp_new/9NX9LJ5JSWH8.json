@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 116650,
+    "specific_id": 116650,
+    "title": "Cyber Shadow",
+    "store_title": "Cyber Shadow",
+    "pid": "9NX9LJ5JSWH8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NX9LJ5JSWH8"
+      ]
+    ],
+    "original_release_date": "2021-01-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-01-26",
+        "removed": "2022-02-01"
+      },
+      "Ultimate": {
+        "added": "2021-01-26",
+        "removed": "2022-02-01"
+      },
+      "PC": {
+        "added": "2021-01-26",
+        "removed": "2022-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Yacht Club Games",
+    "developer": "Mechanical Head Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 116650,
+      "name": "Cyber Shadow",
+      "url": "https://www.igdb.com/games/cyber-shadow",
+      "publishers": [
+        "Yacht Club Games"
+      ],
+      "developers": [
+        "Mechanical Head Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

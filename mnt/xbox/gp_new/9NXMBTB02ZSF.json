@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "base_id": 239064,
+    "specific_id": 1020,
+    "title": "Grand Theft Auto V",
+    "store_title": "Grand Theft Auto V (Xbox Series X|S)",
+    "pid": "9NXMBTB02ZSF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N9RSV4F7ZR0",
+      "BPJ686W6S0NH"
+    ],
+    "sku_groups": [
+      [
+        "9N9RSV4F7ZR0"
+      ],
+      [
+        "9NXMBTB02ZSF"
+      ],
+      [
+        "BPJ686W6S0NH"
+      ]
+    ],
+    "original_release_date": "2013-09-17",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-04-15",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-30)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 239064,
+      "name": "Grand Theft Auto V",
+      "url": "https://www.igdb.com/games/grand-theft-auto-v--2",
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "developers": [
+        "Rockstar North"
+      ],
+      "genres": [
+        "Shooter",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 239064,
+      "name": "Grand Theft Auto V",
+      "url": "https://www.igdb.com/games/grand-theft-auto-v--2",
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "developers": [
+        "Rockstar North"
+      ],
+      "genres": [
+        "Shooter",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

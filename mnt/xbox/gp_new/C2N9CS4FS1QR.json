@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 11171,
+    "specific_id": 11171,
+    "title": "Tom Clancy's Ghost Recon: Wildlands",
+    "store_title": "Tom Clancy\u2019s Ghost Recon\u00ae Wildlands - Standard Edition",
+    "pid": "C2N9CS4FS1QR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PJ1PLJQ7QPN"
+    ],
+    "sku_groups": [
+      [
+        "9PJ1PLJQ7QPN"
+      ],
+      [
+        "C2N9CS4FS1QR"
+      ]
+    ],
+    "original_release_date": "2017-03-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-08-02",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Paris"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11171,
+      "name": "Tom Clancy's Ghost Recon: Wildlands",
+      "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Paris"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

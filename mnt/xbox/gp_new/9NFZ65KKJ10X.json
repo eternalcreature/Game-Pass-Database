@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "base_id": 145089,
+    "specific_id": 145089,
+    "title": "Nobody Saves the World",
+    "store_title": "Nobody Saves the World",
+    "pid": "9NFZ65KKJ10X",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFZ65KKJ10X"
+      ]
+    ],
+    "original_release_date": "2022-01-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      },
+      "Ultimate": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      },
+      "Console": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Drinkbox Studios",
+    "developer": "Drinkbox Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145089,
+      "name": "Nobody Saves the World",
+      "url": "https://www.igdb.com/games/nobody-saves-the-world",
+      "publishers": [
+        "Drinkbox Studios"
+      ],
+      "developers": [
+        "Drinkbox Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

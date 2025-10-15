@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 305180,
+    "specific_id": 305180,
+    "title": "I Am Your Beast",
+    "store_title": "I Am Your Beast",
+    "pid": "9PF9FQGH89WM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PF9FQGH89WM"
+      ]
+    ],
+    "original_release_date": "2024-09-10",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-09-02",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-02",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-09-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-09-02",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "Strange Scaffold",
+    "developer": "Strange Scaffold"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 305180,
+      "name": "I Am Your Beast",
+      "url": "https://www.igdb.com/games/i-am-your-beast",
+      "publishers": [
+        "Frosty Pop Games Inc.",
+        "Strange Scaffold"
+      ],
+      "developers": [
+        "Strange Scaffold"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Thriller"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

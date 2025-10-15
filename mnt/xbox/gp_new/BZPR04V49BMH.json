@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 7349,
+    "specific_id": 7349,
+    "title": "Mass Effect: Andromeda",
+    "store_title": "Mass Effect\u2122: Andromeda",
+    "pid": "BZPR04V49BMH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NK4NC5LFCQ7"
+    ],
+    "sku_groups": [
+      [
+        "9NK4NC5LFCQ7"
+      ],
+      [
+        "BZPR04V49BMH"
+      ]
+    ],
+    "original_release_date": "2017-03-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "CapabilityHDR": "HDR10",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7349,
+      "name": "Mass Effect: Andromeda",
+      "url": "https://www.igdb.com/games/mass-effect-andromeda--1",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare Montr\u00e9al"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

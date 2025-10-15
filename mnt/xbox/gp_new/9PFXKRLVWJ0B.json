@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 55,
+    "specific_id": 55,
+    "title": "The Elder Scrolls Adventures: Redguard",
+    "store_title": "The Elder Scrolls Adventures: Redguard",
+    "pid": "9PFXKRLVWJ0B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PFXKRLVWJ0B"
+      ]
+    ],
+    "original_release_date": "1998-10-31",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55,
+      "name": "The Elder Scrolls Adventures: Redguard",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-adventures-redguard",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Softworks"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

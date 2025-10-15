@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 150512,
+    "specific_id": 150512,
+    "title": "Two Point Campus",
+    "store_title": "Two Point Campus",
+    "pid": "9PCW1SMN9RGG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCW1SMN9RGG"
+      ]
+    ],
+    "original_release_date": "2022-08-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-09",
+        "removed": "2023-08-01"
+      },
+      "Ultimate": {
+        "added": "2022-08-09",
+        "removed": "2023-08-01"
+      },
+      "Console": {
+        "added": "2022-08-09",
+        "removed": "2023-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "Two Point Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 150512,
+      "name": "Two Point Campus",
+      "url": "https://www.igdb.com/games/two-point-campus",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Two Point Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

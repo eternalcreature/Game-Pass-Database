@@ -1,0 +1,66 @@
+{
+  "id": 14159,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 94333,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 103560,
+      "company": {
+        "id": 19281,
+        "name": "Square Enix Business Division 3"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 103561,
+      "company": {
+        "id": 426,
+        "name": "Disney Interactive Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue"
+}

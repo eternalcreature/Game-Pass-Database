@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 103020,
+    "specific_id": 103020,
+    "title": "Fallout 76",
+    "store_title": "Fallout 76",
+    "pid": "BS6WJ2L56B10",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NKGNMNK3K3Z"
+    ],
+    "sku_groups": [
+      [
+        "9NKGNMNK3K3Z"
+      ],
+      [
+        "BS6WJ2L56B10"
+      ]
+    ],
+    "original_release_date": "2018-11-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-07-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2020-07-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103020,
+      "name": "Fallout 76",
+      "url": "https://www.igdb.com/games/fallout-76",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

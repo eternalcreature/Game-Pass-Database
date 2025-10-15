@@ -1,0 +1,96 @@
+{
+  "id": 9112,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 35930,
+      "company": {
+        "id": 593,
+        "name": "The Adventure Company"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 73482,
+      "company": {
+        "id": 753,
+        "name": "Nordic Games Publishing"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 134127,
+      "company": {
+        "id": 2397,
+        "name": "King Art"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 134128,
+      "company": {
+        "id": 10075,
+        "name": "THQ Nordic"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 129774,
+      "company": {
+        "id": 7416,
+        "name": "Nordic Games Group"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Book of Unwritten Tales 2",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-book-of-unwritten-tales-2"
+}

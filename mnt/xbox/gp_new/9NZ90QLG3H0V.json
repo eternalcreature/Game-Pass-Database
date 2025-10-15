@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 38,
+    "specific_id": 38,
+    "title": "Dead Space 2",
+    "store_title": "Dead Space 2",
+    "pid": "9NZ90QLG3H0V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2PB7STLJGS0"
+    ],
+    "sku_groups": [
+      [
+        "9NZ90QLG3H0V"
+      ],
+      [
+        "C2PB7STLJGS0"
+      ]
+    ],
+    "original_release_date": "2011-01-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Visceral Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 38,
+      "name": "Dead Space 2",
+      "url": "https://www.igdb.com/games/dead-space-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Visceral Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 282566,
+    "specific_id": 282566,
+    "title": "Smite 2",
+    "store_title": "SMITE 2 (Game Preview)",
+    "pid": "9NV8W1KJSQLL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NV8W1KJSQLL"
+      ]
+    ],
+    "original_release_date": "2024-01-09",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Hi-Rez Studios",
+    "developer": "Titan Forge Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 282566,
+      "name": "Smite 2",
+      "url": "https://www.igdb.com/games/smite-2",
+      "publishers": [
+        "Hi-Rez Studios"
+      ],
+      "developers": [
+        "Titan Forge Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "MOBA"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

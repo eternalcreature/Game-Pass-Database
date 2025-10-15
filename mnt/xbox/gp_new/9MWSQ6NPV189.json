@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 68365,
+    "specific_id": 83848,
+    "title": "Until None Remain VR",
+    "store_title": "Those Who Remain",
+    "pid": "9MWSQ6NPV189",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NFC3G481KKQ"
+    ],
+    "sku_groups": [
+      [
+        "9MWSQ6NPV189"
+      ],
+      [
+        "9NFC3G481KKQ"
+      ]
+    ],
+    "original_release_date": "2020-05-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-16",
+        "removed": "2025-01-16"
+      },
+      "Ultimate": {
+        "added": "2024-01-16",
+        "removed": "2025-01-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Wired Productions",
+    "developer": "Camel 101"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 68365,
+      "name": "Until None Remain VR",
+      "url": "https://www.igdb.com/games/until-none-remain-vr",
+      "publishers": [
+        "D.W.S."
+      ],
+      "developers": [
+        "D.W.S."
+      ],
+      "genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    },
+    "specific": {
+      "id": 68365,
+      "name": "Until None Remain VR",
+      "url": "https://www.igdb.com/games/until-none-remain-vr",
+      "publishers": [
+        "D.W.S."
+      ],
+      "developers": [
+        "D.W.S."
+      ],
+      "genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

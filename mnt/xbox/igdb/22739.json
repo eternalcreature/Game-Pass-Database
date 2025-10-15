@@ -1,0 +1,123 @@
+{
+  "id": 22739,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 35,
+      "name": "Card & Board Game"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 155579,
+      "company": {
+        "id": 3928,
+        "name": "Ubisoft Chengdu"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 155580,
+      "company": {
+        "id": 697,
+        "name": "Ubisoft Bucharest"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 155581,
+      "company": {
+        "id": 398,
+        "name": "Ubisoft Shanghai"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 155582,
+      "company": {
+        "id": 3655,
+        "name": "Ubisoft Pune"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 155583,
+      "company": {
+        "id": 38,
+        "name": "Ubisoft Montreal"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 155584,
+      "company": {
+        "id": 822,
+        "name": "Ubisoft Singapore"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 155585,
+      "company": {
+        "id": 537,
+        "name": "Massive Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 238293,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Uno",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    }
+  ],
+  "url": "https://www.igdb.com/games/uno--1"
+}

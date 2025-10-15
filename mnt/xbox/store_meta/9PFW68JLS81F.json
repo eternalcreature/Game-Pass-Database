@@ -1,0 +1,123 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 2.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "It Lurks Below is a retro-styled, 2D, action-oriented, survival RPG by David Brevik. Create a custom character and choose from several different classes to delve deep into the mysteries of what evil lurks below. Dig down and explore the randomly generated levels, find random items, and combat deadly monsters to get the answers.\r\n\r\nThough this game looks similar to other games in the genre, it plays very differently. It is a true RPG, with many stats and character classes. It is very reminiscent of other games made by David Brevik such as Diablo, Diablo II, Hellgate: London and Marvel Heroes. With eight character classes to choose from, randomly generated levels, random stats on items, secret areas, bosses, a survival talent tree and three different play modes, it delivers a very different and unique gaming experience.\r\n\r\nAre you ready to find out what Lurks Below?\r\n",
+  "developerName": "Graybeard Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 64401408,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PFW68JLS81F",
+  "productKind": "Game",
+  "publisherName": "Graybeard Games",
+  "ratingCount": 226,
+  "releaseDate": "2020-08-06T00:00:00.0000000Z",
+  "shortDescription": "It Lurks Below is a retro-styled, 2D, action-oriented, survival RPG by David Brevik, creator of Diablo. A true RPG, with many stats and eight character-classes. Dig down and explore the randomly generated levels, find random items, and combat deadly monsters to get the answers.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QDQX3PTH9S8",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B40X81GQVRPW",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "It Lurks Below",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-08-06T00:00:00Z",
+      "exitDateUTC": "2021-08-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-08-06T00:00:00Z",
+      "exitDateUTC": "2021-08-01T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-08-06T00:00:00Z",
+      "exitDateUTC": "2021-08-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

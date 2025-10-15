@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 25657,
+    "specific_id": 25657,
+    "title": "Destiny 2",
+    "store_title": "Destiny 2",
+    "pid": "BPQ955FQFPH6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPQ955FQFPH6"
+      ]
+    ],
+    "original_release_date": "2017-09-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-22",
+        "removed": "2021-12-09"
+      },
+      "Ultimate": {
+        "added": "2020-09-22",
+        "removed": "2021-12-09"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Bungie",
+    "developer": "Bungie"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25657,
+      "name": "Destiny 2",
+      "url": "https://www.igdb.com/games/destiny-2",
+      "publishers": [
+        "Activision",
+        "Bungie"
+      ],
+      "developers": [
+        "Bungie"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

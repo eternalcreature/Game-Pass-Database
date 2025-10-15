@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 496,
+    "specific_id": 496,
+    "title": "Dead Rising 2",
+    "store_title": "Dead Rising 2",
+    "pid": "C3CSPBFVQ80K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3CSPBFVQ80K"
+      ]
+    ],
+    "original_release_date": "2010-09-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Capcom U.S.A., Inc",
+    "developer": "Mercenary Technology"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 496,
+      "name": "Dead Rising 2",
+      "url": "https://www.igdb.com/games/dead-rising-2",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Blue Castle Games",
+        "Capcom"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

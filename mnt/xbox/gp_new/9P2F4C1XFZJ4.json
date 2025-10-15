@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 252781,
+    "specific_id": 252781,
+    "title": "While the Iron\u2019s Hot",
+    "store_title": "While the Iron's Hot",
+    "pid": "9P2F4C1XFZJ4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P2F4C1XFZJ4"
+      ]
+    ],
+    "original_release_date": "2023-12-05",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-12-05",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2023-12-05",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2023-12-05",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Bontemps Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252781,
+      "name": "While the Iron\u2019s Hot",
+      "url": "https://www.igdb.com/games/while-the-irons-hot",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Bontemps Games"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

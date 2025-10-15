@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 114285,
+    "specific_id": 114285,
+    "title": "NBA 2K20",
+    "store_title": "NBA 2K20",
+    "pid": "9P9KN2G4M2W0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P9KN2G4M2W0"
+      ]
+    ],
+    "original_release_date": "2019-09-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "Visual Concepts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114285,
+      "name": "NBA 2K20",
+      "url": "https://www.igdb.com/games/nba-2k20",
+      "publishers": [
+        "2K Games",
+        "2K Sports"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

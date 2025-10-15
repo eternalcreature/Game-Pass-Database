@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 107170,
+    "specific_id": 107170,
+    "title": "Supermarket Shriek",
+    "store_title": "Supermarket Shriek",
+    "pid": "BRKXCB2MD7S8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRKXCB2MD7S8"
+      ]
+    ],
+    "original_release_date": "2019-06-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Racing & flying"
+    ],
+    "publisher": "Billy Goat Entertainment Ltd",
+    "developer": "Billy Goat Entertainment Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107170,
+      "name": "Supermarket Shriek",
+      "url": "https://www.igdb.com/games/supermarket-shriek",
+      "publishers": [
+        "PQube"
+      ],
+      "developers": [
+        "Billy Goat Entertainment"
+      ],
+      "genres": [
+        "Platform",
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

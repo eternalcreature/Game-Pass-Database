@@ -1,0 +1,74 @@
+{
+  "id": 118607,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 292120,
+      "company": {
+        "id": 6100,
+        "name": "Funselektor Labs"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 292121,
+      "company": {
+        "id": 4697,
+        "name": "Noodlecake Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 297603,
+      "company": {
+        "id": 15241,
+        "name": "DO Games"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Art of Rally",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/art-of-rally"
+}

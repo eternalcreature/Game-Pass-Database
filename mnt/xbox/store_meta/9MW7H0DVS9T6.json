@@ -1,0 +1,146 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 2.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Suggestive Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Explore the vast and beautiful world of Orcanon.\r\nVisit five different cities populated by unique creatures and solve more than 20 dangerous dungeons. With over 50 hours of gameplay and a range of fun mini-games - including shoot ‘em ups, an original fantasy-themed card game and challenging environmental puzzles.\r\n\r\n\r\nA grand tale of fate and sacrifice \r\nImmerse yourself in a fascinating narrative rife with betrayal, sacrifice and terrors. A story based around adult characters, Astria Ascending offers a more mature experience and extensive dialog.\r\n\r\n\r\nA rewarding turn-based combat system.\r\nFight over 200 different monsters in captivating turn-based combat. Collect and summon legendary beasts into the fight and build up your power to wield legendary Cosmo Breaks.\r\n\r\n\r\nMeet an unforgettable cast of characters \r\nPick from eight customisable player characters spanning a range of fantastical races and skills, and assemble a heroic team that must sacrifice everything to save the world. With 20 classes to pick from and an array of unique skills to command, their fates are doomed, but the world is not.\r\n\r\n\r\nA hand-drawn adventure crafted with skill and passion. \r\nFrom a team featuring developers from Final Fantasy, Nier Automata and Bravely Default, Astria Ascending includes full voice acting in Japanese and English, a traditionally animated fully hand-drawn 2D world and a dynamic weather system. ",
+  "developerName": "Artisan Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 22780469248,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MW7H0DVS9T6",
+  "productKind": "Game",
+  "publisherName": "Dear Villagers",
+  "ratingCount": 230,
+  "releaseDate": "2021-09-30T15:00:00.0000000Z",
+  "shortDescription": "As one of the Fated Eight, explore the world of Orcanon where twelve ancient beasts dwell, and fight against your destiny to save the world in this hand-drawn, turn-based RPG",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T66QHFQ9W12",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B14KKQXP8Z40",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Astria Ascending",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-09-30T15:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-09-30T15:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-09-30T15:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "ASTRIAASCENDING",
+    "xboxTitleId": 1926653926,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

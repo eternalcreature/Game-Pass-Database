@@ -1,0 +1,74 @@
+{
+  "id": 116166,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 101838,
+      "company": {
+        "id": 19866,
+        "name": "Maple Whispering Limited"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 121683,
+      "company": {
+        "id": 28837,
+        "name": "Freedom Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 139087,
+      "company": {
+        "id": 26352,
+        "name": "Afterburner Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Dreamscaper",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dreamscaper"
+}

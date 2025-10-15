@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 7351,
+    "specific_id": 7351,
+    "title": "Doom",
+    "store_title": "DOOM",
+    "pid": "C3QH42WRGM3R",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3QH42WRGM3R"
+      ]
+    ],
+    "original_release_date": "2016-05-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7351,
+      "name": "Doom",
+      "url": "https://www.igdb.com/games/doom--2",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 36911,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 86762,
+      "company": {
+        "id": 248,
+        "name": "Bandai Namco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 65642,
+      "company": {
+        "id": 1218,
+        "name": "Arc System Works"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Dragon Ball FighterZ",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dragon-ball-fighterz"
+}

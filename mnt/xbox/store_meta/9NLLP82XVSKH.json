@@ -1,0 +1,160 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls",
+      "Stick inversion"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Language",
+      "Comic Mischief"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Milo arrives on Earth to find that he's way too small, everybody's gone and a day hasn't passed since 1991!\r\nTeam up with the mysterious tinykin and use their unique powers to create ladders, bridges, explosions and a lot more!\r\nFind a way home through a sprawling ant-sized metropolis, and unravel Earth's biggest mystery!\r\n\r\n-Explore cities of ants, beetles and other insects built inside of a giant house\r\n-Meet characters everywhere you go and learn their stories and history\r\n-Catch over a hundred tinykin in each city, and use their special abilities to climb higher, break down doors and solve the city's problems!\r\n-Skateboard around on Milo's tiny soap-board! Jump, grind and hover around the house\r\n-Collect upgrades to improve Milo's bubble-pack, build out the Ardwin Museum and complete Ridmi's mysterious machine!",
+  "developerName": "Splashteam",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 4754112512,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NLLP82XVSKH",
+  "productKind": "Game",
+  "publisherName": "tinyBuild",
+  "ratingCount": 304,
+  "releaseDate": "2022-08-30T16:00:00.0000000Z",
+  "shortDescription": "Catch hundreds of tinykin and use their powers to bring Milo back to his home planet!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2Z4GFZG6WTC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V1S3F1VWC2F",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Tinykin",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-08-30T00:00:00Z",
+      "exitDateUTC": "2023-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-08-30T00:00:00Z",
+      "exitDateUTC": "2023-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-08-30T00:00:00Z",
+      "exitDateUTC": "2023-09-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "TINYKIN",
+    "xboxTitleId": 1727379133,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 10637,
+    "specific_id": 10637,
+    "title": "Offworld Trading Company",
+    "store_title": "Offworld Trading Company",
+    "pid": "9NQJTF424KPX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NQJTF424KPX"
+      ]
+    ],
+    "original_release_date": "2016-04-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-11",
+        "removed": "2024-08-16"
+      },
+      "Ultimate": {
+        "added": "2022-08-11",
+        "removed": "2024-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Stardock Entertainment",
+    "developer": "Mohawk Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10637,
+      "name": "Offworld Trading Company",
+      "url": "https://www.igdb.com/games/offworld-trading-company",
+      "publishers": [
+        "Stardock"
+      ],
+      "developers": [
+        "mohawk games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

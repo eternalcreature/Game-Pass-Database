@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 146395,
+    "specific_id": 146395,
+    "title": "Let's Build a Zoo",
+    "store_title": "Let's Build a Zoo",
+    "pid": "9P8N66DTG10T",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P8N66DTG10T"
+      ]
+    ],
+    "original_release_date": "2021-11-05",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-29",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-09-29",
+        "removed": "2024-10-01"
+      },
+      "Console": {
+        "added": "2022-09-29",
+        "removed": "2024-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "No More Robots",
+    "developer": "Springloaded"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146395,
+      "name": "Let's Build a Zoo",
+      "url": "https://www.igdb.com/games/lets-build-a-zoo",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "Springloaded"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

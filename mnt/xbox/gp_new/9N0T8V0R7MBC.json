@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 128097,
+    "specific_id": 128097,
+    "title": "Turnip Boy Commits Tax Evasion",
+    "store_title": "Turnip Boy Commits Tax Evasion",
+    "pid": "9N0T8V0R7MBC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0T8V0R7MBC"
+      ]
+    ],
+    "original_release_date": "2021-04-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-19",
+        "removed": "2023-10-16"
+      },
+      "Ultimate": {
+        "added": "2022-04-19",
+        "removed": "2023-10-16"
+      },
+      "Console": {
+        "added": "2022-04-19",
+        "removed": "2023-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "Graffiti Games",
+    "developer": "Snoozy Kazoo"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 128097,
+      "name": "Turnip Boy Commits Tax Evasion",
+      "url": "https://www.igdb.com/games/turnip-boy-commits-tax-evasion",
+      "publishers": [
+        "Graffiti Games"
+      ],
+      "developers": [
+        "Snoozy Kazoo"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

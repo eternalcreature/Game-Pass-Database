@@ -1,0 +1,61 @@
+{
+  "id": 119295,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 136447,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 106933,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Microsoft Flight Simulator",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 32,
+      "name": "Non-fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/microsoft-flight-simulator"
+}

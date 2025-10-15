@@ -1,0 +1,69 @@
+{
+  "id": 12511,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 97023,
+      "company": {
+        "id": 6542,
+        "name": "Airship Syndicate"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 97022,
+      "company": {
+        "id": 10075,
+        "name": "THQ Nordic"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Battle Chasers: Nightwar",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/battle-chasers-nightwar"
+}

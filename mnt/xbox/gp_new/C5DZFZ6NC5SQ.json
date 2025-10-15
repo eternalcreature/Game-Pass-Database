@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 212,
+    "specific_id": 212,
+    "title": "Br\u00fctal Legend",
+    "store_title": "Br\u00fctal Legend",
+    "pid": "C5DZFZ6NC5SQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C5DZFZ6NC5SQ"
+      ]
+    ],
+    "original_release_date": "2009-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-10-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Double Fine Productions",
+    "developer": "Double Fine Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 212,
+      "name": "Br\u00fctal Legend",
+      "url": "https://www.igdb.com/games/brutal-legend",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Music",
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

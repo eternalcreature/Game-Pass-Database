@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 200551,
+    "specific_id": 200551,
+    "title": "Zenless Zone Zero",
+    "store_title": "Zenless Zone Zero",
+    "pid": "9N4X0WFZ2STM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4X0WFZ2STM"
+      ]
+    ],
+    "original_release_date": "2025-05-22",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "COGNOSPHERE PTE. LTD.",
+    "developer": "Shanghai JiaoZhai Technology Co.,Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 200551,
+      "name": "Zenless Zone Zero",
+      "url": "https://www.igdb.com/games/zenless-zone-zero",
+      "publishers": [
+        "Cognosphere",
+        "HoYoverse",
+        "miHoYo"
+      ],
+      "developers": [
+        "miHoYo"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

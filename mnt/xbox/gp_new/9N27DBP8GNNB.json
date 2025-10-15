@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 5317,
+    "specific_id": 5317,
+    "title": "Ninja Gaiden 3: Razor's Edge",
+    "store_title": "NINJA GAIDEN 3: Razor's Edge",
+    "pid": "9N27DBP8GNNB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N27DBP8GNNB"
+      ]
+    ],
+    "original_release_date": "2012-03-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "PC": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": "KOEI TECMO GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5317,
+      "name": "Ninja Gaiden 3: Razor's Edge",
+      "url": "https://www.igdb.com/games/ninja-gaiden-3-razor-s-edge",
+      "publishers": [
+        "Koei Tecmo Games",
+        "Nintendo"
+      ],
+      "developers": [
+        "Team NINJA",
+        "Tecmo"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,123 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Basic input remapping",
+      "Playable with mouse only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 4.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Tyranny – Gold Edition is the ultimate Tyranny experience and includes every Tyranny Expansion and all additional DLC content. Experience a story-driven RPG where your choices mean all the difference in a world conquered by evil.\r\n\r\n- Tyranny (Base game)\r\n- Tyranny - Portrait Pack\r\n- Tyranny - Deluxe Edition Upgrade Pack\r\n- Tyranny - Tales from the Tears\r\n- Tyranny - Bastard's Wound\r\n- Tyranny - Official Soundtrack Deluxe Edition",
+  "developerName": "Obsidian Entertainment",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 18576621568,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NXJ8VXN1TR6",
+  "productKind": "Game",
+  "publisherName": "Paradox Interactive",
+  "ratingCount": 13,
+  "releaseDate": "2019-06-09T07:00:00.0000000Z",
+  "shortDescription": "Tyranny – Gold Edition is the ultimate Tyranny experience and includes every Tyranny Expansion and all additional DLC content. Experience a story-driven RPG where your choices mean all the difference in a world conquered by evil.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B27JG0RK2W3W",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.49,
+        "msrp": 49.49,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9N5NLW9P505R",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.49,
+        "msrp": 49.49,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Tyranny - Gold Edition",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

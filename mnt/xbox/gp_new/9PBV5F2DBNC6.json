@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 47157,
+    "specific_id": 47157,
+    "title": "Harold Halibut",
+    "store_title": "Harold Halibut",
+    "pid": "9PBV5F2DBNC6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PBV5F2DBNC6"
+      ]
+    ],
+    "original_release_date": "2024-04-16",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-16",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2024-04-16",
+        "removed": "2025-04-16"
+      },
+      "PC": {
+        "added": "2024-04-16",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-11-06",
+        "removed": "2025-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Slow Bros.",
+    "developer": "Slow Bros."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 47157,
+      "name": "Harold Halibut",
+      "url": "https://www.igdb.com/games/harold-halibut",
+      "publishers": [
+        "Slow Bros."
+      ],
+      "developers": [
+        "Slow Bros."
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

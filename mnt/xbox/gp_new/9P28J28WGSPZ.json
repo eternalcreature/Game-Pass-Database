@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 1314,
+    "specific_id": 1314,
+    "title": "Medal of Honor: Airborne",
+    "store_title": "Medal of Honor Airborne\u2122",
+    "pid": "9P28J28WGSPZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C43H00X6KZRJ"
+    ],
+    "sku_groups": [
+      [
+        "9P28J28WGSPZ"
+      ],
+      [
+        "C43H00X6KZRJ"
+      ]
+    ],
+    "original_release_date": "2007-09-04",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts ",
+    "developer": "EALA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1314,
+      "name": "Medal of Honor: Airborne",
+      "url": "https://www.igdb.com/games/medal-of-honor-airborne",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Los Angeles"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

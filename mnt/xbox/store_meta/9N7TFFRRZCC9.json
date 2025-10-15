@@ -1,0 +1,131 @@
+{
+  "availableOn": [
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4,
+  "badges": [
+    {
+      "type": 3
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol Reference",
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Genshin Impact is an open-world adventure RPG. In the game, set forth on a journey across a fantasy world called Teyvat. In this vast world, you can explore seven nations, meet a diverse cast of characters with unique personalities and abilities, and fight powerful enemies together with them, all on the way during your quest to find your lost sibling. You can also wander freely, immersing yourself in a world filled with life, and let your sense of wonder lead you to uncover all of its mysteries... Until you are at long last reunited with your lost sibling and bear witness to the culmination of all things at the end of your journey.\n\n- Genshin Impact is a free-to-play game. You do not need to purchase Game Pass Ultimate or Core to play the game in Co-Op Mode.\n- Players with a Game Pass Ultimate subscription can receive in-game bundles upon the game's launch and after subsequent version updates, as well as play Genshin Impact on Xbox Cloud Gaming.",
+  "developerName": "Shanghai miHoYo TianMing Technology Co., Ltd.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 134072446976,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N7TFFRRZCC9",
+  "productKind": "Game",
+  "publisherName": "COGNOSPHERE PTE. LTD.",
+  "ratingCount": 452,
+  "releaseDate": "2024-11-20T03:00:00.0000000Z",
+  "shortDescription": "Explore a World of Adventure",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B0LPDX1R54D1",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 0,
+        "msrp": 0,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Genshin Impact",
+  "xCloudProperties": {
+    "xCloudId": "GENSHINIMPACT",
+    "xboxTitleId": 2053080068,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-11-20T02:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-11-20T02:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "GENSHINIMPACT",
+    "xboxTitleId": 2053080068,
+    "programs": [
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "GPULTIMATE",
+      "HIMALIA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "NativeTouch"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

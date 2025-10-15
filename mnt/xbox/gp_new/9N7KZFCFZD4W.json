@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 214675,
+    "specific_id": 214675,
+    "title": "NHL 23",
+    "store_title": "NHL\u00ae 23 Xbox One",
+    "pid": "9N7KZFCFZD4W",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NV8BHF1N9F4"
+    ],
+    "sku_groups": [
+      [
+        "9N7KZFCFZD4W"
+      ],
+      [
+        "9NV8BHF1N9F4"
+      ]
+    ],
+    "original_release_date": "2022-10-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2023-04-13",
+        "removed": "2025-05-01"
+      },
+      "Ultimate": {
+        "added": "2023-04-13",
+        "removed": "2025-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 214675,
+      "name": "NHL 23",
+      "url": "https://www.igdb.com/games/nhl-23",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

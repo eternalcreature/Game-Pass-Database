@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 14390,
+    "specific_id": 14390,
+    "title": "Outlast II",
+    "store_title": "Outlast 2",
+    "pid": "BZVPNM21TCJC",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N633BP2KCKD"
+    ],
+    "sku_groups": [
+      [
+        "9N633BP2KCKD"
+      ],
+      [
+        "BZVPNM21TCJC"
+      ]
+    ],
+    "original_release_date": "2017-04-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-05-06",
+        "removed": "2022-05-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-06",
+        "removed": "2022-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Red Barrels",
+    "developer": "Red Barrels"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14390,
+      "name": "Outlast II",
+      "url": "https://www.igdb.com/games/outlast-ii",
+      "publishers": [
+        "Red Barrels"
+      ],
+      "developers": [
+        "Red Barrels"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

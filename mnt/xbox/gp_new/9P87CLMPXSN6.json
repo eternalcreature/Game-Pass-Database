@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 78113,
+    "specific_id": 78113,
+    "title": "Gungrave G.O.R.E",
+    "store_title": "Gungrave G.O.R.E",
+    "pid": "9P87CLMPXSN6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P87CLMPXSN6"
+      ]
+    ],
+    "original_release_date": "2022-11-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-22",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-22",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2022-11-22",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting",
+      "Shooter"
+    ],
+    "publisher": "Prime Matter",
+    "developer": "Iggymob"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 78113,
+      "name": "Gungrave G.O.R.E",
+      "url": "https://www.igdb.com/games/gungrave-gore",
+      "publishers": [
+        "Red Entertainment"
+      ],
+      "developers": [
+        "Iggymob"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

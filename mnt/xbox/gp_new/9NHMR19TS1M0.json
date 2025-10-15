@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 119391,
+    "specific_id": 119391,
+    "title": "Trials of Mana",
+    "store_title": "TRIALS of MANA",
+    "pid": "9NHMR19TS1M0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NHMR19TS1M0"
+      ]
+    ],
+    "original_release_date": "2020-04-24",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-09-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-26",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-09-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-02",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119391,
+      "name": "Trials of Mana",
+      "url": "https://www.igdb.com/games/trials-of-mana",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix Creative Business Unit IV",
+        "Xeen"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 201156,
+    "specific_id": 201156,
+    "title": "Star Wars Jedi: Survivor",
+    "store_title": "STAR WARS Jedi: Survivor\u2122",
+    "pid": "9MXH73ZJVH4X",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PGC82V0DXFS",
+      "9PLRP6PHV6XP"
+    ],
+    "sku_groups": [
+      [
+        "9MXH73ZJVH4X"
+      ],
+      [
+        "9PGC82V0DXFS"
+      ],
+      [
+        "9PLRP6PHV6XP"
+      ]
+    ],
+    "original_release_date": "2023-04-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-04-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-25",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-04-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Respawn Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 201156,
+      "name": "Star Wars Jedi: Survivor",
+      "url": "https://www.igdb.com/games/star-wars-jedi-survivor",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Respawn Entertainment"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

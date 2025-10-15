@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 123925,
+    "specific_id": 123925,
+    "title": "Voidtrain",
+    "store_title": "Voidtrain",
+    "pid": "9NQMVR9WL9FW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NQMVR9WL9FW"
+      ]
+    ],
+    "original_release_date": "2023-05-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "HypeTrain Digital",
+    "developer": "HypeTrain Digital"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 123925,
+      "name": "Voidtrain",
+      "url": "https://www.igdb.com/games/voidtrain",
+      "publishers": [
+        "HypeTrain Digital"
+      ],
+      "developers": [
+        "HypeTrain Digital"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

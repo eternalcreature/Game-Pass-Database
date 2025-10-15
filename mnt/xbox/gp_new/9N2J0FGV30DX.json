@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 257332,
+    "specific_id": 257332,
+    "title": "Bluey: The Videogame",
+    "store_title": "Bluey: The Videogame",
+    "pid": "9N2J0FGV30DX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N2J0FGV30DX"
+      ]
+    ],
+    "original_release_date": "2023-11-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-02-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-02-22",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-02-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Action & adventure"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Artax Games and Casual Brothers Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 257332,
+      "name": "Bluey: The Videogame",
+      "url": "https://www.igdb.com/games/bluey-the-videogame",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Artax Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

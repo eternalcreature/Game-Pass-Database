@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 113,
+    "specific_id": 113,
+    "title": "Assassin's Creed Brotherhood",
+    "store_title": "Assassin's Creed Brotherhood",
+    "pid": "9PGMNX4HG2C7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGMNX4HG2C7"
+      ]
+    ],
+    "original_release_date": "2010-11-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113,
+      "name": "Assassin's Creed Brotherhood",
+      "url": "https://www.igdb.com/games/assassins-creed-brotherhood",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

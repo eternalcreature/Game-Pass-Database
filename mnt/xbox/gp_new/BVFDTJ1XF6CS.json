@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 19562,
+    "specific_id": 19562,
+    "title": "Resident Evil 7: Biohazard",
+    "store_title": "RESIDENT EVIL 7 biohazard",
+    "pid": "BVFDTJ1XF6CS",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NG8S82N9F4D"
+    ],
+    "sku_groups": [
+      [
+        "9NG8S82N9F4D"
+      ],
+      [
+        "BVFDTJ1XF6CS"
+      ]
+    ],
+    "original_release_date": "2017-01-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-09-01",
+        "removed": "2022-06-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-01",
+        "removed": "2022-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19562,
+      "name": "Resident Evil 7: Biohazard",
+      "url": "https://www.igdb.com/games/resident-evil-7-biohazard",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

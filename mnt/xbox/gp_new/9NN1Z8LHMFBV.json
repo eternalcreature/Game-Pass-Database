@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 133305,
+    "specific_id": 133305,
+    "title": "Chorus",
+    "store_title": "Chorus",
+    "pid": "9NN1Z8LHMFBV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NN1Z8LHMFBV"
+      ]
+    ],
+    "original_release_date": "2021-12-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-06-07",
+        "removed": "2023-06-16"
+      },
+      "Ultimate": {
+        "added": "2022-06-07",
+        "removed": "2023-06-16"
+      },
+      "Console": {
+        "added": "2022-06-07",
+        "removed": "2023-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying",
+      "Shooter"
+    ],
+    "publisher": "Deep Silver",
+    "developer": "Fishlabs"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133305,
+      "name": "Chorus",
+      "url": "https://www.igdb.com/games/chorus",
+      "publishers": [
+        "Deep Silver"
+      ],
+      "developers": [
+        "Fishlabs"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

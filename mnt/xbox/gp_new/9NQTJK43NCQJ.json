@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 141309,
+    "specific_id": 141309,
+    "title": "The Last Kids on Earth and The Staff of Doom",
+    "store_title": "The Last Kids on Earth and the Staff of Doom",
+    "pid": "9NQTJK43NCQJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NQTJK43NCQJ"
+      ]
+    ],
+    "original_release_date": "2021-06-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      },
+      "Ultimate": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      },
+      "Console": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Role playing"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Stage Clear Studios "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141309,
+      "name": "The Last Kids on Earth and The Staff of Doom",
+      "url": "https://www.igdb.com/games/the-last-kids-on-earth-and-the-staff-of-doom",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Stage Clear Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

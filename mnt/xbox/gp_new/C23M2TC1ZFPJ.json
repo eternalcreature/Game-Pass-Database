@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 9727,
+    "specific_id": 9727,
+    "title": "Soma",
+    "store_title": "SOMA",
+    "pid": "C23M2TC1ZFPJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C23M2TC1ZFPJ"
+      ]
+    ],
+    "original_release_date": "2015-09-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      },
+      "Console": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9727,
+      "name": "Soma",
+      "url": "https://www.igdb.com/games/soma",
+      "publishers": [
+        "Frictional Games"
+      ],
+      "developers": [
+        "Frictional Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Stealth",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

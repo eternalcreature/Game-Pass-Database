@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 107233,
+    "specific_id": 107233,
+    "title": "The Settlers: New Allies",
+    "store_title": "The Settlers\u00ae: New Allies",
+    "pid": "9NPGPDCXWJQ7",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4RM9DX29H1",
+      "9N10HHMXFFC5"
+    ],
+    "sku_groups": [
+      [
+        "9N10HHMXFFC5"
+      ],
+      [
+        "9N4RM9DX29H1",
+        "9NPGPDCXWJQ7"
+      ]
+    ],
+    "original_release_date": "2023-02-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "Ubisoft D\u00fcsseldorf"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107233,
+      "name": "The Settlers: New Allies",
+      "url": "https://www.igdb.com/games/the-settlers-new-allies",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Blue Byte"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

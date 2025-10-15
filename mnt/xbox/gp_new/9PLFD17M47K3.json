@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 3212,
+    "specific_id": 3212,
+    "title": "The Sims 4",
+    "store_title": "The Sims\u2122 4 EA Play Edition",
+    "pid": "9PLFD17M47K3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C08JXNK0VG5L"
+    ],
+    "sku_groups": [
+      [
+        "9PLFD17M47K3",
+        "C08JXNK0VG5L"
+      ]
+    ],
+    "original_release_date": "2014-09-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-10-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-10-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis & Blind Squirrel"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3212,
+      "name": "The Sims 4",
+      "url": "https://www.igdb.com/games/the-sims-4",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Maxis",
+        "The Sims Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Sandbox",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

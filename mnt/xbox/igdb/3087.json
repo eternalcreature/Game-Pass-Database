@@ -1,0 +1,78 @@
+{
+  "id": 3087,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 69626,
+      "company": {
+        "id": 4602,
+        "name": "BlitWorks"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 275691,
+      "company": {
+        "id": 85,
+        "name": "Double Fine Productions"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 275694,
+      "company": {
+        "id": 753,
+        "name": "Nordic Games Publishing"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Broken Age",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/broken-age"
+}

@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 204961,
+    "specific_id": 204961,
+    "title": "Commandos 3: HD Remaster",
+    "store_title": "Commandos 3 - HD Remaster",
+    "pid": "9N1NBJNDD08J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NP5702TGZTX"
+    ],
+    "sku_groups": [
+      [
+        "9N1NBJNDD08J"
+      ],
+      [
+        "9NP5702TGZTX"
+      ]
+    ],
+    "original_release_date": "2022-08-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-08-30",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Kalypso Media Group GmbH",
+    "developer": "Raylight Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204961,
+      "name": "Commandos 3: HD Remaster",
+      "url": "https://www.igdb.com/games/commandos-3-hd-remaster",
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "developers": [
+        "Raylight Games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

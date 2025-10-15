@@ -1,0 +1,164 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses",
+      "Basic input remapping",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PKG0KPLKRQT"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Think you can you trust your neighbors? Think again.\r\n\r\nHello Neighbor 2 is a stealth horror game about uncovering your creepy neighbor’s secrets. You are a journalist looking to solve the Neighbor’s case, since no one else dares to. Play against a complex opponent controlled by an advanced AI that learns from you and all the other players! As time passes and the Neighbor adapts to the players’ patterns, his own behavior will change and surprise you. Will you be the one to outsmart the Neighbor and find out what he’s hiding?\r\n\r\n- You have an entire town as your playground, with plenty of houses and AI-driven residents to interact with.\r\n\r\n- The game feels like an investigative journalist simulator - sneak around and find out your neighbors’ secrets. Why does this moustached gentleman go down to the amusement park every night?\r\n\r\n- Can you outsmart the AIs? Every character in Hello Neighbor 2 is powered by a neural network AI and learns from the players, doing everything in their power to protect their gated community and its secrets. \r\n\r\n- Uncover the big mystery hidden in Raven Brooks!",
+  "developerName": "tinyBuild",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 14919172096,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N961B11FJ4W",
+  "productKind": "Game",
+  "publisherName": "tinyBuild",
+  "ratingCount": 393,
+  "releaseDate": "2022-12-06T05:00:00.0000000Z",
+  "shortDescription": "Find out what your neighbors are hiding in the open-world of Raven Brooks.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XW44XPQ3Z7R",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PJT3KGSH5ZM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Hello Neighbor 2",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-12-06T05:00:00Z",
+      "exitDateUTC": "2024-12-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-12-06T05:00:00Z",
+      "exitDateUTC": "2024-12-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-12-06T05:00:00Z",
+      "exitDateUTC": "2024-12-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2024-12-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "HELLONEIGHBOR2",
+    "xboxTitleId": 1704351342,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": 127355,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 101737,
+      "company": {
+        "id": 1389,
+        "name": "Bossa Studios"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Surgeon Simulator 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    }
+  ],
+  "url": "https://www.igdb.com/games/surgeon-simulator-2"
+}

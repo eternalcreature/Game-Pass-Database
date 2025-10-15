@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 314271,
+    "specific_id": 314271,
+    "title": "Herdling",
+    "store_title": "Herdling",
+    "pid": "9NNHK7K8RV9C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NNHK7K8RV9C"
+      ]
+    ],
+    "original_release_date": "2025-08-21",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-08-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-08-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation"
+    ],
+    "publisher": "Panic",
+    "developer": "Okomotive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 314271,
+      "name": "Herdling",
+      "url": "https://www.igdb.com/games/herdling",
+      "publishers": [
+        "Panic"
+      ],
+      "developers": [
+        "Okomotive"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

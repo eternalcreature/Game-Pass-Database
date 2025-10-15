@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 8904,
+    "specific_id": 8904,
+    "title": "Westerado: Double Barreled",
+    "store_title": "Westerado: Double Barreled",
+    "pid": "BVVWBV3QB1D7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BVVWBV3QB1D7"
+      ]
+    ],
+    "original_release_date": "2015-04-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Adult Swim Games",
+    "developer": "Ostrich Banditos"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8904,
+      "name": "Westerado: Double Barreled",
+      "url": "https://www.igdb.com/games/westerado-double-barreled",
+      "publishers": [
+        "Adult Swim Games"
+      ],
+      "developers": [
+        "Ostrich Banditos"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

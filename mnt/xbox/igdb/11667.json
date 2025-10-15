@@ -1,0 +1,88 @@
+{
+  "id": 11667,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 167163,
+      "company": {
+        "id": 2161,
+        "name": "Armor Project"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 197513,
+      "company": {
+        "id": 4653,
+        "name": "ILCA"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 254121,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 254122,
+      "company": {
+        "id": 53031,
+        "name": "Square Enix Business Division 6"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 259335,
+      "company": {
+        "id": 11740,
+        "name": "Bird Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Dragon Quest XI: Echoes of an Elusive Age",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dragon-quest-xi-echoes-of-an-elusive-age"
+}

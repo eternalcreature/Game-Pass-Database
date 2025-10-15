@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 233571,
+    "specific_id": 233571,
+    "title": "Hitman World of Assassination",
+    "store_title": "HITMAN World of Assassination",
+    "pid": "9NN82NH949D5",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PDRM8BFW1X1"
+    ],
+    "sku_groups": [
+      [
+        "9NN82NH949D5"
+      ],
+      [
+        "9PDRM8BFW1X1"
+      ]
+    ],
+    "original_release_date": "2022-01-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-01-20",
+        "removed": "2024-02-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-20",
+        "removed": "2024-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "IO Interactive A/S",
+    "developer": "IO Interactive A/S"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 233571,
+      "name": "Hitman World of Assassination",
+      "url": "https://www.igdb.com/games/hitman-world-of-assassination",
+      "publishers": [
+        "IO Interactive"
+      ],
+      "developers": [
+        "IO Interactive"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Stealth",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

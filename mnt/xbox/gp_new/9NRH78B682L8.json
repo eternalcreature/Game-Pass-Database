@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 27448,
+    "specific_id": 27448,
+    "title": "SuperHot: Mind Control Delete",
+    "store_title": "SUPERHOT: MIND CONTROL DELETE",
+    "pid": "9NRH78B682L8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NRH78B682L8"
+      ]
+    ],
+    "original_release_date": "2020-07-16",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-02",
+        "removed": null
+      },
+      "Essential": {
+        "added": "2024-04-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-04-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-02",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2020-12-10",
+        "removed": "2022-05-31"
+      },
+      "Ultimate": {
+        "added": "2020-12-10",
+        "removed": "2022-05-31"
+      },
+      "Console": {
+        "added": "2020-12-10",
+        "removed": "2022-05-31"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia",
+      "Shooter"
+    ],
+    "publisher": "SUPERHOT Team",
+    "developer": "SUPERHOT Team"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27448,
+      "name": "SuperHot: Mind Control Delete",
+      "url": "https://www.igdb.com/games/superhot-mind-control-delete",
+      "publishers": [
+        "SUPERHOT Team"
+      ],
+      "developers": [
+        "SUPERHOT Team"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

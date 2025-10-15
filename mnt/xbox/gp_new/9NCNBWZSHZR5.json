@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 124786,
+    "specific_id": 124786,
+    "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "store_title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "pid": "9NCNBWZSHZR5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCNBWZSHZR5"
+      ]
+    ],
+    "original_release_date": "2019-10-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-05",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-05",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Beamdog",
+    "developer": "Beamdog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 124786,
+      "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+      "url": "https://www.igdb.com/games/baldurs-gate-and-baldurs-gate-ii-enhanced-editions",
+      "publishers": [
+        "Beamdog",
+        "Skybound Games"
+      ],
+      "developers": [
+        "Beamdog",
+        "Overhaul Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

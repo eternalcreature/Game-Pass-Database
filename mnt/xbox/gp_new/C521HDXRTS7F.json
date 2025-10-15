@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 20046,
+    "specific_id": 20046,
+    "title": "Wasteland 2: Director's Cut",
+    "store_title": "Wasteland 2: Director's Cut",
+    "pid": "C521HDXRTS7F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C521HDXRTS7F"
+      ]
+    ],
+    "original_release_date": "2014-09-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-06-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-06-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Deep Silver, InXile Entertainment",
+    "developer": "InXile Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20046,
+      "name": "Wasteland 2: Director's Cut",
+      "url": "https://www.igdb.com/games/wasteland-2-directors-cut",
+      "publishers": [
+        "Deep Silver",
+        "inXile Entertainment"
+      ],
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

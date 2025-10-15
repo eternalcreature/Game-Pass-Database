@@ -1,0 +1,63 @@
+{
+  "id": 103017,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 239311,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 239312,
+      "company": {
+        "id": 15878,
+        "name": "Sega Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 278072,
+      "company": {
+        "id": 19080,
+        "name": "Ryu Ga Gotoku Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Yakuza 5 Remastered",
+  "parent_game": 2063,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/yakuza-5-remastered"
+}

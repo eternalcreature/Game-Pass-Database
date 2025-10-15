@@ -1,0 +1,73 @@
+{
+  "id": 124954,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 85989,
+      "company": {
+        "id": 7466,
+        "name": "Paradox Development Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 85990,
+      "company": {
+        "id": 517,
+        "name": "Paradox Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Crusader Kings III",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/crusader-kings-iii"
+}

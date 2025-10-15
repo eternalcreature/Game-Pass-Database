@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "base_id": 44516,
+    "specific_id": 44516,
+    "title": "West of Loathing",
+    "store_title": "West of Loathing",
+    "pid": "9N26P410XR98",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N26P410XR98"
+      ]
+    ],
+    "original_release_date": "2017-08-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Asymmetric Publications",
+    "developer": "Asymmetric Publications"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 44516,
+      "name": "West of Loathing",
+      "url": "https://www.igdb.com/games/west-of-loathing",
+      "publishers": [
+        "Asymmetric"
+      ],
+      "developers": [
+        "Asymmetric"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

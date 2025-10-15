@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "base_id": 144072,
+    "specific_id": 218968,
+    "title": "Hot Wheels Unleashed",
+    "store_title": "HOT WHEELS UNLEASHED\u2122 - Game Of The Year Edition",
+    "pid": "9P825CZVX852",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NGZ7PN3W8DX",
+      "9MZ211MXPWB5"
+    ],
+    "sku_groups": [
+      [
+        "9MZ211MXPWB5"
+      ],
+      [
+        "9NGZ7PN3W8DX"
+      ],
+      [
+        "9P825CZVX852"
+      ]
+    ],
+    "original_release_date": "2021-09-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-02-07",
+        "removed": "2024-04-01"
+      },
+      "Ultimate": {
+        "added": "2023-02-07",
+        "removed": "2024-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Milestone S.r.l.",
+    "developer": "Milestone S.r.l."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 144072,
+      "name": "Hot Wheels Unleashed",
+      "url": "https://www.igdb.com/games/hot-wheels-unleashed",
+      "publishers": [
+        "Milestone"
+      ],
+      "developers": [
+        "Milestone"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 144072,
+      "name": "Hot Wheels Unleashed",
+      "url": "https://www.igdb.com/games/hot-wheels-unleashed",
+      "publishers": [
+        "Milestone"
+      ],
+      "developers": [
+        "Milestone"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

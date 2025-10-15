@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 3029,
+    "specific_id": 3029,
+    "title": "Spelunky",
+    "store_title": "Spelunky",
+    "pid": "BS84XSHDJNCX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS84XSHDJNCX"
+      ]
+    ],
+    "original_release_date": "2009-09-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Mossmouth"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3029,
+      "name": "Spelunky",
+      "url": "https://www.igdb.com/games/spelunky",
+      "publishers": [
+        "Microsoft Studios",
+        "Mossmouth"
+      ],
+      "developers": [
+        "BlitWorks",
+        "Mossmouth"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 5973,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 97074,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 97073,
+      "company": {
+        "id": 2603,
+        "name": "Free Lives Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 124594,
+      "company": {
+        "id": 2345,
+        "name": "Abstraction Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 241310,
+      "company": {
+        "id": 19676,
+        "name": "24 Bit Games"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Broforce",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/broforce"
+}

@@ -1,0 +1,145 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.8,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "This game supports English, French, Italian, German, Spanish, and Chinese. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". A Nightmare from Below. A Hero from Within.                  The planet lies in ruin - cities crumbling, Man’s greatest works fallen. Humanity is cornered, nowhere to run. The Locust Horde has risen, and they won’t stop coming. They won’t stop killing.                  The Coalition is desperate for soldiers. The sick, the wounded, the imprisoned are all that remain. An inmate named Marcus Fenix, once left to die, is now charged with keeping humanity alive. He can take comfort in but one fact: The human race isn’t extinct. Yet.                  Features                  - “Take cover and return fire!” with the intuitive one - button cover system to blind fire, evade, flank, and ultimately destroy the nightmarish Locust Horde.                  - Lead your ragtag squad as Marcus Fenix, or recruit a friend to play squadmate Dominic Santiago and complete the full cinematic campaign cooperatively - online or off.                  - Dominate online in Human vs. Locust squad - based multiplayer. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+  "developerName": "Epic Games, Inc.",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequired"
+  ],
+  "maxInstallSize": 7738839040,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BPN08ZDRPSFK",
+  "productKind": "Game",
+  "publisherName": "Microsoft",
+  "ratingCount": 393,
+  "releaseDate": "2009-12-29T00:00:00.0000000Z",
+  "shortDescription": "A Nightmare from Below. A Hero from Within.The planet lies in ruin - cities crumbling, Man’s greatest works fallen. Humanity is cornered, nowhere to run. The Locust Horde has risen, and they won’t stop coming. They won’t stop killing.The Coalition is desperate for soldiers. The sick, the wounded, the imprisoned are all that remain. An inmate named Marcus Fenix, once left to die, is now charged with keeping humanity alive. He can take comfort in but one fact: The human race isn’t extinct. Yet",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9V8KKTRBN6DN",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "05/31/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 11.99,
+        "msrp": 11.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9N7BC96GGGZG",
+        "discountPercentage": 20.016676,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 9.59,
+        "msrp": 11.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Gears of War",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2017-05-24T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2017-05-24T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

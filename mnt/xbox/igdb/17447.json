@@ -1,0 +1,65 @@
+{
+  "id": 17447,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 36253,
+      "company": {
+        "id": 1002,
+        "name": "Respawn Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 36254,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Titanfall 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/titanfall-2"
+}

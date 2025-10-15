@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 139082,
+    "specific_id": 139082,
+    "title": "Firework",
+    "store_title": "Firework (Windows)",
+    "pid": "9P57NK5V2137",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P57NK5V2137"
+      ]
+    ],
+    "original_release_date": "2021-02-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-06-04",
+        "removed": "2025-06-01"
+      },
+      "Ultimate": {
+        "added": "2024-06-04",
+        "removed": "2025-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Gamera Games",
+    "developer": "Shiying Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139082,
+      "name": "Firework",
+      "url": "https://www.igdb.com/games/firework--1",
+      "publishers": [
+        "Gamera Games"
+      ],
+      "developers": [
+        "Shiying Studio"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Horror",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

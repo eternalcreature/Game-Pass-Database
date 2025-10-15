@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 178279,
+    "specific_id": 178279,
+    "title": "Monopoly Madness",
+    "store_title": "MONOPOLY Madness",
+    "pid": "9MTP0GJ0Q3MG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P0RGJND5SR0"
+    ],
+    "sku_groups": [
+      [
+        "9MTP0GJ0Q3MG"
+      ],
+      [
+        "9P0RGJND5SR0"
+      ]
+    ],
+    "original_release_date": "2021-12-09",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Card & board"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Engine Software, Asobo"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 178279,
+      "name": "Monopoly Madness",
+      "url": "https://www.igdb.com/games/monopoly-madness",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Engine Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Action",
+        "Business",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

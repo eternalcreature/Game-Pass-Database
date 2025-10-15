@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 194203,
+    "specific_id": 194203,
+    "title": "Exoprimal",
+    "store_title": "Exoprimal",
+    "pid": "9NMFRHJX5JCZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NMFRHJX5JCZ"
+      ]
+    ],
+    "original_release_date": "2023-07-14",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-07-14",
+        "removed": "2025-01-16"
+      },
+      "Ultimate": {
+        "added": "2023-07-14",
+        "removed": "2025-01-16"
+      },
+      "Console": {
+        "added": "2023-07-14",
+        "removed": "2025-01-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 194203,
+      "name": "Exoprimal",
+      "url": "https://www.igdb.com/games/exoprimal",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

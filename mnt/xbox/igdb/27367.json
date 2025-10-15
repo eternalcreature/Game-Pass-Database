@@ -1,0 +1,77 @@
+{
+  "id": 27367,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 30,
+      "name": "Pinball"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 44460,
+      "company": {
+        "id": 12178,
+        "name": "Villa Gorilla"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 98243,
+      "company": {
+        "id": 16437,
+        "name": "Team17"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Yoku's Island Express",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/yokus-island-express"
+}

@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 240556,
+    "specific_id": 240556,
+    "title": "Deep Rock Galactic: Survivor",
+    "store_title": "Deep Rock Galactic: Survivor",
+    "pid": "9PHGQPRBBSXK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PHGQPRBBSXK"
+      ]
+    ],
+    "original_release_date": "2024-02-14",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-09-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-09-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Ghost Ship Publishing",
+    "developer": "Funday Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240556,
+      "name": "Deep Rock Galactic: Survivor",
+      "url": "https://www.igdb.com/games/deep-rock-galactic-survivor",
+      "publishers": [
+        "Ghost Ship Publishing"
+      ],
+      "developers": [
+        "Funday Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

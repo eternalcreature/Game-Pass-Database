@@ -1,0 +1,131 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Mono sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses",
+      "Single stick gameplay",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BWQ4PN1XP16R"
+  ],
+  "categories": [
+    "Action & adventure",
+    "Platformer"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Stealth Inc 2 is a puzzle platformer where you play the role of a clone escaping a sinister and high-tech testing facility. Stealth Inc 2 tests both your brain and your reflexes over 60 varied levels linked together by a sprawling and detailed overworld.",
+  "developerName": "Carbon",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 415952896,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BR26S2C6SKN1",
+  "productKind": "Game",
+  "publisherName": "Curve Digital",
+  "ratingCount": 210,
+  "releaseDate": "2015-04-03T00:00:00.0000000Z",
+  "shortDescription": "In Stealth Inc 2, you play the role of a clone escaping a sinister and high-tech testing facility. Stealth Inc 2 tests both your brain and your reflexes over 60 varied levels linked together in a sprawling overworld.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B21MXPVPDLQJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VFM1V5MJJMS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Stealth Inc. 2: A Game of Clones",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-02-11T00:00:00Z",
+      "exitDateUTC": "2022-03-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-02-11T00:00:00Z",
+      "exitDateUTC": "2022-03-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

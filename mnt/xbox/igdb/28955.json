@@ -1,0 +1,67 @@
+{
+  "id": 28955,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 47040,
+      "company": {
+        "id": 284,
+        "name": "Maxis"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 47041,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 82865,
+      "company": {
+        "id": 106,
+        "name": "Loki Software"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "SimCity 3000 Unlimited",
+  "parent_game": 237,
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 28,
+      "name": "Business"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    }
+  ],
+  "url": "https://www.igdb.com/games/simcity-3000-unlimited"
+}

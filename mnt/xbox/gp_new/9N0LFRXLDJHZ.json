@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 112104,
+    "specific_id": 112104,
+    "title": "Command & Conquer Remastered Collection",
+    "store_title": "Command & Conquer\u2122 Remastered Collection",
+    "pid": "9N0LFRXLDJHZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0LFRXLDJHZ"
+      ]
+    ],
+    "original_release_date": "2020-06-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Petroglyph"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 112104,
+      "name": "Command & Conquer Remastered Collection",
+      "url": "https://www.igdb.com/games/command-and-conquer-remastered-collection",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Lemon Sky Studios",
+        "Petroglyph Games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

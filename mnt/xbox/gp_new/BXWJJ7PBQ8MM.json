@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 21834,
+    "specific_id": 21834,
+    "title": "Hexic 2",
+    "store_title": "Hexic 2",
+    "pid": "BXWJJ7PBQ8MM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXWJJ7PBQ8MM"
+      ]
+    ],
+    "original_release_date": "2007-08-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Carbonated Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 21834,
+      "name": "Hexic 2",
+      "url": "https://www.igdb.com/games/hexic-2",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Alexey Pajitnov",
+        "Carbonated Games"
+      ],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

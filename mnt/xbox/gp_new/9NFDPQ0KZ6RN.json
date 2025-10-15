@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 35282,
+    "specific_id": 35282,
+    "title": "CrossCode",
+    "store_title": "CrossCode",
+    "pid": "9NFDPQ0KZ6RN",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N04RQQ64524"
+    ],
+    "sku_groups": [
+      [
+        "9N04RQQ64524"
+      ],
+      [
+        "9NFDPQ0KZ6RN"
+      ]
+    ],
+    "original_release_date": "2015-05-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-06-11",
+        "removed": "2021-07-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-11",
+        "removed": "2021-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "DECK13 Spotlight",
+    "developer": "Radical Fish Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 35282,
+      "name": "CrossCode",
+      "url": "https://www.igdb.com/games/crosscode",
+      "publishers": [
+        "DANGEN Entertainment",
+        "Deck13 Interactive",
+        "Mayflower Entertainment",
+        "WhisperGames"
+      ],
+      "developers": [
+        "Radical Fish Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

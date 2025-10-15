@@ -1,0 +1,156 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.9,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "SinglePlayer": "Single player",
+    "SpatialSound": "Spatial Sound",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Other",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Drug Reference",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "As orphans, Jenn and Tristan's life path brought them to a mysterious scientist, who took them in and cared for them as his own children. But one day, he disappeared under very odd circumstances.\r\n\r\nWhile searching desperately for him, the duo found a hidden cellar and the Moon Gate portal, transporting them to a dangerous parallel world where goblins thrive.\r\n\r\nYour adventure begins as you fight to bridge these two very different worlds.",
+  "developerName": "1P2P Studio",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 5197938688,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PMM5T8C0CN6",
+  "productKind": "Game",
+  "publisherName": "The Arcade Crew",
+  "ratingCount": 211,
+  "releaseDate": "2022-03-10T14:00:00.0000000Z",
+  "shortDescription": "Young Souls is a gorgeous 2D brawler meets story-rich action RPG. Fight hordes of belligerent goblins, level up with hundreds of weapons and accessories, explore, and journey between worlds, as rebellious twins battle their way to save their foster father.",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZBMKBBVSLLL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PCGKTPC3D8M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Young Souls",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-03-10T14:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-03-10T14:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-03-10T14:00:00Z",
+      "exitDateUTC": "2023-03-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "YOUNGSOULS",
+    "xboxTitleId": 2007070358,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 103054,
+    "specific_id": 103054,
+    "title": "Assassin's Creed Odyssey",
+    "store_title": "Assassin's Creed\u00ae Odyssey",
+    "pid": "9PMB5879J2FW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BW9TWC8L4JCS"
+    ],
+    "sku_groups": [
+      [
+        "9PMB5879J2FW"
+      ],
+      [
+        "BW9TWC8L4JCS"
+      ]
+    ],
+    "original_release_date": "2018-10-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-09-15",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Quebec"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103054,
+      "name": "Assassin's Creed Odyssey",
+      "url": "https://www.igdb.com/games/assassins-creed-odyssey",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Qu\u00e9bec"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 19516,
+    "specific_id": 19516,
+    "title": "WWE 2K17",
+    "store_title": "WWE 2K17",
+    "pid": "BNNVJ9XXPXTS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNNVJ9XXPXTS"
+      ]
+    ],
+    "original_release_date": "2016-10-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-6)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "YUKE'S Co., Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19516,
+      "name": "WWE 2K17",
+      "url": "https://www.igdb.com/games/wwe-2k17",
+      "publishers": [
+        "2K",
+        "2K Games"
+      ],
+      "developers": [
+        "Visual Concepts",
+        "Yuke's"
+      ],
+      "genres": [
+        "Fighting",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

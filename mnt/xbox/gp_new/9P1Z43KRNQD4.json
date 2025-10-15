@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "base_id": 333,
+    "specific_id": 333,
+    "title": "Quake",
+    "store_title": "Quake",
+    "pid": "9P1Z43KRNQD4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P1Z43KRNQD4"
+      ]
+    ],
+    "original_release_date": "1996-07-23",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-08-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-08-19",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-08-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software, Nightdive Studios, MachineGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 333,
+      "name": "Quake",
+      "url": "https://www.igdb.com/games/quake",
+      "publishers": [
+        "GT Interactive Software",
+        "MacSoft Games",
+        "PXL computers",
+        "Pulse Interactive",
+        "Sega",
+        "clickBOOM",
+        "id Software"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Historical",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

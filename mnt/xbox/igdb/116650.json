@@ -1,0 +1,69 @@
+{
+  "id": 116650,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 76503,
+      "company": {
+        "id": 18885,
+        "name": "Mechanical Head Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 76502,
+      "company": {
+        "id": 3087,
+        "name": "Yacht Club Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Cyber Shadow",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/cyber-shadow"
+}

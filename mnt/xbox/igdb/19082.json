@@ -1,0 +1,68 @@
+{
+  "id": 19082,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 26,
+      "name": "Quiz/Trivia"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 121953,
+      "company": {
+        "id": 3697,
+        "name": "Jackbox Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "The Jackbox Party Pack 3",
+  "player_perspectives": [
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-jackbox-party-pack-3"
+}

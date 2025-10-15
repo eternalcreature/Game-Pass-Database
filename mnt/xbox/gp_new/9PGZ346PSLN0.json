@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "base_id": 240902,
+    "specific_id": 273942,
+    "title": "Cities: Skylines II",
+    "store_title": "Cities: Skylines II - PC Edition",
+    "pid": "9PGZ346PSLN0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NH213LRNGPC"
+    ],
+    "sku_groups": [
+      [
+        "9NH213LRNGPC"
+      ],
+      [
+        "9PGZ346PSLN0"
+      ]
+    ],
+    "original_release_date": "2023-10-24",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-10-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-10-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Colossal Order"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240902,
+      "name": "Cities: Skylines II",
+      "url": "https://www.igdb.com/games/cities-skylines-ii",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Colossal Order"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 240902,
+      "name": "Cities: Skylines II",
+      "url": "https://www.igdb.com/games/cities-skylines-ii",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Colossal Order"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

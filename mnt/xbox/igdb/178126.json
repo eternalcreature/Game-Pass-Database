@@ -1,0 +1,71 @@
+{
+  "id": 178126,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 242932,
+      "company": {
+        "id": 39120,
+        "name": "Grove Street Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 242933,
+      "company": {
+        "id": 29,
+        "name": "Rockstar Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 242934,
+      "company": {
+        "id": 27224,
+        "name": "Netflix"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+  "parent_game": 732,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/grand-theft-auto-san-andreas-the-definitive-edition"
+}

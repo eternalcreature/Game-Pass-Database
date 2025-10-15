@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 301506,
+    "specific_id": 301506,
+    "title": "Madden NFL 25",
+    "store_title": "Madden NFL 25",
+    "pid": "9P3FG98R5X8F",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N0FWWQ94X62",
+      "9NL9QN69HCL7"
+    ],
+    "sku_groups": [
+      [
+        "9N0FWWQ94X62"
+      ],
+      [
+        "9NL9QN69HCL7"
+      ],
+      [
+        "9P3FG98R5X8F"
+      ]
+    ],
+    "original_release_date": "2024-08-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-02-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-02-06",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2025-02-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CrossPlatformCoOp": "Cross-platform co-op",
+      "RayTracing": "Ray Tracing",
+      "SpatialSound": "Spatial Sound"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 301506,
+      "name": "Madden NFL 25",
+      "url": "https://www.igdb.com/games/madden-nfl-25--3",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

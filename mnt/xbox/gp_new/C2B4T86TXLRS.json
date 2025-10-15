@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 120645,
+    "specific_id": 120645,
+    "title": "The Bard's Tale IV: Director's Cut",
+    "store_title": "The Bard's Tale IV: Director's Cut",
+    "pid": "C2B4T86TXLRS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2B4T86TXLRS"
+      ]
+    ],
+    "original_release_date": "2018-09-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-08-27",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-08-27",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-08-27",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "inXile entertainment, inc. ",
+    "developer": "inXile entertainment, inc. "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120645,
+      "name": "The Bard's Tale IV: Director's Cut",
+      "url": "https://www.igdb.com/games/the-bards-tale-iv-directors-cut",
+      "publishers": [
+        "inXile Entertainment"
+      ],
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

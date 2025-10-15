@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 36550,
+    "specific_id": 36550,
+    "title": "Yakuza: Like a Dragon",
+    "store_title": "Yakuza: Like a Dragon",
+    "pid": "9NXCSWCQTNFG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NXCSWCQTNFG"
+      ]
+    ],
+    "original_release_date": "2020-01-16",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-13",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": "2025-04-01"
+      },
+      "Console": {
+        "added": "2021-06-13",
+        "removed": "2025-04-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36550,
+      "name": "Yakuza: Like a Dragon",
+      "url": "https://www.igdb.com/games/yakuza-like-a-dragon",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

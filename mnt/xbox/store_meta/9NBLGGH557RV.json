@@ -1,0 +1,126 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Crude Humor",
+      "Language",
+      "Use of Drugs",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "War rages on. During an air raid, 16 year old Noah and his little sister Renie seek shelter in a bunker. There, not only are they protected from the deadly bombardment, but are also at the crossroads of a world between life and death: Silence. When Noah’s sister gets lost in Silence, he is forced to venture into this idyllic yet threatening world to find her.\r\n\r\nSilence, however, bears its own scars of war and suffering. Dark creatures haunt towns and cities and ravage this once serene place between worlds. Only a small band of rebels stands against the looming menace. Now it is up to the siblings to save Silence and its fantastic inhabitants from impending doom and thus also save their own lives.\r\n\r\nJoin Noah and Renie on their exciting journey through Silence where an emotionally gripping story of contrasts between serenity and danger unfolds. Meet fascinating and likeable characters like Spot, the magical caterpillar who helps Noah and Renie on their way through Silence. And witness when the siblings discover that the only thing that can save them is their love for each other.",
+  "developerName": "Daedalic Entertainment GmbH",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 7479848960,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NBLGGH557RV",
+  "productKind": "Game",
+  "publisherName": "Daedalic Entertainment GmbH",
+  "ratingCount": 112,
+  "releaseDate": "2016-12-09T00:00:00.0000000Z",
+  "shortDescription": "Can you save Silence, the grim, but also serene world between life and death? Can you help Noah find his little sister Renie in this suffering world? Can you bring her home? Explore Silence and join the siblings on their adventurous journey.\r\n",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QTQG84FL4ZB",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2B2108TK8Z8",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Silence - The Whispered World 2",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "SILENCETHEWHISPEREDWORLD2",
+    "xboxTitleId": 124770239,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

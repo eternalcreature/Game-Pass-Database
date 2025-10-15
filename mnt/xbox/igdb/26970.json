@@ -1,0 +1,109 @@
+{
+  "id": 26970,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 290024,
+      "company": {
+        "id": 9786,
+        "name": "22nd Century Toys"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 96773,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 120105,
+      "company": {
+        "id": 10601,
+        "name": "Kitty Calis"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 120106,
+      "company": {
+        "id": 10602,
+        "name": "Jan Willem Nijman"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 120107,
+      "company": {
+        "id": 32185,
+        "name": "Jukio Kallio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 120108,
+      "company": {
+        "id": 32186,
+        "name": "Dominik Johann"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Minit",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/minit"
+}

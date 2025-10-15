@@ -1,0 +1,78 @@
+{
+  "id": 27716,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 279599,
+      "company": {
+        "id": 8872,
+        "name": "Flashback Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 279600,
+      "company": {
+        "id": 33986,
+        "name": "Slitherine"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 279519,
+      "company": {
+        "id": 33986,
+        "name": "Slitherine"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Panzer Corps 2",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/panzer-corps-2"
+}

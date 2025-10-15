@@ -1,0 +1,128 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Crude Humor",
+      "Drug Reference",
+      "Language",
+      "Mild Blood",
+      "Mild Violence",
+      "Sexual Themes",
+      "Use of Alcohol And Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Welcome to Thimbleweed Park. Population: 80 nutcases. \r\n\r\nA haunted hotel, an abandoned circus, a burnt-out pillow factory, a dead body pixelating under the bridge, toilets that run on vacuum tubes... you’ve never visited a place like this before. \r\n\r\nFive people with nothing in common have been drawn to this rundown, forgotten town. They don’t know it yet, but they are all deeply connected. And they’re being watched.\r\n\r\n...Who is Agent Ray really working for and will she get what they want?\r\n...What does Junior Agent Reyes know about a 20 year old factory fire that he’s not saying?\r\n...Will the ghost, Franklin, get to speak to his daughter again?\r\n...Will Ransome the *Beeping* Clown ever become a decent human being?\r\n...Will aspiring game developer Delores abandon her dreams and stick by her family?\r\n...And most importantly: how come no one cares about that dead body?\r\n\r\nBy the end of a long, strange night in Thimbleweed Park, all of this will be answered -- and you’ll question everything you thought you knew.\r\n\r\nIn a town like Thimbleweed Park, a dead body is the least of your problems.\r\n\r\nSupports Xbox Play Anywhere: Yours to play on both Xbox One and Windows 10 PC at no additional cost!",
+  "developerName": "Terrible Toybox",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 973164544,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NBLGGH40DCM",
+  "productKind": "Game",
+  "publisherName": "Terrible Toybox",
+  "ratingCount": 221,
+  "releaseDate": "2017-03-30T16:00:00.0000000Z",
+  "shortDescription": "In Thimbleweed Park, a dead body is the least of your problems. Switch between five playable characters to uncover the surreal secrets of this strange town in a modern mystery adventure game from the creators of Monkey Island and Maniac Mansion. The deeper you go, the weirder it gets.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NV9C2GHGCKH",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9X5BFXCSST35",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Thimbleweed Park",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "THIMBLEWEEDPARK",
+    "xboxTitleId": 1015340672,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

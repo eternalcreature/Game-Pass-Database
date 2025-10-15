@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 119947,
+    "specific_id": 119947,
+    "title": "NHL 20",
+    "store_title": "NHL\u00ae 20",
+    "pid": "C2HHTCSZRK9G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2HHTCSZRK9G"
+      ]
+    ],
+    "original_release_date": "2019-09-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2022-06-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2022-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-6)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119947,
+      "name": "NHL 20",
+      "url": "https://www.igdb.com/games/nhl-20",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

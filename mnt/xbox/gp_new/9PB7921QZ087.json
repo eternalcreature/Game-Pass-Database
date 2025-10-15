@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 356059,
+    "specific_id": 356059,
+    "title": "StarCraft II: Campaign Collection",
+    "store_title": "StarCraft\u00ae II Campaign Collection",
+    "pid": "9PB7921QZ087",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PB7921QZ087"
+      ]
+    ],
+    "original_release_date": "2024-11-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-04",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-11-04",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 356059,
+      "name": "StarCraft II: Campaign Collection",
+      "url": "https://www.igdb.com/games/starcraft-ii-campaign-collection",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,219 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Single stick gameplay",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.5,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NPKFN7M233T",
+    "BQQWKGXZGJ17"
+  ],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "CapabilityHDR": "HDR10",
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Suggestive Themes",
+      "Alcohol Reference",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Power up and build the ultimate version of your favorite DC legends in INJUSTICE 2. \r\n•EVERY BATTLE DEFINES YOU: With every match you'll earn gear to equip, customize and evolve your roster.\r\n•A NEW THREAT RISES: Picking up where Injustice left off, Batman struggles against Superman's regime, as a new threat appears that will put Earth's very existence at risk.\r\n•THE BEST OF DC: Choose from the biggest DC Universe roster ever and battle across iconic locations in epic scale battles.\r\n•BUILT BY NETHERREALM: Developers of the best-selling and critically acclaimed MORTAL KOMBAT franchise.",
+  "developerName": "NetherRealm Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 35646836736,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BPKVH4C4XV4N",
+  "productKind": "Game",
+  "publisherName": "Warner Bros. Games",
+  "ratingCount": 765,
+  "releaseDate": "2017-05-16T00:00:00.0000000Z",
+  "shortDescription": "Build and power up the ultimate version of your favorite DC legends in INJUSTICE 2. This is your Legend. Your Journey. Your Injustice.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9XTHQQCJ4HB9",
+        "discountPercentage": 90.02251,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B3FL4WZ82CMG",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VS3S6WKP0K7",
+        "discountPercentage": 90.02251,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B1K2JKMFB785",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Injustice™ 2",
+  "xCloudProperties": {
+    "xCloudId": "INJUSTICE2",
+    "xboxTitleId": 45083076,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-01-07T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-01-07T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "INJUSTICE2",
+    "xboxTitleId": 45083076,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

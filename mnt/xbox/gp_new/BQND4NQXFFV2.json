@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 2004,
+    "specific_id": 2004,
+    "title": "Torment: Tides of Numenera",
+    "store_title": "Torment: Tides of Numenera",
+    "pid": "BQND4NQXFFV2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NC0071DJ6XC"
+    ],
+    "sku_groups": [
+      [
+        "9NC0071DJ6XC"
+      ],
+      [
+        "BQND4NQXFFV2"
+      ]
+    ],
+    "original_release_date": "2017-02-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-07-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-07-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "inXile Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2004,
+      "name": "Torment: Tides of Numenera",
+      "url": "https://www.igdb.com/games/torment-tides-of-numenera",
+      "publishers": [
+        "Techland"
+      ],
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

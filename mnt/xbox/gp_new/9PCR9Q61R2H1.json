@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 2136,
+    "specific_id": 2136,
+    "title": "Bayonetta",
+    "store_title": "Bayonetta",
+    "pid": "9PCR9Q61R2H1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCR9Q61R2H1"
+      ]
+    ],
+    "original_release_date": "2009-10-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "PlatinumGames Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2136,
+      "name": "Bayonetta",
+      "url": "https://www.igdb.com/games/bayonetta",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Nex Entertainment",
+        "PlatinumGames"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

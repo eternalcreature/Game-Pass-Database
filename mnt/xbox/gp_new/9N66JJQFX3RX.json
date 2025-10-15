@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 312871,
+    "specific_id": 312871,
+    "title": "Descenders Next",
+    "store_title": "Descenders Next (Game Preview)",
+    "pid": "9N66JJQFX3RX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N66JJQFX3RX"
+      ]
+    ],
+    "original_release_date": "2025-07-21",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports",
+      "Action & adventure",
+      "Racing & flying"
+    ],
+    "publisher": "No More Robots",
+    "developer": "RageSquid"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 312871,
+      "name": "Descenders Next",
+      "url": "https://www.igdb.com/games/descenders-next",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "RageSquid"
+      ],
+      "genres": [
+        "Racing",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

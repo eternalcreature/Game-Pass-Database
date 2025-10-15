@@ -1,0 +1,115 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Action & adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Crude Humor"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Forager is a 2D open world game inspired by your favorite exploration, farming and crafting games.\r\n\r\n- Gather, collect and manage resources.\r\n- Craft useful items & structures.\r\n- Build and grow a base out of nothing. Buy land to expand and explore.\r\n- Level up and learn new skills, abilities, and blueprints.\r\n- Solve puzzles, find secrets and raid dungeons!\r\n- Achieve anything you want! The choice is yours, you set your own goals to work towards!\r\n\r\nStart small and improve your base, skills, equipment, network of friends (and enemies!) and build your future as you see fit!",
+  "developerName": "HopFrog",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 178454528,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P5SFDNW6V13",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 269,
+  "releaseDate": "2020-07-16T00:00:00.0000000Z",
+  "shortDescription": "Forager is a 2D open world game inspired by your favorite exploration, farming and crafting games.\r\n\r\nStart small and improve your base, skills, equipment, network of friends (and enemies!) and build your future as you see fit!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B00ZS83106CJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T12SWKDGFJJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Forager",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-07-16T00:00:00Z",
+      "exitDateUTC": "2024-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-07-16T00:00:00Z",
+      "exitDateUTC": "2024-12-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

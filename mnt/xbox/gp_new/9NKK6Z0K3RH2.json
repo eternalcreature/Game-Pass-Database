@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 252647,
+    "specific_id": 252647,
+    "title": "Persona 3 Reload",
+    "store_title": "Persona 3 Reload",
+    "pid": "9NKK6Z0K3RH2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NKK6Z0K3RH2"
+      ]
+    ],
+    "original_release_date": "2024-02-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-02-02",
+        "removed": "2025-08-16"
+      },
+      "Ultimate": {
+        "added": "2024-02-02",
+        "removed": "2025-08-16"
+      },
+      "PC": {
+        "added": "2024-02-02",
+        "removed": "2025-08-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252647,
+      "name": "Persona 3 Reload",
+      "url": "https://www.igdb.com/games/persona-3-reload",
+      "publishers": [
+        "Atlus",
+        "Sega"
+      ],
+      "developers": [
+        "Atlus",
+        "P Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 107323,
+    "specific_id": 107323,
+    "title": "Undungeon",
+    "store_title": "Undungeon",
+    "pid": "9PJ517SDHQPF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N55W5HG0DSG"
+    ],
+    "sku_groups": [
+      [
+        "9N55W5HG0DSG"
+      ],
+      [
+        "9PJ517SDHQPF"
+      ]
+    ],
+    "original_release_date": "2021-11-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-18",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-18",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Laughing Machines"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107323,
+      "name": "Undungeon",
+      "url": "https://www.igdb.com/games/undungeon",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Laughing Machines"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

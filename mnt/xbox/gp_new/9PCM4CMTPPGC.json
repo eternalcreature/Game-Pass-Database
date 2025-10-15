@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 148241,
+    "specific_id": 148241,
+    "title": "Lies of P",
+    "store_title": "Lies of P",
+    "pid": "9PCM4CMTPPGC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCM4CMTPPGC"
+      ]
+    ],
+    "original_release_date": "2023-09-19",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-09-18",
+        "removed": "2025-03-16"
+      },
+      "Ultimate": {
+        "added": "2023-09-18",
+        "removed": "2025-03-16"
+      },
+      "Console": {
+        "added": "2023-09-18",
+        "removed": "2025-03-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "NEOWIZ",
+    "developer": "NEOWIZ"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 148241,
+      "name": "Lies of P",
+      "url": "https://www.igdb.com/games/lies-of-p",
+      "publishers": [
+        "Neowiz"
+      ],
+      "developers": [
+        "Round8 Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

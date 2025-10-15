@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 102122,
+    "specific_id": 102122,
+    "title": "Madden NFL 19",
+    "store_title": "Madden NFL 19",
+    "pid": "BVF5ZGD9NM52",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BVF5ZGD9NM52"
+      ]
+    ],
+    "original_release_date": "2018-08-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2021-08-20"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2021-08-20"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (3-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 102122,
+      "name": "Madden NFL 19",
+      "url": "https://www.igdb.com/games/madden-nfl-19",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

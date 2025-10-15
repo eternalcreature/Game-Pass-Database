@@ -1,0 +1,305 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without button holds",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.3,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Cartoon Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "\"Experience the magic of Disneyland like never before! Take a journey where stories come to life and dreams come true, right in your living room! Explore Disneyland® park — from Main Street U.S.A. to Critter Country — join Peter Pan to battle Captain Hook, high-five Mickey Mouse or hug Snow White.\r\r\n\r\r\n“Disneyland Adventures” allows children, families and Disney fans of all ages to explore Disneyland park, step into adventures based on attractions, engage in challenging quests and interact with beloved Disney characters remastered in 4K Ultra HD and HDR.\"   © Disney",
+  "developerName": "Asobo",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 25120550912,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N6Z8DQXSQWH",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 1786,
+  "releaseDate": "2017-10-31T00:00:00.0000000Z",
+  "shortDescription": "Disneyland Adventures allows children and Disney fans of all ages to explore Disneyland park in 4K Ultra HD and HDR, enjoy immersive adventures based on 18 popular attractions, engage in 100 challenging quests, and interact with 35 beloved Disney characters.  Disneyland Adventures is your ticket to the magical world of Disneyland right in your living room.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZXT93ZFVBM3",
+        "discountPercentage": 67.033516,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 6.59,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B442L6FSD2VM",
+        "discountPercentage": 75.03752,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePassCore",
+          "productId": "CFQ7TTC0K5DJ"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VJPJ7N6B7KQ",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9Q68LKVXW986",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9S9D3MSG73H8",
+        "discountPercentage": 75.03752,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePassCore",
+          "productId": "CFQ7TTC0K5DJ"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9SSPTZ1GG59J",
+        "discountPercentage": 67.033516,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 6.59,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9PBGKXB50ZH1",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZJ11K6NDMDH",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 4
+  },
+  "title": "Disneyland Adventures",
+  "xCloudProperties": {
+    "xCloudId": "DISNEYLANDADVENTURES",
+    "xboxTitleId": 791051466,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2018-06-01T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2018-06-01T00:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2019-06-09T06:59:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DISNEYLANDADVENTURES",
+    "xboxTitleId": 791051466,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

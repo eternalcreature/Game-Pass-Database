@@ -1,0 +1,94 @@
+{
+  "id": 111717,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 11,
+      "name": "Real Time Strategy (RTS)"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 93359,
+      "company": {
+        "id": 19866,
+        "name": "Maple Whispering Limited"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 122474,
+      "company": {
+        "id": 26341,
+        "name": "Humble Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 129607,
+      "company": {
+        "id": 20569,
+        "name": "Thomas Moon Kang"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "One Step From Eden",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/one-step-from-eden"
+}

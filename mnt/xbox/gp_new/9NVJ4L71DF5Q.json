@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "base_id": 2001,
+    "specific_id": 188063,
+    "title": "Far Cry 3: Blood Dragon",
+    "store_title": "Far Cry\u00ae 3 Blood Dragon Classic Edition",
+    "pid": "9NVJ4L71DF5Q",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P06W7K6Q3C6"
+    ],
+    "sku_groups": [
+      [
+        "9NVJ4L71DF5Q"
+      ],
+      [
+        "9P06W7K6Q3C6"
+      ]
+    ],
+    "original_release_date": "2013-05-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT PUNE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2001,
+      "name": "Far Cry 3: Blood Dragon",
+      "url": "https://www.igdb.com/games/far-cry-3-blood-dragon",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 2001,
+      "name": "Far Cry 3: Blood Dragon",
+      "url": "https://www.igdb.com/games/far-cry-3-blood-dragon",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

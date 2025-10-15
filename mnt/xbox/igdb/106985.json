@@ -1,0 +1,74 @@
+{
+  "id": 106985,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 208469,
+      "company": {
+        "id": 16145,
+        "name": "Joe Richardson"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 208470,
+      "company": {
+        "id": 22830,
+        "name": "SUPERHOT PRESENTS"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 208471,
+      "company": {
+        "id": 5257,
+        "name": "Digerati Distribution"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Procession to Calvary",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-procession-to-calvary"
+}

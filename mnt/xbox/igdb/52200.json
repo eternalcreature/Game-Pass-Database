@@ -1,0 +1,69 @@
+{
+  "id": 52200,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 136325,
+      "company": {
+        "id": 13189,
+        "name": "No More Robots"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 136326,
+      "company": {
+        "id": 8590,
+        "name": "RageSquid"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Descenders",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/descenders"
+}

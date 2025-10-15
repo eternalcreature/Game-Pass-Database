@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 113866,
+    "specific_id": 113866,
+    "title": "Moving Out",
+    "store_title": "Moving Out",
+    "pid": "9NXPBSMHPLTV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NXPBSMHPLTV"
+      ]
+    ],
+    "original_release_date": "2020-04-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-05-30",
+        "removed": "2021-05-01"
+      },
+      "Ultimate": {
+        "added": "2020-05-30",
+        "removed": "2021-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Family & kids",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Team17 Digital Ltd.",
+    "developer": "SMG Studio & DEVM Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113866,
+      "name": "Moving Out",
+      "url": "https://www.igdb.com/games/moving-out",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "DEVM Games",
+        "SMG Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

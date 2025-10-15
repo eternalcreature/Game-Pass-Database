@@ -1,0 +1,102 @@
+{
+  "id": 115115,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 252402,
+      "company": {
+        "id": 41399,
+        "name": "NeoBards Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 252403,
+      "company": {
+        "id": 25386,
+        "name": "REDWORKS Inc."
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 312035,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 312036,
+      "company": {
+        "id": 25385,
+        "name": "M-TWO"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 312037,
+      "company": {
+        "id": 8593,
+        "name": "K2"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 312038,
+      "company": {
+        "id": 42265,
+        "name": "Capcom Development Division 1"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Resident Evil 3",
+  "parent_game": 966,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/resident-evil-3"
+}

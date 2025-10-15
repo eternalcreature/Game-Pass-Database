@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 537,
+    "specific_id": 537,
+    "title": "Assassin's Creed Revelations",
+    "store_title": "Assassin's Creed Revelations",
+    "pid": "9MZG3KH0PVZC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZG3KH0PVZC"
+      ]
+    ],
+    "original_release_date": "2011-11-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 537,
+      "name": "Assassin's Creed Revelations",
+      "url": "https://www.igdb.com/games/assassins-creed-revelations",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

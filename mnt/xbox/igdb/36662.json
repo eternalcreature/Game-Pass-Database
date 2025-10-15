@@ -1,0 +1,61 @@
+{
+  "id": 36662,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 49556,
+      "company": {
+        "id": 965,
+        "name": "Ghost Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 49557,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Need for Speed: Payback",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/need-for-speed-payback"
+}

@@ -1,0 +1,106 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Sexual Themes",
+      "Drug Reference",
+      "Strong Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "The Technomancer takes you to Mars, where you live as a mage-warrior. You’re capable of harnessing destructive electrical powers amplified by cybernetic implants. Feared and respected by all, you are on the verge of completing your initiation rite to become a fully-fledged Technomancer.\r\n\r\nThis action-RPG offers four different combat skill trees focusing on three distinct fighting styles, as well as the potent electrical powers. Of course, brute strength is not suited to every situation. Dynamic conversations play a major part in questing, and your decisions will dramatically alter the story and world. You can also craft equipment, weapons and armor for yourself and any companions you recruit along the way.\r\n\r\nUndertake an adventure through forgotten paradises, lost cities under ice, and dystopian shanty towns that sprawl across Mars' dusty embrace. Will you survive long enough to uncover the truth behind The Technomancer?",
+  "developerName": "Spiders",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 8031981568,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BSN5GB25HM2M",
+  "productKind": "Game",
+  "publisherName": "Focus Entertainment",
+  "ratingCount": 337,
+  "releaseDate": "2016-06-28T00:00:00.0000000Z",
+  "shortDescription": "The Technomancer is an action-RPG set on Mars. Feared and respected by all, the Technomancers are fearsome warriors trained to fight from a young age. You are on the verge of completing your initiation rite to become a fully-fledged Technomancer yourself – but will you survive long enough to uncover the mysteries hidden in Mars’ dusty embrace?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B44HHTZ0B892",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B34MXSN0T71F",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Technomancer",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

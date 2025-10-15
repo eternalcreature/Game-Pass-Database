@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 322108,
+    "specific_id": 322108,
+    "title": "Warcraft I: Remastered",
+    "store_title": "Warcraft\u00ae I: Remastered",
+    "pid": "9PK7TLLPD7GV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PK7TLLPD7GV"
+      ]
+    ],
+    "original_release_date": "2024-11-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-06-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 322108,
+      "name": "Warcraft I: Remastered",
+      "url": "https://www.igdb.com/games/warcraft-i-remastered",
+      "publishers": [
+        "Blizzard Entertainment"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

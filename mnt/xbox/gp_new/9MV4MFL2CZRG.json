@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 188661,
+    "specific_id": 188661,
+    "title": "MLB The Show 22",
+    "store_title": "MLB\u00ae The Show\u2122 22 Xbox Series X|S",
+    "pid": "9MV4MFL2CZRG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MXM0G8RP4H4"
+    ],
+    "sku_groups": [
+      [
+        "9MV4MFL2CZRG"
+      ],
+      [
+        "9MXM0G8RP4H4"
+      ]
+    ],
+    "original_release_date": "2022-04-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "MLB",
+    "developer": "San Diego Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 188661,
+      "name": "MLB The Show 22",
+      "url": "https://www.igdb.com/games/mlb-the-show-22",
+      "publishers": [
+        "MLB Advanced Media",
+        "Sony Interactive Entertainment"
+      ],
+      "developers": [
+        "SIE San Diego Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

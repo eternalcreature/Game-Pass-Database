@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 10031,
+    "specific_id": 119259,
+    "title": "Yooka-Laylee",
+    "store_title": "Yooka-Laylee and the Impossible Lair",
+    "pid": "9PGPPZW59JB8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGPPZW59JB8"
+      ]
+    ],
+    "original_release_date": "2017-04-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-10",
+        "removed": "2021-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-10",
+        "removed": "2021-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Team17 Digital Ltd.",
+    "developer": "Playtonic Games Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10031,
+      "name": "Yooka-Laylee",
+      "url": "https://www.igdb.com/games/yooka-laylee",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Playtonic"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 10031,
+      "name": "Yooka-Laylee",
+      "url": "https://www.igdb.com/games/yooka-laylee",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Playtonic"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

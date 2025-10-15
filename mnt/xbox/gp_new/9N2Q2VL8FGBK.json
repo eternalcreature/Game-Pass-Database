@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 9924,
+    "specific_id": 9924,
+    "title": "Sins of a Solar Empire: Rebellion",
+    "store_title": "Sins of a Solar Empire: Rebellion",
+    "pid": "9N2Q2VL8FGBK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N2Q2VL8FGBK"
+      ]
+    ],
+    "original_release_date": "2013-06-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-21",
+        "removed": "2024-07-16"
+      },
+      "Ultimate": {
+        "added": "2022-07-21",
+        "removed": "2024-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-10)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Stardock Entertainment",
+    "developer": "Ironclad Games, Stardock Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9924,
+      "name": "Sins of a Solar Empire: Rebellion",
+      "url": "https://www.igdb.com/games/sins-of-a-solar-empire-rebellion",
+      "publishers": [
+        "Stardock"
+      ],
+      "developers": [
+        "Ironclad Games",
+        "Stardock"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

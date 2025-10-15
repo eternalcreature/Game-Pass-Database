@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 322702,
+    "specific_id": 322702,
+    "title": "Spray Paint Simulator",
+    "store_title": "Spray Paint Simulator",
+    "pid": "9NDKXPQBBNJN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDKXPQBBNJN"
+      ]
+    ],
+    "original_release_date": "2025-05-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-29",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Family & kids"
+    ],
+    "publisher": "Whitethorn Games",
+    "developer": "North Star Video Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 322702,
+      "name": "Spray Paint Simulator",
+      "url": "https://www.igdb.com/games/spray-paint-simulator",
+      "publishers": [
+        "Whitethorn Games"
+      ],
+      "developers": [
+        "North Star Video Games"
+      ],
+      "genres": [
+        "Simulator"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

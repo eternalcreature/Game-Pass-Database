@@ -1,0 +1,61 @@
+{
+  "id": 116156,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 108256,
+      "company": {
+        "id": 11662,
+        "name": "Annapurna Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 108257,
+      "company": {
+        "id": 4998,
+        "name": "Heart Machine"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Solar Ash",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/solar-ash--1"
+}

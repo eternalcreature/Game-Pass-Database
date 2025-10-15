@@ -1,0 +1,65 @@
+{
+  "id": 138244,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 146309,
+      "company": {
+        "id": 27885,
+        "name": "Jacob Dzwinel"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 146310,
+      "company": {
+        "id": 26341,
+        "name": "Humble Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Midnight Fight Express",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/midnight-fight-express"
+}

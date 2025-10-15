@@ -1,0 +1,75 @@
+{
+  "id": 50199,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 93780,
+      "company": {
+        "id": 374,
+        "name": "Koch Media"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 170143,
+      "company": {
+        "id": 423,
+        "name": "Deep Silver"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 170142,
+      "company": {
+        "id": 314,
+        "name": "4A Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Metro: Last Light Redux",
+  "parent_game": 539,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/metro-last-light-redux"
+}

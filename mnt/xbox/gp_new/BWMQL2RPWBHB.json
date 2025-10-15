@@ -1,0 +1,111 @@
+{
+  "basic_info": {
+    "base_id": 26226,
+    "specific_id": 26226,
+    "title": "Celeste",
+    "store_title": "Celeste",
+    "pid": "BWMQL2RPWBHB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWMQL2RPWBHB"
+      ]
+    ],
+    "original_release_date": "2018-01-25",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-08-01",
+        "removed": null
+      },
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-08-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-08-01",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2020-11-05",
+        "removed": "2021-10-31"
+      },
+      "Ultimate": {
+        "added": "2020-11-05",
+        "removed": "2021-10-31"
+      },
+      "Console": {
+        "added": "2020-11-05",
+        "removed": "2021-10-31"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Matt Makes Games Inc.",
+    "developer": "Matt Makes Games Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26226,
+      "name": "Celeste",
+      "url": "https://www.igdb.com/games/celeste",
+      "publishers": [
+        "Maddy Makes Games"
+      ],
+      "developers": [
+        "Extremely OK Games"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

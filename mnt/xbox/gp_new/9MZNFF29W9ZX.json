@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 71595,
+    "specific_id": 71595,
+    "title": "Flynn: Son of Crimson",
+    "store_title": "Flynn: Son of Crimson",
+    "pid": "9MZNFF29W9ZX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZNFF29W9ZX"
+      ]
+    ],
+    "original_release_date": "2021-09-15",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-15",
+        "removed": "2022-09-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-15",
+        "removed": "2022-09-16"
+      },
+      "Console": {
+        "added": "2021-09-15",
+        "removed": "2022-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Studio Thunderhorse"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 71595,
+      "name": "Flynn: Son of Crimson",
+      "url": "https://www.igdb.com/games/flynn-son-of-crimson",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Studio Thunderhorse"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

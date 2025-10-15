@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 145232,
+    "specific_id": 145232,
+    "title": "EA Sports PGA Tour",
+    "store_title": "EA SPORTS\u2122 PGA TOUR\u2122",
+    "pid": "9PPJGBJ2LGV9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P822XLW9PB8"
+    ],
+    "sku_groups": [
+      [
+        "9P822XLW9PB8"
+      ],
+      [
+        "9PPJGBJ2LGV9"
+      ]
+    ],
+    "original_release_date": "2023-04-04",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-04-04",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-04",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-04-04",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts - Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145232,
+      "name": "EA Sports PGA Tour",
+      "url": "https://www.igdb.com/games/ea-sports-pga-tour",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

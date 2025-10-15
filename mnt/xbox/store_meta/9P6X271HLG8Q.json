@@ -1,0 +1,163 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "60fps": "60 fps+",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Family & kids",
+    "Platformer"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Cartoon Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "In PHOGS! you play as a duo of dogs on a captivating, puzzle-filled adventure. Linked by a stretchy belly, you’ll need to bark, bite and bounce your way through obstacles set across the themed worlds of Food, Sleep and Play, in co-op or single-player.\r\n\r\nForage through Food World, teeming with tasty treats. From hot buttered toast to chopped celery... even a river of chocolate!\r\n\r\nStroll through Sleep World, complete with teddy bears, cushions and quilts, all nestled in the glow of the soothing night-light. \r\n\r\nPounce through the crazy toybox of Play World, exploring a beach amusement park, a retro arcade, and everything in between. Woof!\r\n\r\nSupporting single-player and shared-controller gameplay, plus local and online co-op, Red and Blue are always ready to play!",
+  "developerName": "Bit Loom Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 6179262464,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P6X271HLG8Q",
+  "productKind": "Game",
+  "publisherName": "Coatsink",
+  "ratingCount": 226,
+  "releaseDate": "2020-12-03T09:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XQ33QNL5Q0T",
+        "discountPercentage": 85.03401,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.74,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z9WZM3NKP7M",
+        "discountPercentage": 85.03401,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.74,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "PHOGS!",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-04-22T00:00:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-04-22T00:00:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-12-03T09:00:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "PHOGS",
+    "xboxTitleId": 1991248961,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

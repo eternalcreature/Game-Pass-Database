@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 55090,
+    "specific_id": 55090,
+    "title": "Yakuza Kiwami 2",
+    "store_title": "Yakuza Kiwami 2",
+    "pid": "9PBJL0NLFMK9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MZNFNN3XJ3F"
+    ],
+    "sku_groups": [
+      [
+        "9MZNFNN3XJ3F"
+      ],
+      [
+        "9PBJL0NLFMK9"
+      ]
+    ],
+    "original_release_date": "2017-12-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-07-05",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2022-07-05",
+        "removed": "2025-04-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "SEGA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55090,
+      "name": "Yakuza Kiwami 2",
+      "url": "https://www.igdb.com/games/yakuza-kiwami-2",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

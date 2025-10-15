@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 8347,
+    "specific_id": 8347,
+    "title": "The Long Dark",
+    "store_title": "The Long Dark",
+    "pid": "C41ZDFQ82M1G",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NFKN56ZBMR0"
+    ],
+    "sku_groups": [
+      [
+        "9NFKN56ZBMR0"
+      ],
+      [
+        "C41ZDFQ82M1G"
+      ]
+    ],
+    "original_release_date": "2017-08-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-04-16",
+        "removed": "2023-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-04-16",
+        "removed": "2023-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Hinterland Studio Inc.",
+    "developer": "Hinterland Studio Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8347,
+      "name": "The Long Dark",
+      "url": "https://www.igdb.com/games/the-long-dark",
+      "publishers": [
+        "Hinterland Studio Inc."
+      ],
+      "developers": [
+        "Hinterland Studio Inc."
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

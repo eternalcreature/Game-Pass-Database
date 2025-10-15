@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 217624,
+    "specific_id": 217624,
+    "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "store_title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "pid": "9PCMWNDPPBFZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCMWNDPPBFZ"
+      ]
+    ],
+    "original_release_date": "2023-11-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-09",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2023-11-09",
+        "removed": "2024-11-16"
+      },
+      "Console": {
+        "added": "2023-11-09",
+        "removed": "2024-11-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217624,
+      "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+      "url": "https://www.igdb.com/games/like-a-dragon-gaiden-the-man-who-erased-his-name",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

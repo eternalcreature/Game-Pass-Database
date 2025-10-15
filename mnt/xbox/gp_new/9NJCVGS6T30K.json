@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 252826,
+    "specific_id": 252826,
+    "title": "South of Midnight",
+    "store_title": "South of Midnight",
+    "pid": "9NJCVGS6T30K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJCVGS6T30K"
+      ]
+    ],
+    "original_release_date": "2025-04-08",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-08",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Compulsion Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252826,
+      "name": "South of Midnight",
+      "url": "https://www.igdb.com/games/south-of-midnight",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Compulsion Games"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

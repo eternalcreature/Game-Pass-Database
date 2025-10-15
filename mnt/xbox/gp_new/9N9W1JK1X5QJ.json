@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 121748,
+    "specific_id": 121748,
+    "title": "The Touryst",
+    "store_title": "The Touryst",
+    "pid": "9N9W1JK1X5QJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N9W1JK1X5QJ"
+      ]
+    ],
+    "original_release_date": "2019-11-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-07-30",
+        "removed": "2021-08-01"
+      },
+      "Ultimate": {
+        "added": "2020-07-30",
+        "removed": "2021-08-01"
+      },
+      "PC": {
+        "added": "2020-07-30",
+        "removed": "2021-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Shin'en Multimedia GmbH",
+    "developer": "Shin'en Multimedia GmbH"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 121748,
+      "name": "The Touryst",
+      "url": "https://www.igdb.com/games/the-touryst",
+      "publishers": [
+        "Shin'en Multimedia"
+      ],
+      "developers": [
+        "Shin'en Multimedia"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

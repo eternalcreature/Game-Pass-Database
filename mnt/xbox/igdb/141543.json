@@ -1,0 +1,65 @@
+{
+  "id": 141543,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 184131,
+      "company": {
+        "id": 15657,
+        "name": "DigixArt"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 184130,
+      "company": {
+        "id": 9043,
+        "name": "Ravenscourt"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Road 96",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/road-96"
+}

@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 111717,
+    "specific_id": 111717,
+    "title": "One Step From Eden",
+    "store_title": "One Step From Eden",
+    "pid": "9N4K8K2ZGF1L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4K8K2ZGF1L"
+      ]
+    ],
+    "original_release_date": "2020-03-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-11",
+        "removed": "2022-11-16"
+      },
+      "Ultimate": {
+        "added": "2021-11-11",
+        "removed": "2022-11-16"
+      },
+      "Console": {
+        "added": "2021-11-11",
+        "removed": "2022-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Strategy"
+    ],
+    "publisher": "Humble Games",
+    "developer": " Thomas Moon Kang"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 111717,
+      "name": "One Step From Eden",
+      "url": "https://www.igdb.com/games/one-step-from-eden",
+      "publishers": [
+        "Humble Games",
+        "Maple Whispering Limited"
+      ],
+      "developers": [
+        "Thomas Moon Kang"
+      ],
+      "genres": [
+        "Shooter",
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

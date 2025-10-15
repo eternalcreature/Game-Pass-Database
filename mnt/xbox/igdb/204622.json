@@ -1,0 +1,73 @@
+{
+  "id": 204622,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 175246,
+      "company": {
+        "id": 22793,
+        "name": "Rogue Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 175247,
+      "company": {
+        "id": 36187,
+        "name": "PlotTwist Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "The Last Case of Benedict Fox",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-last-case-of-benedict-fox"
+}

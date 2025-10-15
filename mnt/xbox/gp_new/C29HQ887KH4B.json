@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 15,
+    "specific_id": 15,
+    "title": "Fallout 3",
+    "store_title": "Fallout 3",
+    "pid": "C29HQ887KH4B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBZ9JF6TFMD"
+    ],
+    "sku_groups": [
+      [
+        "9NBZ9JF6TFMD"
+      ],
+      [
+        "C29HQ887KH4B"
+      ]
+    ],
+    "original_release_date": "2008-10-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 15,
+      "name": "Fallout 3",
+      "url": "https://www.igdb.com/games/fallout-3",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

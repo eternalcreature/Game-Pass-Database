@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 151693,
+    "specific_id": 151693,
+    "title": "The Legend of Tianding",
+    "store_title": "The Legend of Tianding",
+    "pid": "9NCBTKXHFF8K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCBTKXHFF8K"
+      ]
+    ],
+    "original_release_date": "2022-10-31",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-01",
+        "removed": "2023-10-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-01",
+        "removed": "2023-10-16"
+      },
+      "Console": {
+        "added": "2022-11-01",
+        "removed": "2023-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Fighting"
+    ],
+    "publisher": "Neon Doctrine",
+    "developer": "Creative Games Computer Graphics Corporation and Neon Doctrine"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 151693,
+      "name": "The Legend of Tianding",
+      "url": "https://www.igdb.com/games/the-legend-of-tianding",
+      "publishers": [
+        "Neon Doctrine"
+      ],
+      "developers": [
+        "CGCG Studio"
+      ],
+      "genres": [
+        "Fighting",
+        "Platform",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

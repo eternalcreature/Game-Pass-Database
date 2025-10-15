@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "base_id": 27712,
+    "specific_id": 27712,
+    "title": "Kingsway",
+    "store_title": "Kingsway",
+    "pid": "9PP2H41H50S5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PP2H41H50S5"
+      ]
+    ],
+    "original_release_date": "2017-07-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Adult Swim Games",
+    "developer": "Andrew Morrish"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27712,
+      "name": "Kingsway",
+      "url": "https://www.igdb.com/games/kingsway",
+      "publishers": [
+        "Adult Swim Games"
+      ],
+      "developers": [
+        "Andrew Morrish"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

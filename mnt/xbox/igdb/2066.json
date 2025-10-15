@@ -1,0 +1,54 @@
+{
+  "id": 2066,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 42348,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 16092,
+      "company": {
+        "id": 2821,
+        "name": "Eighting"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Ultimate Marvel vs. Capcom 3",
+  "parent_game": 8248,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/ultimate-marvel-vs-capcom-3"
+}

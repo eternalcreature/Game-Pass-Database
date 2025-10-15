@@ -1,0 +1,73 @@
+{
+  "id": 7668,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 17979,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 17978,
+      "company": {
+        "id": 85,
+        "name": "Double Fine Productions"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Iron Brigade",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/iron-brigade"
+}

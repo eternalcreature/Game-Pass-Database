@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 492,
+    "specific_id": 492,
+    "title": "Gears of War 3",
+    "store_title": "Gears of War 3",
+    "pid": "BPKDQSSFQ9WV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPKDQSSFQ9WV"
+      ]
+    ],
+    "original_release_date": "2011-09-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Epic Games, Inc"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 492,
+      "name": "Gears of War 3",
+      "url": "https://www.igdb.com/games/gears-of-war-3",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Epic Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

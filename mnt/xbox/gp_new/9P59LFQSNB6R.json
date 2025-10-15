@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 28168,
+    "specific_id": 28168,
+    "title": "Code Vein",
+    "store_title": "CODE VEIN",
+    "pid": "9P59LFQSNB6R",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C4Q7K19Q0VBZ"
+    ],
+    "sku_groups": [
+      [
+        "9P59LFQSNB6R"
+      ],
+      [
+        "C4Q7K19Q0VBZ"
+      ]
+    ],
+    "original_release_date": "2019-09-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-02-18",
+        "removed": "2022-02-16"
+      },
+      "Ultimate": {
+        "added": "2021-02-18",
+        "removed": "2022-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "BANDAI NAMCO Entertainment America Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28168,
+      "name": "Code Vein",
+      "url": "https://www.igdb.com/games/code-vein",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios",
+        "Shift"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

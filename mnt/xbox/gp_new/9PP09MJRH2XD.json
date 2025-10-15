@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 119856,
+    "specific_id": 119856,
+    "title": "Garden Story",
+    "store_title": "Garden Story",
+    "pid": "9PP09MJRH2XD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PP09MJRH2XD"
+      ]
+    ],
+    "original_release_date": "2021-08-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-12",
+        "removed": "2024-01-16"
+      },
+      "Ultimate": {
+        "added": "2022-07-12",
+        "removed": "2024-01-16"
+      },
+      "Console": {
+        "added": "2022-07-12",
+        "removed": "2024-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "Rose City Games, Kowloon Nights",
+    "developer": "Picogram"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119856,
+      "name": "Garden Story",
+      "url": "https://www.igdb.com/games/garden-story",
+      "publishers": [
+        "Rose City Games"
+      ],
+      "developers": [
+        "Picogram"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

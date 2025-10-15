@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 14593,
+    "specific_id": 14593,
+    "title": "Hollow Knight",
+    "store_title": "Hollow Knight: Voidheart Edition",
+    "pid": "9MW9469V91LM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MW9469V91LM"
+      ]
+    ],
+    "original_release_date": "2017-02-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-02-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Team Cherry",
+    "developer": "Team Cherry"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14593,
+      "name": "Hollow Knight",
+      "url": "https://www.igdb.com/games/hollow-knight",
+      "publishers": [
+        "Team Cherry"
+      ],
+      "developers": [
+        "Team Cherry"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

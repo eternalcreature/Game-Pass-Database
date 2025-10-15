@@ -1,0 +1,126 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Chat speech-to-text & text-to-speech",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2.3,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "XblOnlineCoop": "Online co-op (2-6)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "EA SPORTS™ NHL® 24’s all-new gameplay features bring authentic on-ice action to life. Experience the rush and fatigue of a high-pressure game with the Exhaust Engine, where sustained pressure in the attack zone leads to new game-changing effects like goalie fatigue that slows the netminder’s reaction time the more they get worn down with offensive action; change the momentum with Physics-Based Contact as you break the glass and send players into the bench with big body checks; and get unparalleled player command with the new Vision Passing System and Total Control Skill Moves. Chel is more connected than ever with cross-play in all online team play modes, along with HUT Moments, which lets you recreate classic moments in hockey history and today’s biggest plays. Adding an extra layer of authenticity, Flex Moments introduces 75+ new goal celebrations, and a wholly refreshed presentation complements an enriched crowd atmosphere that makes playing the game feel like you’re at the game.\r\n\r\nThis game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\r\n*Conditions & restrictions apply. See http://www.ea.com/games/nhl/nhl-24/game-and-offer-disclaimers for details.\r\n†Offers may vary or change. See retailer site for details.",
+  "developerName": "EA Vancouver",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 41895604224,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PFFWMFBFWP3",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 218,
+  "shortDescription": "EA SPORTS™ NHL® 24's all-new gameplay features like Exhaust Engine, Vision Passing, Total Control Skill Moves, and Physics-Based Contact that bring authentic on-ice action to life.",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 0
+  },
+  "title": "NHL® 24 Xbox One",
+  "xCloudProperties": {
+    "xCloudId": "NHL24XBOXONE",
+    "xboxTitleId": 1970734247,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2024-04-18T15:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "NHL24XBOXONE",
+    "xboxTitleId": 1970734247,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

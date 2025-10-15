@@ -1,0 +1,163 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9P6KBLVP8V3G"
+  ],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "Capability4k": "4K Ultra HD",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Animated Blood",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Transform from a featureless nobody into a SLUG, a GHOST, a DRAGON, and MORE in this new take on Action RPGs from the creators of Guacamelee! \r\n\r\nComplete quests to discover and swap between 15+ varied and distinct Forms. Mix and match abilities in unexpected ways to unlock and complete even MORE challenging quests. Explore a vast overworld - on your own or with a friend online - while clearing shape-shifting dungeons in an effort to stop The Calamity and SAVE THE WORLD!",
+  "developerName": "Drinkbox Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 1214046208,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NFZ65KKJ10X",
+  "productKind": "Game",
+  "publisherName": "Drinkbox Studios",
+  "ratingCount": 298,
+  "releaseDate": "2022-01-18T13:00:00.0000000Z",
+  "shortDescription": "A shape-changing, ability-blending Action-RPG! Change forms, combine abilities, save the world!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VCJWDL5ZX7T",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NL172NPVXS4",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Nobody Saves the World",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-01-18T13:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-01-18T13:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-01-18T13:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "NOBODYSAVESTHEWORLD",
+    "xboxTitleId": 1868841248,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

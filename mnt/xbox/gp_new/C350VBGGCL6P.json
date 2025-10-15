@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 19554,
+    "specific_id": 19554,
+    "title": "Steep",
+    "store_title": "STEEP",
+    "pid": "C350VBGGCL6P",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NWDKGFHMZK3"
+    ],
+    "sku_groups": [
+      [
+        "9NWDKGFHMZK3"
+      ],
+      [
+        "C350VBGGCL6P"
+      ]
+    ],
+    "original_release_date": "2016-12-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "CapabilityHDR": "HDR10",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledS": "FPS Boost Series S"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Annecy"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19554,
+      "name": "Steep",
+      "url": "https://www.igdb.com/games/steep",
+      "publishers": [],
+      "developers": [
+        "Ubisoft Annecy"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

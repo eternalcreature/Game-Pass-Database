@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 129621,
+    "specific_id": 129621,
+    "title": "Rolling Hills: Make Sushi, Make Friends",
+    "store_title": "Rolling Hills: Make Sushi, Make Friends",
+    "pid": "9N491626R5XP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N491626R5XP"
+      ]
+    ],
+    "original_release_date": "2024-06-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-04",
+        "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2024-06-04",
+        "removed": "2025-06-16"
+      },
+      "PC": {
+        "added": "2024-06-04",
+        "removed": "2025-06-16"
+      },
+      "Premium": {
+        "added": "2025-01-08",
+        "removed": "2025-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Catch & Release, LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 129621,
+      "name": "Rolling Hills: Make Sushi, Make Friends",
+      "url": "https://www.igdb.com/games/rolling-hills-make-sushi-make-friends",
+      "publishers": [
+        "Catch & Release, LLC",
+        "Humble Games"
+      ],
+      "developers": [
+        "Catch & Release, LLC"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

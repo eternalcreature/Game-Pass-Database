@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 28856,
+    "specific_id": 28856,
+    "title": "The Crew 2",
+    "store_title": "The Crew\u00ae 2",
+    "pid": "9NXTFRQJGZ43",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV05F8VT7JJ4"
+    ],
+    "sku_groups": [
+      [
+        "9NXTFRQJGZ43"
+      ],
+      [
+        "BV05F8VT7JJ4"
+      ]
+    ],
+    "original_release_date": "2018-06-29",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28856,
+      "name": "The Crew 2",
+      "url": "https://www.igdb.com/games/the-crew-2",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ivory Tower"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

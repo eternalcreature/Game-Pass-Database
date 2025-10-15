@@ -1,0 +1,136 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Puzzle & trivia"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Unveil mysteries behind the fragments of the past\r\n\r\nDivided since the dawn of time, the Peoples of the Tower no longer speak to each other. But it is said that one day, a Traveler will find the wisdom to break down the walls and restore the Balance. Explore and discover an enthralling world in a colorful, poetic setting inspired by the myth of Babel, where men have forgotten their past. Travel the endless steps of a prodigious labyrinth, uncover an ominous truth and unveil the mysteries of this fascinating universe where ancient languages are both the lock and the key. \r\n\r\nEmbark on a captivating journey with ancient languages to decipher\r\n\r\n•\tExplore a beautiful, fascinating world with a strong narrative inspired by the myth of Babel\r\n•\tObserve your environment and solve puzzles to unravel the mysteries around you\r\n•\tUse stealth and cunning to outwit the Guardians and cross the forbidden zones\r\n•\tDecipher ancient languages to restore the connections between the Peoples of the Tower",
+  "developerName": "Rundisc",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1069686784,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NR8V6M3QH57",
+  "productKind": "Game",
+  "publisherName": "Focus Entertainment",
+  "ratingCount": 263,
+  "releaseDate": "2023-09-05T16:00:00.0000000Z",
+  "shortDescription": "Legend says that one day, a traveler will reunite the Peoples of the Tower who are unable to communicate with each other. Observe, listen, and decipher ancient languages in a fascinating universe inspired by the myth of Babel.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XR03BMV4X4L",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VXC30VDRKQ6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Chants of Sennaar",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-05-15T00:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-05-15T00:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "CHANTSOFSENNAAR",
+    "xboxTitleId": 1631654404,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

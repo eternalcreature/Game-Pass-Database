@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 215060,
+    "specific_id": 215060,
+    "title": "Assassin's Creed Mirage",
+    "store_title": "Assassin\u2019s Creed\u00ae Mirage",
+    "pid": "9NRPWTTJHNBC",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4096HX1WWQ",
+      "9NZCJF5VF1NV"
+    ],
+    "sku_groups": [
+      [
+        "9N4096HX1WWQ",
+        "9NZCJF5VF1NV"
+      ],
+      [
+        "9NRPWTTJHNBC"
+      ]
+    ],
+    "original_release_date": "2023-10-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-08-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-07",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 215060,
+      "name": "Assassin's Creed Mirage",
+      "url": "https://www.igdb.com/games/assassins-creed-mirage",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Bordeaux"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

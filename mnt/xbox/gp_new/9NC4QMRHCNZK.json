@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 103015,
+    "specific_id": 103015,
+    "title": "Yakuza 3 Remastered",
+    "store_title": "Yakuza 3 Remastered for Windows 10",
+    "pid": "9NC4QMRHCNZK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3460XCS8BC"
+    ],
+    "sku_groups": [
+      [
+        "9N3460XCS8BC"
+      ],
+      [
+        "9NC4QMRHCNZK"
+      ]
+    ],
+    "original_release_date": "2019-08-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-28",
+        "removed": "2025-03-01"
+      },
+      "Ultimate": {
+        "added": "2021-01-28",
+        "removed": "2025-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103015,
+      "name": "Yakuza 3 Remastered",
+      "url": "https://www.igdb.com/games/yakuza-3-remastered",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 143114,
+    "specific_id": 143114,
+    "title": "Total War: Warhammer III",
+    "store_title": "Total War: Warhammer III",
+    "pid": "9NGGB0GZPB9D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGGB0GZPB9D"
+      ]
+    ],
+    "original_release_date": "2022-02-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-17",
+        "removed": "2023-08-16"
+      },
+      "Ultimate": {
+        "added": "2022-02-17",
+        "removed": "2023-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "SEGA",
+    "developer": "SEGA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143114,
+      "name": "Total War: Warhammer III",
+      "url": "https://www.igdb.com/games/total-war-warhammer-iii",
+      "publishers": [
+        "Feral Interactive",
+        "Sega"
+      ],
+      "developers": [
+        "The Creative Assembly"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

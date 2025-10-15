@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 186528,
+    "specific_id": 186528,
+    "title": "Coffee Talk: Episode 2 - Hibiscus & Butterfly",
+    "store_title": "Coffee Talk Episode 2: Hibiscus and Butterfly",
+    "pid": "9N4DC4325HLM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4DC4325HLM"
+      ]
+    ],
+    "original_release_date": "2023-04-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-04-20",
+        "removed": "2024-07-16"
+      },
+      "Ultimate": {
+        "added": "2023-04-20",
+        "removed": "2024-07-16"
+      },
+      "Console": {
+        "added": "2023-04-20",
+        "removed": "2024-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Word"
+    ],
+    "publisher": "Chorus Worldwide Games",
+    "developer": "Toge Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 186528,
+      "name": "Coffee Talk: Episode 2 - Hibiscus & Butterfly",
+      "url": "https://www.igdb.com/games/coffee-talk-episode-2-hibiscus-and-butterfly",
+      "publishers": [
+        "Toge Productions"
+      ],
+      "developers": [
+        "Toge Productions"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

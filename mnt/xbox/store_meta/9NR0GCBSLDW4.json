@@ -1,0 +1,261 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Pausable",
+      "Save anytime"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 2.3,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "SinglePlayer": "Single player",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "60fps": "60 fps+",
+    "SpatialSound": "Spatial Sound",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Design your store, optimizing for efficiency and aesthetics. Determine where products are displayed, manage your aisles, and ensure a smooth shopping experience for your customers.\nOrder stock using an in-game computer. Unpack goods, organize them in your storage room and place them on shelves, fridges, and freezers.\nScan items, take cash and credit card payments, and ensure customers leave satisfied with their shopping and checkout experience.\nNavigate the complexities of a real-time market. Buy products when prices dip and determine the best-selling prices to balance customer satisfaction with profit margins.\nAs you accumulate profits, consider reinvesting. Expand your store's physical space, upgrade interiors, and continually adapt to the evolving demands of the retail world.\nPersonalize your shop to make it unique. Customize your floors, paint your walls, put category signs up and more.\nNot every customer visits your store personally. Receive online orders from customers, ready their packages and deliver them personally.\nTired of paying delivery fees or looking for the discounted prices? Visit local markets to get the best deals.\nMake your store shine. Clean your flood, take out the trash and polish your windows to make your store squeaky clean.\nNot everyone is a paying customer. Use security tools like cameras and alarm antennas or hire security guards to keep your store safe from shoplifters.\n\"Supermarket Simulator\" is a chill first-person simulation where every detail of running a supermarket comes alive.\nIn \"Supermarket Simulator\", every decision matters. Will you rise to the occasion, transforming a modest establishment into a retail powerhouse, all while balancing customer satisfaction, and finances?",
+  "developerName": "Nokta Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 3113865216,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NR0GCBSLDW4",
+  "productKind": "Game",
+  "publisherName": "NAISU",
+  "ratingCount": 281,
+  "releaseDate": "2025-10-08T13:00:00.0000000Z",
+  "shortDescription": "Run your supermarket! Stock shelves, set prices, take payments, hire staff, expand, handle shoplifters, design layout, deliver orders. Buy goods locally or online and bring them to customers yourself.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NTWNX9G5B23",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9TXDF7CSGKZN",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZX2RMMN9H20",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2B5C2D9SBN2",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9W6TW4CH2SV2",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9QRVDND49XTF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/16/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 3
+  },
+  "title": "Supermarket Simulator",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-08T13:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-08T13:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-10-08T13:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-08T13:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SUPERMARKETSIMULATOR",
+    "xboxTitleId": 1702731390,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

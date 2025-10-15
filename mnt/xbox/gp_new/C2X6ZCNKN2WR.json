@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 16999,
+    "specific_id": 16999,
+    "title": "Conan Exiles",
+    "store_title": "Conan Exiles",
+    "pid": "C2X6ZCNKN2WR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2X6ZCNKN2WR"
+      ]
+    ],
+    "original_release_date": "2018-05-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-05-27",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-27",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2021-05-27",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-40)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-40)",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Funcom",
+    "developer": "Funcom"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16999,
+      "name": "Conan Exiles",
+      "url": "https://www.igdb.com/games/conan-exiles",
+      "publishers": [
+        "Funcom",
+        "Koch Media"
+      ],
+      "developers": [
+        "Funcom"
+      ],
+      "genres": [
+        "Fighting",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 5335,
+    "specific_id": 5335,
+    "title": "Goat Simulator",
+    "store_title": "Goat Simulator Windows 10",
+    "pid": "9MXWKHJ3VZZH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV0NM309K1TL"
+    ],
+    "sku_groups": [
+      [
+        "9MXWKHJ3VZZH"
+      ],
+      [
+        "BV0NM309K1TL"
+      ]
+    ],
+    "original_release_date": "2014-04-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-04-04",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2023-04-04",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation"
+    ],
+    "publisher": "Double Eleven Limited",
+    "developer": "Double Eleven Limited"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5335,
+      "name": "Goat Simulator",
+      "url": "https://www.igdb.com/games/goat-simulator",
+      "publishers": [
+        "Coffee Stain Studios",
+        "Double Eleven"
+      ],
+      "developers": [
+        "Coffee Stain Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 139346,
+    "specific_id": 139346,
+    "title": "Need for Speed: Hot Pursuit - Remastered",
+    "store_title": "Need for Speed\u2122 Hot Pursuit Remastered",
+    "pid": "9N4TT1T7H400",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NMBJQ0265ZK"
+    ],
+    "sku_groups": [
+      [
+        "9N4TT1T7H400"
+      ],
+      [
+        "9NMBJQ0265ZK"
+      ]
+    ],
+    "original_release_date": "2020-11-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-24",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-06-24",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Stellar Entertainment Limited"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139346,
+      "name": "Need for Speed: Hot Pursuit - Remastered",
+      "url": "https://www.igdb.com/games/need-for-speed-hot-pursuit-remastered",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Criterion Games",
+        "Stellar Entertainment"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

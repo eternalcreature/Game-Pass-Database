@@ -1,0 +1,179 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses",
+      "Single stick gameplay",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.6,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BSCM85R533J3",
+    "BQG9F4865RMV",
+    "BT8SGJJG7D22"
+  ],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-6)"
+  },
+  "categories": [
+    "Racing & flying"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Welcome to Redview County, where a street-racing rivalry between cops and racers never stops as both sides compete in an all-out war featuring the fastest cars, mods and technology in a gritty open road environment.  Play as either a cop or racer, where each side of the law has its own set of high stakes challenges, rewards and consequences. Risk everything in the ultimate high stakes rivalry.\r\n\r\nThe downloadable version of this game supports English, French, Italian, German, Spanish, Portuguese, Dutch, Japanese.",
+  "developerName": "Ghost Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 17799671808,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C3VM0TMWNZ5M",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 1000,
+  "releaseDate": "2013-11-22T00:00:00.0000000Z",
+  "shortDescription": "Welcome to Redview County, where a street-racing rivalry between cops and racers never stops as both sides compete in an all-out war featuring the fastest cars, mods and technology in a gritty open road environment.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9N5ZLBS0HZ1L",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9R0GLWT4R348",
+        "discountPercentage": 10.005003,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VL7F566NCT7",
+        "discountPercentage": 10.005003,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9XLRBPF6V9GD",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Need for Speed Rivals",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

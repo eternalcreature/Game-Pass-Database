@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 113114,
+    "specific_id": 113114,
+    "title": "The Outer Worlds",
+    "store_title": "The Outer Worlds",
+    "pid": "BVTKN6CQ8W5F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BVTKN6CQ8W5F"
+      ]
+    ],
+    "original_release_date": "2019-10-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-10-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-10-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Private Division",
+    "developer": "Obsidian Entertainment, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113114,
+      "name": "The Outer Worlds",
+      "url": "https://www.igdb.com/games/the-outer-worlds",
+      "publishers": [
+        "Private Division"
+      ],
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

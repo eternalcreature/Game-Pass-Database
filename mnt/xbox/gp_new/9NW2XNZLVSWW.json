@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "base_id": 153050,
+    "specific_id": 246767,
+    "title": "Merge & Blade",
+    "store_title": "Merge & Blade",
+    "pid": "9NW2XNZLVSWW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NW2XNZLVSWW"
+      ]
+    ],
+    "original_release_date": "2023-02-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-02-28",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2023-02-28",
+        "removed": "2025-02-16"
+      },
+      "Console": {
+        "added": "2023-02-28",
+        "removed": "2025-02-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation",
+      "Strategy",
+      "Card & board",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Magic Cube",
+    "developer": "Magic Cube"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 153050,
+      "name": "Merge & Blade",
+      "url": "https://www.igdb.com/games/merge-and-blade",
+      "publishers": [
+        "Magic Cube"
+      ],
+      "developers": [
+        "Magic Cube"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 153050,
+      "name": "Merge & Blade",
+      "url": "https://www.igdb.com/games/merge-and-blade",
+      "publishers": [
+        "Magic Cube"
+      ],
+      "developers": [
+        "Magic Cube"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

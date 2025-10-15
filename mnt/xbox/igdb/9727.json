@@ -1,0 +1,73 @@
+{
+  "id": 9727,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 69640,
+      "company": {
+        "id": 4602,
+        "name": "BlitWorks"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 96455,
+      "company": {
+        "id": 36,
+        "name": "Frictional Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Soma",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/soma"
+}

@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 19965,
+    "specific_id": 19965,
+    "title": "Tomb Raider: Definitive Edition",
+    "store_title": "Tomb Raider: Definitive Edition",
+    "pid": "BQXTS0SX4W0N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQXTS0SX4W0N"
+      ]
+    ],
+    "original_release_date": "2013-03-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-02",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-05-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-05-02",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2019-01-01",
+        "removed": "2020-01-15"
+      },
+      "Ultimate": {
+        "added": "2019-01-01",
+        "removed": "2020-01-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-8)",
+      "SinglePlayer": "Single player",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Crystal Dynamics"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19965,
+      "name": "Tomb Raider: Definitive Edition",
+      "url": "https://www.igdb.com/games/tomb-raider-definitive-edition",
+      "publishers": [
+        "Crystal Dynamics",
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

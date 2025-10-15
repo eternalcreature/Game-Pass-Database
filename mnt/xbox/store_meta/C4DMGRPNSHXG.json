@@ -1,0 +1,252 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.1,
+  "badges": [
+    {
+      "type": 10
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 5
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BTNQR63WQV3G",
+    "BVT6GR25FKCF",
+    "C2127MDWMZTB"
+  ],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-8)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Nudity",
+      "Use of Alcohol",
+      "Blood",
+      "Strong Sexual Content",
+      "Use of Drugs",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Play as Aiden Pearce, a brilliant hacker, whose criminal past led to a violent family tragedy. Now on the hunt for those who hurt your family, monitor and hack all who surround you by manipulating everything connected to the city’s network. Access omnipresent security cameras, download personal information to locate a target, control traffic lights and public transportation to stop the enemy. Use the city of Chicago as your ultimate weapon and exact your own style of revenge.",
+  "developerName": "Ubisoft Entertainment",
+  "editions": [],
+  "franchiseId": "WATCHDOGS",
+  "franchiseName": "Watch Dogs",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0QH5H",
+    "nakuconsole"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 21947400192,
+  "optimalSatisfyingPassId": "CFQ7TTC0QH5H",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C4DMGRPNSHXG",
+  "productKind": "Game",
+  "publisherName": "Ubisoft Entertainment",
+  "ratingCount": 1833,
+  "releaseDate": "2014-05-27T00:00:00.0000000Z",
+  "shortDescription": "Play as Aiden Pearce, a brilliant hacker, whose criminal past led to a violent family tragedy. Now on the hunt for those who hurt your family, monitor and hack all who surround you by manipulating everything connected to the city’s network. Access omnipresent security cameras, download personal information to locate a target, control traffic lights and public transportation to stop the enemy. Use the city of Chicago as your ultimate weapon and exact your own style of revenge.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9SJ2JPHS28WV",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B2HB9ZPVRDKD",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B0XX2SXQ40QX",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "Unknown",
+          "productId": "CFQ7TTC0QH5H"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9X5Z2QHC7CNG",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9V74WBZ5Q6JC",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "Unknown",
+          "productId": "CFQ7TTC0QH5H"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9TZWF2GRCQ6R",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 3
+  },
+  "title": "WATCH_DOGS™",
+  "passMetadataByPassProductId": {
+    "nakuconsole": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0QH5H": {}
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "WATCH_DOGS",
+    "xboxTitleId": 585771792,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

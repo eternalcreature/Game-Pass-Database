@@ -1,0 +1,122 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N5X2SN2D6RT"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Shooter",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Strong Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Forget everything you know about first-person shooters: Void Bastards asks you to take charge, not just point your gun and fire. Your task is to lead the rag-tag Void Bastards out of the Sargasso Nebula. You make the decisions: where to go, what to do and who to fight. And then you must carry out that strategy in the face of strange and terrible enemies.\r\n\r\nOn board derelict spaceships you’ll plan your mission, taking note of the ship layout, what hazards and enemies you might encounter and what terminals and other ship systems you can use to your advantage...\r\n\r\nMove carefully through the dangerous ships, searching for supplies and manipulating control systems. React to what you find - will you detour to the generator to bring the power back online or will you fight your way into the security module to disable the ship’s defenses? Choose carefully when to fight, when to run and when just to be a bastard.\r\n\r\nUse your hard won supplies to improvise tools and weapons, from the distracting robo-kitty to the horribly unstable clusterflak.\r\n\r\nNavigate your tiny escape pod through the vast nebula. Flee from void whales and pirates, and politely avoid the hungry hermits. All the while you must keep scavenging for the food, fuel, and other resources that keep you alive.\r\n\r\nVoid Bastards features a 12-15 hour campaign that you can complete with an endless supply of prisoners, each with their own unique traits. When one dies, another steps forward to carry on the fight. Don’t worry though, as any crafting progress you’ve made is retained from one to another.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+  "developerName": "Blue Manchu Pty Ltd",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 6123126784,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N584LPFG1GM",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 231,
+  "releaseDate": "2019-05-29T04:00:00.0000000Z",
+  "shortDescription": "Inspired by BioShock and System Shock 2, Void Bastards is a revolutionary new strategy-shooter that will test your wits as well as exercise your aim. Can you lead the misfit prisoners of the Void Ark through the derelict spaceships and myriad dangers of the Sargasso Nebula? Will you make the right choices about what to do, where to go and when to fight? Master combat, manage ship controls, scavenge supplies, craft improvised tools and much more!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B1LS5CQGPSD6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9P3H63GJT18S",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Void Bastards",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2019-09-05T00:00:00Z",
+      "exitDateUTC": "2021-06-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2019-09-05T00:00:00Z",
+      "exitDateUTC": "2021-06-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

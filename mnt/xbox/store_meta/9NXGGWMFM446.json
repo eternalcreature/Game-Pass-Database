@@ -1,0 +1,158 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Steal legendary artifacts to regain your freedom\r\nEtienne Quist, a once-acclaimed writer, loses his ability to write after he is found guilty of an unspeakable crime. In an attempt to reclaim his lost status, he is approached by a criminal boss with a cunning offer. All he needs to do is locate and steal a series of legendary items from books. Delve into remarkable book worlds, each with its unique rules and challenges. Should anyone stand between you and the artifacts, be prepared to persuade, deceive, or even engage them in combat.\r\n\r\nExplore different books and reshape their stories\r\nEach quest thrusts you into an entirely new world: medieval prison, snow-capped mountain, futuristic spaceship and more. Meet the inhabitants of each book and use them to achieve your goals — after all, they are not really alive... or are they? In your quest, you will not be alone, as your paths cross with a sentient caged page, whom you adopt as your partner-in-crime and trusted advisor.\r\n\r\nSolve unconventional puzzles across fiction and reality\r\nTest your ingenuity with unique puzzles that encourage thinking outside the box, as you freely travel between fiction and reality, gathering valuable items to overcome obstacles. Using the mystical power of ink, you can manipulate objects within the books, adding depth to your interactions and unlocking new paths to explore.",
+  "developerName": "DO MY BEST",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 12858187776,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NXGGWMFM446",
+  "productKind": "Game",
+  "publisherName": "tinyBuild",
+  "ratingCount": 245,
+  "releaseDate": "2023-06-22T15:00:00.0000000Z",
+  "shortDescription": "Dive into books and retrieve famous items in exchange for your creative freedom.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TP5K1H6838K",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WPWLXXS92ZC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Bookwalker: Thief of Tales",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-06-22T15:00:00Z",
+      "exitDateUTC": "2024-06-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-06-22T15:00:00Z",
+      "exitDateUTC": "2024-06-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-06-22T15:00:00Z",
+      "exitDateUTC": "2024-06-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEBOOKWALKERTHIEFOFTALES",
+    "xboxTitleId": 1946261537,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

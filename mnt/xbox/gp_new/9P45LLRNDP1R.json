@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 27433,
+    "specific_id": 27433,
+    "title": "SteamWorld Dig 2",
+    "store_title": "SteamWorld Dig 2",
+    "pid": "9P45LLRNDP1R",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P45LLRNDP1R"
+      ]
+    ],
+    "original_release_date": "2017-09-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-26",
+        "removed": "2025-07-01"
+      },
+      "PC": {
+        "added": "2024-06-26",
+        "removed": "2025-07-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-07-01"
+      },
+      "Ultimate": {
+        "added": "2024-06-26",
+        "removed": "2025-07-01"
+      }
+    },
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2020-06-30"
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": "2020-06-30"
+      },
+      "Console": {
+        "added": "2019-06-09",
+        "removed": "2020-06-30"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Image & Form Games",
+    "developer": "Image & Form Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27433,
+      "name": "SteamWorld Dig 2",
+      "url": "https://www.igdb.com/games/steamworld-dig-2",
+      "publishers": [
+        "Image & Form"
+      ],
+      "developers": [
+        "Image & Form"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

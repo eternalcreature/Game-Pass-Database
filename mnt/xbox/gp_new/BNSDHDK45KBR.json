@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "base_id": 22739,
+    "specific_id": 22739,
+    "title": "Uno",
+    "store_title": "UNO\u2122",
+    "pid": "BNSDHDK45KBR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NWS5S7ZGD9T"
+    ],
+    "sku_groups": [
+      [
+        "9NWS5S7ZGD9T"
+      ],
+      [
+        "BNSDHDK45KBR"
+      ]
+    ],
+    "original_release_date": "2016-08-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Card & board",
+      "Classics",
+      "Family & kids",
+      "Other",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Ubisoft Entertainment",
+    "developer": "Ubisoft Chengdu"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 22739,
+      "name": "Uno",
+      "url": "https://www.igdb.com/games/uno--1",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Chengdu"
+      ],
+      "genres": [
+        "Strategy",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

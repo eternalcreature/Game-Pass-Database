@@ -1,0 +1,137 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [
+    "BRNNVB4VK43W",
+    "BZ0G31XKGC8Q",
+    "BVBZVD2FQCRM",
+    "BQZDBMRVG56R",
+    "BTNTWQD5V8WG"
+  ],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Other"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Use Of Drugs And Alcohol",
+      "Blood",
+      "Sexual Content",
+      "Partial Nudity",
+      "Strong Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Purchase the Complete Season and receive the ‘Arcadia Bay’ patch bundle to customise your in-game backpack.\r\n\r\nThe award-winning Life is Strange series continues with an all-new story from DONTNOD Entertainment.\r\n\r\nAfter a tragic incident, brothers Sean and Daniel Diaz run away from home. Fearing the police, and dealing with Daniel's new telekinetic power, the boys flee to Mexico for safety.\r\n\r\nSuddenly, sixteen year-old Sean is responsible for Daniel’s safety, shelter, and teaching him right from wrong. As Sean, your choices shape the fates of the Diaz brothers, and the lives of everyone they meet. \r\n\r\nThe road to Mexico is long and filled with danger. This is the trip that could bond Sean and Daniel forever… or tear their brotherhood apart.\r\n\r\n- Complete Season includes all 5 Episodes.\r\n- All episodes can now be purchased individually. We recommend you play the episodes in order for the intended experience.",
+  "developerName": "DONTNOD ENTERTAINMENT",
+  "editions": [
+    "BSW8GKBVB5W8"
+  ],
+  "franchiseId": "LIFEISSTRANGE",
+  "franchiseName": "Life Is Strange",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 30412546048,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BSW8GKBVB5W8",
+  "productKind": "Game",
+  "publisherName": "Square Enix",
+  "ratingCount": 524,
+  "releaseDate": "2018-09-27T00:00:00.0000000Z",
+  "shortDescription": "Purchase the Complete Season and receive the ‘Arcadia Bay’ patch bundle to customise your in-game backpack.\r\n\r\nAfter a tragic incident, brothers Sean and Daniel Diaz run away from home. Fearing the police, and dealing with Daniel's new telekinetic power, the boys head to Mexico. Each stop on their journey brings new friends and new challenges. \r\n\r\nNotes\r\n- Complete Season includes Episodes 1-5.\r\n- Episodes 2 to 5 require Episode 1 to play.\r\n- Episodes are also available for individual purchase.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B0BX17XBQ654",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 31.95,
+        "msrp": 31.95,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9W32H67CC8CT",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 31.95,
+        "msrp": 31.95,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Life is Strange 2 - Complete Season",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "LIFEISSTRANGE2",
+    "xboxTitleId": 575414105,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

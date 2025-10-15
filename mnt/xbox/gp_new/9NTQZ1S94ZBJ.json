@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 134599,
+    "specific_id": 134599,
+    "title": "NBA 2K21",
+    "store_title": "NBA 2K21 Standard Edition Bundle",
+    "pid": "9NTQZ1S94ZBJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PKD9696652S"
+    ],
+    "sku_groups": [
+      [
+        "9NTQZ1S94ZBJ"
+      ],
+      [
+        "9PKD9696652S"
+      ]
+    ],
+    "original_release_date": "2020-09-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "SinglePlayer": "Single player",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "Visual Concepts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134599,
+      "name": "NBA 2K21",
+      "url": "https://www.igdb.com/games/nba-2k21",
+      "publishers": [
+        "2K",
+        "2K Games"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Business",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

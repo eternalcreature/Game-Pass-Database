@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 158603,
+    "specific_id": 158603,
+    "title": "Isonzo",
+    "store_title": "Isonzo (Windows)",
+    "pid": "9NPSL9GSPQGT",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P892X2CCQ74"
+    ],
+    "sku_groups": [
+      [
+        "9NPSL9GSPQGT"
+      ],
+      [
+        "9P892X2CCQ74"
+      ]
+    ],
+    "original_release_date": "2022-09-13",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-06-13",
+        "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2024-06-13",
+        "removed": "2025-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-40)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "BlackMill Games ",
+    "developer": "BlackMill Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 158603,
+      "name": "Isonzo",
+      "url": "https://www.igdb.com/games/isonzo",
+      "publishers": [
+        "M2H"
+      ],
+      "developers": [
+        "Blackmill Games",
+        "M2H"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

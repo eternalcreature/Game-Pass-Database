@@ -1,0 +1,119 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.8,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\"\". When an immense mining ship, the USG Ishimura, comes into contact with a mysterious alien artifact in a remote star system, its communications with Earth are mysteriously cut off. Engineer Isaac Clarke is sent to repair the Ishimura's communications array, but he arrives to find a living nightmare-the ship is a floating bloodbath, the crew unspeakably mutilated and infected by an ancient alien scourge. Clarke's repair mission becomes one of survival as he fights not just to save himself, but to return the artifact to the planet ... at any cost. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+  "developerName": "Electronic Arts™",
+  "editions": [],
+  "franchiseId": "DEADSPACE",
+  "franchiseName": "Dead Space",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 7488364544,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BRJLJ6RPLQTJ",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 595,
+  "releaseDate": "2010-08-03T00:00:00.0000000Z",
+  "shortDescription": "When an immense mining ship, the USG Ishimura, comes into contact with a mysterious alien artifact in a remote star system, its communications with Earth are mysteriously cut off. Engineer Isaac Clarke is sent to repair the Ishimura's communications array, but he arrives to find a living nightmare-the ship is a floating bloodbath, the crew unspeakably mutilated and infected by an ancient alien scourge. Clarke's repair mission becomes one of survival as he fights not just to save himself, but to",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9P5V309JL4QP",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dead Space (2008)",
+  "xCloudProperties": {
+    "xCloudId": "DEADSPACE",
+    "xboxTitleId": 2044930754,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DEADSPACE",
+    "xboxTitleId": 2044930754,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

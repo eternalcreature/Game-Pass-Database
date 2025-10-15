@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 101211,
+    "specific_id": 101211,
+    "title": "Rage 2",
+    "store_title": "RAGE 2 (PC)",
+    "pid": "9P2J7WHV0K4N",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2DCJ95ZXBMS"
+    ],
+    "sku_groups": [
+      [
+        "9P2J7WHV0K4N"
+      ],
+      [
+        "C2DCJ95ZXBMS"
+      ]
+    ],
+    "original_release_date": "2019-05-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-11-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-11-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Avalanche Studios / id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 101211,
+      "name": "Rage 2",
+      "url": "https://www.igdb.com/games/rage-2",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Avalanche Studios",
+        "id Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Racing",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

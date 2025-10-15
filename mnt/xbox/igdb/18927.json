@@ -1,0 +1,61 @@
+{
+  "id": 18927,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 130060,
+      "company": {
+        "id": 9595,
+        "name": "Fiddlesticks"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 130061,
+      "company": {
+        "id": 5048,
+        "name": "Curve Digital"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Hue",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/hue"
+}

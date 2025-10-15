@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 133308,
+    "specific_id": 133308,
+    "title": "The Medium",
+    "store_title": "The Medium",
+    "pid": "9NFSR96G6K4N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFSR96G6K4N"
+      ]
+    ],
+    "original_release_date": "2021-01-28",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-01-24",
+        "removed": "2022-02-16"
+      },
+      "Ultimate": {
+        "added": "2022-01-21",
+        "removed": "2022-02-16"
+      },
+      "PC": {
+        "added": "2022-01-21",
+        "removed": "2022-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Bloober Team S.A.",
+    "developer": "Bloober Team"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133308,
+      "name": "The Medium",
+      "url": "https://www.igdb.com/games/the-medium",
+      "publishers": [
+        "Bloober Team"
+      ],
+      "developers": [
+        "Bloober Team"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

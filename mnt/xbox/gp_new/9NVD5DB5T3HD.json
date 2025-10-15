@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 144317,
+    "specific_id": 144317,
+    "title": "Space Warlord Organ Trading Simulator",
+    "store_title": "Space Warlord Organ Trading Simulator",
+    "pid": "9NVD5DB5T3HD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NVD5DB5T3HD"
+      ]
+    ],
+    "original_release_date": "2021-12-07",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-07",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-07",
+        "removed": "2022-12-01"
+      },
+      "Console": {
+        "added": "2021-12-07",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Strange Scaffold",
+    "developer": "Strange Scaffold"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 144317,
+      "name": "Space Warlord Organ Trading Simulator",
+      "url": "https://www.igdb.com/games/space-warlord-organ-trading-simulator",
+      "publishers": [
+        "Strange Scaffold"
+      ],
+      "developers": [
+        "Strange Scaffold"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "Horror",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

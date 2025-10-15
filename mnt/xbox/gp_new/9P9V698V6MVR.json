@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 18020,
+    "specific_id": 18020,
+    "title": "Visage",
+    "store_title": "Visage",
+    "pid": "9P9V698V6MVR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P9V698V6MVR"
+      ]
+    ],
+    "original_release_date": "2018-10-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2021-10-07",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "SadSquare Studio",
+    "developer": "SadSquare Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18020,
+      "name": "Visage",
+      "url": "https://www.igdb.com/games/visage",
+      "publishers": [
+        "SadSquare Studio"
+      ],
+      "developers": [
+        "SadSquare Studio"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

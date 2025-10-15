@@ -1,0 +1,104 @@
+{
+  "id": 769,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 265389,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 265390,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 265391,
+      "company": {
+        "id": 552,
+        "name": "Crystal Dynamics"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 265387,
+      "company": {
+        "id": 552,
+        "name": "Crystal Dynamics"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 265388,
+      "company": {
+        "id": 291,
+        "name": "Nixxes Software"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Lara Croft and the Guardian of Light",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lara-croft-and-the-guardian-of-light"
+}

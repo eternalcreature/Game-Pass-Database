@@ -1,0 +1,65 @@
+{
+  "id": 194436,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 262872,
+      "company": {
+        "id": 22125,
+        "name": "A44"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 262873,
+      "company": {
+        "id": 37893,
+        "name": "Kepler Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Flintlock: The Siege of Dawn",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/flintlock-the-siege-of-dawn"
+}

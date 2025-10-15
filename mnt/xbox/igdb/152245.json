@@ -1,0 +1,70 @@
+{
+  "id": 152245,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 138927,
+      "company": {
+        "id": 35000,
+        "name": "Rabbit & Bear Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 138925,
+      "company": {
+        "id": 35081,
+        "name": "Rabbit and Bear"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 138926,
+      "company": {
+        "id": 445,
+        "name": "505 Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Eiyuden Chronicle: Rising",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/eiyuden-chronicle-rising"
+}

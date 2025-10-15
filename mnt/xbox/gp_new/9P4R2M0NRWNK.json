@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 143113,
+    "specific_id": 143113,
+    "title": "Beacon Pines",
+    "store_title": "Beacon Pines",
+    "pid": "9P4R2M0NRWNK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P4R2M0NRWNK"
+      ]
+    ],
+    "original_release_date": "2022-09-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-22",
+        "removed": "2023-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-09-22",
+        "removed": "2023-10-01"
+      },
+      "Console": {
+        "added": "2022-09-22",
+        "removed": "2023-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Word"
+    ],
+    "publisher": "Fellow Traveller",
+    "developer": "Hiding Spot"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143113,
+      "name": "Beacon Pines",
+      "url": "https://www.igdb.com/games/beacon-pines",
+      "publishers": [
+        "Fellow Traveller",
+        "Hiding Spot Games"
+      ],
+      "developers": [
+        "Hiding Spot Games"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Fantasy",
+        "Thriller",
+        "Kids",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

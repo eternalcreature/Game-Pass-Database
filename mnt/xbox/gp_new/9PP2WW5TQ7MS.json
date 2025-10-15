@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 191576,
+    "specific_id": 191576,
+    "title": "McPixel 3",
+    "store_title": "McPixel 3",
+    "pid": "9PP2WW5TQ7MS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PP2WW5TQ7MS"
+      ]
+    ],
+    "original_release_date": "2022-11-14",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-07-06",
+        "removed": "2025-01-01"
+      },
+      "Ultimate": {
+        "added": "2023-07-06",
+        "removed": "2025-01-01"
+      },
+      "Console": {
+        "added": "2023-07-06",
+        "removed": "2025-01-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Other",
+      "Action & adventure"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Sos Sosowski"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 191576,
+      "name": "McPixel 3",
+      "url": "https://www.igdb.com/games/mcpixel-3",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Sos Sosowski"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

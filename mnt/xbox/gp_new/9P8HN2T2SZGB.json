@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 18997,
+    "specific_id": 18997,
+    "title": "Kathy Rain",
+    "store_title": "Kathy Rain",
+    "pid": "9P8HN2T2SZGB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P8HN2T2SZGB"
+      ]
+    ],
+    "original_release_date": "2016-05-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-09-24",
+        "removed": "2021-10-01"
+      },
+      "Ultimate": {
+        "added": "2020-09-24",
+        "removed": "2021-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Clifftop Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18997,
+      "name": "Kathy Rain",
+      "url": "https://www.igdb.com/games/kathy-rain",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Clifftop Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

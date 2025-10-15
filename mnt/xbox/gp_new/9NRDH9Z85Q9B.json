@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 264412,
+    "specific_id": 264412,
+    "title": "EA Sports WRC",
+    "store_title": "EA SPORTS\u2122 WRC",
+    "pid": "9NRDH9Z85Q9B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N9PDJ7Z8S2R"
+    ],
+    "sku_groups": [
+      [
+        "9N9PDJ7Z8S2R"
+      ],
+      [
+        "9NRDH9Z85Q9B"
+      ]
+    ],
+    "original_release_date": "2023-11-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-12-05",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-12-05",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-12-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X"
+    },
+    "categories": [
+      "Racing & flying",
+      "Family & kids",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 264412,
+      "name": "EA Sports WRC",
+      "url": "https://www.igdb.com/games/ea-sports-wrc",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

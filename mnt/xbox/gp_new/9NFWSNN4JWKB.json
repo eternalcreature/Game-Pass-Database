@@ -1,0 +1,127 @@
+{
+  "basic_info": {
+    "base_id": 7599,
+    "specific_id": 144765,
+    "title": "Life is Strange",
+    "store_title": "Life is Strange: True Colors",
+    "pid": "9NFWSNN4JWKB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFWSNN4JWKB"
+      ]
+    ],
+    "original_release_date": "2015-01-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      },
+      "Console": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Square Enix",
+    "developer": "Deck Nine Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7599,
+      "name": "Life is Strange",
+      "url": "https://www.igdb.com/games/life-is-strange",
+      "publishers": [
+        "Feral Interactive",
+        "Square Enix"
+      ],
+      "developers": [
+        "DON'T NOD"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 7599,
+      "name": "Life is Strange",
+      "url": "https://www.igdb.com/games/life-is-strange",
+      "publishers": [
+        "Feral Interactive",
+        "Square Enix"
+      ],
+      "developers": [
+        "DON'T NOD"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

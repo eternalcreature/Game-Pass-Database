@@ -1,0 +1,135 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 3.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "RayTracing": "Ray Tracing",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+    "PcGamePad": "PC Game Pad",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Other",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Mortal Shell is a ruthless and deep action-RPG that tests your sanity and resilience in a shattered world. As the remains of humanity wither and rot, zealous foes fester in the ruins. They spare no mercy, with survival demanding superior awareness, precision and instincts. Track down hidden sanctums of devout followers and discover your true purpose.\r\n\r\nExperience the superior way to play the award-winning Mortal Shell. Uncompromised 60fps gameplay, 4K resolution, and ultra high-quality textures. \r\n\r\nUpgrade for free. Witness your struggle in detail like never before. \r\n\r\nPossess Lost Warriors:\r\n\r\nThe lost remains of defeated warriors are yours to discover. Awaken these Mortal Shells, occupy their bodies, and master unique combat styles.\r\n\r\nIron Sharpens Iron:\r\n\r\nCombat is strategic, deliberate, and unforgiving. Commit your sword only when an opportunity opens.\r\nFace Formidable Foes:\r\n\r\nYour path is guarded by adversaries, devoted to inscrutable gods. Behold creatures both pitiable and grotesque and muster your courage and face them down.\r\n",
+  "developerName": "Cold Symmetry",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 15710367744,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PC2BJDXR2LK",
+  "productKind": "Game",
+  "publisherName": "Playstack",
+  "ratingCount": 464,
+  "releaseDate": "2020-08-18T07:00:00.0000000Z",
+  "shortDescription": "Mortal Shell is a deep action-RPG that tests your sanity and resilience in a shattered world. Your adversaries spare no mercy, with survival demanding superior awareness, precision, and instincts. Possess lost warriors, track down hidden sanctums of the devout, and face formidable foes.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TXZ9HV6J0WX",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B3523SPTZRMV",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Mortal Shell: Enhanced Edition",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-01-05T00:00:00Z",
+      "exitDateUTC": "2023-06-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-01-05T00:00:00Z",
+      "exitDateUTC": "2023-06-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-01-05T00:00:00Z",
+      "exitDateUTC": "2023-06-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

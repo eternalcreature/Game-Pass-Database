@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 14404,
+    "specific_id": 14404,
+    "title": "Kona",
+    "store_title": "Kona",
+    "pid": "BXDSG249D6Q2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXDSG249D6Q2"
+      ]
+    ],
+    "original_release_date": "2016-03-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-09",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2024-04-09",
+        "removed": "2025-04-16"
+      }
+    },
+    {
+      "Ultimate": {
+        "added": "2020-03-19",
+        "removed": "2021-03-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ravenscourt",
+    "developer": "Parabole"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14404,
+      "name": "Kona",
+      "url": "https://www.igdb.com/games/kona",
+      "publishers": [
+        "Deep Silver",
+        "Ravenscourt"
+      ],
+      "developers": [
+        "Parabole"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Horror",
+        "Survival",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

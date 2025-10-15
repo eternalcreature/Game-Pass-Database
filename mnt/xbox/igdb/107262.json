@@ -1,0 +1,104 @@
+{
+  "id": 107262,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 327617,
+      "company": {
+        "id": 4501,
+        "name": "DotEmu"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 327619,
+      "company": {
+        "id": 10315,
+        "name": "Lizardcube"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 327621,
+      "company": {
+        "id": 11360,
+        "name": "Playdigious"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 327618,
+      "company": {
+        "id": 10322,
+        "name": "Guard Crush Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 327620,
+      "company": {
+        "id": 26201,
+        "name": "Yooreka Studio"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Streets of Rage 4",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/streets-of-rage-4"
+}

@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 266382,
+    "specific_id": 266382,
+    "title": "Football Manager 2024",
+    "store_title": "Football Manager 2024",
+    "pid": "9P4CZQNRXW34",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N7GJJ2WTPBZ"
+    ],
+    "sku_groups": [
+      [
+        "9N7GJJ2WTPBZ"
+      ],
+      [
+        "9P4CZQNRXW34"
+      ]
+    ],
+    "original_release_date": "2023-11-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-11-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "SEGA",
+    "developer": "Sports Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 266382,
+      "name": "Football Manager 2024",
+      "url": "https://www.igdb.com/games/football-manager-2024",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sports Interactive"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,132 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 2.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NQCHLCXDWDG"
+  ],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Family & kids",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "With Earth under invasion and MEGATRON, leader of the Decepticons close to capturing The Allspark, BUMBLEBEE and the Autobots need a new commander to help them restore peace to the universe – you!\r\n\r\nAssemble your squad and roll out, for a turn-based tactical war that will rage from Central City to Cybertron itself. You’ll need both strength and strategy to outwit the fiendish Decepticons. Choose the TRANSFORMERS characters and their abilities to dominate the battle ahead, with OPTIMUS PRIME, GRIMLOCK and more ready to join the fight. Use each environment to your advantage, taking cover in desert sandstorms, avoiding Cyberton’s Energon storms, and battling your foes in city streets. And fill up your Energon meter to unleash powerful Ultimate Abilities that crush the fiercest enemies. With intuitive controls and three difficulty settings, the size of the challenge ahead is up to you.\r\n\r\nThen team up together in local multiplayer and put your strategic skills to the test in games like Capture the Flag, Horde, Last Stand and more. It’s the strategy action game TRANSFORMERS fans have waited an eternity for!\r\n",
+  "developerName": "Coatsink",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 6599049216,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PCQRLT7C2BH",
+  "productKind": "Game",
+  "publisherName": "Outright Games Ltd",
+  "ratingCount": 123,
+  "releaseDate": "2020-10-23T00:00:00.0000000Z",
+  "shortDescription": "BUMBLEBEE and the Autobots have a new commander – you. Assemble your squad and roll out for battle against the Decepticons... and team up in local multiplayer!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VHPVFQ5HNQS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZVWWSKCK2NZ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "TRANSFORMERS: BATTLEGROUNDS",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-12-16T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

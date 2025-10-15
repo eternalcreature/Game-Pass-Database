@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 125628,
+    "specific_id": 125628,
+    "title": "Tell Me Why",
+    "store_title": "Tell Me Why: Chapters 1-3",
+    "pid": "9NF83PRZK6K3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBL0XKVCN5L"
+    ],
+    "sku_groups": [
+      [
+        "9NBL0XKVCN5L",
+        "9NF83PRZK6K3"
+      ]
+    ],
+    "original_release_date": "2020-08-27",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-27",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-08-27",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-08-27",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios ",
+    "developer": "DONTNOD Entertainment "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125628,
+      "name": "Tell Me Why",
+      "url": "https://www.igdb.com/games/tell-me-why",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "DON'T NOD"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 5597,
+    "specific_id": 5597,
+    "title": "Assetto Corsa",
+    "store_title": "Assetto Corsa",
+    "pid": "C27H5T4HD4WW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C27H5T4HD4WW"
+      ]
+    ],
+    "original_release_date": "2014-12-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-10",
+        "removed": "2021-06-01"
+      },
+      "Ultimate": {
+        "added": "2020-12-10",
+        "removed": "2021-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "505 Games S.r.l.",
+    "developer": "KUNOS Simulazioni S.r.l"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5597,
+      "name": "Assetto Corsa",
+      "url": "https://www.igdb.com/games/assetto-corsa",
+      "publishers": [
+        "505 Games",
+        "Kunos Simulazioni"
+      ],
+      "developers": [
+        "Kunos Simulazioni"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport",
+        "Indie"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric",
+        "Side view",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

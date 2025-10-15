@@ -1,0 +1,87 @@
+{
+  "id": 360141,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 335767,
+      "company": {
+        "id": 71,
+        "name": "Raven Software"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 335768,
+      "company": {
+        "id": 184,
+        "name": "id Software"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 335769,
+      "company": {
+        "id": 13169,
+        "name": "Nightdive Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 335770,
+      "company": {
+        "id": 16565,
+        "name": "Bethesda Softworks"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Heretic + Hexen",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/heretic-plus-hexen"
+}

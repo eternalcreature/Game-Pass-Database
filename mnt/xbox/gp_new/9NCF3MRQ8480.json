@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 138884,
+    "specific_id": 138884,
+    "title": "You Suck at Parking",
+    "store_title": "You Suck at Parking\u00ae Complete Edition",
+    "pid": "9NCF3MRQ8480",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCF3MRQ8480"
+      ]
+    ],
+    "original_release_date": "2022-09-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-14",
+        "removed": "2024-09-16"
+      },
+      "Ultimate": {
+        "added": "2022-09-14",
+        "removed": "2024-09-16"
+      },
+      "Console": {
+        "added": "2022-09-14",
+        "removed": "2024-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Happy Volcano",
+    "developer": "Happy Volcano"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 138884,
+      "name": "You Suck at Parking",
+      "url": "https://www.igdb.com/games/you-suck-at-parking",
+      "publishers": [
+        "Curve Digital",
+        "Happy Volcano"
+      ],
+      "developers": [
+        "Happy Volcano"
+      ],
+      "genres": [
+        "Puzzle",
+        "Racing",
+        "Sport",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

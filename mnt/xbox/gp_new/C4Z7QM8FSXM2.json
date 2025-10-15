@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 7603,
+    "specific_id": 7603,
+    "title": "Hellblade: Senua's Sacrifice",
+    "store_title": "Hellblade: Senua's Sacrifice",
+    "pid": "C4Z7QM8FSXM2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NCLP4LV5K7Z"
+    ],
+    "sku_groups": [
+      [
+        "9NCLP4LV5K7Z"
+      ],
+      [
+        "C4Z7QM8FSXM2"
+      ]
+    ],
+    "original_release_date": "2017-08-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-06-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-12-17",
+        "removed": null
+      },
+      "Console": {
+        "added": "2018-12-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ninja Theory Ltd",
+    "developer": "Ninja Theory Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7603,
+      "name": "Hellblade: Senua's Sacrifice",
+      "url": "https://www.igdb.com/games/hellblade-senuas-sacrifice",
+      "publishers": [
+        "Ninja Theory"
+      ],
+      "developers": [
+        "Ninja Theory"
+      ],
+      "genres": [
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

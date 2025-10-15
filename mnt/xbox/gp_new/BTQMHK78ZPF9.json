@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 1331,
+    "specific_id": 1331,
+    "title": "Limbo",
+    "store_title": "LIMBO",
+    "pid": "BTQMHK78ZPF9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PNG83MDD6SH"
+    ],
+    "sku_groups": [
+      [
+        "9PNG83MDD6SH"
+      ],
+      [
+        "BTQMHK78ZPF9"
+      ]
+    ],
+    "original_release_date": "2010-07-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-08-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2023-08-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Playdead",
+    "developer": "Playdead, Double Eleven"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1331,
+      "name": "Limbo",
+      "url": "https://www.igdb.com/games/limbo",
+      "publishers": [
+        "Microsoft Game Studios",
+        "Playdead"
+      ],
+      "developers": [
+        "Playdead"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

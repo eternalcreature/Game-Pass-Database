@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 1970,
+    "specific_id": 1970,
+    "title": "Assassin's Creed IV Black Flag",
+    "store_title": "Assassin's Creed IV Black Flag",
+    "pid": "BRKMHZX1RCF2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3B9B7CSX3C"
+    ],
+    "sku_groups": [
+      [
+        "9N3B9B7CSX3C"
+      ],
+      [
+        "BRKMHZX1RCF2"
+      ]
+    ],
+    "original_release_date": "2013-10-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1970,
+      "name": "Assassin's Creed IV Black Flag",
+      "url": "https://www.igdb.com/games/assassins-creed-iv-black-flag",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

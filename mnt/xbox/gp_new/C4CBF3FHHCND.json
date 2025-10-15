@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "base_id": 11162,
+    "specific_id": 111296,
+    "title": "For Honor",
+    "store_title": "FOR HONOR : MARCHING FIRE EDITION",
+    "pid": "C4CBF3FHHCND",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3DWR830CVN",
+      "9PDWSL3BZ6WS"
+    ],
+    "sku_groups": [
+      [
+        "9N3DWR830CVN",
+        "C4CBF3FHHCND"
+      ],
+      [
+        "9PDWSL3BZ6WS"
+      ]
+    ],
+    "original_release_date": "2017-12-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "60fps": "60 fps+",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11162,
+      "name": "For Honor",
+      "url": "https://www.igdb.com/games/for-honor",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 11162,
+      "name": "For Honor",
+      "url": "https://www.igdb.com/games/for-honor",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

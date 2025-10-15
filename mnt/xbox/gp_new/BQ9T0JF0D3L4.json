@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 24863,
+    "specific_id": 24863,
+    "title": "Wasteland 3",
+    "store_title": "Wasteland 3",
+    "pid": "BQ9T0JF0D3L4",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NLT5XR52ZS7"
+    ],
+    "sku_groups": [
+      [
+        "9NLT5XR52ZS7"
+      ],
+      [
+        "BQ9T0JF0D3L4"
+      ]
+    ],
+    "original_release_date": "2020-08-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-08-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Prime Matter",
+    "developer": "inXile entertainment, inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 24863,
+      "name": "Wasteland 3",
+      "url": "https://www.igdb.com/games/wasteland-3",
+      "publishers": [
+        "inXile Entertainment"
+      ],
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 5842,
+    "specific_id": 5842,
+    "title": "Fuzion Frenzy",
+    "store_title": "Fuzion Frenzy\u00ae",
+    "pid": "C2P985H1H42H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2P985H1H42H"
+      ]
+    ],
+    "original_release_date": "2001-11-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-12-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-12-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Blitz Games, Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5842,
+      "name": "Fuzion Frenzy",
+      "url": "https://www.igdb.com/games/fuzion-frenzy",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Blitz Games"
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [
+        "Science fiction",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

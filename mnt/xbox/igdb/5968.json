@@ -1,0 +1,96 @@
+{
+  "id": 5968,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 14342,
+      "company": {
+        "id": 2512,
+        "name": "Midnight City"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 14345,
+      "company": {
+        "id": 1218,
+        "name": "Arc System Works"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 68729,
+      "company": {
+        "id": 2345,
+        "name": "Abstraction Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 133887,
+      "company": {
+        "id": 700,
+        "name": "Majesco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 194982,
+      "company": {
+        "id": 28729,
+        "name": "WayForward"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Double Dragon Neon",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/double-dragon-neon"
+}

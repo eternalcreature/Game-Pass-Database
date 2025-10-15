@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 94816,
+    "specific_id": 94816,
+    "title": "Star Renegades",
+    "store_title": "Star Renegades",
+    "pid": "9PHH0RQ51S5V",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PHH0RQ51S5V"
+      ]
+    ],
+    "original_release_date": "2020-09-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-11-19",
+        "removed": "2021-11-16"
+      },
+      "Ultimate": {
+        "added": "2020-11-19",
+        "removed": "2021-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Massive Damange Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 94816,
+      "name": "Star Renegades",
+      "url": "https://www.igdb.com/games/star-renegades",
+      "publishers": [
+        "ININ Games",
+        "Raw Fury"
+      ],
+      "developers": [
+        "Massive Damage Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

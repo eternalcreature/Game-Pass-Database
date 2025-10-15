@@ -1,0 +1,90 @@
+{
+  "id": 6836,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 16198,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 19864,
+      "company": {
+        "id": 292,
+        "name": "Traveller's Tales"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 192401,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "LEGO Batman 2: DC Super Heroes",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lego-batman-2-dc-super-heroes"
+}

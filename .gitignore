@@ -1,0 +1,27 @@
+gitignore# Ignore everything
+*
+__pychache__
+
+# Whitelist .gitignore
+!.gitignore
+
+# Whitelist directories (must come before their contents!)
+!mnt/
+!mnt/xbox/
+!templates_json/
+!templates_sql/
+!utils/
+
+# Now whitelist files in root
+!json_maker.py
+!flask_for_json.py
+!flask_for_sql.py
+!gp.csv
+!models.py
+!mnt/xbox/basic_data.csv
+
+# Whitelist contents of directories
+!mnt/xbox/**
+!templates_json/**
+!templates_sql/**
+!utils/*.py

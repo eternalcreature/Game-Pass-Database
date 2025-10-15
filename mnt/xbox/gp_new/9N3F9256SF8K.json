@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 103316,
+    "specific_id": 103316,
+    "title": "Trials Rising",
+    "store_title": "Trials Rising",
+    "pid": "9N3F9256SF8K",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BP6V6QZBMFP0"
+    ],
+    "sku_groups": [
+      [
+        "9N3F9256SF8K"
+      ],
+      [
+        "BP6V6QZBMFP0"
+      ]
+    ],
+    "original_release_date": "2019-02-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "RedLynx"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103316,
+      "name": "Trials Rising",
+      "url": "https://www.igdb.com/games/trials-rising",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "RedLynx"
+      ],
+      "genres": [
+        "Platform",
+        "Racing",
+        "Sport",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

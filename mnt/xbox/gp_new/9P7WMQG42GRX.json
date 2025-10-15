@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 143260,
+    "specific_id": 143260,
+    "title": "MLB The Show 21",
+    "store_title": "MLB\u00ae The Show\u2122 21 Xbox One",
+    "pid": "9P7WMQG42GRX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NSDL005MBTG"
+    ],
+    "sku_groups": [
+      [
+        "9NSDL005MBTG"
+      ],
+      [
+        "9P7WMQG42GRX"
+      ]
+    ],
+    "original_release_date": "2021-04-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-04-20",
+        "removed": "2022-04-16"
+      },
+      "Ultimate": {
+        "added": "2021-04-20",
+        "removed": "2022-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "MLB",
+    "developer": "San Diego Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143260,
+      "name": "MLB The Show 21",
+      "url": "https://www.igdb.com/games/mlb-the-show-21",
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "developers": [
+        "SIE San Diego Studio"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

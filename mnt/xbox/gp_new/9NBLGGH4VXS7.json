@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 3097,
+    "specific_id": 3097,
+    "title": "The Walking Dead: Season Two",
+    "store_title": "The Walking Dead: Season 2",
+    "pid": "9NBLGGH4VXS7",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2DQXX0CB42F"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH4VXS7"
+      ],
+      [
+        "C2DQXX0CB42F"
+      ]
+    ],
+    "original_release_date": "2013-12-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-06",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-10-06",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Telltale Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3097,
+      "name": "The Walking Dead: Season Two",
+      "url": "https://www.igdb.com/games/the-walking-dead-season-two",
+      "publishers": [
+        "Skybound Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "base_id": 200836,
+    "specific_id": 152249,
+    "title": "Marvel's Guardians of the Galaxy + Marvel's Avengers",
+    "store_title": "Marvel's Guardians of the Galaxy",
+    "pid": "9PGLL77C201J",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGLL77C201J"
+      ]
+    ],
+    "original_release_date": "2021-10-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      },
+      "Console": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Eidos Interactive Corporation",
+    "developer": "Eidos-Montr\u00e9al"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 200836,
+      "name": "Marvel's Guardians of the Galaxy + Marvel's Avengers",
+      "url": "https://www.igdb.com/games/marvels-guardians-of-the-galaxy-plus-marvels-avengers",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 200836,
+      "name": "Marvel's Guardians of the Galaxy + Marvel's Avengers",
+      "url": "https://www.igdb.com/games/marvels-guardians-of-the-galaxy-plus-marvels-avengers",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

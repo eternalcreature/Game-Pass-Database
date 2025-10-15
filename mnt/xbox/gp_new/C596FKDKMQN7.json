@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 11737,
+    "specific_id": 11737,
+    "title": "Outer Wilds",
+    "store_title": "Outer Wilds",
+    "pid": "C596FKDKMQN7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C596FKDKMQN7"
+      ]
+    ],
+    "original_release_date": "2019-05-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-06",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-06",
+        "removed": "2023-01-01"
+      },
+      "Console": {
+        "added": "2022-01-06",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Mobius Digital"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11737,
+      "name": "Outer Wilds",
+      "url": "https://www.igdb.com/games/outer-wilds",
+      "publishers": [
+        "Annapurna Interactive",
+        "Limited Run Games"
+      ],
+      "developers": [
+        "Mobius Digital"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

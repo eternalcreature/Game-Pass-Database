@@ -1,0 +1,62 @@
+{
+  "id": 217597,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 187014,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 278068,
+      "company": {
+        "id": 19080,
+        "name": "Ryu Ga Gotoku Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Like a Dragon: Ishin!",
+  "parent_game": 12736,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/like-a-dragon-ishin"
+}

@@ -1,0 +1,182 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 0,
+  "badges": [
+    {
+      "type": 10
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Intense Violence",
+      "Strong Language",
+      "Mild Sexual Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases",
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Become an elite spec ops soldier known as a Ghost, tasked with a special mission to Auroa. The remote archipelago somewhere in the South Pacific has lost contact with outside world due to Skell Technology turning hostile. The Wolves, a rogue spec ops team, lead by your ex-brother in arms, have taken over and are hunting you down. Lead your team through the island landscape and save the civilians without being noticed.\n\nTaylor your experience to fit your playstyle:\n- Solo, as the leader of up 3 fully customizable AI Teammates\n- Or, play in coop PVE with up to 3 friends \n",
+  "developerName": "UBISOFT",
+  "editions": [],
+  "franchiseId": "TOMCLANCY",
+  "franchiseName": "Tom Clancy",
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "nakupcgce"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "UbisoftPCVersion"
+  ],
+  "maxInstallSize": 71940702208,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MVR1G75VX22",
+  "productKind": "Game",
+  "publisherName": "UBISOFT",
+  "ratingCount": 0,
+  "releaseDate": "2025-05-06T14:00:00.0000000Z",
+  "shortDescription": "Become a Ghost, an elite spec ops soldier, tasked with a special mission to Auroa. The remote archipelago has lost contact with outside world due to Skell Technology turning hostile. The Wolves, a rogue spec ops team, lead by your ex-brother in arms, have taken over and are hunting you down. Lead your team through the island landscape and save the civilians without being noticed.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WZPJG19XF91",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9QC9K6XJ9P6S",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9X4SZ8K6M2D0",
+        "discountPercentage": 20.00333,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 47.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B39Z9H17XN7L",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Tom Clancy's Ghost Recon® Breakpoint",
+  "passMetadataByPassProductId": {
+    "nakupcgce": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": true
+}

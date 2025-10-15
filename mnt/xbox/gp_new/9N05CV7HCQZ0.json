@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 143615,
+    "specific_id": 143615,
+    "title": "Knockout City",
+    "store_title": "Knockout City\u2122",
+    "pid": "9N05CV7HCQZ0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4NXGCCV2NP"
+    ],
+    "sku_groups": [
+      [
+        "9N05CV7HCQZ0"
+      ],
+      [
+        "9N4NXGCCV2NP"
+      ]
+    ],
+    "original_release_date": "2021-05-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-05-21",
+        "removed": "2022-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Fighting",
+      "Shooter",
+      "Sports"
+    ],
+    "publisher": "Velan Studios",
+    "developer": "Velan Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143615,
+      "name": "Knockout City",
+      "url": "https://www.igdb.com/games/knockout-city",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Velan Studios"
+      ],
+      "genres": [
+        "Fighting",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

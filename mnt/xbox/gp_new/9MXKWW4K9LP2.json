@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 145099,
+    "specific_id": 145099,
+    "title": "Death's Door",
+    "store_title": "Death's Door",
+    "pid": "9MXKWW4K9LP2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NDZ7NXFF622"
+    ],
+    "sku_groups": [
+      [
+        "9MXKWW4K9LP2"
+      ],
+      [
+        "9NDZ7NXFF622"
+      ]
+    ],
+    "original_release_date": "2021-07-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-20",
+        "removed": "2025-02-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-20",
+        "removed": "2025-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Acid Nerve"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145099,
+      "name": "Death's Door",
+      "url": "https://www.igdb.com/games/deaths-door",
+      "publishers": [
+        "Devolver Digital",
+        "Netflix"
+      ],
+      "developers": [
+        "Acid Nerve"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

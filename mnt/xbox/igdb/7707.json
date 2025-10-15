@@ -1,0 +1,92 @@
+{
+  "id": 7707,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 198503,
+      "company": {
+        "id": 392,
+        "name": "High Voltage Software"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 198504,
+      "company": {
+        "id": 423,
+        "name": "Deep Silver"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 198506,
+      "company": {
+        "id": 8068,
+        "name": "Fishlabs"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 231058,
+      "company": {
+        "id": 7462,
+        "name": "Volition"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Saints Row IV: Re-Elected",
+  "parent_game": 1981,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/saints-row-iv-re-elected"
+}

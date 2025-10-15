@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "base_id": 16927,
+    "specific_id": 16927,
+    "title": "The Golf Club",
+    "store_title": "The Golf Club",
+    "pid": "BP1MPFB1J2LP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BP1MPFB1J2LP"
+      ]
+    ],
+    "original_release_date": "2014-08-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Sports"
+    ],
+    "publisher": "HB Studios",
+    "developer": "HB Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16927,
+      "name": "The Golf Club",
+      "url": "https://www.igdb.com/games/the-golf-club",
+      "publishers": [
+        "HB Studios",
+        "Maximum Games"
+      ],
+      "developers": [
+        "HB Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

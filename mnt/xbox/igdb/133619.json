@@ -1,0 +1,82 @@
+{
+  "id": 133619,
+  "game_modes": [
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 156602,
+      "company": {
+        "id": 36889,
+        "name": "VestGames"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 156603,
+      "company": {
+        "id": 2450,
+        "name": "Versus Evil"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184118,
+      "company": {
+        "id": 28615,
+        "name": "NUKKLEAR"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Eville",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/eville"
+}

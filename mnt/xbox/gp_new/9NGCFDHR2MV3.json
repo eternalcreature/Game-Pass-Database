@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 255091,
+    "specific_id": 255091,
+    "title": "Wheel World",
+    "store_title": "Wheel World",
+    "pid": "9NGCFDHR2MV3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGCFDHR2MV3"
+      ]
+    ],
+    "original_release_date": "2025-07-23",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-23",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-23",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Messhof"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 255091,
+      "name": "Wheel World",
+      "url": "https://www.igdb.com/games/wheel-world--1",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Messhof"
+      ],
+      "genres": [
+        "Racing",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

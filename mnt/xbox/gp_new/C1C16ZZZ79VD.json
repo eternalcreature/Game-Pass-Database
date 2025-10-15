@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 103500,
+    "specific_id": 103500,
+    "title": "NHL 19",
+    "store_title": "EA SPORTS\u2122 NHL\u00ae 19",
+    "pid": "C1C16ZZZ79VD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1C16ZZZ79VD"
+      ]
+    ],
+    "original_release_date": "2018-09-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-6)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103500,
+      "name": "NHL 19",
+      "url": "https://www.igdb.com/games/nhl-19",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Canada"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

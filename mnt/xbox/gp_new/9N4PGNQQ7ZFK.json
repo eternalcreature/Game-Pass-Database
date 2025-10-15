@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 136084,
+    "specific_id": 136084,
+    "title": "Shredders",
+    "store_title": "Shredders",
+    "pid": "9N4PGNQQ7ZFK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4PGNQQ7ZFK"
+      ]
+    ],
+    "original_release_date": "2022-03-17",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-17",
+        "removed": "2024-03-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-17",
+        "removed": "2024-03-16"
+      },
+      "Console": {
+        "added": "2022-03-17",
+        "removed": "2024-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Sports",
+      "Simulation"
+    ],
+    "publisher": "FoamPunch",
+    "developer": "FoamPunch"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 136084,
+      "name": "Shredders",
+      "url": "https://www.igdb.com/games/shredders",
+      "publishers": [
+        "FoamPunch"
+      ],
+      "developers": [
+        "FoamPunch"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

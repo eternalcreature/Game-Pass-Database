@@ -1,0 +1,78 @@
+{
+  "id": 107237,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 128678,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 246927,
+      "company": {
+        "id": 9364,
+        "name": "Nerial"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 290018,
+      "company": {
+        "id": 9786,
+        "name": "22nd Century Toys"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Reigns: Game of Thrones",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/reigns-game-of-thrones"
+}

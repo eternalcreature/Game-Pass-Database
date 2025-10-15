@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 135554,
+    "specific_id": 135554,
+    "title": "Worms Rumble",
+    "store_title": "Worms Rumble",
+    "pid": "9PCPD8CGKR4L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCPD8CGKR4L"
+      ]
+    ],
+    "original_release_date": "2020-12-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-23",
+        "removed": "2022-06-16"
+      },
+      "Ultimate": {
+        "added": "2021-06-23",
+        "removed": "2022-06-16"
+      },
+      "PC": {
+        "added": "2021-06-23",
+        "removed": "2022-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (6-32)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Multi-Player Online Battle Arena",
+      "Other",
+      "Shooter",
+      "Strategy"
+    ],
+    "publisher": "Team17",
+    "developer": "Team17"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135554,
+      "name": "Worms Rumble",
+      "url": "https://www.igdb.com/games/worms-rumble",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Team17"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

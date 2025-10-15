@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 8730,
+    "specific_id": 8730,
+    "title": "ScreamRide",
+    "store_title": "ScreamRide",
+    "pid": "BQ4M1XWXFKHB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQ4M1XWXFKHB"
+      ]
+    ],
+    "original_release_date": "2015-03-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Frontier"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8730,
+      "name": "ScreamRide",
+      "url": "https://www.igdb.com/games/screamride",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Frontier Developments"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

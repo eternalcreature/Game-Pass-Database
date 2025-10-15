@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 2933,
+    "specific_id": 2933,
+    "title": "Kingdom Hearts III",
+    "store_title": "KINGDOM HEARTS \u2162",
+    "pid": "C08MW8XHQN9G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C08MW8XHQN9G"
+      ]
+    ],
+    "original_release_date": "2019-01-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-02-25",
+        "removed": "2022-03-01"
+      },
+      "Ultimate": {
+        "added": "2020-02-25",
+        "removed": "2022-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2933,
+      "name": "Kingdom Hearts III",
+      "url": "https://www.igdb.com/games/kingdom-hearts-iii",
+      "publishers": [
+        "Disney Interactive Studios",
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix Business Division 3",
+        "Square Enix Creative Business Unit I"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Drama",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

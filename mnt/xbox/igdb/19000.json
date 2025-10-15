@@ -1,0 +1,69 @@
+{
+  "id": 19000,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 134342,
+      "company": {
+        "id": 294,
+        "name": "Telltale Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 134343,
+      "company": {
+        "id": 16242,
+        "name": "Skybound Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Walking Dead: A New Frontier",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-walking-dead-a-new-frontier"
+}

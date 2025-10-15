@@ -1,0 +1,80 @@
+{
+  "id": 120300,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 139035,
+      "company": {
+        "id": 6071,
+        "name": "Marvelous"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 139036,
+      "company": {
+        "id": 9066,
+        "name": "Marvelous Europe Ltd."
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 139037,
+      "company": {
+        "id": 2187,
+        "name": "XSEED Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 262903,
+      "company": {
+        "id": 15844,
+        "name": "Bullets Co. Ltd."
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Story of Seasons: Friends of Mineral Town",
+  "parent_game": 3383,
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Business"
+    }
+  ],
+  "url": "https://www.igdb.com/games/story-of-seasons-friends-of-mineral-town"
+}

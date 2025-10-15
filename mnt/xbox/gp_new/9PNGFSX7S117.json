@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 200165,
+    "specific_id": 200165,
+    "title": "Call of Duty: Modern Warfare II",
+    "store_title": "Call of Duty\u00ae: Modern Warfare\u00ae II - Cross-Gen Bundle",
+    "pid": "9PNGFSX7S117",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P7RQ1QFFF8R"
+    ],
+    "sku_groups": [
+      [
+        "9P7RQ1QFFF8R"
+      ],
+      [
+        "9PNGFSX7S117"
+      ]
+    ],
+    "original_release_date": "2022-11-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-29",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-64)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 200165,
+      "name": "Call of Duty: Modern Warfare II",
+      "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-ii",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Infinity Ward"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

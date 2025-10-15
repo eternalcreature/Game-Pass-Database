@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 146213,
+    "specific_id": 146213,
+    "title": "NHL 94 Rewind",
+    "store_title": "NHL\u00ae 94 REWIND",
+    "pid": "9PDGC1Z6ZHTP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDGC1Z6ZHTP"
+      ]
+    ],
+    "original_release_date": "2020-10-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-12-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-12-03",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146213,
+      "name": "NHL 94 Rewind",
+      "url": "https://www.igdb.com/games/nhl-94-rewind",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

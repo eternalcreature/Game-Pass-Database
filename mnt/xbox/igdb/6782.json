@@ -1,0 +1,53 @@
+{
+  "id": 6782,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 16084,
+      "company": {
+        "id": 769,
+        "name": "Team NINJA"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 307516,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Ninja Gaiden II",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/ninja-gaiden-ii"
+}

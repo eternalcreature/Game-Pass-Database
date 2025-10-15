@@ -1,0 +1,67 @@
+{
+  "id": 139346,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 120927,
+      "company": {
+        "id": 14861,
+        "name": "Stellar Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 120926,
+      "company": {
+        "id": 347,
+        "name": "Criterion Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 128436,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Need for Speed: Hot Pursuit - Remastered",
+  "parent_game": 105,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/need-for-speed-hot-pursuit-remastered"
+}

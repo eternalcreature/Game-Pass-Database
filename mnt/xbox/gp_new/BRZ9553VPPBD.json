@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 119244,
+    "specific_id": 119244,
+    "title": "Darksiders Genesis",
+    "store_title": "Darksiders Genesis",
+    "pid": "BRZ9553VPPBD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRZ9553VPPBD"
+      ]
+    ],
+    "original_release_date": "2019-12-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-06",
+        "removed": "2021-08-16"
+      },
+      "Ultimate": {
+        "added": "2020-08-06",
+        "removed": "2021-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Airship Syndicate"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119244,
+      "name": "Darksiders Genesis",
+      "url": "https://www.igdb.com/games/darksiders-genesis",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Airship Syndicate"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

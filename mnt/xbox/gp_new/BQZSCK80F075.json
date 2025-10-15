@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "base_id": 2291,
+    "specific_id": 2291,
+    "title": "Thomas Was Alone",
+    "store_title": "Thomas Was Alone",
+    "pid": "BQZSCK80F075",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQZSCK80F075"
+      ]
+    ],
+    "original_release_date": "2012-06-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Curve Digital",
+    "developer": "Curve Studios and Mike Bithell"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2291,
+      "name": "Thomas Was Alone",
+      "url": "https://www.igdb.com/games/thomas-was-alone",
+      "publishers": [
+        "Ant Workshop Ltd",
+        "Bithell Games",
+        "Curve Digital"
+      ],
+      "developers": [
+        "Bithell Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

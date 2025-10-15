@@ -1,0 +1,149 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Partial Nudity",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Bloodstained is an exploration-focused, side-scroller action RPG packing all of the best features you've come to know and love from the Metroidvania genre into a single, content-packed game. \r\n\r\nPlay as Miriam, an orphan scarred by an alchemist’s curse which slowly crystallizes her body. In order to save herself, and indeed, all of humanity, she must battle her way through a demon-infested castle summoned by Gebel, her old friend whose body and mind has become more crystal than flesh.\r\n",
+  "developerName": "ArtPlay",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequired"
+  ],
+  "maxInstallSize": 9505796096,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P9K78101LCW",
+  "productKind": "Game",
+  "publisherName": "505 Games",
+  "ratingCount": 306,
+  "releaseDate": "2019-06-18T04:00:00.0000000Z",
+  "shortDescription": "Igavania Returns!\r\n\r\nPlay as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, she must fight through the castle and defeat the summoner, Gebel.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QTHT0TPRJKL",
+        "discountPercentage": 75.01876,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2JX1HMHCFQK",
+        "discountPercentage": 75.01876,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Bloodstained: Ritual of the Night",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-02-14T00:00:00Z",
+      "exitDateUTC": "2025-02-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-02-14T00:00:00Z",
+      "exitDateUTC": "2025-02-16T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-02-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "BLOODSTAINED",
+    "xboxTitleId": 1952427486,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

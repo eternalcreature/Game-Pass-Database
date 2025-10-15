@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 509,
+    "specific_id": 509,
+    "title": "Rage",
+    "store_title": "RAGE",
+    "pid": "BR27BSZ2M3SR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR27BSZ2M3SR"
+      ]
+    ],
+    "original_release_date": "2011-10-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 509,
+      "name": "Rage",
+      "url": "https://www.igdb.com/games/rage",
+      "publishers": [
+        "Aspyr Media",
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Racing"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

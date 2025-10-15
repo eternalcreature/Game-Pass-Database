@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 219126,
+    "specific_id": 219126,
+    "title": "Abiotic Factor",
+    "store_title": "Abiotic Factor",
+    "pid": "9P4NV23Q6QC2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P4NV23Q6QC2"
+      ]
+    ],
+    "original_release_date": "2024-05-02",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-22",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Playstack Ltd",
+    "developer": "Deep Field Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 219126,
+      "name": "Abiotic Factor",
+      "url": "https://www.igdb.com/games/abiotic-factor",
+      "publishers": [
+        "Playstack"
+      ],
+      "developers": [
+        "Deep Field Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 74712,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 64494,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 64493,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Zoo Tycoon: Ultimate Animal Collection",
+  "parent_game": 18538,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/zoo-tycoon-ultimate-animal-collection"
+}

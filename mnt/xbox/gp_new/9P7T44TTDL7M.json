@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 115115,
+    "specific_id": 115115,
+    "title": "Resident Evil 3",
+    "store_title": "RESIDENT EVIL 3 for Windows",
+    "pid": "9P7T44TTDL7M",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BW3T6SNS15BH",
+      "9NH18TKPS522"
+    ],
+    "sku_groups": [
+      [
+        "9NH18TKPS522",
+        "BW3T6SNS15BH"
+      ],
+      [
+        "9P7T44TTDL7M"
+      ]
+    ],
+    "original_release_date": "2020-04-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-02-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115115,
+      "name": "Resident Evil 3",
+      "url": "https://www.igdb.com/games/resident-evil-3",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "K2",
+        "M-TWO"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

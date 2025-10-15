@@ -1,0 +1,65 @@
+{
+  "id": 210625,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 180936,
+      "company": {
+        "id": 11662,
+        "name": "Annapurna Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 180937,
+      "company": {
+        "id": 12224,
+        "name": "Hollow Ponds"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Flock",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    }
+  ],
+  "url": "https://www.igdb.com/games/flock--2"
+}

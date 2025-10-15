@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "base_id": 260,
+    "specific_id": 202308,
+    "title": "The Sims 3",
+    "store_title": "The Sims\u2122 3 Starter Pack",
+    "pid": "9N15KXND91S0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N15KXND91S0"
+      ]
+    ],
+    "original_release_date": "2009-06-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 260,
+      "name": "The Sims 3",
+      "url": "https://www.igdb.com/games/the-sims-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "The Sims Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy",
+        "Sandbox",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 260,
+      "name": "The Sims 3",
+      "url": "https://www.igdb.com/games/the-sims-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "The Sims Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy",
+        "Sandbox",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

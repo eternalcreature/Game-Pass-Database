@@ -1,0 +1,167 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.8,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Language",
+      "Sexual Themes",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Explore Earth one billion years in the future in the science-fantasy setting of Numenera. Discover the Ninth World built on the bones of extinct, hyper-advanced civilizations and leave your own mark on it. Make thousands of essential choices, face the consequences, and meet death incarnated as you seek the answer to the ultimate question: What does one life matter?\r\r\n\r\r\n\r\r\n\r\r\nTorment: Tides of Numenera is a thematic successor to one of the greatest RPGs ever created. The new game explores similar deep and personal themes of life, mortality, and sacrifice, challenging players to take intellectual stances and make moral decisions.",
+  "developerName": "inXile Entertainment",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 10380890112,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NC0071DJ6XC",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 91,
+  "releaseDate": "2019-06-27T00:00:00.0000000Z",
+  "shortDescription": "Explore Earth one billion years in the future in the science-fantasy setting of Numenera. Discover the Ninth World built on the bones of extinct, hyper-advanced civilizations and leave your own mark on it. Make thousands of essential choices, face the consequences, and meet death incarnated as you seek the answer to the ultimate question: What does one life matter?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZQZ06Z7K7RW",
+        "discountPercentage": 75.01667,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 11.24,
+        "msrp": 44.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VRNW6ZFBJS4",
+        "discountPercentage": 20.004446,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 35.99,
+        "msrp": 44.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TL08RZGNRT3",
+        "discountPercentage": 75.01667,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 11.24,
+        "msrp": 44.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9NV2DGJL4J0P",
+        "discountPercentage": 20.004446,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 35.99,
+        "msrp": 44.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Torment: Tides of Numenera",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2019-06-27T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2019-06-27T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

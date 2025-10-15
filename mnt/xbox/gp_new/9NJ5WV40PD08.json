@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 279636,
+    "specific_id": 279636,
+    "title": "Visions of Mana",
+    "store_title": "Visions of Mana",
+    "pid": "9NJ5WV40PD08",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJ5WV40PD08"
+      ]
+    ],
+    "original_release_date": "2023-09-30",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-09-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 279636,
+      "name": "Visions of Mana",
+      "url": "https://www.igdb.com/games/visions-of-mana",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix Creative Business Unit IV"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

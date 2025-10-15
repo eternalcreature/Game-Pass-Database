@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 41623,
+    "specific_id": 41623,
+    "title": "The Walking Dead: The Complete First Season",
+    "store_title": "The Walking Dead: Season 1",
+    "pid": "9NBLGGH4VXRW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BW6B077FCH11"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH4VXRW"
+      ],
+      [
+        "BW6B077FCH11"
+      ]
+    ],
+    "original_release_date": "2017-12-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-06",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-10-06",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Telltale Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 41623,
+      "name": "The Walking Dead: The Complete First Season",
+      "url": "https://www.igdb.com/games/the-walking-dead-the-complete-first-season",
+      "publishers": [
+        "Skybound Games",
+        "Telltale Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

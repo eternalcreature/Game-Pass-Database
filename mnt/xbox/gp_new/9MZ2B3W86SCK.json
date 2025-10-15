@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 102057,
+    "specific_id": 102057,
+    "title": "Age of Wonders: Planetfall",
+    "store_title": "Age of Wonders: Planetfall",
+    "pid": "9MZ2B3W86SCK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZ2B3W86SCK"
+      ]
+    ],
+    "original_release_date": "2019-08-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Triumph Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 102057,
+      "name": "Age of Wonders: Planetfall",
+      "url": "https://www.igdb.com/games/age-of-wonders-planetfall",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Triumph Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Science fiction",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 26602,
+    "specific_id": 26602,
+    "title": "Metaphor: ReFantazio",
+    "store_title": "Metaphor: ReFantazio",
+    "pid": "9N5DV8310XP7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5DV8310XP7"
+      ]
+    ],
+    "original_release_date": "2024-10-11",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-29",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26602,
+      "name": "Metaphor: ReFantazio",
+      "url": "https://www.igdb.com/games/metaphor-refantazio",
+      "publishers": [
+        "Atlus",
+        "Sega"
+      ],
+      "developers": [
+        "Studio Zero"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

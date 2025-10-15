@@ -1,0 +1,65 @@
+{
+  "id": 27413,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 249847,
+      "company": {
+        "id": 27525,
+        "name": "Feral Cat Den"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 249848,
+      "company": {
+        "id": 18629,
+        "name": "Fellow Traveller"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Genesis Noir",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/genesis-noir"
+}

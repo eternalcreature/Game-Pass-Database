@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 114286,
+    "specific_id": 114286,
+    "title": "Madden NFL 20",
+    "store_title": "Madden NFL 20",
+    "pid": "BZ289TV4QVCK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PHL67RT7ZFD"
+    ],
+    "sku_groups": [
+      [
+        "9PHL67RT7ZFD"
+      ],
+      [
+        "BZ289TV4QVCK"
+      ]
+    ],
+    "original_release_date": "2019-07-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2022-04-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2022-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (3-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114286,
+      "name": "Madden NFL 20",
+      "url": "https://www.igdb.com/games/madden-nfl-20",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,187 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.2,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N5NRVZTKBPX"
+  ],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure",
+    "Fighting",
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence",
+      "Mild Suggestive Themes",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Shape Your Legend in EA SPORTS™ UFC® 4.\r\n\r\nIn EA SPORTS UFC 4 the fighter you become is shaped by your fight style, your achievements, and your personality. Develop and customize your character through a unified progression system across all modes. Go from unknown amateur to UFC superstar in the new Career Mode, experience the origins of combat sports in two all-new environments; The Kumite and The Backyard, or challenge the world in new Blitz Battles or Online World Championships to become the undisputed champ. In gameplay, fluid clinch-to-strike combinations offer more responsive and authentic stand-up gameplay, while overhauled takedown and ground mechanics deliver more control in those key phases of the fight. No matter how, or where, you play EA SPORTS UFC 4 puts ‘you’ at the center of every fight.\r\n\r\nCONDITIONS AND RESTRICTIONS APPLY. SEE www.ea.com/legal FOR DETAILS.",
+  "developerName": "EA Vancouver",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 31820435456,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BPBV3PCB0X44",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 716,
+  "releaseDate": "2020-08-14T04:00:00.0000000Z",
+  "shortDescription": "In EA SPORTS UFC 4 the fighter you become is shaped by your fight style, your achievements, and your personality. No matter how or where you play EA SPORTS UFC 4 puts ‘you’ at the center of every fight.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9PTDVDQVNSG3",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B4KQP8T0TQQD",
+        "discountPercentage": 10.001665,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 53.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B354SK29HGFD",
+        "discountPercentage": 10.001665,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 53.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9W7T6J9XN1FR",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "UFC® 4",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2021-07-08T15:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

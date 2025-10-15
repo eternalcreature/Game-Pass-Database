@@ -1,0 +1,69 @@
+{
+  "id": 217815,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 6,
+      "name": "Battle Royale"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 187395,
+      "company": {
+        "id": 438,
+        "name": "Infinity Ward"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 187396,
+      "company": {
+        "id": 66,
+        "name": "Activision"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Call of Duty: Warzone",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/call-of-duty-warzone--2"
+}

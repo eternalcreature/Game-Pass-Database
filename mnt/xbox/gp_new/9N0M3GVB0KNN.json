@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 222873,
+    "specific_id": 222873,
+    "title": "Frog Detective: The Entire Mystery",
+    "store_title": "Frog Detective: The Entire Mystery",
+    "pid": "9N0M3GVB0KNN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0M3GVB0KNN"
+      ]
+    ],
+    "original_release_date": "2022-10-27",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-27",
+        "removed": "2024-11-01"
+      },
+      "Ultimate": {
+        "added": "2022-10-27",
+        "removed": "2024-11-01"
+      },
+      "Console": {
+        "added": "2023-10-26",
+        "removed": "2024-11-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "Worm Club",
+    "developer": "Worm Club"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 222873,
+      "name": "Frog Detective: The Entire Mystery",
+      "url": "https://www.igdb.com/games/frog-detective-the-entire-mystery",
+      "publishers": [
+        "worm club"
+      ],
+      "developers": [
+        "worm club"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

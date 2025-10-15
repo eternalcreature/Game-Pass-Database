@@ -1,0 +1,114 @@
+{
+  "basic_info": {
+    "base_id": 204618,
+    "specific_id": 204618,
+    "title": "High on Life",
+    "store_title": "High On Life",
+    "pid": "9NL4714VTLRS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NL4714VTLRS"
+      ]
+    ],
+    "original_release_date": "2022-12-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-15",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-15",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2022-12-13",
+        "removed": "2024-06-15"
+      },
+      "Ultimate": {
+        "added": "2022-12-13",
+        "removed": "2024-06-15"
+      },
+      "Console": {
+        "added": "2022-12-13",
+        "removed": "2024-06-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Shooter"
+    ],
+    "publisher": "Squanch Games, Inc.",
+    "developer": "Squanch Games, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204618,
+      "name": "High on Life",
+      "url": "https://www.igdb.com/games/high-on-life",
+      "publishers": [
+        "Squanch Games"
+      ],
+      "developers": [
+        "Squanch Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

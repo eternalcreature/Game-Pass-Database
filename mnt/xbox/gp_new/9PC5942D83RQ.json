@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 314243,
+    "specific_id": 314243,
+    "title": "Revenge of the Savage Planet",
+    "store_title": "Revenge of the Savage Planet PC",
+    "pid": "9PC5942D83RQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PFTV8DKNCHX"
+    ],
+    "sku_groups": [
+      [
+        "9PC5942D83RQ"
+      ],
+      [
+        "9PFTV8DKNCHX"
+      ]
+    ],
+    "original_release_date": "2025-05-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-08",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Raccoon Logic Studios Inc.",
+    "developer": "Raccoon Logic Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 314243,
+      "name": "Revenge of the Savage Planet",
+      "url": "https://www.igdb.com/games/revenge-of-the-savage-planet",
+      "publishers": [
+        "Raccoon Logic"
+      ],
+      "developers": [
+        "Raccoon Logic"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

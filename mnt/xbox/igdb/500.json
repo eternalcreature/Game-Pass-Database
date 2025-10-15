@@ -1,0 +1,87 @@
+{
+  "id": 500,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 5653,
+      "company": {
+        "id": 4,
+        "name": "Eidos Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 42241,
+      "company": {
+        "id": 3989,
+        "name": "Playcast-media"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 106795,
+      "company": {
+        "id": 164,
+        "name": "Rocksteady Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 106796,
+      "company": {
+        "id": 14055,
+        "name": "Warner Bros. Interactive Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Batman: Arkham Asylum",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/batman-arkham-asylum"
+}

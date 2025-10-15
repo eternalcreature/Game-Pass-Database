@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 115899,
+    "specific_id": 115899,
+    "title": "ScourgeBringer",
+    "store_title": "ScourgeBringer",
+    "pid": "9NXPV1T3WS34",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NXPV1T3WS34"
+      ]
+    ],
+    "original_release_date": "2020-02-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-21",
+        "removed": "2021-10-16"
+      },
+      "Ultimate": {
+        "added": "2020-03-06",
+        "removed": "2021-10-16"
+      },
+      "PC": {
+        "added": "2020-03-06",
+        "removed": "2021-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Dear Villagers",
+    "developer": "Flying Oak Games & e-Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115899,
+      "name": "ScourgeBringer",
+      "url": "https://www.igdb.com/games/scourgebringer",
+      "publishers": [
+        "Dear Villagers",
+        "EastAsiaSoft",
+        "Plug In Digital"
+      ],
+      "developers": [
+        "Flying Oak Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

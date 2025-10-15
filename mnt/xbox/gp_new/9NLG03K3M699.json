@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 198200,
+    "specific_id": 198200,
+    "title": "F1 22",
+    "store_title": "F1\u00ae 22",
+    "pid": "9NLG03K3M699",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N79LGZV5GHB",
+      "9NSDMZDFNLD4"
+    ],
+    "sku_groups": [
+      [
+        "9N79LGZV5GHB"
+      ],
+      [
+        "9NLG03K3M699"
+      ],
+      [
+        "9NSDMZDFNLD4"
+      ]
+    ],
+    "original_release_date": "2022-06-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Racing & flying",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 198200,
+      "name": "F1 22",
+      "url": "https://www.igdb.com/games/f1-22",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 1886,
+    "specific_id": 1886,
+    "title": "Homefront: The Revolution",
+    "store_title": "Homefront\u00ae: The Revolution",
+    "pid": "BRGLM9V090GW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRGLM9V090GW"
+      ]
+    ],
+    "original_release_date": "2016-05-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Deep Silver",
+    "developer": "Dambuster Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1886,
+      "name": "Homefront: The Revolution",
+      "url": "https://www.igdb.com/games/homefront-the-revolution",
+      "publishers": [
+        "Deep Silver"
+      ],
+      "developers": [
+        "Deep Silver Dambuster Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

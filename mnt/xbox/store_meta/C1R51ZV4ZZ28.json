@@ -1,0 +1,128 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Family & kids"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Riverbond is a fun and frantic couch co-op adventure game for 1 to 4 players set in a stunning voxel world. Embark on a heroic journey to complete missions, battle adorable enemies, and smash everything into tiny cubes! Will you and your friends be the legendary heroes of Riverbond?\r\n\r\nThe Knight has imprisoned the leaders of the Eight Worlds, causing chaos, droughts and disarray! Adventure together to defeat evil and help the charming citizens of Riverbond in this action-packed journey through beautiful, hand-crafted worlds. Unlock a variety of weapons, equip new skins, and activate power-ups to hack and slash your way to glory!\r\n\r\nClassic Single Player or Chaotic Couch Co-op! \r\nWhether in single player or taking it up a notch in chaotic couch co-op, you can play this epic adventure your way. With drop-in, drop-out couch co-op, everyone wins together!\r\n\r\nCubic Combat and Awesome Voxel Destruction\r\nWith a selection of fast and responsive weapons, wreaking havoc on everything is always satisfying. Topple massive towers with a swoosh of your sword, get trigger happy on mobs of enemies, and explode environments into colourful bursts of voxel goodness!\r\n\r\nCute Characters and Deadly Bosses\r\nMeet charming characters, make unexpected allies, and battle with cute (but deadly!) bosses. Choose from over 50 weapons to suit your play style and triumph over evil. Cue epic adventure music!\r\n",
+  "developerName": "Cococucumber",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 759341056,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C1R51ZV4ZZ28",
+  "productKind": "Game",
+  "publisherName": "Cococucumber",
+  "ratingCount": 207,
+  "releaseDate": "2019-06-09T07:00:00.0000000Z",
+  "shortDescription": "Riverbond is a fun and frantic couch co-op adventure game for 1 to 4 players set in a stunning voxel world. Embark on a heroic journey to complete missions, battle adorable enemies, and smash everything into tiny cubes! Will you and your friends be the legendary heroes of Riverbond?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9XR6R42480M6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B4MKPFJ4GKH8",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Riverbond",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "RIVERBOND",
+    "xboxTitleId": 227770627,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

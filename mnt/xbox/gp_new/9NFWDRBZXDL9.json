@@ -1,0 +1,126 @@
+{
+  "basic_info": {
+    "base_id": 51448,
+    "specific_id": 136605,
+    "title": "BlazBlue: Cross Tag Battle",
+    "store_title": "BlazBlue: Cross Tag Battle Special Edition",
+    "pid": "9NFWDRBZXDL9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFWDRBZXDL9"
+      ]
+    ],
+    "original_release_date": "2018-05-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-04-27",
+        "removed": "2025-01-01"
+      },
+      "Ultimate": {
+        "added": "2023-04-27",
+        "removed": "2025-01-01"
+      },
+      "Console": {
+        "added": "2023-04-27",
+        "removed": "2025-01-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": "ARC SYSTEM WORKS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 51448,
+      "name": "BlazBlue: Cross Tag Battle",
+      "url": "https://www.igdb.com/games/blazblue-cross-tag-battle",
+      "publishers": [
+        "Arc System Works",
+        "Arc System Works America",
+        "PQube"
+      ],
+      "developers": [
+        "Arc System Works"
+      ],
+      "genres": [
+        "Fighting",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 51448,
+      "name": "BlazBlue: Cross Tag Battle",
+      "url": "https://www.igdb.com/games/blazblue-cross-tag-battle",
+      "publishers": [
+        "Arc System Works",
+        "Arc System Works America",
+        "PQube"
+      ],
+      "developers": [
+        "Arc System Works"
+      ],
+      "genres": [
+        "Fighting",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

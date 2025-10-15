@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 996,
+    "specific_id": 996,
+    "title": "Army of Two",
+    "store_title": "Army of Two\u2122",
+    "pid": "C1LM235H6FZ1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1LM235H6FZ1"
+      ]
+    ],
+    "original_release_date": "2008-03-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 996,
+      "name": "Army of Two",
+      "url": "https://www.igdb.com/games/army-of-two",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 163038,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 274511,
+      "company": {
+        "id": 24337,
+        "name": "Console Labs S.A."
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 314475,
+      "company": {
+        "id": 9005,
+        "name": "PlayWay S.A."
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 314476,
+      "company": {
+        "id": 31470,
+        "name": "MeanAstronauts"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Robin Hood: Sherwood Builders",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/robin-hood-sherwood-builders"
+}

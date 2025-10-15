@@ -1,0 +1,134 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Difficulty levels",
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.9,
+  "badges": [],
+  "bundledProductIds": [
+    "9NMT34VNRQZG",
+    "9PHGLMV108TM"
+  ],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "XblOnlineCoop": "Online co-op (2-3)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op"
+  },
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "This edition includes:\r\n• Full game.\r\n• 5K Stubs™.\r\n\r\nMLB® The Show™ 23 gets you closer than ever to living your Baseball dreams on the diamond. Shock The Game and Own The Show with your favorite players, your favorite rivalries, and all your favorite MLB moments. \r\n\r\nBuy the MLB® The Show™ 23 digital version for Xbox One and when ready, upgrade to the MLB® The Show™ 23 digital version for Xbox Series X|S for an additional cost.\r\n\r\nLive out your Baseball dreams with expanded commentary and in-game presentation updates that bring updated broadcast themes, realistic 3D environments including new external views of your favorite MLB stadiums, and more detail to uniforms and equipment.\r\nFor the first time in history, MLB® The Show™ 23 is partnering with the WORLD BASEBALL CLASSIC™. Build your dream team of national stars and Flashbacks from the 2023 World Baseball Classic tournament and customize your Diamond Dynasty squad with official uniforms from every participating country!\r\nDiamond Dynasty give you new ways to play, earn, and develop your squad! Live out your Baseball dreams with over 25 new MLB Legends, bringing the total to over 180 available in game, to collect from and build your team.*\r\nContinue earning rewards after completing a featured program— spin the wheel whenever you complete a threshold to claim a reward. The more you play, the more you’ll earn!\r\nUse Captain Cards to designate a position player and a pitching captain for your lineup for the first time ever and unlock powerful in-game boosts by meeting criteria unique to these players.\r\nFranchise Mode now includes the new MLB Postseason format, schedule, and more CBA updates. The MLB Draft experience has been revamped to add strategy and depth in managing your organization.\r\nFace your friends with cross-platform play.** With cross progression, continue your progress and earn and use content on other console platforms.***",
+  "developerName": "San Diego Studio",
+  "editions": [
+    "9PJVV5SGHCZC",
+    "9PN66M6V02CC",
+    "9NQ91QCRL7PD"
+  ],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 49677029376,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PN66M6V02CC",
+  "productKind": "Game",
+  "publisherName": "MLB",
+  "ratingCount": 352,
+  "releaseDate": "2023-03-28T04:00:00.0000000Z",
+  "shortDescription": "Shock The Game. Own The Show.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B20D4C9VDQ41",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9P29TRT59QC6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "MLB® The Show™ 23 Xbox One",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

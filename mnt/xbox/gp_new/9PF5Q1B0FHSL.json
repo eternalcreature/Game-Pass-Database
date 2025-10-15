@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 308978,
+    "specific_id": 308978,
+    "title": "Splitgate 2",
+    "store_title": "Splitgate 2",
+    "pid": "9PF5Q1B0FHSL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PF5Q1B0FHSL"
+      ]
+    ],
+    "original_release_date": "2025-05-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-06",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-06-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "1047 Games",
+    "developer": "1047 Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 308978,
+      "name": "Splitgate 2",
+      "url": "https://www.igdb.com/games/splitgate-2",
+      "publishers": [
+        "1047 Games"
+      ],
+      "developers": [
+        "1047 Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

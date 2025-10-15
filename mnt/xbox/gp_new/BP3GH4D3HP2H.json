@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 1910,
+    "specific_id": 1910,
+    "title": "Outlast",
+    "store_title": "Outlast",
+    "pid": "BP3GH4D3HP2H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BP3GH4D3HP2H"
+      ]
+    ],
+    "original_release_date": "2013-09-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Red Barrels",
+    "developer": "Red Barrels"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1910,
+      "name": "Outlast",
+      "url": "https://www.igdb.com/games/outlast",
+      "publishers": [
+        "Red Barrels"
+      ],
+      "developers": [
+        "Red Barrels"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Stealth",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

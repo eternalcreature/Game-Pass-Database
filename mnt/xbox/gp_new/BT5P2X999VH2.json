@@ -1,0 +1,124 @@
+{
+  "basic_info": {
+    "base_id": 1905,
+    "specific_id": 231090,
+    "title": "Fortnite",
+    "store_title": "Fortnite",
+    "pid": "BT5P2X999VH2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BT5P2X999VH2"
+      ]
+    ],
+    "original_release_date": "2017-07-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-100)",
+      "Capability4k": "4K Ultra HD",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Epic Games Inc.",
+    "developer": "Epic Games Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1905,
+      "name": "Fortnite",
+      "url": "https://www.igdb.com/games/fortnite",
+      "publishers": [
+        "Epic Games"
+      ],
+      "developers": [
+        "Epic Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 1905,
+      "name": "Fortnite",
+      "url": "https://www.igdb.com/games/fortnite",
+      "publishers": [
+        "Epic Games"
+      ],
+      "developers": [
+        "Epic Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

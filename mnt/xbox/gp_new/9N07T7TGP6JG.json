@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "base_id": 7842,
+    "specific_id": 152399,
+    "title": "Danganronpa: Trigger Happy Havoc",
+    "store_title": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+    "pid": "9N07T7TGP6JG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N07T7TGP6JG"
+      ]
+    ],
+    "original_release_date": "2010-11-25",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      },
+      "Ultimate": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      },
+      "Console": {
+        "added": "2022-01-18",
+        "removed": "2023-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Spike Chunsoft",
+    "developer": "Spike Chunsoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7842,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc",
+      "publishers": [
+        "NIS America",
+        "Spike Chunsoft"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 7842,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc",
+      "publishers": [
+        "NIS America",
+        "Spike Chunsoft"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

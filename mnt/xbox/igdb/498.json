@@ -1,0 +1,118 @@
+{
+  "id": 498,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 375,
+      "company": {
+        "id": 8,
+        "name": "2K Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 19525,
+      "company": {
+        "id": 74,
+        "name": "CyberFront"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 42254,
+      "company": {
+        "id": 166,
+        "name": "Shadows in Darkness"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 42255,
+      "company": {
+        "id": 13,
+        "name": "Demiurge Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 19954,
+      "company": {
+        "id": 139,
+        "name": "Take-Two Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 182980,
+      "company": {
+        "id": 148,
+        "name": "Gearbox Software"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 182981,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Borderlands",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/borderlands"
+}

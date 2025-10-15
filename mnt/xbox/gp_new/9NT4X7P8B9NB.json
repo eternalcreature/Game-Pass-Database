@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "base_id": 19541,
+    "specific_id": 131843,
+    "title": "State of Decay 2",
+    "store_title": "State of Decay 2: Juggernaut Edition",
+    "pid": "9NT4X7P8B9NB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NT4X7P8B9NB"
+      ]
+    ],
+    "original_release_date": "2018-05-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2019-12-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Undead Labs"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19541,
+      "name": "State of Decay 2",
+      "url": "https://www.igdb.com/games/state-of-decay-2",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Undead Labs"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 19541,
+      "name": "State of Decay 2",
+      "url": "https://www.igdb.com/games/state-of-decay-2",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Undead Labs"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

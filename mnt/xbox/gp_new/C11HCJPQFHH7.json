@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 131888,
+    "specific_id": 131888,
+    "title": "Hotshot Racing",
+    "store_title": "Hotshot Racing",
+    "pid": "C11HCJPQFHH7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C11HCJPQFHH7"
+      ]
+    ],
+    "original_release_date": "2020-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-10",
+        "removed": "2021-09-16"
+      },
+      "Ultimate": {
+        "added": "2020-09-10",
+        "removed": "2021-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying"
+    ],
+    "publisher": "Curve Digital",
+    "developer": "Lucky Mountain Games, SUMO Digital "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 131888,
+      "name": "Hotshot Racing",
+      "url": "https://www.igdb.com/games/hotshot-racing",
+      "publishers": [
+        "Curve Digital"
+      ],
+      "developers": [
+        "Sumo Digital",
+        "lucky Mountain Games"
+      ],
+      "genres": [
+        "Racing",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

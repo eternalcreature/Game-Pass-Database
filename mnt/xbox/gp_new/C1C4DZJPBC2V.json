@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 125174,
+    "specific_id": 125174,
+    "title": "Overwatch 2",
+    "store_title": "Overwatch\u00ae 2",
+    "pid": "C1C4DZJPBC2V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P36DQX6W9CS"
+    ],
+    "sku_groups": [
+      [
+        "9P36DQX6W9CS"
+      ],
+      [
+        "C1C4DZJPBC2V"
+      ]
+    ],
+    "original_release_date": "2023-08-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-09-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125174,
+      "name": "Overwatch 2",
+      "url": "https://www.igdb.com/games/overwatch-2",
+      "publishers": [
+        "Blizzard Entertainment"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

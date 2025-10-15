@@ -1,0 +1,129 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Pausable",
+      "Save anytime"
+    ],
+    "input": [
+      "Playable with buttons only",
+      "Basic input remapping",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Fighting",
+    "Classics"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Partial Nudity",
+      "Use of Alcohol"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "\" THE KING OF FIGHTERS '98\" is a fighting game released by SNK in 1998.\nIn the previous installment KOF '97, the story of the \"Orochi Saga\" reached its exciting conclusion. As a result, the next entry in the series THE KING OF FIGHTERS '98 was released as a dream match version of THE KING OF FIGHTERS Series.\nIt is one of the most popular and well known versions of the game, partially thanks to the many balance changes that received high praisessss from fans around the world.\n\nThe \"ACA2NEOGEO\" series is developed with the concept of faithfully reproducing arcade game masterpieces.\nYou can change various game settings such as the game's difficulty level, and even recreate the atmosphere of CRT TVs from back in the day.\nIn addition to competing for scores in online rankings, you can also compete with players from all over the world to see how fast you can progress through the game in \"Time Attack Mode.\"\nYou can also enjoy simultaneous play in real time over the Internet in \"Network Mode.\"\nPlease enjoy this masterpiece that defined an era.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+  "developerName": "HAMSTER Corporation",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 433152000,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P3M94B4B4BB",
+  "productKind": "Game",
+  "publisherName": "HAMSTER Corporation",
+  "ratingCount": 21,
+  "releaseDate": "2025-02-26T15:00:00.0000000Z",
+  "shortDescription": "\" THE KING OF FIGHTERS '98\" is a fighting game released by SNK in 1998.\nIn the previous installment KOF '97, the story of the \"Orochi Saga\" reached its exciting conclusion. As a result, the next entry in the series THE KING OF FIGHTERS '98 was released as a dream match version of THE KING OF FIGHTERS Series.\nIt is one of the most popular and well known versions of the game, partially thanks to the many balance changes that received high praisessss from fans around the world.",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Q44752KT4SZ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "01/22/2035 14:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9N0XHHFB2L98",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "01/22/2035 14:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 9.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "ACA2NEOGEO THE KING OF FIGHTERS '98",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

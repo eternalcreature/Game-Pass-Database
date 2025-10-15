@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 20326,
+    "specific_id": 20326,
+    "title": "Deliver Us the Moon",
+    "store_title": "Deliver Us The Moon.",
+    "pid": "9PF6BS5DGNLX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NVVSHQ771WG"
+    ],
+    "sku_groups": [
+      [
+        "9NVVSHQ771WG"
+      ],
+      [
+        "9PF6BS5DGNLX"
+      ]
+    ],
+    "original_release_date": "2019-10-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Wired Productions",
+    "developer": "KeokeN Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20326,
+      "name": "Deliver Us the Moon",
+      "url": "https://www.igdb.com/games/deliver-us-the-moon",
+      "publishers": [
+        "Wired Productions"
+      ],
+      "developers": [
+        "KeokeN Interactive"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

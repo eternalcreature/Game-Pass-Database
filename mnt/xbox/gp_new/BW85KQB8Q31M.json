@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 19456,
+    "specific_id": 19456,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "store_title": "Ori and the Blind Forest: Definitive Edition",
+    "pid": "BW85KQB8Q31M",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLGGH1Z6FB"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH1Z6FB"
+      ],
+      [
+        "BW85KQB8Q31M"
+      ]
+    ],
+    "original_release_date": "2015-03-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2018-12-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-12-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-07-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Moon Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19456,
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "url": "https://www.igdb.com/games/ori-and-the-blind-forest-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Moon Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 218793,
+    "specific_id": 218793,
+    "title": "Wild Hearts",
+    "store_title": "WILD HEARTS\u2122",
+    "pid": "9NFT3TR6MN9W",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NTFPTBXDDT3"
+    ],
+    "sku_groups": [
+      [
+        "9NFT3TR6MN9W"
+      ],
+      [
+        "9NTFPTBXDDT3"
+      ]
+    ],
+    "original_release_date": "2023-02-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-11-09",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2023-11-09",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportOnline": "Online co-op",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CrossPlatformCoOp": "Cross-platform co-op",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "KOEI TECMO GAMES CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 218793,
+      "name": "Wild Hearts",
+      "url": "https://www.igdb.com/games/wild-hearts",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Omega Force"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

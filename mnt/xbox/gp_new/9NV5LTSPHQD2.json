@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 289695,
+    "specific_id": 289695,
+    "title": "Creatures of Ava",
+    "store_title": "Creatures of Ava",
+    "pid": "9NV5LTSPHQD2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NV5LTSPHQD2"
+      ]
+    ],
+    "original_release_date": "2024-08-07",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-08-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-08-07",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-08-07",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "Inverge Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 289695,
+      "name": "Creatures of Ava",
+      "url": "https://www.igdb.com/games/creatures-of-ava",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "Inverge Studios"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 139192,
+    "specific_id": 139192,
+    "title": "Spacelines from the Far Out",
+    "store_title": "Spacelines from the Far Out",
+    "pid": "9N23WV1HGLTQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N23WV1HGLTQ"
+      ]
+    ],
+    "original_release_date": "2022-06-07",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-06-07",
+        "removed": "2024-06-16"
+      },
+      "Ultimate": {
+        "added": "2022-06-07",
+        "removed": "2024-06-16"
+      },
+      "Console": {
+        "added": "2022-06-07",
+        "removed": "2024-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Skystone Games Inc.",
+    "developer": "Coffeenauts "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139192,
+      "name": "Spacelines from the Far Out",
+      "url": "https://www.igdb.com/games/spacelines-from-the-far-out",
+      "publishers": [
+        "Skystone Games"
+      ],
+      "developers": [
+        "Coffeenauts"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

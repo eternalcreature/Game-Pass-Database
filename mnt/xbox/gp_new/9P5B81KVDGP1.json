@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "base_id": 110851,
+    "specific_id": 46800,
+    "title": "Maneater",
+    "store_title": "Maneater",
+    "pid": "9P5B81KVDGP1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P5B81KVDGP1"
+      ]
+    ],
+    "original_release_date": "2020-05-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-02-27",
+        "removed": "2025-03-01"
+      },
+      "PC": {
+        "added": "2024-02-27",
+        "removed": "2025-03-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-03-01"
+      },
+      "Ultimate": {
+        "added": "2024-02-27",
+        "removed": "2025-03-01"
+      }
+    },
+    {
+      "PC": {
+        "added": "2021-05-25",
+        "removed": "2023-06-15"
+      },
+      "Ultimate": {
+        "added": "2021-05-25",
+        "removed": "2023-06-15"
+      },
+      "Console": {
+        "added": "2021-05-25",
+        "removed": "2023-06-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Tripwire Interactive LLC",
+    "developer": "Tripwire Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 110851,
+      "name": "Maneater",
+      "url": "https://www.igdb.com/games/maneater--1",
+      "publishers": [
+        "Project Support Engineering"
+      ],
+      "developers": [
+        "Project Support Engineering"
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 110851,
+      "name": "Maneater",
+      "url": "https://www.igdb.com/games/maneater--1",
+      "publishers": [
+        "Project Support Engineering"
+      ],
+      "developers": [
+        "Project Support Engineering"
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

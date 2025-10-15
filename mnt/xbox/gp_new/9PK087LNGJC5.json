@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 251833,
+    "specific_id": 251833,
+    "title": "Balatro",
+    "store_title": "Balatro",
+    "pid": "9PK087LNGJC5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PK087LNGJC5"
+      ]
+    ],
+    "original_release_date": "2024-02-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-02-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-02-24",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-02-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-02-24",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy",
+      "Card & board"
+    ],
+    "publisher": "Playstack Ltd",
+    "developer": "LocalThunk Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 251833,
+      "name": "Balatro",
+      "url": "https://www.igdb.com/games/balatro",
+      "publishers": [
+        "Playstack"
+      ],
+      "developers": [
+        "LocalThunk"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

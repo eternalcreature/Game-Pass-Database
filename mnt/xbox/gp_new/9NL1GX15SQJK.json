@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 120436,
+    "specific_id": 120436,
+    "title": "One Piece: Pirate Warriors 4",
+    "store_title": "ONE PIECE: PIRATE WARRIORS 4 (Windows)",
+    "pid": "9NL1GX15SQJK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N6HB778ZWP2"
+    ],
+    "sku_groups": [
+      [
+        "9N6HB778ZWP2"
+      ],
+      [
+        "9NL1GX15SQJK"
+      ]
+    ],
+    "original_release_date": "2020-03-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-09",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-09",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": "BANDAI NAMCO Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120436,
+      "name": "One Piece: Pirate Warriors 4",
+      "url": "https://www.igdb.com/games/one-piece-pirate-warriors-4",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Koei Tecmo Games"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

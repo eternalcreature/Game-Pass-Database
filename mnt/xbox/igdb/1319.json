@@ -1,0 +1,74 @@
+{
+  "id": 1319,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 3856,
+      "company": {
+        "id": 167,
+        "name": "People Can Fly"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 87914,
+      "company": {
+        "id": 17463,
+        "name": "Epic Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 52158,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Gears of War: Judgment",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/gears-of-war-judgment"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 121731,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 249931,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 249932,
+      "company": {
+        "id": 5145,
+        "name": "Amplitude Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Humankind",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 41,
+      "name": "4X (explore, expand, exploit, and exterminate)"
+    }
+  ],
+  "url": "https://www.igdb.com/games/humankind"
+}

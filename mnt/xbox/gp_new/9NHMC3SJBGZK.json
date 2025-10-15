@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "base_id": 1274,
+    "specific_id": 87191,
+    "title": "SimCity",
+    "store_title": "SimCity\u2122: Complete Edition",
+    "pid": "9NHMC3SJBGZK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NHMC3SJBGZK"
+      ]
+    ],
+    "original_release_date": "2013-03-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1274,
+      "name": "SimCity",
+      "url": "https://www.igdb.com/games/simcity--1",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 1274,
+      "name": "SimCity",
+      "url": "https://www.igdb.com/games/simcity--1",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

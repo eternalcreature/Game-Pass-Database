@@ -1,0 +1,51 @@
+{
+  "id": 282900,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 251063,
+      "company": {
+        "id": 2170,
+        "name": "SIE San Diego Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 251064,
+      "company": {
+        "id": 10100,
+        "name": "Sony Interactive Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "MLB The Show 24",
+  "themes": [
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mlb-the-show-24"
+}

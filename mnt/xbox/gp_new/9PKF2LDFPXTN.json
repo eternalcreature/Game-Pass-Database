@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 154775,
+    "specific_id": 154775,
+    "title": "RoboCop: Rogue City",
+    "store_title": "RoboCop: Rogue City",
+    "pid": "9PKF2LDFPXTN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PKF2LDFPXTN"
+      ]
+    ],
+    "original_release_date": "2023-11-02",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Nacon",
+    "developer": "Teyon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 154775,
+      "name": "RoboCop: Rogue City",
+      "url": "https://www.igdb.com/games/robocop-rogue-city",
+      "publishers": [
+        "Nacon"
+      ],
+      "developers": [
+        "Teyon"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

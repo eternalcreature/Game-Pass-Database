@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "base_id": 78511,
+    "specific_id": 78511,
+    "title": "Forza Motorsport",
+    "store_title": "Forza Motorsport",
+    "pid": "9P0TRPTHG7VF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PLKVSWR299F"
+    ],
+    "sku_groups": [
+      [
+        "9P0TRPTHG7VF",
+        "9PLKVSWR299F"
+      ]
+    ],
+    "original_release_date": "2023-10-10",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-10-10",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-10-10",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-10-10",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-12-04",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Turn 10 Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 78511,
+      "name": "Forza Motorsport",
+      "url": "https://www.igdb.com/games/forza-motorsport--1",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Turn 10 Studios"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

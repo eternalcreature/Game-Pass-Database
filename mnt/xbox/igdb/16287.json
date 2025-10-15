@@ -1,0 +1,73 @@
+{
+  "id": 16287,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 69052,
+      "company": {
+        "id": 16242,
+        "name": "Skybound Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 348564,
+      "company": {
+        "id": 20212,
+        "name": "Monomi Park"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Slime Rancher",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/slime-rancher"
+}

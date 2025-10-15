@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 2031,
+    "specific_id": 2031,
+    "title": "Wolfenstein: The New Order",
+    "store_title": "Wolfenstein: The New Order",
+    "pid": "BT9FFLG51VVG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P75CBJ9WT9W"
+    ],
+    "sku_groups": [
+      [
+        "9P75CBJ9WT9W"
+      ],
+      [
+        "BT9FFLG51VVG"
+      ]
+    ],
+    "original_release_date": "2014-05-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "MachineGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2031,
+      "name": "Wolfenstein: The New Order",
+      "url": "https://www.igdb.com/games/wolfenstein-the-new-order",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "MachineGames"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 15859,
+    "specific_id": 15859,
+    "title": "Joy Ride Turbo",
+    "store_title": "Joy Ride Turbo",
+    "pid": "C1ZWH2BZ9TSF",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1ZWH2BZ9TSF"
+      ]
+    ],
+    "original_release_date": "2012-05-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-06-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Family & kids",
+      "Racing & flying",
+      "Sports"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "BigPark"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 15859,
+      "name": "Joy Ride Turbo",
+      "url": "https://www.igdb.com/games/joy-ride-turbo",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "BigPark"
+      ],
+      "genres": [
+        "Racing",
+        "Sport",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 140437,
+    "specific_id": 140437,
+    "title": "Spirit of the North: Enhanced Edition",
+    "store_title": "Spirit of the North: Enhanced Edition",
+    "pid": "9MVL42NJFVZ2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVL42NJFVZ2"
+      ]
+    ],
+    "original_release_date": "2019-11-01",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-12-01",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2023-12-01",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2023-12-01",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Silver Lining Interactive",
+    "developer": "Infuse Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 140437,
+      "name": "Spirit of the North: Enhanced Edition",
+      "url": "https://www.igdb.com/games/spirit-of-the-north-enhanced-edition",
+      "publishers": [
+        "Merge Games"
+      ],
+      "developers": [
+        "Infuse Studio"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

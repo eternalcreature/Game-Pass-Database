@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 991,
+    "specific_id": 991,
+    "title": "Halo 4",
+    "store_title": "Halo 4",
+    "pid": "9P8CFXZH93CK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P8CFXZH93CK"
+      ]
+    ],
+    "original_release_date": "2012-11-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries, Saber Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 991,
+      "name": "Halo 4",
+      "url": "https://www.igdb.com/games/halo-4",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "343 Industries"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

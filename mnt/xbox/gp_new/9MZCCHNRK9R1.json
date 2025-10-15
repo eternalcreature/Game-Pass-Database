@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 115036,
+    "specific_id": 115036,
+    "title": "Ring of Pain",
+    "store_title": "Ring of Pain",
+    "pid": "9MZCCHNRK9R1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZCCHNRK9R1"
+      ]
+    ],
+    "original_release_date": "2020-10-15",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-14",
+        "removed": "2022-10-16"
+      },
+      "Ultimate": {
+        "added": "2021-10-14",
+        "removed": "2022-10-16"
+      },
+      "Console": {
+        "added": "2021-10-14",
+        "removed": "2022-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Simon Boxer, Twice Different"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115036,
+      "name": "Ring of Pain",
+      "url": "https://www.igdb.com/games/ring-of-pain",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Simon Boxer",
+        "Twice Different"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

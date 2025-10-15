@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 183648,
+    "specific_id": 183648,
+    "title": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+    "store_title": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+    "pid": "9NP1G0T8JDMR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NP1G0T8JDMR"
+      ]
+    ],
+    "original_release_date": "2022-07-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-13",
+        "removed": "2023-09-16"
+      },
+      "Ultimate": {
+        "added": "2022-09-13",
+        "removed": "2023-09-16"
+      },
+      "Console": {
+        "added": "2022-09-13",
+        "removed": "2023-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Racing & flying",
+      "Shooter"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "PHL Collective"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 183648,
+      "name": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+      "url": "https://www.igdb.com/games/dc-league-of-super-pets-the-adventures-of-krypto-and-ace",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "Outright Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

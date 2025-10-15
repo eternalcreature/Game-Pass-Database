@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 356,
+    "specific_id": 356,
+    "title": "Quake 4",
+    "store_title": "Quake 4",
+    "pid": "9P2JXK37PFLZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P2JXK37PFLZ"
+      ]
+    ],
+    "original_release_date": "2005-10-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Raven / id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 356,
+      "name": "Quake 4",
+      "url": "https://www.igdb.com/games/quake-4",
+      "publishers": [
+        "Activision",
+        "Aspyr Media",
+        "Bethesda Softworks",
+        "id Software"
+      ],
+      "developers": [
+        "Aspyr Media",
+        "Raven Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

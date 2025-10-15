@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 35,
+    "specific_id": 35,
+    "title": "Dungeon Keeper",
+    "store_title": "Dungeon Keeper\u2122",
+    "pid": "9PKDX735TR8K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PKDX735TR8K"
+      ]
+    ],
+    "original_release_date": "1997-06-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Bullfrog Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 35,
+      "name": "Dungeon Keeper",
+      "url": "https://www.igdb.com/games/dungeon-keeper",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Bullfrog Productions"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

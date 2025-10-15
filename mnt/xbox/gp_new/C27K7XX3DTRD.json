@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 1564,
+    "specific_id": 1564,
+    "title": "SoulCalibur",
+    "store_title": "SOULCALIBUR",
+    "pid": "C27K7XX3DTRD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C27K7XX3DTRD"
+      ]
+    ],
+    "original_release_date": "1998-07-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Classics"
+    ],
+    "publisher": "Namco",
+    "developer": "NAMCO BANDAI Games America"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1564,
+      "name": "SoulCalibur",
+      "url": "https://www.igdb.com/games/soulcalibur",
+      "publishers": [
+        "Namco"
+      ],
+      "developers": [
+        "Project Soul"
+      ],
+      "genres": [
+        "Fighting",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

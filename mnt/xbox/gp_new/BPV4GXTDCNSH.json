@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 9192,
+    "specific_id": 9192,
+    "title": "Wolfenstein: The Old Blood",
+    "store_title": "Wolfenstein: The Old Blood",
+    "pid": "BPV4GXTDCNSH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PBB4QHMSDKR"
+    ],
+    "sku_groups": [
+      [
+        "9PBB4QHMSDKR"
+      ],
+      [
+        "BPV4GXTDCNSH"
+      ]
+    ],
+    "original_release_date": "2015-05-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "MachineGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9192,
+      "name": "Wolfenstein: The Old Blood",
+      "url": "https://www.igdb.com/games/wolfenstein-the-old-blood",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "MachineGames"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Historical",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

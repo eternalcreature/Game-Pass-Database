@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "base_id": 529,
+    "specific_id": 86389,
+    "title": "Far Cry 3",
+    "store_title": "Far Cry\u00ae 3 Classic Edition",
+    "pid": "BV2ZVP7PJZWL",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PN0MPNNP92J"
+    ],
+    "sku_groups": [
+      [
+        "9PN0MPNNP92J"
+      ],
+      [
+        "BV2ZVP7PJZWL"
+      ]
+    ],
+    "original_release_date": "2012-11-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Pune, Ubisoft Montreal, Massive Entertainment and Ubisoft Shanghai"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 529,
+      "name": "Far Cry 3",
+      "url": "https://www.igdb.com/games/far-cry-3",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 529,
+      "name": "Far Cry 3",
+      "url": "https://www.igdb.com/games/far-cry-3",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 185241,
+    "specific_id": 185241,
+    "title": "Have a Nice Death",
+    "store_title": "Have a Nice Death",
+    "pid": "9PF1ZX4HHGSW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PF1ZX4HHGSW"
+      ]
+    ],
+    "original_release_date": "2023-03-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-30",
+        "removed": "2025-05-01"
+      },
+      "Ultimate": {
+        "added": "2024-04-30",
+        "removed": "2025-05-01"
+      },
+      "PC": {
+        "added": "2024-04-30",
+        "removed": "2025-05-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Arc Games",
+    "developer": "Magic Design Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 185241,
+      "name": "Have a Nice Death",
+      "url": "https://www.igdb.com/games/have-a-nice-death",
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "developers": [
+        "Magic Design Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

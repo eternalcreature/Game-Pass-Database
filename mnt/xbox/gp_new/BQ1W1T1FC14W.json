@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 19457,
+    "specific_id": 19457,
+    "title": "The Elder Scrolls V: Skyrim - Special Edition",
+    "store_title": "The Elder Scrolls V: Skyrim Special Edition",
+    "pid": "BQ1W1T1FC14W",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P03JGQ4S1GC"
+    ],
+    "sku_groups": [
+      [
+        "9P03JGQ4S1GC"
+      ],
+      [
+        "BQ1W1T1FC14W"
+      ]
+    ],
+    "original_release_date": "2016-10-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-12-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19457,
+      "name": "The Elder Scrolls V: Skyrim - Special Edition",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-special-edition",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 164290,
+    "specific_id": 164290,
+    "title": "Frostpunk 2",
+    "store_title": "Frostpunk 2",
+    "pid": "9N0KN24FWP6B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0KN24FWP6B"
+      ]
+    ],
+    "original_release_date": "2024-09-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-09-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-09-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "11 bit studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 164290,
+      "name": "Frostpunk 2",
+      "url": "https://www.igdb.com/games/frostpunk-2",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "11 bit studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

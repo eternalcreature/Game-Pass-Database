@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 109532,
+    "specific_id": 109532,
+    "title": "Assassin's Creed III Remastered",
+    "store_title": "Assassin's Creed\u00ae III Remastered",
+    "pid": "BPMJ413V6BB2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NKD0MLJ3Z3X"
+    ],
+    "sku_groups": [
+      [
+        "9NKD0MLJ3Z3X"
+      ],
+      [
+        "BPMJ413V6BB2"
+      ]
+    ],
+    "original_release_date": "2019-03-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 109532,
+      "name": "Assassin's Creed III Remastered",
+      "url": "https://www.igdb.com/games/assassins-creed-iii-remastered",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Barcelona"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

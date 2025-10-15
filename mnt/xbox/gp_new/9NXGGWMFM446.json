@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 172454,
+    "specific_id": 172454,
+    "title": "The Bookwalker: Thief of Tales",
+    "store_title": "The Bookwalker: Thief of Tales",
+    "pid": "9NXGGWMFM446",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NXGGWMFM446"
+      ]
+    ],
+    "original_release_date": "2023-06-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-06-22",
+        "removed": "2024-06-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-22",
+        "removed": "2024-06-16"
+      },
+      "Console": {
+        "added": "2023-06-22",
+        "removed": "2024-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "DO MY BEST"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 172454,
+      "name": "The Bookwalker: Thief of Tales",
+      "url": "https://www.igdb.com/games/the-bookwalker-thief-of-tales",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Do My Best"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

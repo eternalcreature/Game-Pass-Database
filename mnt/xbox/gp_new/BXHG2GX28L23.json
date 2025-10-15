@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "base_id": 970,
+    "specific_id": 970,
+    "title": "Resident Evil Zero",
+    "store_title": "Resident Evil 0",
+    "pid": "BXHG2GX28L23",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXHG2GX28L23"
+      ]
+    ],
+    "original_release_date": "2002-11-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 970,
+      "name": "Resident Evil Zero",
+      "url": "https://www.igdb.com/games/resident-evil-zero",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Production Studio 3"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

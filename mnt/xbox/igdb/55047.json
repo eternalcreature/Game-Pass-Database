@@ -1,0 +1,65 @@
+{
+  "id": 55047,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 69021,
+      "company": {
+        "id": 248,
+        "name": "Bandai Namco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 69197,
+      "company": {
+        "id": 4895,
+        "name": "Supermassive Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "The Dark Pictures Anthology: Man of Medan",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-dark-pictures-anthology-man-of-medan"
+}

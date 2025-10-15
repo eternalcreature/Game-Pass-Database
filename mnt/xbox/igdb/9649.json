@@ -1,0 +1,57 @@
+{
+  "id": 9649,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 290011,
+      "company": {
+        "id": 5154,
+        "name": "Zachtronics"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 290012,
+      "company": {
+        "id": 9786,
+        "name": "22nd Century Toys"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Infinifactory",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/infinifactory"
+}

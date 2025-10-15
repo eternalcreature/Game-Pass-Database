@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 28552,
+    "specific_id": 28552,
+    "title": "Far Cry 5",
+    "store_title": "Far Cry\u00ae 5",
+    "pid": "BR7X7MVBBQKM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVQXW1RJVCN"
+    ],
+    "sku_groups": [
+      [
+        "9MVQXW1RJVCN"
+      ],
+      [
+        "BR7X7MVBBQKM"
+      ]
+    ],
+    "original_release_date": "2018-03-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-07-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-07-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28552,
+      "name": "Far Cry 5",
+      "url": "https://www.igdb.com/games/far-cry-5",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

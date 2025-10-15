@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 132707,
+    "specific_id": 132707,
+    "title": "Madden NFL 21",
+    "store_title": "Madden NFL 21",
+    "pid": "9P4Q52VF62MQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PBLVTGXLV7D",
+      "9NW6RJDFKV5V"
+    ],
+    "sku_groups": [
+      [
+        "9NW6RJDFKV5V"
+      ],
+      [
+        "9P4Q52VF62MQ"
+      ],
+      [
+        "9PBLVTGXLV7D"
+      ]
+    ],
+    "original_release_date": "2020-08-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 132707,
+      "name": "Madden NFL 21",
+      "url": "https://www.igdb.com/games/madden-nfl-21",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

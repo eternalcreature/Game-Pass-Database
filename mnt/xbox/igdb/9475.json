@@ -1,0 +1,80 @@
+{
+  "id": 9475,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 177047,
+      "company": {
+        "id": 395,
+        "name": "Sonic Team"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 228434,
+      "company": {
+        "id": 23993,
+        "name": "Tec Toy"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 239959,
+      "company": {
+        "id": 14087,
+        "name": "Sega Corporation"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 239960,
+      "company": {
+        "id": 4981,
+        "name": "Sega Enterprises, Ltd."
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Sonic & Knuckles",
+  "parent_game": 6797,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/sonic-and-knuckles"
+}

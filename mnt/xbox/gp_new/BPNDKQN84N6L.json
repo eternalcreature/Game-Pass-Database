@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 3750,
+    "specific_id": 3750,
+    "title": "Quantum Break",
+    "store_title": "Quantum Break",
+    "pid": "BPNDKQN84N6L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPNDKQN84N6L"
+      ]
+    ],
+    "original_release_date": "2016-04-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-04-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-04-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Remedy Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3750,
+      "name": "Quantum Break",
+      "url": "https://www.igdb.com/games/quantum-break",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

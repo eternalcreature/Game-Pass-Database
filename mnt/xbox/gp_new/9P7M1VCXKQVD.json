@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 296843,
+    "specific_id": 296843,
+    "title": "The Rogue Prince of Persia",
+    "store_title": "The Rogue Prince of Persia\u2122",
+    "pid": "9P7M1VCXKQVD",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P1WJCK9B8S6"
+    ],
+    "sku_groups": [
+      [
+        "9P1WJCK9B8S6"
+      ],
+      [
+        "9P7M1VCXKQVD"
+      ]
+    ],
+    "original_release_date": "2025-08-20",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-08-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-20",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 296843,
+      "name": "The Rogue Prince of Persia",
+      "url": "https://www.igdb.com/games/the-rogue-prince-of-persia",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Evil Empire"
+      ],
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

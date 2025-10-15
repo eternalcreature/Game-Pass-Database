@@ -1,0 +1,62 @@
+{
+  "id": 10354,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 36711,
+      "company": {
+        "id": 2121,
+        "name": "Iron Galaxy Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 36712,
+      "company": {
+        "id": 160,
+        "name": "Double Helix Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 36710,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Killer Instinct",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/killer-instinct--1"
+}

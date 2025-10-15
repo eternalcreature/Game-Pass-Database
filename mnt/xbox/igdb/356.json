@@ -1,0 +1,97 @@
+{
+  "id": 356,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 21700,
+      "company": {
+        "id": 71,
+        "name": "Raven Software"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 21704,
+      "company": {
+        "id": 66,
+        "name": "Activision"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 21703,
+      "company": {
+        "id": 184,
+        "name": "id Software"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 42070,
+      "company": {
+        "id": 184,
+        "name": "id Software"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 95292,
+      "company": {
+        "id": 16565,
+        "name": "Bethesda Softworks"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 248325,
+      "company": {
+        "id": 73,
+        "name": "Aspyr Media"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Quake 4",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/quake-4"
+}

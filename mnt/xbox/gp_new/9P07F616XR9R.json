@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 252729,
+    "specific_id": 252729,
+    "title": "Persona 5 Tactica",
+    "store_title": "Persona 5 Tactica",
+    "pid": "9P07F616XR9R",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P07F616XR9R"
+      ]
+    ],
+    "original_release_date": "2023-11-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-17",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2023-11-17",
+        "removed": "2024-11-16"
+      },
+      "Console": {
+        "added": "2023-11-17",
+        "removed": "2024-11-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation",
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252729,
+      "name": "Persona 5 Tactica",
+      "url": "https://www.igdb.com/games/persona-5-tactica",
+      "publishers": [
+        "Atlus",
+        "Sega"
+      ],
+      "developers": [
+        "Atlus",
+        "P Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

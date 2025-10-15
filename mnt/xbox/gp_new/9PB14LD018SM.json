@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 243343,
+    "specific_id": 243343,
+    "title": "Galacticare",
+    "store_title": "Galacticare",
+    "pid": "9PB14LD018SM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PB14LD018SM"
+      ]
+    ],
+    "original_release_date": "2024-05-23",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-23",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-05-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-05-23",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-03-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation",
+      "Action & adventure"
+    ],
+    "publisher": "Mythwright",
+    "developer": "Brightrock Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 243343,
+      "name": "Galacticare",
+      "url": "https://www.igdb.com/games/galacticare",
+      "publishers": [
+        "Cult Games"
+      ],
+      "developers": [
+        "Brightrock Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

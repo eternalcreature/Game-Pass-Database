@@ -1,0 +1,71 @@
+{
+  "id": 213568,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 183194,
+      "company": {
+        "id": 14,
+        "name": "Bullfrog Productions"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 183195,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 183196,
+      "company": {
+        "id": 880,
+        "name": "Domark Software"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Syndicate",
+  "parent_game": 49,
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/syndicate"
+}

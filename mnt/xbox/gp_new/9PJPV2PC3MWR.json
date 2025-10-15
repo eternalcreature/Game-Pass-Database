@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 142861,
+    "specific_id": 142861,
+    "title": "Anvil",
+    "store_title": "ANVIL : Vault Breaker (Game Preview)",
+    "pid": "9PJPV2PC3MWR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJPV2PC3MWR"
+      ]
+    ],
+    "original_release_date": "2021-09-01",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2023-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2023-12-01"
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2023-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-3)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "SK TELECOM CO., LTD.",
+    "developer": "ACTION SQUARE CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 142861,
+      "name": "Anvil",
+      "url": "https://www.igdb.com/games/anvil",
+      "publishers": [
+        "Action Square",
+        "HIKE",
+        "SK Telecom"
+      ],
+      "developers": [
+        "Action Square"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

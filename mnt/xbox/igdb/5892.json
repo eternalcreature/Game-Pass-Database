@@ -1,0 +1,82 @@
+{
+  "id": 5892,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 25627,
+      "company": {
+        "id": 2580,
+        "name": "Facepalm Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 25628,
+      "company": {
+        "id": 4065,
+        "name": "Curve Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 129855,
+      "company": {
+        "id": 5048,
+        "name": "Curve Digital"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Swapper",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-swapper"
+}

@@ -1,0 +1,201 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.6,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "GameStreaming": "Cloud enabled",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure",
+    "Shooter",
+    "Multi-Player Online Battle Arena"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Halo: Spartan Assault is a fast paced top-down shooter set during the timeline between “Halo 3” and “Halo 4,” progress your Spartan career as you engage in over 30 exciting Campaign missions using many  of favorite Halo weapons, vehicles and armor abilities.\r\n\r\nTeam-up on Xbox Live and fight with a friend against waves of the nightmarish Flood in the all-new online co-op multiplayer mode.\r\n\r\nPHOTOSENSITIVITY SEIZURE WARNING: A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games.  Visit Xbox.com for more information",
+  "developerName": "Vanguard Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 2653863936,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BV0K9LMLQ9W5",
+  "productKind": "Game",
+  "publisherName": "Microsoft Studios",
+  "ratingCount": 1159,
+  "releaseDate": "2013-12-23T00:00:00.0000000Z",
+  "shortDescription": "Halo: Spartan Assault is a fast paced top-down shooter set during the timeline between “Halo 3” and “Halo 4,” progress your Spartan career as you engage in over 30 exciting Campaign missions using many  of favorite Halo weapons, vehicles and armor abilities.\r\n\r\nTeam-up on Xbox Live and fight with a friend against waves of the nightmarish Flood in the all-new online co-op multiplayer mode.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B05F5G4B2KFN",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "05/31/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9XFZ9MLLZ3PZ",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B0F23X34KVNT",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9RDBKF3K7FCZ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "05/31/2799 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Halo: Spartan Assault",
+  "xCloudProperties": {
+    "xCloudId": "HALOSPARTANASSAULT",
+    "xboxTitleId": 682562723,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2017-05-24T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2017-05-24T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-07-11T18:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "HALOSPARTANASSAULT",
+    "xboxTitleId": 682562723,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

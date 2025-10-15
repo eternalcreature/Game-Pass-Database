@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 27744,
+    "specific_id": 27744,
+    "title": "House Flipper",
+    "store_title": "House Flipper",
+    "pid": "9NBFGKQLMV33",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBFGKQLMV33"
+      ]
+    ],
+    "original_release_date": "2018-05-17",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-30",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-06-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Frozen District",
+    "developer": "Frozen District"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27744,
+      "name": "House Flipper",
+      "url": "https://www.igdb.com/games/house-flipper",
+      "publishers": [
+        "Frozen District",
+        "PlayWay",
+        "Ultimate Games"
+      ],
+      "developers": [
+        "Empyrean",
+        "Frozen District",
+        "Ultimate Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Business",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

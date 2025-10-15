@@ -1,0 +1,115 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.4,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Violence",
+      "Crude Humor",
+      "Blood and Gore",
+      "Tobacco Reference",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "(Online Interactions Not Rated by the ESRB) This game supports English only. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". The authentic skate experience. There are no refunds for this item. For more information, see www.xbox.com/live/accounts.Some multi-player functionalities may no longer be supported.",
+  "developerName": "Electronic Arts Vancouver",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 6052442112,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C3QWNCV55VLL",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 219,
+  "releaseDate": "2010-01-20T00:00:00.0000000Z",
+  "shortDescription": "The authentic skate experience.Some multi-player functionalities may no longer be supported.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B0L0QXV0GR58",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/31/2799 22:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "skate. (2007)",
+  "xCloudProperties": {
+    "xCloudId": "SKATE",
+    "xboxTitleId": 883004381,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2021-08-05T17:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SKATE",
+    "xboxTitleId": 883004381,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

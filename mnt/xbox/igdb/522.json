@@ -1,0 +1,65 @@
+{
+  "id": 522,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 1271,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 1270,
+      "company": {
+        "id": 6,
+        "name": "Lionhead Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Fable II",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/fable-ii"
+}

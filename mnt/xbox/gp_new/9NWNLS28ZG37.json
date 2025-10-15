@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 355,
+    "specific_id": 355,
+    "title": "Quake III Arena",
+    "store_title": "Quake III Arena",
+    "pid": "9NWNLS28ZG37",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NWNLS28ZG37"
+      ]
+    ],
+    "original_release_date": "1999-12-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-08-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-08-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 355,
+      "name": "Quake III Arena",
+      "url": "https://www.igdb.com/games/quake-iii-arena",
+      "publishers": [
+        "Activision",
+        "Electronic Arts",
+        "Loki Software",
+        "Sega"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

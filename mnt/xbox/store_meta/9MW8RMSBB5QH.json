@@ -1,0 +1,129 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Welcome to LYNX, the solar system’s leader in spaceship salvaging!\r\n\r\nWe offer you the privilege of helping turn humanity’s past into its future by salvaging ships in zero-g. Each one is a puzzle, and how you solve it is up to you! Carve your way in, salvage everything, and maximize your profit.\r\n\r\nOur cutting-edge LYNX tech helps you do the job. Slice metal with the laser cutter and use the grapple tool to move salvage with ease. Earn upgrades, such as demo charges, sensors, and safety gear. \r\n\r\nCareful where you point those tools! Hazards include explosive decompression, fuel, electricity, and radiation. Your life is protected by our EverWork™ technology, but our profits aren’t.\r\n\r\nYour LYNX adventure starts now! Account balance owing is:\r\n1,252,594,441.92 Credits\r\nStart paying that debt! Good luck, shipbreaker!\r\n\r\n•\tExperience daily life as a blue-collar spaceship salvager \r\n•\tCut and destroy at will in a next-gen physics sim\r\n•\tSalvage through a compelling campaign, relax in freeplay, or compete in timed challenges\r\n•\tExplore a variety of ship types with unlimited variations\r\n•\tUpgrade tools and gear to take on bigger and harder ships",
+  "developerName": "Blackbird Interactive",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3612102656,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MW8RMSBB5QH",
+  "productKind": "Game",
+  "publisherName": "Blackbird Interactive",
+  "ratingCount": 232,
+  "releaseDate": "2022-05-24T16:00:00.0000000Z",
+  "shortDescription": "Equipped with cutting-edge salvaging tech, carve & slice spaceships to recover valuable materials. Upgrade your gear to take on more lucrative contracts and pay your billion credits debt to LYNX Corp!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9P2W75M5L22G",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 34.99,
+        "msrp": 34.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V4V6BFQ35QL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 34.99,
+        "msrp": 34.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Hardspace: Shipbreaker - Windows",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-05-24T16:00:00Z",
+      "exitDateUTC": "2024-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-05-24T16:00:00Z",
+      "exitDateUTC": "2024-03-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

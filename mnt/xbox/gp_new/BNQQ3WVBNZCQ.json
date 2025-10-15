@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "base_id": 37777,
+    "specific_id": 123051,
+    "title": "Shadow of the Tomb Raider: Definitive Edition",
+    "store_title": "Shadow of the Tomb Raider Definitive Edition",
+    "pid": "BNQQ3WVBNZCQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRVK4W7RVCXR"
+    ],
+    "sku_groups": [
+      [
+        "BNQQ3WVBNZCQ",
+        "BRVK4W7RVCXR"
+      ]
+    ],
+    "original_release_date": "2018-09-14",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-04-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Eidos Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37777,
+      "name": "Shadow of the Tomb Raider",
+      "url": "https://www.igdb.com/games/shadow-of-the-tomb-raider",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Historical",
+        "Stealth",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 123051,
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "url": "https://www.igdb.com/games/shadow-of-the-tomb-raider-definitive-edition",
+      "publishers": [
+        "Crystal Dynamics",
+        "Feral Interactive",
+        "Square Enix"
+      ],
+      "developers": [
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

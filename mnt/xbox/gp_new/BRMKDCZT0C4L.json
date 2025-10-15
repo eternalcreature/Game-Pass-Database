@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 119305,
+    "specific_id": 119305,
+    "title": "LEGO Star Wars: The Skywalker Saga",
+    "store_title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+    "pid": "BRMKDCZT0C4L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRMKDCZT0C4L"
+      ]
+    ],
+    "original_release_date": "2022-04-05",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-12-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-12-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-12-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "TT Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119305,
+      "name": "LEGO Star Wars: The Skywalker Saga",
+      "url": "https://www.igdb.com/games/lego-star-wars-the-skywalker-saga",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "Traveller's Tales"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

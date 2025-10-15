@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "base_id": 204360,
+    "specific_id": 204913,
+    "title": "Goat Simulator 3",
+    "store_title": "Goat Simulator 3: Xbox One Edition",
+    "pid": "9NL3468NRPBG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NMB4T25W817",
+      "9PDS2N82QNXG"
+    ],
+    "sku_groups": [
+      [
+        "9NL3468NRPBG"
+      ],
+      [
+        "9NMB4T25W817"
+      ],
+      [
+        "9PDS2N82QNXG"
+      ]
+    ],
+    "original_release_date": "2022-11-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-10-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-10-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-10-24",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Coffee Stain Publishing AB",
+    "developer": "Coffee Stain North AB"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204360,
+      "name": "Goat Simulator 3",
+      "url": "https://www.igdb.com/games/goat-simulator-3",
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "developers": [
+        "Coffee Stain Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 204360,
+      "name": "Goat Simulator 3",
+      "url": "https://www.igdb.com/games/goat-simulator-3",
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "developers": [
+        "Coffee Stain Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

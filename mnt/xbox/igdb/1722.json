@@ -1,0 +1,57 @@
+{
+  "id": 1722,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 121679,
+      "company": {
+        "id": 2344,
+        "name": "Inti Creates"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 121680,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Mega Man 9",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mega-man-9"
+}

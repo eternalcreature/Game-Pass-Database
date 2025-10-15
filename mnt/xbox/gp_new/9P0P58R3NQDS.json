@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 229119,
+    "specific_id": 229119,
+    "title": "Peppa Pig: World Adventures",
+    "store_title": "Peppa Pig: World Adventures",
+    "pid": "9P0P58R3NQDS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P0P58R3NQDS"
+      ]
+    ],
+    "original_release_date": "2023-03-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-09-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-09-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Petoons Studio Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 229119,
+      "name": "Peppa Pig: World Adventures",
+      "url": "https://www.igdb.com/games/peppa-pig-world-adventures",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Petoons Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

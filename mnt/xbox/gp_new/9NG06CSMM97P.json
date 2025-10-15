@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 3772,
+    "specific_id": 3772,
+    "title": "Wreckfest",
+    "store_title": "Wreckfest",
+    "pid": "9NG06CSMM97P",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRJNRZ9N734V"
+    ],
+    "sku_groups": [
+      [
+        "9NG06CSMM97P"
+      ],
+      [
+        "BRJNRZ9N734V"
+      ]
+    ],
+    "original_release_date": "2018-06-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-02-18",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-02-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Bugbear Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3772,
+      "name": "Wreckfest",
+      "url": "https://www.igdb.com/games/wreckfest",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Bugbear Entertainment"
+      ],
+      "genres": [
+        "Racing",
+        "Sport",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

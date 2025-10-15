@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 279641,
+    "specific_id": 279641,
+    "title": "Tales of Kenzera: Zau",
+    "store_title": "Tales of Kenzera\u2122: ZAU",
+    "pid": "9N6KPQ0XMT2B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NNNMBXFFG4W"
+    ],
+    "sku_groups": [
+      [
+        "9N6KPQ0XMT2B"
+      ],
+      [
+        "9NNNMBXFFG4W"
+      ]
+    ],
+    "original_release_date": "2024-04-04",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-05-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-22",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2025-05-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate"
+    },
+    "categories": [
+      "Platformer",
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Surgent Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 279641,
+      "name": "Tales of Kenzera: Zau",
+      "url": "https://www.igdb.com/games/tales-of-kenzera-zau",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Surgent Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

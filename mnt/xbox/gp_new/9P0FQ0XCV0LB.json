@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "base_id": 256396,
+    "specific_id": 134602,
+    "title": "Bugsnax",
+    "store_title": "Bugsnax",
+    "pid": "9P0FQ0XCV0LB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P0FQ0XCV0LB"
+      ]
+    ],
+    "original_release_date": "2020-11-12",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-28",
+        "removed": "2023-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-04-28",
+        "removed": "2023-05-01"
+      },
+      "Console": {
+        "added": "2022-04-28",
+        "removed": "2023-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Young Horses",
+    "developer": "Young Horses"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 256396,
+      "name": "Bugsnax",
+      "url": "https://www.igdb.com/games/bugsnax--1",
+      "publishers": [
+        "Young Horses"
+      ],
+      "developers": [
+        "Young Horses"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Sandbox",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 256396,
+      "name": "Bugsnax",
+      "url": "https://www.igdb.com/games/bugsnax--1",
+      "publishers": [
+        "Young Horses"
+      ],
+      "developers": [
+        "Young Horses"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Sandbox",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 25901,
+    "specific_id": 25901,
+    "title": "My Friend Pedro",
+    "store_title": "My Friend Pedro",
+    "pid": "9P16M6LF0QFH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NMH293554QQ"
+    ],
+    "sku_groups": [
+      [
+        "9NMH293554QQ"
+      ],
+      [
+        "9P16M6LF0QFH"
+      ]
+    ],
+    "original_release_date": "2019-06-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-11-18",
+        "removed": "2023-05-16"
+      },
+      "Ultimate": {
+        "added": "2021-11-18",
+        "removed": "2023-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Shooter"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Deadtoast"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25901,
+      "name": "My Friend Pedro",
+      "url": "https://www.igdb.com/games/my-friend-pedro",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "DeadToast Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

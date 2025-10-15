@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 20308,
+    "specific_id": 20308,
+    "title": "Rabbids Invasion: The Interactive TV Show",
+    "store_title": "Rabbids Invasion : The Interactive TV Show",
+    "pid": "BXZ0JDCPRV6C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C50KFXWMQSFW"
+    ],
+    "sku_groups": [
+      [
+        "BXZ0JDCPRV6C"
+      ],
+      [
+        "C50KFXWMQSFW"
+      ]
+    ],
+    "original_release_date": "2014-11-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Barcelona"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20308,
+      "name": "Rabbids Invasion: The Interactive TV Show",
+      "url": "https://www.igdb.com/games/rabbids-invasion-the-interactive-tv-show",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Entertainment"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

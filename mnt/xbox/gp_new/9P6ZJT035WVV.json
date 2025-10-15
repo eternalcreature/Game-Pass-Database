@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 2602,
+    "specific_id": 2602,
+    "title": "Alan Wake's American Nightmare",
+    "store_title": "Alan Wake's American Nightmare",
+    "pid": "9P6ZJT035WVV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BW08NW03FX4R"
+    ],
+    "sku_groups": [
+      [
+        "9P6ZJT035WVV"
+      ],
+      [
+        "BW08NW03FX4R"
+      ]
+    ],
+    "original_release_date": "2012-02-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      },
+      "Ultimate": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Remedy Entertainment",
+    "developer": "Remedy Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2602,
+      "name": "Alan Wake's American Nightmare",
+      "url": "https://www.igdb.com/games/alan-wake-s-american-nightmare",
+      "publishers": [
+        "Microsoft Studios",
+        "Nordic Games Publishing"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

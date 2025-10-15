@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 106822,
+    "specific_id": 106822,
+    "title": "Bloodroots",
+    "store_title": "Bloodroots",
+    "pid": "9MXPZ33Z9PWH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXPZ33Z9PWH"
+      ]
+    ],
+    "original_release_date": "2020-02-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-07-15",
+        "removed": "2022-10-16"
+      },
+      "Ultimate": {
+        "added": "2021-07-15",
+        "removed": "2022-10-16"
+      },
+      "Console": {
+        "added": "2021-07-15",
+        "removed": "2022-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Paper Cult",
+    "developer": "Paper Cult"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106822,
+      "name": "Bloodroots",
+      "url": "https://www.igdb.com/games/bloodroots",
+      "publishers": [
+        "Paper Cult"
+      ],
+      "developers": [
+        "Paper Cult"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

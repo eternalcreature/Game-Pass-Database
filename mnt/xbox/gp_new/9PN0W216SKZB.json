@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 207021,
+    "specific_id": 207021,
+    "title": "Final Fantasy VII",
+    "store_title": "FINAL FANTASY VII WINDOWS EDITION",
+    "pid": "9PN0W216SKZB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BWKXQC5BL5R1"
+    ],
+    "sku_groups": [
+      [
+        "9PN0W216SKZB"
+      ],
+      [
+        "BWKXQC5BL5R1"
+      ]
+    ],
+    "original_release_date": "1997-01-31",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-08-13",
+        "removed": "2021-08-16"
+      },
+      "Ultimate": {
+        "added": "2020-08-13",
+        "removed": "2021-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 207021,
+      "name": "Final Fantasy VII",
+      "url": "https://www.igdb.com/games/final-fantasy-vii--5",
+      "publishers": [
+        "Eidos Interactive"
+      ],
+      "developers": [
+        "Square"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

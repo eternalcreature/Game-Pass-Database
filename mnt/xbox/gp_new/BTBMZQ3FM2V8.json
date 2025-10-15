@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 20,
+    "specific_id": 20,
+    "title": "BioShock",
+    "store_title": "BioShock",
+    "pid": "BTBMZQ3FM2V8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BTBMZQ3FM2V8"
+      ]
+    ],
+    "original_release_date": "2007-08-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "2K Games",
+    "developer": "2K Boston, 2K Austraila"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20,
+      "name": "BioShock",
+      "url": "https://www.igdb.com/games/bioshock",
+      "publishers": [
+        "2K Games"
+      ],
+      "developers": [
+        "2K Australia",
+        "2K Boston"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

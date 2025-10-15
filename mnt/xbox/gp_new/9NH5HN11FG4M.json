@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 115843,
+    "specific_id": 115843,
+    "title": "Unpacking",
+    "store_title": "Unpacking",
+    "pid": "9NH5HN11FG4M",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NH5HN11FG4M"
+      ]
+    ],
+    "original_release_date": "2021-11-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-11-02",
+        "removed": null
+      },
+      "Console": {
+        "added": "2021-11-02",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-11-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Other",
+      "Puzzle & trivia",
+      "Simulation"
+    ],
+    "publisher": "Humble Games",
+    "developer": " Witch Beam"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115843,
+      "name": "Unpacking",
+      "url": "https://www.igdb.com/games/unpacking",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Witch Beam"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

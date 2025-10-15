@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 119260,
+    "specific_id": 119260,
+    "title": "Bleeding Edge",
+    "store_title": "Bleeding Edge",
+    "pid": "9NX6XGVJ0J3D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NX6XGVJ0J3D"
+      ]
+    ],
+    "original_release_date": "2020-03-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-03-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-03-24",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-03-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Fighting",
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Ninja Theory Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119260,
+      "name": "Bleeding Edge",
+      "url": "https://www.igdb.com/games/bleeding-edge",
+      "publishers": [
+        "Ninja Theory",
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Ninja Theory"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

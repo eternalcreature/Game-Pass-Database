@@ -1,0 +1,115 @@
+{
+  "id": 1905,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    },
+    {
+      "id": 6,
+      "name": "Battle Royale"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 50303,
+      "company": {
+        "id": 167,
+        "name": "People Can Fly"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 338140,
+      "company": {
+        "id": 17463,
+        "name": "Epic Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 338176,
+      "company": {
+        "id": 711,
+        "name": "Psyonix"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 338177,
+      "company": {
+        "id": 2581,
+        "name": "Mediatonic"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Fortnite",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/fortnite"
+}

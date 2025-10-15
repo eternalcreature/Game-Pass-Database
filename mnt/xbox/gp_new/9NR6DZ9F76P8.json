@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 27719,
+    "specific_id": 27719,
+    "title": "Ape Out",
+    "store_title": "Ape Out",
+    "pid": "9NR6DZ9F76P8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NR6DZ9F76P8"
+      ]
+    ],
+    "original_release_date": "2019-02-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-08-22",
+        "removed": "2021-08-16"
+      },
+      "Ultimate": {
+        "added": "2020-08-22",
+        "removed": "2021-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": " Gabe Cuzzillo, Bennett Foddy, Maxi Boch"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27719,
+      "name": "Ape Out",
+      "url": "https://www.igdb.com/games/ape-out",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Gabe Cuzzillo"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

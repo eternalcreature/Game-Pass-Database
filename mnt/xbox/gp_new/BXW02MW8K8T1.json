@@ -1,0 +1,67 @@
+{
+  "basic_info": {
+    "base_id": 2150,
+    "specific_id": 2150,
+    "title": "Split/Second",
+    "store_title": "Split/Second",
+    "pid": "BXW02MW8K8T1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXW02MW8K8T1"
+      ]
+    ],
+    "original_release_date": "2010-05-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Racing & flying"
+    ],
+    "publisher": "Disney Interactive Studios",
+    "developer": "BlackRock Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2150,
+      "name": "Split/Second",
+      "url": "https://www.igdb.com/games/split-second",
+      "publishers": [
+        "Disney Interactive Studios"
+      ],
+      "developers": [
+        "Black Rock Studios"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 8187,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 19894,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 19893,
+      "company": {
+        "id": 437,
+        "name": "Avalanche Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 71417,
+      "company": {
+        "id": 413,
+        "name": "Human Head Studios"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Just Cause 3",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/just-cause-3"
+}

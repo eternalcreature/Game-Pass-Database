@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 115915,
+    "specific_id": 115915,
+    "title": "Recompile",
+    "store_title": "Recompile",
+    "pid": "9PDRJWHBSK88",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDRJWHBSK88"
+      ]
+    ],
+    "original_release_date": "2021-08-19",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-08-19",
+        "removed": "2023-02-16"
+      },
+      "Ultimate": {
+        "added": "2021-08-19",
+        "removed": "2023-02-16"
+      },
+      "Console": {
+        "added": "2021-08-19",
+        "removed": "2023-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Dear Villagers",
+    "developer": "Phigames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115915,
+      "name": "Recompile",
+      "url": "https://www.igdb.com/games/recompile",
+      "publishers": [
+        "Dear Villagers"
+      ],
+      "developers": [
+        "Phigames"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

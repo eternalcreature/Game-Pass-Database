@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 1081,
+    "specific_id": 1081,
+    "title": "The Elder Scrolls Online",
+    "store_title": "The Elder Scrolls\u00ae Online",
+    "pid": "BRKX5CRMRTC2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRKX5CRMRTC2"
+      ]
+    ],
+    "original_release_date": "2014-04-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-06-11",
+        "removed": null
+      },
+      "Console": {
+        "added": "2020-06-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-12)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-200)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "ZeniMax Online Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1081,
+      "name": "The Elder Scrolls Online",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-online",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "ZeniMax Online Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

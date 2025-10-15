@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 5638,
+    "specific_id": 5638,
+    "title": "Costume Quest 2",
+    "store_title": "Costume Quest 2",
+    "pid": "BZ92FB6PWXFJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BZ92FB6PWXFJ"
+      ]
+    ],
+    "original_release_date": "2014-10-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-09-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-09-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Midnight City",
+    "developer": "Double Fine Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5638,
+      "name": "Costume Quest 2",
+      "url": "https://www.igdb.com/games/costume-quest-2--1",
+      "publishers": [
+        "Majesco Entertainment",
+        "Midnight City"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

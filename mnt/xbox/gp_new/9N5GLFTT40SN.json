@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 127743,
+    "specific_id": 127743,
+    "title": "Lake",
+    "store_title": "Lake",
+    "pid": "9N5GLFTT40SN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5GLFTT40SN"
+      ]
+    ],
+    "original_release_date": "2021-09-01",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Console": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "Whitethorn Games",
+    "developer": "Gamious"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127743,
+      "name": "Lake",
+      "url": "https://www.igdb.com/games/lake",
+      "publishers": [
+        "Gamious",
+        "Whitethorn Games"
+      ],
+      "developers": [
+        "Gamious"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

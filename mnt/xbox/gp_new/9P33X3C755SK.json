@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 141538,
+    "specific_id": 141538,
+    "title": "The Callisto Protocol",
+    "store_title": "The Callisto Protocol\u2122 for Xbox One",
+    "pid": "9P33X3C755SK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N1L0KL84B56"
+    ],
+    "sku_groups": [
+      [
+        "9N1L0KL84B56"
+      ],
+      [
+        "9P33X3C755SK"
+      ]
+    ],
+    "original_release_date": "2022-12-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-13",
+        "removed": "2025-07-16"
+      },
+      "Ultimate": {
+        "added": "2024-06-13",
+        "removed": "2025-07-16"
+      },
+      "PC": {
+        "added": "2024-06-13",
+        "removed": "2025-07-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "KRAFTON, Inc.",
+    "developer": "Striking Distance Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141538,
+      "name": "The Callisto Protocol",
+      "url": "https://www.igdb.com/games/the-callisto-protocol",
+      "publishers": [
+        "Krafton",
+        "Skybound Games"
+      ],
+      "developers": [
+        "Striking Distance Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 103320,
+    "specific_id": 103320,
+    "title": "The Forgotten City",
+    "store_title": "The Forgotten City",
+    "pid": "9NJ4R763M7TH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJ4R763M7TH"
+      ]
+    ],
+    "original_release_date": "2021-07-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      },
+      "Ultimate": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      },
+      "Console": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Dear Villagers",
+    "developer": "Modern Storyteller"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103320,
+      "name": "The Forgotten City",
+      "url": "https://www.igdb.com/games/the-forgotten-city",
+      "publishers": [
+        "Dear Villagers",
+        "Plug In Digital"
+      ],
+      "developers": [
+        "Modern Storyteller"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "Drama",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 18849,
+    "specific_id": 18849,
+    "title": "Ghost Song",
+    "store_title": "Ghost Song",
+    "pid": "9PJ2FC2LK9QD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJ2FC2LK9QD"
+      ]
+    ],
+    "original_release_date": "2022-11-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-03",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-03",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2022-11-03",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Old Moon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18849,
+      "name": "Ghost Song",
+      "url": "https://www.igdb.com/games/ghost-song",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Old Moon Games"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

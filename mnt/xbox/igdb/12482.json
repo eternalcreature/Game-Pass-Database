@@ -1,0 +1,61 @@
+{
+  "id": 12482,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 201423,
+      "company": {
+        "id": 4598,
+        "name": "Bloober Team"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 270949,
+      "company": {
+        "id": 36477,
+        "name": "EXNOA LLC"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Layers of Fear",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/layers-of-fear"
+}

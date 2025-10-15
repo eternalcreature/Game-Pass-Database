@@ -1,0 +1,48 @@
+{
+  "id": 54782,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 103357,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 135049,
+      "company": {
+        "id": 393,
+        "name": "inXile Entertainment"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "The Bard's Tale: Remastered and Resnarkled",
+  "parent_game": 3803,
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-bards-tale-remastered-and-resnarkled"
+}

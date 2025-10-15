@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 2025,
+    "specific_id": 2025,
+    "title": "Mount & Blade: Warband",
+    "store_title": "Mount & Blade: Warband PC",
+    "pid": "9PFZC53PVTDB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BQXN1S3V3FN9"
+    ],
+    "sku_groups": [
+      [
+        "9PFZC53PVTDB"
+      ],
+      [
+        "BQXN1S3V3FN9"
+      ]
+    ],
+    "original_release_date": "2010-03-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-11-19",
+        "removed": "2022-01-16"
+      },
+      "Ultimate": {
+        "added": "2020-11-19",
+        "removed": "2022-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-64)",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "TaleWorlds Entertainment",
+    "developer": "TaleWorlds Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2025,
+      "name": "Mount & Blade: Warband",
+      "url": "https://www.igdb.com/games/mount-blade-warband",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Taleworlds"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

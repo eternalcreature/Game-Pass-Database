@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 119387,
+    "specific_id": 119387,
+    "title": "No More Heroes III",
+    "store_title": "No More Heroes 3 Xbox",
+    "pid": "9NSLHCTRDWGC",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P8XNG742KC9"
+    ],
+    "sku_groups": [
+      [
+        "9NSLHCTRDWGC"
+      ],
+      [
+        "9P8XNG742KC9"
+      ]
+    ],
+    "original_release_date": "2021-08-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-03-14",
+        "removed": "2025-03-16"
+      },
+      "Ultimate": {
+        "added": "2024-03-14",
+        "removed": "2025-03-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Marvelous Inc.",
+    "developer": "Grasshopper Manufacture Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119387,
+      "name": "No More Heroes III",
+      "url": "https://www.igdb.com/games/no-more-heroes-iii",
+      "publishers": [
+        "Grasshopper Manufacture"
+      ],
+      "developers": [
+        "Grasshopper Manufacture"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

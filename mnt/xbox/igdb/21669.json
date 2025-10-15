@@ -1,0 +1,54 @@
+{
+  "id": 21669,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 135999,
+      "company": {
+        "id": 830,
+        "name": "Sega AM2"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 239559,
+      "company": {
+        "id": 14087,
+        "name": "Sega Corporation"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Virtua Fighter 5: Final Showdown",
+  "parent_game": 94701,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/virtua-fighter-5-final-showdown"
+}

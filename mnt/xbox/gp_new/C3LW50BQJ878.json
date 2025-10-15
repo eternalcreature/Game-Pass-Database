@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 2955,
+    "specific_id": 2955,
+    "title": "Elite: Dangerous",
+    "store_title": "Elite Dangerous Standard Edition",
+    "pid": "C3LW50BQJ878",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3LW50BQJ878"
+      ]
+    ],
+    "original_release_date": "2014-12-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-02-25",
+        "removed": "2022-09-01"
+      },
+      "Ultimate": {
+        "added": "2021-02-25",
+        "removed": "2022-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-16)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Frontier Developments",
+    "developer": "Frontier Developments"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2955,
+      "name": "Elite: Dangerous",
+      "url": "https://www.igdb.com/games/elite-dangerous",
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "developers": [
+        "Frontier Developments"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

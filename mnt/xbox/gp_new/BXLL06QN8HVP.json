@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 116200,
+    "specific_id": 116200,
+    "title": "Back 4 Blood",
+    "store_title": "Back 4 Blood",
+    "pid": "BXLL06QN8HVP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXLL06QN8HVP"
+      ]
+    ],
+    "original_release_date": "2021-10-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-12",
+        "removed": "2024-04-16"
+      },
+      "Ultimate": {
+        "added": "2021-10-12",
+        "removed": "2024-04-16"
+      },
+      "Console": {
+        "added": "2021-10-12",
+        "removed": "2024-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Turtle Rock Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 116200,
+      "name": "Back 4 Blood",
+      "url": "https://www.igdb.com/games/back-4-blood",
+      "publishers": [
+        "Warner Bros. Interactive Entertainment"
+      ],
+      "developers": [
+        "Turtle Rock Studios"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

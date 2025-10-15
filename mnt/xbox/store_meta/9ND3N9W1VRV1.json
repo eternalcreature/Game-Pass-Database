@@ -1,0 +1,142 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 2.9,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Card & board"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Language",
+      "Mild Violence",
+      "Alcohol And Tobacco Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Signs of the Sojourner is a narrative card game about connecting with people. Your deck is your character, reflecting your experiences and shaping your relationships.\r\n\r\nYou take over your mother's store after her death, traveling to diverse locations to acquire goods for the shop. Along the way, you'll encounter optimistic stories, compassionate characters, and delightful surprises in a world where climate change has made life hard.\r\n\r\nKey Features:\r\nForge new friendships, rivalries, and connections through card game conversations\r\n\r\nPlay cards to match the tone and perspective of your partner or try to sell your own point of view\r\n\r\nMake difficult choices – the consequences shape your deck and every conversation that follows\r\n\r\nMeet unforgettable characters and grow alongside them\r\n\r\nExplore the world, but also explore what it means to return home\r\n\r\nFind rare and useful goods to aid your town\r\n\r\nMany possible endings",
+  "developerName": "Echodog Games / Bromio",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1208672256,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9ND3N9W1VRV1",
+  "productKind": "Game",
+  "publisherName": "Digerati",
+  "ratingCount": 115,
+  "releaseDate": "2021-03-19T04:00:00.0000000Z",
+  "shortDescription": "Signs of the Sojourner is a narrative card game about connecting with people. Your deck is your character, reflecting your experiences and shaping your relationships.\r\n\r\nYou take over your mother's store after her death, traveling to diverse locations to acquire goods for the shop. Along the way, you'll encounter optimistic stories, compassionate characters, and delightful surprises in a world where climate change has made life hard.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4521CQKDJ7F",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2XLDGB4T701",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Signs of the Sojourner",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-09-02T00:00:00Z",
+      "exitDateUTC": "2022-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-09-02T00:00:00Z",
+      "exitDateUTC": "2022-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-09-02T00:00:00Z",
+      "exitDateUTC": "2022-09-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SIGNSOFTHESOJOURNER",
+    "xboxTitleId": 1995355240,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

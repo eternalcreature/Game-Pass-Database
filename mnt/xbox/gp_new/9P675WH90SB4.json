@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 36198,
+    "specific_id": 36198,
+    "title": "Children of Morta",
+    "store_title": "Children of Morta",
+    "pid": "9P675WH90SB4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P675WH90SB4"
+      ]
+    ],
+    "original_release_date": "2019-09-03",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-01-15",
+        "removed": "2022-07-16"
+      },
+      "Ultimate": {
+        "added": "2021-01-15",
+        "removed": "2022-07-16"
+      },
+      "PC": {
+        "added": "2021-01-15",
+        "removed": "2022-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "Dead Mage"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36198,
+      "name": "Children of Morta",
+      "url": "https://www.igdb.com/games/children-of-morta",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "Dead Mage"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

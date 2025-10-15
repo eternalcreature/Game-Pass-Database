@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 145264,
+    "specific_id": 145264,
+    "title": "Anuchard",
+    "store_title": "Anuchard",
+    "pid": "9NZ02XZD806L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NZ02XZD806L"
+      ]
+    ],
+    "original_release_date": "2022-04-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-06",
+        "removed": "2025-02-01"
+      },
+      "Ultimate": {
+        "added": "2024-02-06",
+        "removed": "2025-02-01"
+      },
+      "Console": {
+        "added": "2024-02-06",
+        "removed": "2025-02-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "indie.io",
+    "developer": "stellarNull"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145264,
+      "name": "Anuchard",
+      "url": "https://www.igdb.com/games/anuchard",
+      "publishers": [
+        "Freedom Games"
+      ],
+      "developers": [
+        "stellarNull"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

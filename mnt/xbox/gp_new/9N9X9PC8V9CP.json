@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 204628,
+    "specific_id": 204628,
+    "title": "Wo Long: Fallen Dynasty",
+    "store_title": "Wo Long: Fallen Dynasty",
+    "pid": "9N9X9PC8V9CP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N9X9PC8V9CP"
+      ]
+    ],
+    "original_release_date": "2023-03-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-03-03",
+        "removed": "2025-03-01"
+      },
+      "Ultimate": {
+        "added": "2023-03-03",
+        "removed": "2025-03-01"
+      },
+      "Console": {
+        "added": "2023-03-03",
+        "removed": "2025-03-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-5)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": "KOEI TECMO GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204628,
+      "name": "Wo Long: Fallen Dynasty",
+      "url": "https://www.igdb.com/games/wo-long-fallen-dynasty",
+      "publishers": [
+        "Koei Tecmo Games"
+      ],
+      "developers": [
+        "Team NINJA"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

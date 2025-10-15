@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 9278,
+    "specific_id": 9278,
+    "title": "Endless Legend",
+    "store_title": "ENDLESS\u2122 Legend 2 (Game Preview)",
+    "pid": "9NQNRZG07H94",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NQNRZG07H94"
+      ]
+    ],
+    "original_release_date": "2014-09-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-09-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "AMPLITUDE Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9278,
+      "name": "Endless Legend",
+      "url": "https://www.igdb.com/games/endless-legend",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Amplitude Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

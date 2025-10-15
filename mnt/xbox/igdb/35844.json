@@ -1,0 +1,55 @@
+{
+  "id": 35844,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 96942,
+      "company": {
+        "id": 14032,
+        "name": "PolyKnight Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 96943,
+      "company": {
+        "id": 73,
+        "name": "Aspyr Media"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "InnerSpace",
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/innerspace"
+}

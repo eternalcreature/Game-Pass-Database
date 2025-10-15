@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 140839,
+    "specific_id": 140839,
+    "title": "Mass Effect Legendary Edition",
+    "store_title": "Mass Effect\u2122 Legendary Edition",
+    "pid": "9PKWHT7G60WQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P6ZKM2KSSHC"
+    ],
+    "sku_groups": [
+      [
+        "9P6ZKM2KSSHC"
+      ],
+      [
+        "9PKWHT7G60WQ"
+      ]
+    ],
+    "original_release_date": "2021-05-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-01-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-01-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Role playing",
+      "Shooter",
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 140839,
+      "name": "Mass Effect Legendary Edition",
+      "url": "https://www.igdb.com/games/mass-effect-legendary-edition",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

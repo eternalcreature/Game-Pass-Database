@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 1040,
+    "specific_id": 1040,
+    "title": "Alice: Madness Returns",
+    "store_title": "Alice: Madness Returns\u2122",
+    "pid": "9NPVC7S5ZZ7R",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BSNZHRCKC13J"
+    ],
+    "sku_groups": [
+      [
+        "9NPVC7S5ZZ7R"
+      ],
+      [
+        "BSNZHRCKC13J"
+      ]
+    ],
+    "original_release_date": "2011-06-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-02-28",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2022-02-28",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Spicy Horse"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1040,
+      "name": "Alice: Madness Returns",
+      "url": "https://www.igdb.com/games/alice-madness-returns",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Spicy Horse Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

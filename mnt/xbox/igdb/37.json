@@ -1,0 +1,65 @@
+{
+  "id": 37,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 9,
+      "company": {
+        "id": 11,
+        "name": "EA Redwood Shores"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 10,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dead Space",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dead-space"
+}

@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 59626,
+    "specific_id": 131890,
+    "title": "Sea Stars",
+    "store_title": "Sea of Stars",
+    "pid": "9NLLTTJZH40L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLLTTJZH40L"
+      ]
+    ],
+    "original_release_date": "2023-08-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-08-29",
+        "removed": "2025-09-01"
+      },
+      "Ultimate": {
+        "added": "2023-08-29",
+        "removed": "2025-09-01"
+      },
+      "PC": {
+        "added": "2023-08-29",
+        "removed": "2025-09-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-3)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Sabotage Studio",
+    "developer": "Sabotage Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 59626,
+      "name": "Sea Stars",
+      "url": "https://www.igdb.com/games/sea-stars",
+      "publishers": [
+        "Hothead Games"
+      ],
+      "developers": [
+        "Hothead Games"
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 59626,
+      "name": "Sea Stars",
+      "url": "https://www.igdb.com/games/sea-stars",
+      "publishers": [
+        "Hothead Games"
+      ],
+      "developers": [
+        "Hothead Games"
+      ],
+      "genres": [
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

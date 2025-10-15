@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "base_id": 27117,
+    "specific_id": 27117,
+    "title": "Into the Breach",
+    "store_title": "Into the Breach",
+    "pid": "9P3FVTRP97B0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3FVTRP97B0"
+      ]
+    ],
+    "original_release_date": "2018-02-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Subset Games",
+    "developer": "Subset Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27117,
+      "name": "Into the Breach",
+      "url": "https://www.igdb.com/games/into-the-breach",
+      "publishers": [
+        "Subset Games"
+      ],
+      "developers": [
+        "Subset Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

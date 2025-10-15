@@ -1,0 +1,66 @@
+{
+  "id": 2150,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 4479,
+      "company": {
+        "id": 1011,
+        "name": "Black Rock Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 83146,
+      "company": {
+        "id": 426,
+        "name": "Disney Interactive Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 83147,
+      "company": {
+        "id": 439,
+        "name": "Sumo Digital"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Split/Second",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/split-second"
+}

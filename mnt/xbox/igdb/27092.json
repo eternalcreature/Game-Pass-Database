@@ -1,0 +1,65 @@
+{
+  "id": 27092,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 44159,
+      "company": {
+        "id": 110,
+        "name": "Focus Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 44158,
+      "company": {
+        "id": 405,
+        "name": "Spiders"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "GreedFall",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/greedfall"
+}

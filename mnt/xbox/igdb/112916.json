@@ -1,0 +1,93 @@
+{
+  "id": 112916,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 98481,
+      "company": {
+        "id": 25265,
+        "name": "Shiver Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 131351,
+      "company": {
+        "id": 48,
+        "name": "NetherRealm Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 183420,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 204432,
+      "company": {
+        "id": 774,
+        "name": "QLOC"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 183421,
+      "company": {
+        "id": 4448,
+        "name": "WB Games New York"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 346791,
+      "company": {
+        "id": 28636,
+        "name": "Sumo Newcastle"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Mortal Kombat 11",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mortal-kombat-11"
+}

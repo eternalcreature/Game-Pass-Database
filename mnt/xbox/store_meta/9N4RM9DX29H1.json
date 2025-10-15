@@ -1,0 +1,142 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Surround sound",
+      "Mono sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials",
+      "Save anytime"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2,
+  "badges": [
+    {
+      "type": 10
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 5
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NPGPDCXWJQ7",
+    "9PJ4R5F7S0TN",
+    "9PHFGMHFJGNQ"
+  ],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "The Settlers®: New Allies is a strategy game with an in-depth build-up experience and real-time strategic battles.\r\n\r\n- Fully reimagined from the ground up, with stunning graphics and detailed animations.\r\n- Choose among three factions: the Elari, the Maru, and the Jorn. Each has a unique look, playstyle, and background story.\r\n- Experience a story-driven campaign set in the world of The Settlers, or go for the special Hardcore mode and its additional challenges.\r\n- Play online with up to eight players in thrilling skirmish battles against other players or AI for long-lasting fun.",
+  "developerName": "BLUE BYTE",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0QH5H",
+    "nakuconsole"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequired"
+  ],
+  "maxInstallSize": 11273490432,
+  "optimalSatisfyingPassId": "CFQ7TTC0QH5H",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N4RM9DX29H1",
+  "productKind": "Game",
+  "publisherName": "UBISOFT",
+  "ratingCount": 61,
+  "shortDescription": "The Settlers®: New Allies is a strategy game with an in-depth build-up experience and real-time strategic battles.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 0
+  },
+  "title": "The Settlers®: New Allies",
+  "passMetadataByPassProductId": {
+    "nakuconsole": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0QH5H": {}
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THESETTLERSNEWALLIES",
+    "xboxTitleId": 1921488037,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

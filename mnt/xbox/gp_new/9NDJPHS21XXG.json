@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 2114,
+    "specific_id": 2114,
+    "title": "Tom Clancy's The Division",
+    "store_title": "Tom Clancy's The Division",
+    "pid": "9NDJPHS21XXG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRGPD72KHM3Q"
+    ],
+    "sku_groups": [
+      [
+        "9NDJPHS21XXG"
+      ],
+      [
+        "BRGPD72KHM3Q"
+      ]
+    ],
+    "original_release_date": "2016-03-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Massive Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2114,
+      "name": "Tom Clancy's The Division",
+      "url": "https://www.igdb.com/games/tom-clancy-s-the-division",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Massive Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Sandbox",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

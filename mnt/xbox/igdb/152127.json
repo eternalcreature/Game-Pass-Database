@@ -1,0 +1,85 @@
+{
+  "id": 152127,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 283254,
+      "company": {
+        "id": 26801,
+        "name": "Pugstorm"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 283255,
+      "company": {
+        "id": 41013,
+        "name": "Fireshine Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Core Keeper",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/core-keeper"
+}

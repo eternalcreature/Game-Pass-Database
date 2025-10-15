@@ -1,0 +1,134 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Accessibility on launch",
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Chat speech-to-text & text-to-speech",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.2,
+  "badges": [
+    {
+      "type": 3
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-6)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "RayTracing": "Ray Tracing",
+    "60fps": "60 fps+",
+    "120fps": "120 fps",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Mild Language",
+      "Use of Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Overwatch 2 is an always-on and ever-evolving free-to-play, team-based hero shooter game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl featuring new heroes and maps, different ways to play, and unique cosmetics! Lead the charge, ambush your enemies, or aid your allies as one of Overwatch’s 40+ distinct heroes. Team up with friends, take them into battle across 25+ futuristic maps inspired by real-world locations, and master multiple unique game modes.  \n\nOverwatch 2 – Season 18: Stadium Quick Play\n\nRise. Refresh. Reload.\n\nSeason 18: Stadium Quick Play reshapes the current with a PvP refresh, a massive Stadium overhaul, and the debut of our newest Support hero—the rebellious aquatic, Wuyang. Master the rhythm with a flow-powered kit, dive into the updated Stadium with new heroes and Payload Race mode plus climb the ranks after our PvP System Refresh resets the competitive playing field. Whether you're drafting comps, experimenting with Perks, or flexing your skills in third person Lucio Ball, it's time to make a splash. \n",
+  "developerName": "Blizzard Entertainment",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 82049531904,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C1C4DZJPBC2V",
+  "productKind": "Game",
+  "publisherName": "Blizzard Entertainment",
+  "ratingCount": 2000,
+  "releaseDate": "2016-05-23T00:00:00.0000000Z",
+  "shortDescription": "OVERWATCH® 2, A FUTURE WORTH FIGHTING FOR! \nOverwatch® 2 is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 battlefield brawl. ",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VV17SMDRM9W",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 0,
+        "msrp": 0,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Overwatch® 2",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-09-17T18:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-09-17T18:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

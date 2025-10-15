@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 119270,
+    "specific_id": 119270,
+    "title": "Tales of Arise",
+    "store_title": "Tales of Arise (Xbox Series X|S)",
+    "pid": "9PF5CQ35MR2B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PJ1T02FGC3B",
+      "BSJ53LGG6STB"
+    ],
+    "sku_groups": [
+      [
+        "9PF5CQ35MR2B"
+      ],
+      [
+        "9PJ1T02FGC3B"
+      ],
+      [
+        "BSJ53LGG6STB"
+      ]
+    ],
+    "original_release_date": "2021-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-02-20",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2024-02-20",
+        "removed": "2025-02-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "BANDAI NAMCO Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119270,
+      "name": "Tales of Arise",
+      "url": "https://www.igdb.com/games/tales-of-arise",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 79994,
+    "specific_id": 79994,
+    "title": "Night Call",
+    "store_title": "Night Call",
+    "pid": "9NZKR4V4QGD4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NZKR4V4QGD4"
+      ]
+    ],
+    "original_release_date": "2019-07-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-24",
+        "removed": "2021-06-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-24",
+        "removed": "2021-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Monkey Moon and BlackMuffin Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 79994,
+      "name": "Night Call",
+      "url": "https://www.igdb.com/games/night-call",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "BlackMuffin Studio",
+        "Monkey Moon"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

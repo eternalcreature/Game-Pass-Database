@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 142941,
+    "specific_id": 142941,
+    "title": "Potion Craft",
+    "store_title": "Potion Craft: Alchemist Simulator",
+    "pid": "9MW7WD7J3PPK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MW7WD7J3PPK"
+      ]
+    ],
+    "original_release_date": "2022-12-13",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-12-13",
+        "removed": "2023-12-16"
+      },
+      "Ultimate": {
+        "added": "2022-12-13",
+        "removed": "2023-12-16"
+      },
+      "Console": {
+        "added": "2022-12-13",
+        "removed": "2023-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia",
+      "Simulation"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "niceplay games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 142941,
+      "name": "Potion Craft",
+      "url": "https://www.igdb.com/games/potion-craft",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "niceplay game"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

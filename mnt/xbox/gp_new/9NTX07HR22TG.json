@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 25837,
+    "specific_id": 25837,
+    "title": "The Pedestrian",
+    "store_title": "The Pedestrian",
+    "pid": "9NTX07HR22TG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NTX07HR22TG"
+      ]
+    ],
+    "original_release_date": "2020-01-29",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      },
+      "Console": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Skookum Arts",
+    "developer": "Skookum Arts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25837,
+      "name": "The Pedestrian",
+      "url": "https://www.igdb.com/games/the-pedestrian",
+      "publishers": [
+        "Skookum Arts"
+      ],
+      "developers": [
+        "Skookum Arts"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 106363,
+    "specific_id": 106363,
+    "title": "Demon's Tilt",
+    "store_title": "DEMON'S TILT",
+    "pid": "9N5344N0TFR7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5344N0TFR7"
+      ]
+    ],
+    "original_release_date": "2019-01-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "FLARB LLC",
+    "developer": "WIZNWAR / FLARB LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106363,
+      "name": "Demon's Tilt",
+      "url": "https://www.igdb.com/games/demons-tilt",
+      "publishers": [
+        "FLARB"
+      ],
+      "developers": [
+        "FLARB",
+        "Wiznwar"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Pinball",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

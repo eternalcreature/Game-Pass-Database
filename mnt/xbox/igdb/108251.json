@@ -1,0 +1,70 @@
+{
+  "id": 108251,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 70294,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 70292,
+      "company": {
+        "id": 208,
+        "name": "Frontier Developments"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 70293,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Disneyland Adventures",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/disneyland-adventures"
+}

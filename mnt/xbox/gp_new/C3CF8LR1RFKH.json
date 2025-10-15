@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "base_id": 3185,
+    "specific_id": 3185,
+    "title": "Madden NFL 25",
+    "store_title": "Madden NFL 25",
+    "pid": "C3CF8LR1RFKH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3CF8LR1RFKH"
+      ]
+    ],
+    "original_release_date": "2013-08-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3185,
+      "name": "Madden NFL 25",
+      "url": "https://www.igdb.com/games/madden-nfl-25",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Sport",
+        "Tactical"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

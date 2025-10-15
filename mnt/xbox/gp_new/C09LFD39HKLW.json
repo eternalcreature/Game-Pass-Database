@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 107300,
+    "specific_id": 107300,
+    "title": "Thronebreaker: The Witcher Tales",
+    "store_title": "Thronebreaker: The Witcher Tales",
+    "pid": "C09LFD39HKLW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C09LFD39HKLW"
+      ]
+    ],
+    "original_release_date": "2018-10-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-18",
+        "removed": "2021-09-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-18",
+        "removed": "2021-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "CD PROJEKT SA",
+    "developer": "CD PROJEKT SA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107300,
+      "name": "Thronebreaker: The Witcher Tales",
+      "url": "https://www.igdb.com/games/thronebreaker-the-witcher-tales",
+      "publishers": [
+        "CD Projekt RED"
+      ],
+      "developers": [
+        "CD Projekt RED"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

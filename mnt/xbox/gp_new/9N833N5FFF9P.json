@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 194404,
+    "specific_id": 194404,
+    "title": "The Quarry",
+    "store_title": "The Quarry for Xbox One",
+    "pid": "9N833N5FFF9P",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N5HDNDWVV34"
+    ],
+    "sku_groups": [
+      [
+        "9N5HDNDWVV34"
+      ],
+      [
+        "9N833N5FFF9P"
+      ]
+    ],
+    "original_release_date": "2022-06-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-03-20",
+        "removed": "2024-12-16"
+      },
+      "Ultimate": {
+        "added": "2024-03-20",
+        "removed": "2024-12-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-8)",
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "2K",
+    "developer": "Supermassive Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 194404,
+      "name": "The Quarry",
+      "url": "https://www.igdb.com/games/the-quarry",
+      "publishers": [
+        "2K Games"
+      ],
+      "developers": [
+        "Supermassive Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

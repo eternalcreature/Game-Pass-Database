@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 9694,
+    "specific_id": 152400,
+    "title": "Danganronpa 2: Goodbye Despair",
+    "store_title": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+    "pid": "9N27NM3BT3ML",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N27NM3BT3ML"
+      ]
+    ],
+    "original_release_date": "2012-07-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-10",
+        "removed": "2023-05-16"
+      },
+      "Ultimate": {
+        "added": "2022-05-10",
+        "removed": "2023-05-16"
+      },
+      "Console": {
+        "added": "2022-05-10",
+        "removed": "2023-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Spike Chunsoft",
+    "developer": "Spike Chunsoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9694,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair",
+      "publishers": [
+        "NIS America",
+        "Spike Chunsoft"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Adventure",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 9694,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair",
+      "publishers": [
+        "NIS America",
+        "Spike Chunsoft"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Adventure",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

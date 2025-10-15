@@ -1,0 +1,82 @@
+{
+  "id": 114058,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 73644,
+      "company": {
+        "id": 5040,
+        "name": "tinyBuild"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 130577,
+      "company": {
+        "id": 13158,
+        "name": "We're Five Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 232079,
+      "company": {
+        "id": 38591,
+        "name": "Pingle Game Studio"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Totally Reliable Delivery Service",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    }
+  ],
+  "url": "https://www.igdb.com/games/totally-reliable-delivery-service"
+}

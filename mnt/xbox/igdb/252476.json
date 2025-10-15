@@ -1,0 +1,57 @@
+{
+  "id": 252476,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 281428,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 281429,
+      "company": {
+        "id": 702,
+        "name": "Ubisoft Montpellier"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Prince of Persia: The Lost Crown",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown"
+}

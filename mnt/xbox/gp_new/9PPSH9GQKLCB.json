@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 119386,
+    "specific_id": 119386,
+    "title": "Empire of Sin",
+    "store_title": "Empire of Sin",
+    "pid": "9PPSH9GQKLCB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PPSH9GQKLCB"
+      ]
+    ],
+    "original_release_date": "2020-12-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-16",
+        "removed": "2023-07-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-16",
+        "removed": "2023-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Romero Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119386,
+      "name": "Empire of Sin",
+      "url": "https://www.igdb.com/games/empire-of-sin",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Romero Games Ltd."
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Historical",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

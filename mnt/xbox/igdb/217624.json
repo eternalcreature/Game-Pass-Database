@@ -1,0 +1,57 @@
+{
+  "id": 217624,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 218771,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 278065,
+      "company": {
+        "id": 19080,
+        "name": "Ryu Ga Gotoku Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/like-a-dragon-gaiden-the-man-who-erased-his-name"
+}

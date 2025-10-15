@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 152297,
+    "specific_id": 152297,
+    "title": "Police Simulator: Patrol Officers",
+    "store_title": "Police Simulator: Patrol Officers",
+    "pid": "9P0NPLQ9P1DB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P0NPLQ9P1DB"
+      ]
+    ],
+    "original_release_date": "2022-11-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-20",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "astragon Entertainment GmbH",
+    "developer": "Aesir Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152297,
+      "name": "Police Simulator: Patrol Officers",
+      "url": "https://www.igdb.com/games/police-simulator-patrol-officers",
+      "publishers": [
+        "astragon Entertainment GmbH"
+      ],
+      "developers": [
+        "Aesir Interactive"
+      ],
+      "genres": [
+        "Simulator"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

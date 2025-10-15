@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 120176,
+    "specific_id": 120176,
+    "title": "Teamfight Tactics",
+    "store_title": "Teamfight Tactics",
+    "pid": "9N464X6CT772",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N464X6CT772"
+      ]
+    ],
+    "original_release_date": "2019-06-29",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-12-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-12-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportOnline": "Online co-op",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Riot Games",
+    "developer": "Riot Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120176,
+      "name": "Teamfight Tactics",
+      "url": "https://www.igdb.com/games/teamfight-tactics",
+      "publishers": [
+        "Riot Games"
+      ],
+      "developers": [
+        "Riot Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

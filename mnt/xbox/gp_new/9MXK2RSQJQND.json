@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 152071,
+    "specific_id": 152071,
+    "title": "Planet of Lana",
+    "store_title": "Planet of Lana",
+    "pid": "9MXK2RSQJQND",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXK2RSQJQND"
+      ]
+    ],
+    "original_release_date": "2023-05-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-05-23",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-05-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-05-23",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer",
+      "Action & adventure"
+    ],
+    "publisher": "Thunderful Publishing",
+    "developer": "Wishfully"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152071,
+      "name": "Planet of Lana",
+      "url": "https://www.igdb.com/games/planet-of-lana",
+      "publishers": [
+        "Thunderful"
+      ],
+      "developers": [
+        "Wishfully"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

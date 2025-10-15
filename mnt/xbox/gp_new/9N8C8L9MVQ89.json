@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 125166,
+    "specific_id": 125166,
+    "title": "Battlefield 2042",
+    "store_title": "Battlefield\u2122 2042",
+    "pid": "9N8C8L9MVQ89",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P0T51BDDWVT",
+      "9PD5BFNZ4V7K"
+    ],
+    "sku_groups": [
+      [
+        "9N8C8L9MVQ89"
+      ],
+      [
+        "9P0T51BDDWVT"
+      ],
+      [
+        "9PD5BFNZ4V7K"
+      ]
+    ],
+    "original_release_date": "2021-11-12",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-11-22",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2022-11-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportOnline": "Online co-op",
+      "OnlineMultiplayerWithGold": "Online multiplayer"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125166,
+      "name": "Battlefield 2042",
+      "url": "https://www.igdb.com/games/battlefield-2042",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

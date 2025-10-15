@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 216178,
+    "specific_id": 216178,
+    "title": "Football Manager 2023",
+    "store_title": "Football Manager 2023 Console",
+    "pid": "9NKTJLP2HKWK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PPJN50V0JF4"
+    ],
+    "sku_groups": [
+      [
+        "9NKTJLP2HKWK"
+      ],
+      [
+        "9PPJN50V0JF4"
+      ]
+    ],
+    "original_release_date": "2022-11-08",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-08",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-08",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2022-11-08",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "Sports Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 216178,
+      "name": "Football Manager 2023",
+      "url": "https://www.igdb.com/games/football-manager-2023",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sports Interactive"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Business"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

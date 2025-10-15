@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 37146,
+    "specific_id": 37146,
+    "title": "Unto the End",
+    "store_title": "Unto The End",
+    "pid": "9MVJ0W5N2L2Q",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVJ0W5N2L2Q"
+      ]
+    ],
+    "original_release_date": "2020-12-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-09",
+        "removed": "2021-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-09",
+        "removed": "2021-12-16"
+      },
+      "PC": {
+        "added": "2020-12-09",
+        "removed": "2021-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Strategy"
+    ],
+    "publisher": "Big Sugar Games",
+    "developer": "2 Ton Studios / Stage Clear Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37146,
+      "name": "Unto the End",
+      "url": "https://www.igdb.com/games/unto-the-end",
+      "publishers": [
+        "Big Sugar",
+        "Digital Uppercut Productions"
+      ],
+      "developers": [
+        "2 Ton Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

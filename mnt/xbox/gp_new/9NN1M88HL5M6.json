@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 127,
+    "specific_id": 127,
+    "title": "Assassin's Creed II",
+    "store_title": "Assassin's Creed 2",
+    "pid": "9NN1M88HL5M6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NN1M88HL5M6"
+      ]
+    ],
+    "original_release_date": "2009-11-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127,
+      "name": "Assassin's Creed II",
+      "url": "https://www.igdb.com/games/assassin-s-creed-ii",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

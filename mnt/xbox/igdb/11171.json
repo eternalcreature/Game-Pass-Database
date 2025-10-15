@@ -1,0 +1,131 @@
+{
+  "id": 11171,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 35939,
+      "company": {
+        "id": 841,
+        "name": "Ubisoft Paris"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 219033,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 279640,
+      "company": {
+        "id": 697,
+        "name": "Ubisoft Bucharest"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 279641,
+      "company": {
+        "id": 433,
+        "name": "Ubisoft Reflections"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 279643,
+      "company": {
+        "id": 39,
+        "name": "Ubisoft Annecy"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 279645,
+      "company": {
+        "id": 15463,
+        "name": "Ubisoft Belgrade"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 279642,
+      "company": {
+        "id": 702,
+        "name": "Ubisoft Montpellier"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 279644,
+      "company": {
+        "id": 899,
+        "name": "Ubisoft Milan"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Tom Clancy's Ghost Recon: Wildlands",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands"
+}

@@ -1,0 +1,136 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.7,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Violence",
+      "Crude Humor",
+      "Suggestive Themes",
+      "Drug Reference",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "The award winning SKATE™ franchise is back and rolling into new territory as SKATE™ 3 heads to the brand new city of Port Carverton. Get ready to team up and throw down as you build your own customized dream team to shred the streets, parks, and plazas and change the face of the city. New tricks, improved off-board actions, and gnarly Hall of Meat carnage mixed with exciting new team-based game modes take SKATE 3 to a new level of skateboarding fun.  The Games on Demand version supports English, French, Italian, German, and Spanish.  Download the manual for this game by going to https://help.ea.com/en/tag/manuals and selecting your title from the Product drop down menu.",
+  "developerName": "Electronic Arts Blackbox",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 7197270016,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BNKDKQXMXRR2",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 743,
+  "releaseDate": "2014-09-23T00:00:00.0000000Z",
+  "shortDescription": "The SKATE™ franchise is back and rolling into new territory as SKATE™ 3 heads to the brand new city of Port Carverton.  Delivering a unique co-op skateboarding experience, build your own customized skate team and change the face of the city by taking on unique team challenges, competing against rival crews online, and shredding the streets of an all-new skaters’ paradise.  SKATE™ 3 - Team Up. Throw Down.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3W0PCTH8P14",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Skate 3",
+  "xCloudProperties": {
+    "xCloudId": "SKATE3",
+    "xboxTitleId": 1178351949,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:06:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SKATE3",
+    "xboxTitleId": 1178351949,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,124 @@
+{
+  "basic_info": {
+    "base_id": 16,
+    "specific_id": 25532,
+    "title": "Fallout: New Vegas",
+    "store_title": "Fallout: New Vegas Ultimate Edition",
+    "pid": "9MZR11JRF7BX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BX3JNK07Z6QK"
+    ],
+    "sku_groups": [
+      [
+        "9MZR11JRF7BX"
+      ],
+      [
+        "BX3JNK07Z6QK"
+      ]
+    ],
+    "original_release_date": "2010-10-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Obsidian Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16,
+      "name": "Fallout: New Vegas",
+      "url": "https://www.igdb.com/games/fallout-new-vegas",
+      "publishers": [
+        "1C/Cenega",
+        "Bandai Namco Entertainment",
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 16,
+      "name": "Fallout: New Vegas",
+      "url": "https://www.igdb.com/games/fallout-new-vegas",
+      "publishers": [
+        "1C/Cenega",
+        "Bandai Namco Entertainment",
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

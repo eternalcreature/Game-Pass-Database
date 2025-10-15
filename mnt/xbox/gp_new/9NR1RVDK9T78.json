@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 194465,
+    "specific_id": 194465,
+    "title": "Techtonica",
+    "store_title": "Techtonica (Game Preview)",
+    "pid": "9NR1RVDK9T78",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NR1RVDK9T78"
+      ]
+    ],
+    "original_release_date": "2023-07-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-07-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-07-18",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-07-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Fire Hose Games",
+    "developer": "Fire Hose Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 194465,
+      "name": "Techtonica",
+      "url": "https://www.igdb.com/games/techtonica--1",
+      "publishers": [
+        "Fire Hose Games"
+      ],
+      "developers": [
+        "Fire Hose Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

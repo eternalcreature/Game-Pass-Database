@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 11172,
+    "specific_id": 11172,
+    "title": "TrackMania Turbo",
+    "store_title": "Trackmania\u00ae Turbo",
+    "pid": "C3SQQG5Q6Z64",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N2SB04LKPFP"
+    ],
+    "sku_groups": [
+      [
+        "9N2SB04LKPFP"
+      ],
+      [
+        "C3SQQG5Q6Z64"
+      ]
+    ],
+    "original_release_date": "2016-03-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-100)"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Nadeo"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11172,
+      "name": "TrackMania Turbo",
+      "url": "https://www.igdb.com/games/trackmania-turbo",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Nadeo"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

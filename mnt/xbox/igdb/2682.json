@@ -1,0 +1,109 @@
+{
+  "id": 2682,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 191482,
+      "company": {
+        "id": 10,
+        "name": "LucasArts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 191483,
+      "company": {
+        "id": 1290,
+        "name": "TT Fusion"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 6404,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 6406,
+      "company": {
+        "id": 411,
+        "name": "Robosoft Technologies"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 190225,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 266040,
+      "company": {
+        "id": 292,
+        "name": "Traveller's Tales"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "LEGO Star Wars: The Complete Saga",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lego-star-wars-the-complete-saga"
+}

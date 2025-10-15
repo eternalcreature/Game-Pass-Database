@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 135991,
+    "specific_id": 135991,
+    "title": "Hello Neighbor 2",
+    "store_title": "Hello Neighbor 2",
+    "pid": "9N961B11FJ4W",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N961B11FJ4W"
+      ]
+    ],
+    "original_release_date": "2022-12-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-12-06",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2022-12-06",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2022-12-06",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "tinyBuild"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135991,
+      "name": "Hello Neighbor 2",
+      "url": "https://www.igdb.com/games/hello-neighbor-2",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Eerie Guest Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

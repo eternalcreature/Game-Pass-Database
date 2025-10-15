@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 22703,
+    "specific_id": 22703,
+    "title": "Metal Gear Survive",
+    "store_title": "METAL GEAR SURVIVE",
+    "pid": "BR6DLJ4RDR9Q",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR6DLJ4RDR9Q"
+      ]
+    ],
+    "original_release_date": "2018-02-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Konami Digital Entertainment",
+    "developer": "Konami Digital Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 22703,
+      "name": "Metal Gear Survive",
+      "url": "https://www.igdb.com/games/metal-gear-survive",
+      "publishers": [
+        "Konami"
+      ],
+      "developers": [
+        "Konami"
+      ],
+      "genres": [
+        "Shooter",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "base_id": 7498,
+    "specific_id": 7498,
+    "title": "Tekken 7",
+    "store_title": "TEKKEN 7",
+    "pid": "BRJGPRMBV1NT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRJGPRMBV1NT"
+      ]
+    ],
+    "original_release_date": "2015-03-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "developer": "BANDAI NAMCO Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7498,
+      "name": "Tekken 7",
+      "url": "https://www.igdb.com/games/tekken-7",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

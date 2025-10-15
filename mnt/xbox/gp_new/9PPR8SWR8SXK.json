@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 76954,
+    "specific_id": 76954,
+    "title": "Atomicrops",
+    "store_title": "Atomicrops",
+    "pid": "9PPR8SWR8SXK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N7P579VZC33"
+    ],
+    "sku_groups": [
+      [
+        "9N7P579VZC33"
+      ],
+      [
+        "9PPR8SWR8SXK"
+      ]
+    ],
+    "original_release_date": "2020-05-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-07-22",
+        "removed": "2022-07-16"
+      },
+      "Ultimate": {
+        "added": "2021-07-22",
+        "removed": "2022-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Bird Bath Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 76954,
+      "name": "Atomicrops",
+      "url": "https://www.igdb.com/games/atomicrops",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Bird Bath Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

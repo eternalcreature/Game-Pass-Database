@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 27324,
+    "specific_id": 27324,
+    "title": "The Gardens Between",
+    "store_title": "The Gardens Between",
+    "pid": "9P4Z4TW66LPV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P4Z4TW66LPV"
+      ]
+    ],
+    "original_release_date": "2018-09-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-12-01",
+        "removed": "2021-11-16"
+      },
+      "Ultimate": {
+        "added": "2019-12-01",
+        "removed": "2021-11-16"
+      },
+      "PC": {
+        "added": "2019-12-01",
+        "removed": "2021-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Puzzle & trivia"
+    ],
+    "publisher": "The Voxel Agents",
+    "developer": "The Voxel Agents"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27324,
+      "name": "The Gardens Between",
+      "url": "https://www.igdb.com/games/the-gardens-between",
+      "publishers": [
+        "The Voxel Agents"
+      ],
+      "developers": [
+        "The Voxel Agents"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

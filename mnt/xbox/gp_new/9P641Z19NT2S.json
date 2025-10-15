@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 13677,
+    "specific_id": 13677,
+    "title": "Downwell",
+    "store_title": "Downwell",
+    "pid": "9P641Z19NT2S",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P641Z19NT2S"
+      ]
+    ],
+    "original_release_date": "2015-10-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-08-01",
+        "removed": "2021-07-16"
+      },
+      "Ultimate": {
+        "added": "2019-08-01",
+        "removed": "2021-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Moppin"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 13677,
+      "name": "Downwell",
+      "url": "https://www.igdb.com/games/downwell",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Moppin"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

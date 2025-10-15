@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 107218,
+    "specific_id": 107218,
+    "title": "Desperados III",
+    "store_title": "Desperados III",
+    "pid": "9P1ZX74WPL68",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRRC2X2GQGC7"
+    ],
+    "sku_groups": [
+      [
+        "9P1ZX74WPL68"
+      ],
+      [
+        "BRRC2X2GQGC7"
+      ]
+    ],
+    "original_release_date": "2020-06-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-21",
+        "removed": "2022-01-16"
+      },
+      "Ultimate": {
+        "added": "2021-01-21",
+        "removed": "2022-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Mimimi Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107218,
+      "name": "Desperados III",
+      "url": "https://www.igdb.com/games/desperados-iii",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Mimimi Games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

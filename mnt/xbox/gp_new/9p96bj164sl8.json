@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 364,
+    "specific_id": 364,
+    "title": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "store_title": "Heroes of Might and Magic 3 - Complete Edition",
+    "pid": "9p96bj164sl8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9p96bj164sl8"
+      ]
+    ],
+    "original_release_date": "2000-10-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-10-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-09",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 364,
+      "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+      "url": "https://www.igdb.com/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia",
+      "publishers": [
+        "Loki Software",
+        "The 3DO Company"
+      ],
+      "developers": [
+        "Loki Software",
+        "New World Computing"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 348187,
+    "specific_id": 348187,
+    "title": "Grounded 2",
+    "store_title": "Grounded 2",
+    "pid": "9P77PG7DK0W2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P77PG7DK0W2"
+      ]
+    ],
+    "original_release_date": "2025-07-29",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-29",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Obsidian Entertainment / Eidos Montr\u00e9al"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 348187,
+      "name": "Grounded 2",
+      "url": "https://www.igdb.com/games/grounded-2",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Eidos-Montr\u00e9al",
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

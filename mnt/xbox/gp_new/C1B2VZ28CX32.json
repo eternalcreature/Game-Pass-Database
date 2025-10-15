@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "base_id": 7768,
+    "specific_id": 7768,
+    "title": "OlliOlli",
+    "store_title": "OlliOlli",
+    "pid": "C1B2VZ28CX32",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1B2VZ28CX32"
+      ]
+    ],
+    "original_release_date": "2014-01-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Sports"
+    ],
+    "publisher": "Curve Digital",
+    "developer": "Carbon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7768,
+      "name": "OlliOlli",
+      "url": "https://www.igdb.com/games/olliolli",
+      "publishers": [
+        "Curve Digital",
+        "Devolver Digital",
+        "Roll7"
+      ],
+      "developers": [
+        "Roll7"
+      ],
+      "genres": [
+        "Platform",
+        "Racing",
+        "Sport",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

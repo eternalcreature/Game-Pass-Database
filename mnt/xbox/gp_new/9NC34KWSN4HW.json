@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 87210,
+    "specific_id": 87210,
+    "title": "Farming Simulator 19",
+    "store_title": "Farming Simulator 19 (Windows 10)",
+    "pid": "9NC34KWSN4HW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BQW91W950J67"
+    ],
+    "sku_groups": [
+      [
+        "9NC34KWSN4HW"
+      ],
+      [
+        "BQW91W950J67"
+      ]
+    ],
+    "original_release_date": "2018-11-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-07-15",
+        "removed": "2022-06-01"
+      },
+      "Ultimate": {
+        "added": "2021-07-15",
+        "removed": "2022-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-16)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "GIANTS Software GmbH",
+    "developer": "Giants Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 87210,
+      "name": "Farming Simulator 19",
+      "url": "https://www.igdb.com/games/farming-simulator-19",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Giants Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

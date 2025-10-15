@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 107215,
+    "specific_id": 107215,
+    "title": "SnowRunner",
+    "store_title": "SnowRunner (Windows 10)",
+    "pid": "9NP6WL1XQDBW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PNRSC0J6DT8"
+    ],
+    "sku_groups": [
+      [
+        "9NP6WL1XQDBW"
+      ],
+      [
+        "9PNRSC0J6DT8"
+      ]
+    ],
+    "original_release_date": "2020-04-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-05-18",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-05-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Saber Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107215,
+      "name": "SnowRunner",
+      "url": "https://www.igdb.com/games/snowrunner",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Saber Interactive"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Business",
+        "Non-fiction",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

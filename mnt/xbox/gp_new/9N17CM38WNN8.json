@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 106847,
+    "specific_id": 106847,
+    "title": "Coffee Talk",
+    "store_title": "Coffee Talk",
+    "pid": "9N17CM38WNN8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N17CM38WNN8"
+      ]
+    ],
+    "original_release_date": "2020-01-29",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-16",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-08-16",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2022-08-16",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics"
+    ],
+    "publisher": "Chorus Worldwide Games",
+    "developer": "Toge Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106847,
+      "name": "Coffee Talk",
+      "url": "https://www.igdb.com/games/coffee-talk",
+      "publishers": [
+        "Chorus Worldwide",
+        "Toge Productions"
+      ],
+      "developers": [
+        "Toge Productions"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

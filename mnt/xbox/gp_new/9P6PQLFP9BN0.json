@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 141568,
+    "specific_id": 141568,
+    "title": "Myst",
+    "store_title": "Myst",
+    "pid": "9P6PQLFP9BN0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P6PQLFP9BN0"
+      ]
+    ],
+    "original_release_date": "2021-08-26",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-08-26",
+        "removed": "2022-09-01"
+      },
+      "Ultimate": {
+        "added": "2021-08-26",
+        "removed": "2022-09-01"
+      },
+      "PC": {
+        "added": "2021-08-26",
+        "removed": "2022-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Cyan Worlds, Inc.",
+    "developer": "Cyan Worlds, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141568,
+      "name": "Myst",
+      "url": "https://www.igdb.com/games/myst--1",
+      "publishers": [
+        "Cyan Worlds"
+      ],
+      "developers": [
+        "Cyan Worlds"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

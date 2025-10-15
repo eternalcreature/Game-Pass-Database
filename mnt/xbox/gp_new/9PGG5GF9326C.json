@@ -1,0 +1,123 @@
+{
+  "basic_info": {
+    "base_id": 11134,
+    "specific_id": 288025,
+    "title": "Gigantic",
+    "store_title": "Gigantic: Rampage Edition",
+    "pid": "9PGG5GF9326C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGG5GF9326C"
+      ]
+    ],
+    "original_release_date": "2024-04-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-01-22",
+        "removed": "2025-08-01"
+      },
+      "Ultimate": {
+        "added": "2025-01-22",
+        "removed": "2025-08-01"
+      },
+      "PC": {
+        "added": "2025-01-22",
+        "removed": "2025-08-01"
+      },
+      "Premium": {
+        "added": "2025-01-22",
+        "removed": "2025-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (10-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Arc Games",
+    "developer": "Abstraction Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11134,
+      "name": "Gigantic",
+      "url": "https://www.igdb.com/games/gigantic",
+      "publishers": [
+        "Perfect World Entertainment"
+      ],
+      "developers": [
+        "Motiga"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 11134,
+      "name": "Gigantic",
+      "url": "https://www.igdb.com/games/gigantic",
+      "publishers": [
+        "Perfect World Entertainment"
+      ],
+      "developers": [
+        "Motiga"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,133 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 2.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N5SXKWMXQ7X",
+    "9P0VHLMLP0H9",
+    "9N7GRWXQF0WK",
+    "9PF7G7PQ02JW"
+  ],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Simulation",
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "The Catch: Carp & Coarse is a species hunting fishing game from Dovetail Games about the passion and pursuit of what lurks beneath the waters. Take on the hunt of a lifetime as you target and pursue monster-sized fish around the world. With 35 species to hunt, you’ll have to work up your strategy, skill and tactics to catch every boss fish in each venue. It’ll take both patience and adrenaline to succeed as you choose your angling spot carefully, based on time of day, weather conditions and perfect equipment setup, before casting out into the water to battle and catch these elusive creatures.\r\n \r\n35 different species of fish\r\n125 legendary Boss Fish\r\n5 unique destinations\r\nAdvanced water flow\r\n100’s of items of equipment from over 20 licensed partners\r\nMultiplayer and events to feed your competitive streak\r\nAn in-game mastery system that will test you even further",
+  "developerName": "Dovetail Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 26327986176,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P7NH82HZCDF",
+  "productKind": "Game",
+  "publisherName": "Dovetail Games",
+  "ratingCount": 177,
+  "releaseDate": "2020-06-30T04:00:00.0000000Z",
+  "shortDescription": "The Catch: Carp & Coarse Fishing is a species hunting fishing game about the passion and pursuit of what lurks beneath the waters. Take on the hunt of a lifetime as you target and pursue monster-sized fish around the world. It’s all about the Catch!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XVF56DNDGZT",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V0W0MMGC1SW",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Catch: Carp & Coarse Fishing",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

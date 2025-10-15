@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 7313,
+    "specific_id": 7313,
+    "title": "Heroes of the Storm",
+    "store_title": "Heroes of the Storm\u2122",
+    "pid": "9PBRN7JS4XPC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PBRN7JS4XPC"
+      ]
+    ],
+    "original_release_date": "2015-06-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (5-10)"
+    },
+    "categories": [
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7313,
+      "name": "Heroes of the Storm",
+      "url": "https://www.igdb.com/games/heroes-of-the-storm",
+      "publishers": [
+        "Blizzard Entertainment"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "MOBA"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

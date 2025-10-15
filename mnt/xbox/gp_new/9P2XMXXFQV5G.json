@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 119258,
+    "specific_id": 119258,
+    "title": "Immortal Realms: Vampire Wars",
+    "store_title": "Immortal Realms: Vampire Wars",
+    "pid": "9P2XMXXFQV5G",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P4Q17HQ2WKW"
+    ],
+    "sku_groups": [
+      [
+        "9P2XMXXFQV5G"
+      ],
+      [
+        "9P4Q17HQ2WKW"
+      ]
+    ],
+    "original_release_date": "2019-10-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-07-01",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2021-07-01",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Kalypso Media",
+    "developer": "Palindrome Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119258,
+      "name": "Immortal Realms: Vampire Wars",
+      "url": "https://www.igdb.com/games/immortal-realms-vampire-wars",
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "developers": [
+        "Palindrome Interactive"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

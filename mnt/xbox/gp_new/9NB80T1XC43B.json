@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 14159,
+    "specific_id": 14159,
+    "title": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+    "store_title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    "pid": "9NB80T1XC43B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NB80T1XC43B"
+      ]
+    ],
+    "original_release_date": "2017-01-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-11",
+        "removed": "2021-06-01"
+      },
+      "Ultimate": {
+        "added": "2020-06-11",
+        "removed": "2021-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14159,
+      "name": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+      "url": "https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue",
+      "publishers": [
+        "Disney Interactive Studios",
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix",
+        "Square Enix Business Division 3"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

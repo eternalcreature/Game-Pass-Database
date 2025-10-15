@@ -1,0 +1,65 @@
+{
+  "id": 106847,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 200202,
+      "company": {
+        "id": 13930,
+        "name": "Chorus Worldwide"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 190481,
+      "company": {
+        "id": 8399,
+        "name": "Toge Productions"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Coffee Talk",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/coffee-talk"
+}

@@ -1,0 +1,143 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Single stick gameplay",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NLLBCZRKB1R",
+    "9NNWZ7C5XWQB"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Use of Alcohol",
+      "Blood",
+      "Sexual Themes",
+      "Partial Nudity",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Yakuza, the first installment in SEGA's critically acclaimed action series, gets an extreme remake in Yakuza Kiwami.\r\n\r\nTo save his best friend, Kazuma Kiryu takes the fall for a crime he didn’t commit, and ends up with a 10-year prison sentence. After being released, Kiryu finds himself expelled from his yakuza family, and alone in a world he no longer recognizes.\r\n\r\nEvents take a turn for the worse when 10 billion yen vanishes from the vault of the Tojo Clan, Kiryu's former yakuza family, igniting a war in the red-light district of Kamurocho. Together with a mysterious girl named Haruka, Kiryu must fight to survive and uncover the truth hidden amidst the chaos surrounding them.",
+  "developerName": "SEGA",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 23976566784,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NBJ51BD0LTH",
+  "productKind": "Game",
+  "publisherName": "SEGA",
+  "ratingCount": 271,
+  "releaseDate": "2020-04-22T00:00:00.0000000Z",
+  "shortDescription": "To save his best friend, Kazuma Kiryu takes the fall for a crime he didn’t commit, and ends up with a 10-year prison sentence. After being released, Kiryu finds himself expelled from his yakuza family, and alone in a world he no longer recognizes.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TFSWGHBBTL3",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RKZWM16FGZG",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Yakuza Kiwami",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-07-05T00:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-07-05T00:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-04-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

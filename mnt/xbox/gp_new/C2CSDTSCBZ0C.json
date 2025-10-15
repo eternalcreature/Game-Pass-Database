@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 74701,
+    "specific_id": 74701,
+    "title": "Star Wars Jedi: Fallen Order",
+    "store_title": "STAR WARS Jedi: Fallen Order\u2122",
+    "pid": "C2CSDTSCBZ0C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2CSDTSCBZ0C"
+      ]
+    ],
+    "original_release_date": "2019-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-10",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-10",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Respawn Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 74701,
+      "name": "Star Wars Jedi: Fallen Order",
+      "url": "https://www.igdb.com/games/star-wars-jedi-fallen-order",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Respawn Entertainment"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

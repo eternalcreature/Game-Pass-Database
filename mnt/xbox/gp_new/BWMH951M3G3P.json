@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 19686,
+    "specific_id": 19686,
+    "title": "Resident Evil 2",
+    "store_title": "RESIDENT EVIL 2",
+    "pid": "BWMH951M3G3P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWMH951M3G3P"
+      ]
+    ],
+    "original_release_date": "2019-01-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-15",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-01-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19686,
+      "name": "Resident Evil 2",
+      "url": "https://www.igdb.com/games/resident-evil-2--1",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Development Division 1"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

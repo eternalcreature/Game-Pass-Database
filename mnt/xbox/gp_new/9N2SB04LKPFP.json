@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 11172,
+    "specific_id": 11172,
+    "title": "TrackMania Turbo",
+    "store_title": "Trackmania Turbo",
+    "pid": "9N2SB04LKPFP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C3SQQG5Q6Z64"
+    ],
+    "sku_groups": [
+      [
+        "9N2SB04LKPFP"
+      ],
+      [
+        "C3SQQG5Q6Z64"
+      ]
+    ],
+    "original_release_date": "2016-03-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Nadeo"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11172,
+      "name": "TrackMania Turbo",
+      "url": "https://www.igdb.com/games/trackmania-turbo",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Nadeo"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

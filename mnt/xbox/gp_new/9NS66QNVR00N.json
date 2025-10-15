@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 129057,
+    "specific_id": 129057,
+    "title": "Rain on Your Parade",
+    "store_title": "Rain on Your Parade",
+    "pid": "9NS66QNVR00N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NS66QNVR00N"
+      ]
+    ],
+    "original_release_date": "2021-04-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-04-15",
+        "removed": "2022-04-16"
+      },
+      "Ultimate": {
+        "added": "2021-04-15",
+        "removed": "2022-04-16"
+      },
+      "PC": {
+        "added": "2021-04-15",
+        "removed": "2022-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Puzzle & trivia",
+      "Simulation"
+    ],
+    "publisher": "Unbound Creations",
+    "developer": "Unbound Creations"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 129057,
+      "name": "Rain on Your Parade",
+      "url": "https://www.igdb.com/games/rain-on-your-parade",
+      "publishers": [
+        "Unbound Creations LLC"
+      ],
+      "developers": [
+        "Unbound Creations LLC"
+      ],
+      "genres": [
+        "Fighting",
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

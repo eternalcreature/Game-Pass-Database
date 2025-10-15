@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 29667,
+    "specific_id": 29667,
+    "title": "Trailmakers",
+    "store_title": "Trailmakers",
+    "pid": "9NSFGM8J6MBJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NSFGM8J6MBJ"
+      ]
+    ],
+    "original_release_date": "2019-09-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-08-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-08-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying",
+      "Simulation"
+    ],
+    "publisher": "Flashbulb Games",
+    "developer": "Flashbulb Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 29667,
+      "name": "Trailmakers",
+      "url": "https://www.igdb.com/games/trailmakers",
+      "publishers": [
+        "Flashbulb Games"
+      ],
+      "developers": [
+        "Flashbulb Games"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

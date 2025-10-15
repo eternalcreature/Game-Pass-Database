@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 139566,
+    "specific_id": 139566,
+    "title": "Mind Scanners",
+    "store_title": "Mind Scanners",
+    "pid": "9MV8J6MFJNQV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MV8J6MFJNQV"
+      ]
+    ],
+    "original_release_date": "2021-05-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-30",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-30",
+        "removed": "2022-12-01"
+      },
+      "Console": {
+        "added": "2021-11-30",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Brave At Night",
+    "developer": "The Outer Zone"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139566,
+      "name": "Mind Scanners",
+      "url": "https://www.igdb.com/games/mind-scanners",
+      "publishers": [
+        "Brave At Night"
+      ],
+      "developers": [
+        "The Outer Zone"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

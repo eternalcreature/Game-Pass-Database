@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "base_id": 330,
+    "specific_id": 46631,
+    "title": "SimCity 2000",
+    "store_title": "SimCity 2000\u2122 Special Edition",
+    "pid": "9NFZSND3LPPN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFZSND3LPPN"
+      ]
+    ],
+    "original_release_date": "1995-02-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Maxis"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 330,
+      "name": "SimCity 2000",
+      "url": "https://www.igdb.com/games/simcity-2000",
+      "publishers": [
+        "DSI Games",
+        "Electronic Arts",
+        "Maxis",
+        "Zoo Digital"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 330,
+      "name": "SimCity 2000",
+      "url": "https://www.igdb.com/games/simcity-2000",
+      "publishers": [
+        "DSI Games",
+        "Electronic Arts",
+        "Maxis",
+        "Zoo Digital"
+      ],
+      "developers": [
+        "Maxis"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

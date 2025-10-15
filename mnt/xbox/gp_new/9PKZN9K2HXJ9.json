@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 248,
+    "specific_id": 5525,
+    "title": "Populous",
+    "store_title": "Populous\u2122: The Beginning",
+    "pid": "9PKZN9K2HXJ9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PKZN9K2HXJ9"
+      ]
+    ],
+    "original_release_date": "1989-06-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-04-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-15",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-04-15",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Strategy",
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Bullfrog Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 248,
+      "name": "Populous",
+      "url": "https://www.igdb.com/games/populous",
+      "publishers": [
+        "Electronic Arts",
+        "Hudson Soft",
+        "Imagineer",
+        "Tec Toy"
+      ],
+      "developers": [
+        "Bullfrog Productions"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 248,
+      "name": "Populous",
+      "url": "https://www.igdb.com/games/populous",
+      "publishers": [
+        "Electronic Arts",
+        "Hudson Soft",
+        "Imagineer",
+        "Tec Toy"
+      ],
+      "developers": [
+        "Bullfrog Productions"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

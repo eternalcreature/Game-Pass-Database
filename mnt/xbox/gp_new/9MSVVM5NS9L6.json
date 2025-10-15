@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 164867,
+    "specific_id": 164867,
+    "title": "Dredge",
+    "store_title": "DREDGE",
+    "pid": "9MSVVM5NS9L6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MSVVM5NS9L6"
+      ]
+    ],
+    "original_release_date": "2023-03-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Team17",
+    "developer": "Black Salt Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 164867,
+      "name": "Dredge",
+      "url": "https://www.igdb.com/games/dredge",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Black Salt Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

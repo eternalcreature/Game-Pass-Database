@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 26431,
+    "specific_id": 26431,
+    "title": "Enlisted",
+    "store_title": "Enlisted",
+    "pid": "9NHKL695M9F2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PF432CVQBXT"
+    ],
+    "sku_groups": [
+      [
+        "9NHKL695M9F2"
+      ],
+      [
+        "9PF432CVQBXT"
+      ]
+    ],
+    "original_release_date": "2021-04-08",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-08-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-50)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "Gaijin Distribution Kft",
+    "developer": "Darkflow Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26431,
+      "name": "Enlisted",
+      "url": "https://www.igdb.com/games/enlisted",
+      "publishers": [
+        "Gaijin Entertainment"
+      ],
+      "developers": [
+        "Darkflow Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator"
+      ],
+      "themes": [
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

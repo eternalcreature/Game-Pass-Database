@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 212264,
+    "specific_id": 212264,
+    "title": "Fuga: Melodies of Steel 2",
+    "store_title": "Fuga: Melodies of Steel 2",
+    "pid": "9P5CK72457WF",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P5CK72457WF"
+      ]
+    ],
+    "original_release_date": "2023-05-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-05-11",
+        "removed": "2024-05-16"
+      },
+      "Ultimate": {
+        "added": "2023-05-11",
+        "removed": "2024-05-16"
+      },
+      "Console": {
+        "added": "2023-05-11",
+        "removed": "2024-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "CyberConnect2 Co., Ltd.",
+    "developer": "CyberConnect2"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 212264,
+      "name": "Fuga: Melodies of Steel 2",
+      "url": "https://www.igdb.com/games/fuga-melodies-of-steel-2",
+      "publishers": [
+        "CyberConnect2"
+      ],
+      "developers": [
+        "CyberConnect2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

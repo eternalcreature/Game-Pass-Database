@@ -1,0 +1,134 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Single stick gameplay"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "BR0PF83JQV5R"
+  ],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Mild Language",
+      "Partial Nudity",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Introducing the newest entry in the SOULCALIBUR series!\r\nExperience all-new gameplay mechanics with the most beautiful graphics the weapons-based fighting genre has ever seen!\r\n\r\n■All-New Battle Mechanics!\r\nReversal Edge: Block your opponent’s assault and counterattack! A fusion of offense and defense.\r\nSoul Charge: Enjoy a temporary power-up to turn the tide of the battle. Unleash additional attacks in this state! \r\nWield Lethal Hits to deal huge combo damage and take down fearsome opponents!\r\n\r\n■A full assortment of single-player modes!\r\nSTORY: Taking place in the 16th century, revisit the events of the very first SOULCALIBUR in Soul Chronicle mode. \r\n\r\n■ A wide variety of game modes!\r\nClash with players around the world in Online mode!\r\nCreate your own character to suit your tastes in Creation mode!\r\n\r\n■Guest Character\r\nGeralt from CD Projekt Red’s Witcher series joins the fray!",
+  "developerName": "BANDAI NAMCO Studio Inc., Dimps Corporation",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 20554248192,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C3V22FQD8N84",
+  "productKind": "Game",
+  "publisherName": "BANDAI NAMCO Entertainment",
+  "ratingCount": 329,
+  "releaseDate": "2018-10-19T00:00:00.0000000Z",
+  "shortDescription": "Bring more than your fists to the fight! SOULCALIBUR VI represents the latest entry in the premier weapons-based, head-to-head fighting series. The heroic 3D battles transpire in a beautiful and fluid world, with eye-popping graphics and visual appeal. Featuring all-new battle mechanics and characters, SOULCALIBUR VI marks a new era of the historic franchise. Welcome back to the stage of history!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B2VPHKBJDTDM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B2KH98NC5CJS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 59.99,
+        "msrp": 59.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "SOULCALIBUR VI",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-07-01T00:00:00Z",
+      "exitDateUTC": "2021-07-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-07-01T00:00:00Z",
+      "exitDateUTC": "2021-07-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

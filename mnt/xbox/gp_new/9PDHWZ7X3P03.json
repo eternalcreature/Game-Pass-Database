@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 9608,
+    "specific_id": 9608,
+    "title": "Mount & Blade II: Bannerlord",
+    "store_title": "Mount & Blade II: Bannerlord",
+    "pid": "9PDHWZ7X3P03",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDHWZ7X3P03"
+      ]
+    ],
+    "original_release_date": "2020-03-30",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-02-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-02-14",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-02-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-64)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "TaleWorlds Entertainment",
+    "developer": "TaleWorlds Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9608,
+      "name": "Mount & Blade II: Bannerlord",
+      "url": "https://www.igdb.com/games/mount-and-blade-ii-bannerlord",
+      "publishers": [
+        "Prime Matter",
+        "Taleworlds"
+      ],
+      "developers": [
+        "Taleworlds"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

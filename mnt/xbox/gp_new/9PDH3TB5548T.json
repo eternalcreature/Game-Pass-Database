@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "base_id": 83728,
+    "specific_id": 134372,
+    "title": "Battlefield V",
+    "store_title": "Battlefield\u2122 V Year 2 Edition",
+    "pid": "9PDH3TB5548T",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZ2N7TQ0XCF2"
+    ],
+    "sku_groups": [
+      [
+        "9PDH3TB5548T"
+      ],
+      [
+        "BZ2N7TQ0XCF2"
+      ]
+    ],
+    "original_release_date": "2018-11-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 83728,
+      "name": "Battlefield V",
+      "url": "https://www.igdb.com/games/battlefield-v",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 83728,
+      "name": "Battlefield V",
+      "url": "https://www.igdb.com/games/battlefield-v",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

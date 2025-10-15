@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 20863,
+    "specific_id": 20863,
+    "title": "Dishonored: Definitive Edition",
+    "store_title": "Dishonored\u00ae Definitive Edition",
+    "pid": "C299QVC2BSJF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P1N07XDL1D4"
+    ],
+    "sku_groups": [
+      [
+        "9P1N07XDL1D4"
+      ],
+      [
+        "C299QVC2BSJF"
+      ]
+    ],
+    "original_release_date": "2018-08-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Arkane Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20863,
+      "name": "Dishonored: Definitive Edition",
+      "url": "https://www.igdb.com/games/dishonored-definitive-edition",
+      "publishers": [
+        "Bethesda Softworks",
+        "Zenimax Europe"
+      ],
+      "developers": [
+        "Arkane Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

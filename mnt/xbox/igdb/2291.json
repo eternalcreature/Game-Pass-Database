@@ -1,0 +1,74 @@
+{
+  "id": 2291,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 75996,
+      "company": {
+        "id": 5152,
+        "name": "Bithell Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 119210,
+      "company": {
+        "id": 9341,
+        "name": "Ant Workshop Ltd"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 129866,
+      "company": {
+        "id": 5048,
+        "name": "Curve Digital"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Thomas Was Alone",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/thomas-was-alone"
+}

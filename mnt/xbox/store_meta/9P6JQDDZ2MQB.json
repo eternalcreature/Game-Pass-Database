@@ -1,0 +1,127 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Racing & flying",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "\"To do something dangerous with style is art...\"\r\n\r\nart of rally is a stylized experience inspired by the golden era of rally from the creator of Absolute Drift\r\n\r\nRace across the world through colorful and stylized environments in top-down view.\r\nCompete for first place in the leaderboards with daily and weekly challenges.\r\n\r\nWill you master the art of rally?\r\n\r\n\r\n- Experience the golden era of rally in Career mode, travelling across 72 stages from Finland to Sardinia, Norway, Japan, Germany and Africa.\r\n\r\n- Get behind the wheel of your favorite vintage cars, ranging from the 60’s to the 80’s, Group B, Group S and Group A.\r\n\r\n- From beginner-friendly options to driving modes that’ll challenge the most expert drivers, all players can tackle the races using their favorite rally driving tricks: Scandinavian flick, counter steering, left foot braking, handbrake turns.\r\n\r\n- Get your name at the top of the Leaderboard in our daily and weekly challenges.\r\n\r\n- Show off your driving skills, or simply your favourite landscapes, with the integrated Photo and Replay mode\"",
+  "developerName": "Funselektor Labs Inc.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 4887093248,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P6JQDDZ2MQB",
+  "productKind": "Game",
+  "publisherName": "Funselektor Labs Inc.",
+  "ratingCount": 280,
+  "releaseDate": "2021-08-12T00:00:00.0000000Z",
+  "shortDescription": "Race in the golden era of rally. Drive iconic cars from the 60s to Group B on challenging stages through stylized environments inspired by real worldwide locations. Will you master the art of rally?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W3DZF8R431M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VJSW9LW7SF5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "art of rally",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-08-12T00:00:00Z",
+      "exitDateUTC": "2022-11-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-08-12T00:00:00Z",
+      "exitDateUTC": "2022-11-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-08-12T00:00:00Z",
+      "exitDateUTC": "2022-11-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

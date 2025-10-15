@@ -1,0 +1,87 @@
+{
+  "id": 103320,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 160574,
+      "company": {
+        "id": 21313,
+        "name": "Dear Villagers"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 160573,
+      "company": {
+        "id": 15691,
+        "name": "Modern Storyteller"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 205403,
+      "company": {
+        "id": 1460,
+        "name": "Plug In Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 273163,
+      "company": {
+        "id": 3023,
+        "name": "Virtual Programming"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "The Forgotten City",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-forgotten-city"
+}

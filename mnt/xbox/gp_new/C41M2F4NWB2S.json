@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 9136,
+    "specific_id": 9136,
+    "title": "Gorogoa",
+    "store_title": "Gorogoa",
+    "pid": "C41M2F4NWB2S",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C41M2F4NWB2S"
+      ]
+    ],
+    "original_release_date": "2017-12-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      },
+      "Console": {
+        "added": "2022-01-04",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Buried Signal, LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9136,
+      "name": "Gorogoa",
+      "url": "https://www.igdb.com/games/gorogoa",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Jason Roberts"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,184 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.2,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-5)",
+    "XblOnlineCoop": "Online co-op (2-5)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Game contains In-Game Purchases\r\n\r\nNBA LIVE 19 redefines the way you play a basketball game.  1v1 Everywhere featuring Real Player Motion gives you control in every possession, providing you the ability to change momentum in any game and dominate your opponent.   Pursue basketball glory with the freedom to create your path in the return of THE ONE.  Build your squad of superstars, legends, and cultural icons to join your quest for greatness on courts across the globe in the League, The Street World Tour and  your ONE COURT where you customize your rules and your line up reign.  Defend your court and challenge the Community to be the ONE.\r\n\r\nCONDITIONS AND RESTRICTIONS APPLY. SEE WWW.EA.COM/LEGAL FOR DETAILS.",
+  "developerName": "EA TIBURON",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 45253361664,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BVX4Z50ZBH5Q",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 392,
+  "releaseDate": "2018-09-07T00:00:00.0000000Z",
+  "shortDescription": "Show off your signature style on courts around the world as you earn the respect of NBA stars, legends, and icons who join your squad on your journey to be THE ONE in The League and The Streets.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9NMNXVDK20NH",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/31/2098 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B4GJHWQS48BP",
+        "discountPercentage": 10.003334,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 26.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B4XJ66P99RTL",
+        "discountPercentage": 10.003334,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "EAAccess",
+          "productId": "CFQ7TTC0K5DH"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 26.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9X0FSK68MF4V",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/31/2098 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "NBA LIVE 19",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 36,
+    "specific_id": 36,
+    "title": "Dungeon Keeper 2",
+    "store_title": "Dungeon Keeper\u2122 2",
+    "pid": "9NGL4GBPXM1G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGL4GBPXM1G"
+      ]
+    ],
+    "original_release_date": "1999-06-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Bullfrog Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36,
+      "name": "Dungeon Keeper 2",
+      "url": "https://www.igdb.com/games/dungeon-keeper-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Bullfrog Productions"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

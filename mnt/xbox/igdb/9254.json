@@ -1,0 +1,92 @@
+{
+  "id": 9254,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 66501,
+      "company": {
+        "id": 2095,
+        "name": "Panic Button Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 66502,
+      "company": {
+        "id": 11262,
+        "name": "Gearbox Publishing"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 65382,
+      "company": {
+        "id": 2914,
+        "name": "Grip Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 292322,
+      "company": {
+        "id": 7423,
+        "name": "Unknown Worlds"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 334302,
+      "company": {
+        "id": 11360,
+        "name": "Playdigious"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Subnautica",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/subnautica"
+}

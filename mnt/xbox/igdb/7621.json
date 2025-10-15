@@ -1,0 +1,100 @@
+{
+  "id": 7621,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 48086,
+      "company": {
+        "id": 4872,
+        "name": "Six Foot"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 48088,
+      "company": {
+        "id": 774,
+        "name": "QLOC"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 48087,
+      "company": {
+        "id": 3072,
+        "name": "Grey Box"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 48089,
+      "company": {
+        "id": 1304,
+        "name": "Tantalus Media"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 48085,
+      "company": {
+        "id": 1113,
+        "name": "Tequila Works"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "RiME",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/rime"
+}

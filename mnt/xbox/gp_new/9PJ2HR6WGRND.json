@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 127031,
+    "specific_id": 127031,
+    "title": "The Rewinder",
+    "store_title": "The Rewinder",
+    "pid": "9PJ2HR6WGRND",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJ2HR6WGRND"
+      ]
+    ],
+    "original_release_date": "2021-09-10",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-29",
+        "removed": "2025-05-01"
+      },
+      "Ultimate": {
+        "added": "2024-04-29",
+        "removed": "2025-05-01"
+      },
+      "PC": {
+        "added": "2024-04-29",
+        "removed": "2025-05-01"
+      },
+      "Premium": {
+        "added": "2024-11-06",
+        "removed": "2025-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia",
+      "Other"
+    ],
+    "publisher": "Gamera Games",
+    "developer": "Misty Mountain Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127031,
+      "name": "The Rewinder",
+      "url": "https://www.igdb.com/games/the-rewinder",
+      "publishers": [
+        "Gamera Games"
+      ],
+      "developers": [
+        "MistyMountainStudio"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

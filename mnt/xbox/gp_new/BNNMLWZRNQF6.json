@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 18158,
+    "specific_id": 18158,
+    "title": "Ultimate Chicken Horse",
+    "store_title": "Ultimate Chicken Horse",
+    "pid": "BNNMLWZRNQF6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNNMLWZRNQF6"
+      ]
+    ],
+    "original_release_date": "2016-03-04",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-03",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Clever Endeavour Games",
+    "developer": "Clever Endeavour Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18158,
+      "name": "Ultimate Chicken Horse",
+      "url": "https://www.igdb.com/games/ultimate-chicken-horse",
+      "publishers": [
+        "Clever Endeavour Games"
+      ],
+      "developers": [
+        "Clever Endeavour Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

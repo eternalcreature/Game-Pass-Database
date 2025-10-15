@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 103288,
+    "specific_id": 103288,
+    "title": "Jump Force",
+    "store_title": "JUMP FORCE",
+    "pid": "BQKTZHL91458",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQKTZHL91458"
+      ]
+    ],
+    "original_release_date": "2019-02-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "Spike Chunsoft Co., Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103288,
+      "name": "Jump Force",
+      "url": "https://www.igdb.com/games/jump-force",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

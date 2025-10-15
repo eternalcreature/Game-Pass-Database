@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 139135,
+    "specific_id": 139135,
+    "title": "Mighty Goose",
+    "store_title": "Mighty Goose",
+    "pid": "9P3W7QMHR450",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3W7QMHR450"
+      ]
+    ],
+    "original_release_date": "2021-06-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-30",
+        "removed": "2022-09-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-30",
+        "removed": "2022-09-16"
+      },
+      "Console": {
+        "added": "2021-09-30",
+        "removed": "2022-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Shooter"
+    ],
+    "publisher": "PLAYISM",
+    "developer": "Blastmode, MP2 Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139135,
+      "name": "Mighty Goose",
+      "url": "https://www.igdb.com/games/mighty-goose",
+      "publishers": [
+        "PLAYISM"
+      ],
+      "developers": [
+        "Blastmode",
+        "MP2 Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

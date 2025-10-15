@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 325176,
+    "specific_id": 325176,
+    "title": "Little Rocket Lab",
+    "store_title": "Little Rocket Lab",
+    "pid": "9N3M5D5ZSW34",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3M5D5ZSW34"
+      ]
+    ],
+    "original_release_date": "2025-10-07",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-10-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-07",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-07",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Role playing",
+      "Strategy",
+      "Family & kids",
+      "Action & adventure"
+    ],
+    "publisher": "No More Robots",
+    "developer": "Teenage Astronauts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 325176,
+      "name": "Little Rocket Lab",
+      "url": "https://www.igdb.com/games/little-rocket-lab",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "Teenage Astronauts"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

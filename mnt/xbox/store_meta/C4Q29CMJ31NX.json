@@ -1,0 +1,136 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Mild Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "“10/10” – Joystiq.  “You owe it to yourself to play Brothers” – Giant Bomb\r\n\r\nThe critically acclaimed and award winning masterpiece arrives with exclusive Bonus Content:\r\n\r\nDirector’s Commentary - almost an hours’ worth of gameplay footage, with commentary audio from Josef Fares, the game’s creator. \r\nConcept Art -  over 20 illustrations or hand drawings of characters, puzzles and environments.\r\nSoundtrack - complete soundtrack with 20 scores from the game.\r\n\r\nShare in the epic unforgettable journey of two brothers, with an unique control system that allows co-op play in single player.",
+  "developerName": "Starbreeze Studios/The Workshop",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3910377472,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C4Q29CMJ31NX",
+  "productKind": "Game",
+  "publisherName": "505 Games",
+  "ratingCount": 330,
+  "releaseDate": "2015-08-12T00:00:00.0000000Z",
+  "shortDescription": "“10/10” – Joystiq.  “You owe it to yourself to play Brothers” – Giant Bomb\r\nThe critically acclaimed and award winning masterpiece arrives with Bonus Content including Director’s Walkthrough commentary, Art and Sound Gallery.  Guide two brothers at the same time in co-op play in single player, on an unforgettable journey from visionary Swedish film director Josef Fares and developer Starbreeze.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9RXF6F42F7BF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9VM3QGDHKCJ4",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Brothers: a Tale of Two Sons",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2024-05-14T00:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-05-14T00:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-05-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "BROTHERSATALEOFTWOSONS",
+    "xboxTitleId": 73782745,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

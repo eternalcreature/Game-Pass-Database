@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 125431,
+    "specific_id": 125431,
+    "title": "I Am Fish",
+    "store_title": "I Am Fish",
+    "pid": "9MXGJ8JZL0LK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXGJ8JZL0LK"
+      ]
+    ],
+    "original_release_date": "2021-09-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-16",
+        "removed": "2022-09-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-16",
+        "removed": "2022-09-16"
+      },
+      "Console": {
+        "added": "2021-09-16",
+        "removed": "2022-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Curve Games",
+    "developer": "Bossa Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125431,
+      "name": "I Am Fish",
+      "url": "https://www.igdb.com/games/i-am-fish",
+      "publishers": [
+        "Curve Digital"
+      ],
+      "developers": [
+        "Bossa Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

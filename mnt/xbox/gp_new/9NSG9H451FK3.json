@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 146650,
+    "specific_id": 146650,
+    "title": "Expeditions: Rome",
+    "store_title": "Expeditions: Rome",
+    "pid": "9NSG9H451FK3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NSG9H451FK3"
+      ]
+    ],
+    "original_release_date": "2022-01-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-11",
+        "removed": "2023-08-01"
+      },
+      "Ultimate": {
+        "added": "2022-08-11",
+        "removed": "2023-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Logic Artists"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146650,
+      "name": "Expeditions: Rome",
+      "url": "https://www.igdb.com/games/expeditions-rome",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Logic Artists"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

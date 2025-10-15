@@ -1,0 +1,63 @@
+{
+  "id": 131756,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 93849,
+      "company": {
+        "id": 24516,
+        "name": "PiedPipers Team"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 219870,
+      "company": {
+        "id": 30237,
+        "name": "Neowiz"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Plebby Quest: The Crusades",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/plebby-quest-the-crusades"
+}

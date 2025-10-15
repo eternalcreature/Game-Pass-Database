@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 1121,
+    "specific_id": 1121,
+    "title": "Watch Dogs",
+    "store_title": "WATCH_DOGS\u2122",
+    "pid": "C4DMGRPNSHXG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P76M1N37K6K"
+    ],
+    "sku_groups": [
+      [
+        "9P76M1N37K6K"
+      ],
+      [
+        "C4DMGRPNSHXG"
+      ]
+    ],
+    "original_release_date": "2014-05-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft Entertainment",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1121,
+      "name": "Watch Dogs",
+      "url": "https://www.igdb.com/games/watch-dogs",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

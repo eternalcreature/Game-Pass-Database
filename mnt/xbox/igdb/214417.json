@@ -1,0 +1,53 @@
+{
+  "id": 214417,
+  "game_modes": [
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 300076,
+      "company": {
+        "id": 18083,
+        "name": "Embark Studios"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 313057,
+      "company": {
+        "id": 8431,
+        "name": "Nexon"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "The Finals",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-finals"
+}

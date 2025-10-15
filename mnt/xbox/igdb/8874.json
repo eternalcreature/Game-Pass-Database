@@ -1,0 +1,87 @@
+{
+  "id": 8874,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 89806,
+      "company": {
+        "id": 23212,
+        "name": "Hato Moa"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 47554,
+      "company": {
+        "id": 634,
+        "name": "Devolver Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 89805,
+      "company": {
+        "id": 2581,
+        "name": "Mediatonic"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 89807,
+      "company": {
+        "id": 12500,
+        "name": "The Irregular Corporation"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Hatoful Boyfriend",
+  "player_perspectives": [
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    },
+    {
+      "id": 44,
+      "name": "Romance"
+    }
+  ],
+  "url": "https://www.igdb.com/games/hatoful-boyfriend"
+}

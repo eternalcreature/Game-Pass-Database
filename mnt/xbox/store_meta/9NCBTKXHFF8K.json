@@ -1,0 +1,150 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Platformer",
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Language",
+      "Use of Tobacco",
+      "Violence",
+      "Blood",
+      "Alcohol Reference",
+      "Mild Sexual Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Play as Liao Tianding (AKA. Liāu Thiam-Ting), vigilante of Taipei city and wanted by the Colonial Japanese authorities. Rob the rich, feed the poor, and fight for justice in the streets of early 20th century Taipei as Taiwan’s legendary outlaw. Based on real events, real people and real situations, The Legend of Tianding is an exploration of a place and time often overlooked and presented in the style of Traditional Chinese Manga.\r\n\r\nBattle the colonial authorities in style with a tanto, waist sash, and fast paced Kung Fu in tightly tuned technical combat. Execute advanced aerial combos, steal weapons from your enemies, use your waist sash and grappling hook to fly around the battlefield, and strike fear into the hearts of your oppressors.\r\n\r\nTake on incredible bosses like deadly courtesans, greedy businessmen, and even military leaders, each one guaranteed to challenge you with their dynamic abilities and brutal attacks. Explore the Dadaocheng area of Taipei city as it looked like in the early 1900’s Run through colorful streets, ride on a speeding train, and make your escape through dark sewers, all done in the style of a retro Traditional Chinese Manga.\r\n\r\nEven the playing field and tailor Liao Tianding to your playstyle with different equippable talismans! These magical items grant you bonuses such as recovering more health from food, regaining stamina faster, or even reducing the damage you take.",
+  "developerName": "Creative Games Computer Graphics Corporation and Neon Doctrine",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2139983872,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NCBTKXHFF8K",
+  "productKind": "Game",
+  "publisherName": "Neon Doctrine",
+  "ratingCount": 214,
+  "releaseDate": "2022-11-01T00:00:00.0000000Z",
+  "shortDescription": "The Legend of Tianding is a sidescrolling action game about Liao Tianding, the legendary Taiwanese Folk Hero. Explore the dazzling streets of Colonial Japanese Taiwan in the early 20th century.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W3LR4RXD8QD",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RX08BRG381N",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Legend of Tianding",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-11-01T00:00:00Z",
+      "exitDateUTC": "2023-10-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-11-01T00:00:00Z",
+      "exitDateUTC": "2023-10-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-11-01T00:00:00Z",
+      "exitDateUTC": "2023-10-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THELEGENDOFTIANDING",
+    "xboxTitleId": 2059763744,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,198 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.5,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Use of Tobacco",
+      "Suggestive Themes",
+      "Alcohol Reference",
+      "Mild Language",
+      "Partial Nudity",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Gather your party: the RPG saga returns. Immerse yourself in an epic RPG series where every choice matters. Play over 100 hours of adventure in enhanced editions of Baldur’s Gate and Baldur’s Gate II— plus the full Siege of Dragonspear expansion!\r\n\r\n- CONTENT -\r\n\r\nBALDUR’S GATE: ENHANCED EDITION\r\nBaldur’s Gate: Enhanced Edition brings you the classic RPG with fresh updates for modern adventurers. Customize your hero, recruit a party of brave allies, and explore the Sword Coast in your search for adventure, profit…and the truth. The enhanced edition includes:\r\n• The Original Baldur’s Gate Campaign\r\n• The Sword Coast Expansion\r\n• New challenges in the Black Pits arena\r\n\r\nBALDUR’S GATE II: ENHANCED EDITION\r\nThe legendary adventure continues as you explore the Forgotten Realms and discover your destiny! Includes the original campaign and expansions: \r\n• The original Shadows of Amn campaign\r\n• The Throne of Bhaal expansion\r\n• New challenges in the Black Pits II arena\r\n\r\nBALDUR’S GATE: SIEGE OF DRAGONSPEAR (EXPANSION)\r\nExplore a brand new chapter in the Baldur’s Gate Saga! Siege of Dragonspear is a full expansion to Baldur’s Gate: Enhanced Edition, with 25+ hours of adventure in the classic style of the original RPG.",
+  "developerName": "Beamdog",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 8652906496,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NCNBWZSHZR5",
+  "productKind": "Game",
+  "publisherName": "Beamdog",
+  "ratingCount": 206,
+  "releaseDate": "2019-10-15T04:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SLT7PQS38XJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9QFZCQ1CM8Z3",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B0FH67LHXLW3",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9T6HFWQRGH20",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+  "xCloudProperties": {
+    "xCloudId": "BALDURSGATEANDBALDURSGATEIIENHANCEDEDITIONS",
+    "xboxTitleId": 2140283055,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-06-05T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-06-05T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-06-05T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "BALDURSGATEANDBALDURSGATEIIENHANCEDEDITIONS",
+    "xboxTitleId": 2140283055,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

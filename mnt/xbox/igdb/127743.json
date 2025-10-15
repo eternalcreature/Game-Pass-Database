@@ -1,0 +1,69 @@
+{
+  "id": 127743,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 108255,
+      "company": {
+        "id": 10022,
+        "name": "Gamious"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 200220,
+      "company": {
+        "id": 41364,
+        "name": "Whitethorn Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Lake",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lake"
+}

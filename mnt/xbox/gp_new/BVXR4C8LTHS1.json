@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 21,
+    "specific_id": 21,
+    "title": "BioShock 2",
+    "store_title": "BioShock 2",
+    "pid": "BVXR4C8LTHS1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BVXR4C8LTHS1"
+      ]
+    ],
+    "original_release_date": "2010-02-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "2K Games",
+    "developer": "2K Marin"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 21,
+      "name": "BioShock 2",
+      "url": "https://www.igdb.com/games/bioshock-2",
+      "publishers": [
+        "2K Games",
+        "D3 Publisher",
+        "Feral Interactive",
+        "Take-Two Interactive"
+      ],
+      "developers": [
+        "2K Marin"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Thriller",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

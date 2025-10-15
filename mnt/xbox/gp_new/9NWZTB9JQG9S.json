@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 103016,
+    "specific_id": 103016,
+    "title": "Yakuza 4 Remastered",
+    "store_title": "Yakuza 4 Remastered for Windows 10",
+    "pid": "9NWZTB9JQG9S",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NXFD44B98P4"
+    ],
+    "sku_groups": [
+      [
+        "9NWZTB9JQG9S"
+      ],
+      [
+        "9NXFD44B98P4"
+      ]
+    ],
+    "original_release_date": "2019-10-29",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-28",
+        "removed": "2025-03-01"
+      },
+      "Ultimate": {
+        "added": "2021-01-28",
+        "removed": "2025-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103016,
+      "name": "Yakuza 4 Remastered",
+      "url": "https://www.igdb.com/games/yakuza-4-remastered",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Sport",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

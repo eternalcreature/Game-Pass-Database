@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 37059,
+    "specific_id": 37059,
+    "title": "Age of Empires: Definitive Edition",
+    "store_title": "Age of Empires Definitive Edition",
+    "pid": "9NJWTJSVGVLJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJWTJSVGVLJ"
+      ]
+    ],
+    "original_release_date": "2018-02-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-08-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-08-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "World's Edge, Forgotten Empires"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37059,
+      "name": "Age of Empires: Definitive Edition",
+      "url": "https://www.igdb.com/games/age-of-empires-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Forgotten Empires LLC",
+        "Tantalus Media"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

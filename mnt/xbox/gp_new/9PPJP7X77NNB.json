@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 256017,
+    "specific_id": 370827,
+    "title": "The Grinch: Christmas Adventures",
+    "store_title": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
+    "pid": "9PPJP7X77NNB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PPJP7X77NNB"
+      ]
+    ],
+    "original_release_date": "2023-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-10-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-15",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-15",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Casual Brothers Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 256017,
+      "name": "The Grinch: Christmas Adventures",
+      "url": "https://www.igdb.com/games/the-grinch-christmas-adventures",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": []
+    },
+    "specific": {
+      "id": 256017,
+      "name": "The Grinch: Christmas Adventures",
+      "url": "https://www.igdb.com/games/the-grinch-christmas-adventures",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

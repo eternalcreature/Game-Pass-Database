@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 55047,
+    "specific_id": 55047,
+    "title": "The Dark Pictures Anthology: Man of Medan",
+    "store_title": "The Dark Pictures Anthology: Man Of Medan",
+    "pid": "9N3TF0CG8NZB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZZ0Q9ZMM7GX"
+    ],
+    "sku_groups": [
+      [
+        "9N3TF0CG8NZB"
+      ],
+      [
+        "BZZ0Q9ZMM7GX"
+      ]
+    ],
+    "original_release_date": "2019-08-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-5)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment Europe",
+    "developer": "Supermassive Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55047,
+      "name": "The Dark Pictures Anthology: Man of Medan",
+      "url": "https://www.igdb.com/games/the-dark-pictures-anthology-man-of-medan",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Supermassive Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Horror",
+        "Survival",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

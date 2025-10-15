@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 141547,
+    "specific_id": 141547,
+    "title": "Evil West",
+    "store_title": "Evil West (Windows)",
+    "pid": "9PC49MD70881",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MW581HCJPM6"
+    ],
+    "sku_groups": [
+      [
+        "9MW581HCJPM6"
+      ],
+      [
+        "9PC49MD70881"
+      ]
+    ],
+    "original_release_date": "2022-11-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-03-21",
+        "removed": "2025-03-16"
+      },
+      "Ultimate": {
+        "added": "2024-03-21",
+        "removed": "2025-03-16"
+      }
+    },
+    {
+      "PC": {
+        "added": "2025-10-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Flying Wild Hog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141547,
+      "name": "Evil West",
+      "url": "https://www.igdb.com/games/evil-west",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Flying Wild Hog"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

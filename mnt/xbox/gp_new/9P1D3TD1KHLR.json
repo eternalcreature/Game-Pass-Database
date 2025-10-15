@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 471,
+    "specific_id": 28722,
+    "title": "Crysis 2",
+    "store_title": "Crysis\u00ae 2 Maximum Edition",
+    "pid": "9P1D3TD1KHLR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BQBTGDT4P54J"
+    ],
+    "sku_groups": [
+      [
+        "9P1D3TD1KHLR"
+      ],
+      [
+        "BQBTGDT4P54J"
+      ]
+    ],
+    "original_release_date": "2011-03-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Crytek"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 471,
+      "name": "Crysis 2",
+      "url": "https://www.igdb.com/games/crysis-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Crytek Frankfurt"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 471,
+      "name": "Crysis 2",
+      "url": "https://www.igdb.com/games/crysis-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Crytek Frankfurt"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

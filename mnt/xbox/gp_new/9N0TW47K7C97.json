@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 252167,
+    "specific_id": 252167,
+    "title": "Madden NFL 24",
+    "store_title": "Madden NFL 24",
+    "pid": "9N0TW47K7C97",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N71WRL15FJ0",
+      "9P74C0WC1KW8"
+    ],
+    "sku_groups": [
+      [
+        "9N0TW47K7C97"
+      ],
+      [
+        "9N71WRL15FJ0"
+      ],
+      [
+        "9P74C0WC1KW8"
+      ]
+    ],
+    "original_release_date": "2023-08-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-02-08",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-02-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252167,
+      "name": "Madden NFL 24",
+      "url": "https://www.igdb.com/games/madden-nfl-24",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

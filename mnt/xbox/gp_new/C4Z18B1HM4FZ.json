@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 384,
+    "specific_id": 384,
+    "title": "Final Fantasy XIII-2",
+    "store_title": "FINAL FANTASY XIII-2",
+    "pid": "C4Z18B1HM4FZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVJ3VL1V3VP"
+    ],
+    "sku_groups": [
+      [
+        "9MVJ3VL1V3VP"
+      ],
+      [
+        "C4Z18B1HM4FZ"
+      ]
+    ],
+    "original_release_date": "2011-12-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Square Enix",
+    "developer": "Square Enix"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 384,
+      "name": "Final Fantasy XIII-2",
+      "url": "https://www.igdb.com/games/final-fantasy-xiii-2",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix",
+        "Square Enix 1st Production Department",
+        "Square Enix Business Division 1",
+        "tri-Ace"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

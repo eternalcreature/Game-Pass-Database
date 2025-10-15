@@ -1,0 +1,128 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [
+    "BW3T6SNS15BH",
+    "BQF6RD6JG16C"
+  ],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (5-5)",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "RayTracing": "Ray Tracing",
+    "60fps": "60 fps+",
+    "120fps": "120 fps",
+    "SpatialSound": "Spatial Sound",
+    "DolbyAtmos": "Dolby Atmos",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Intense Violence",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases",
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "- This game does not support Xbox Play Anywhere. In order to play on Windows, you must purchase the Windows version separately.\r\n- Please note that the Windows version of Resident Evil 3 does not include Resident Evil Resistance.\r\n\r\nJill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon; Nemesis!\r\n\r\nAlso includes Resident Evil Resistance, a new 1 vs 4 online multiplayer game set in the Resident Evil universe where four survivors face-off against a sinister Mastermind.",
+  "developerName": "CAPCOM CO., LTD.",
+  "editions": [
+    "9NDVK8QXM19W",
+    "9NH18TKPS522",
+    "9NTX53L7BDCQ"
+  ],
+  "franchiseId": "RESIDENTEVIL",
+  "franchiseName": "Resident Evil",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 30874742784,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NH18TKPS522",
+  "productKind": "Game",
+  "publisherName": "CAPCOM CO., LTD.",
+  "ratingCount": 824,
+  "releaseDate": "2020-04-03T04:00:00.0000000Z",
+  "shortDescription": "Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon: Nemesis!\r\n\r\nAlso includes Resident Evil Resistance, a new 1 vs 4 online multiplayer game set in the Resident Evil universe.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RBZLL9TRXTM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/15/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4445D67LF81",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/15/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "RESIDENT EVIL 3 for Xbox",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

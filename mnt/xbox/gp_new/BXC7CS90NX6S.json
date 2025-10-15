@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 28574,
+    "specific_id": 28574,
+    "title": "Surviving Mars",
+    "store_title": "Surviving Mars",
+    "pid": "BXC7CS90NX6S",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXC7CS90NX6S"
+      ]
+    ],
+    "original_release_date": "2018-03-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-10",
+        "removed": "2021-06-01"
+      },
+      "Ultimate": {
+        "added": "2020-06-10",
+        "removed": "2021-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Haemimont Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28574,
+      "name": "Surviving Mars",
+      "url": "https://www.igdb.com/games/surviving-mars",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Haemimont Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

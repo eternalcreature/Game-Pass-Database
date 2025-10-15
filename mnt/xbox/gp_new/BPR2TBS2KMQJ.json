@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 9182,
+    "specific_id": 9182,
+    "title": "We Happy Few",
+    "store_title": "We Happy Few",
+    "pid": "BPR2TBS2KMQJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPR2TBS2KMQJ"
+      ]
+    ],
+    "original_release_date": "2018-08-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-11",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2019-01-17",
+        "removed": "2023-01-15"
+      },
+      "Ultimate": {
+        "added": "2019-01-17",
+        "removed": "2023-01-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Gearbox Publishing",
+    "developer": "Compulsion Games Inc"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9182,
+      "name": "We Happy Few",
+      "url": "https://www.igdb.com/games/we-happy-few",
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "developers": [
+        "Compulsion Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Survival",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

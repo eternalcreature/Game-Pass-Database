@@ -1,0 +1,122 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-14)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "The human race has expanded into the galaxy thanks to the wonders of the technological singularity. You have become so powerful that you can manage vast armies across an entire world that provide you with an ever greater galactic empire.\r\n\r\nNow, humanity is under assault by a new enemy. Calling themselves the Substrate, they seek to annihilate the human race from existence. You, as an up and coming member of the Post-Human Coalition, must deal with both this new menace as well as renegade humans trying to lay claim to their own worlds.\r\n\r\nPlay as the Post Human Coalition or their eternal foes the Substrate and battle for control of the galaxy. Experience maps of unprecedented size and detail with the unparalleled power of the world’s first native 64-bit RTS engine, Nitrous.\r\n\r\nEnjoy the game online with friends in ranked or unranked multiplayer mode or play it by yourself against a powerful non-cheating AI in skirmish or campaign mode. No matter what mode you play, strategy is the key: deciding what technologies to research, where to send your armies, how to manage your economy, and what units to construct are crucial to victory.\r\n\r\nExperience a massive-scale real time strategy game where you wage war across worlds with thousands of units. The conflict has escalated, and it’s time to choose a side.",
+  "developerName": "Stardock Entertainment, Oxide Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 32608440320,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PD4G4N5HT9H",
+  "productKind": "Game",
+  "publisherName": "Stardock Entertainment",
+  "ratingCount": 66,
+  "releaseDate": "2022-09-13T00:00:00.0000000Z",
+  "shortDescription": "A massive-scale real-time strategy game where you command entire armies on a dynamic battlefield. Conquer multiple worlds across several single-player campaigns; or play with your friends in multiplayer combat.",
+  "showSupportedLanguageDisclaimer": true,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B38F3L7KQ3D1",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TNXJ3ZZC79P",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Ashes of the Singularity: Escalation",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-09-13T00:00:00Z",
+      "exitDateUTC": "2024-09-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-09-13T00:00:00Z",
+      "exitDateUTC": "2024-09-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

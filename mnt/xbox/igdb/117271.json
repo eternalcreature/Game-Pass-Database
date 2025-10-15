@@ -1,0 +1,78 @@
+{
+  "id": 117271,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 195568,
+      "company": {
+        "id": 25402,
+        "name": "Deck13 Spotlight"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 313173,
+      "company": {
+        "id": 62584,
+        "name": "Matthias Linda"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 314264,
+      "company": {
+        "id": 11975,
+        "name": "WhisperGames"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Chained Echoes",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/chained-echoes"
+}

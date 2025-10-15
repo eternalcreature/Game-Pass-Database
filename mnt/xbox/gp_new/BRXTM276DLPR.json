@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 2113,
+    "specific_id": 2113,
+    "title": "Star Wars Battlefront",
+    "store_title": "STAR WARS\u2122 Battlefront\u2122",
+    "pid": "BRXTM276DLPR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P5MMCTL8MFX"
+    ],
+    "sku_groups": [
+      [
+        "9P5MMCTL8MFX"
+      ],
+      [
+        "BRXTM276DLPR"
+      ]
+    ],
+    "original_release_date": "2015-11-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (4-40)",
+      "XblOnlineCoop": "Online co-op (4-40)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-40)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2113,
+      "name": "Star Wars Battlefront",
+      "url": "https://www.igdb.com/games/star-wars-battlefront--1",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

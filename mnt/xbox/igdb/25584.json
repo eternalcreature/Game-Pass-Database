@@ -1,0 +1,69 @@
+{
+  "id": 25584,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 275692,
+      "company": {
+        "id": 85,
+        "name": "Double Fine Productions"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 275693,
+      "company": {
+        "id": 11431,
+        "name": "Foam Sword"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Knights and Bikes",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/knights-and-bikes"
+}

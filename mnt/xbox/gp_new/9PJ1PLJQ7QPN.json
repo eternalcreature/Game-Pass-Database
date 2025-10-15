@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 11171,
+    "specific_id": 11171,
+    "title": "Tom Clancy's Ghost Recon: Wildlands",
+    "store_title": "Tom Clancy\u2019s Ghost Recon Wildlands",
+    "pid": "9PJ1PLJQ7QPN",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2N9CS4FS1QR"
+    ],
+    "sku_groups": [
+      [
+        "9PJ1PLJQ7QPN"
+      ],
+      [
+        "C2N9CS4FS1QR"
+      ]
+    ],
+    "original_release_date": "2017-03-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-02",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-02",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11171,
+      "name": "Tom Clancy's Ghost Recon: Wildlands",
+      "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Paris"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

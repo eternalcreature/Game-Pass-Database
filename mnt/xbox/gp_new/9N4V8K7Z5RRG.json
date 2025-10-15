@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 188551,
+    "specific_id": 188551,
+    "title": "Taiko no Tatsujin: The Drum Master!",
+    "store_title": "Taiko no Tatsujin: The Drum Master!",
+    "pid": "9N4V8K7Z5RRG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4V8K7Z5RRG"
+      ]
+    ],
+    "original_release_date": "2022-01-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-27",
+        "removed": "2023-02-01"
+      },
+      "Ultimate": {
+        "added": "2022-01-27",
+        "removed": "2023-02-01"
+      },
+      "Console": {
+        "added": "2022-01-27",
+        "removed": "2023-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Music"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "BANDAI NAMCO Amusement Lab Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 188551,
+      "name": "Taiko no Tatsujin: The Drum Master!",
+      "url": "https://www.igdb.com/games/taiko-no-tatsujin-the-drum-master",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Amusement"
+      ],
+      "genres": [
+        "Music"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

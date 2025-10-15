@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 1011,
+    "specific_id": 1011,
+    "title": "Borderlands 2",
+    "store_title": "Borderlands 2",
+    "pid": "BV5SCJ9JM8V0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BV5SCJ9JM8V0"
+      ]
+    ],
+    "original_release_date": "2012-09-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "2K",
+    "developer": "Gearbox Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1011,
+      "name": "Borderlands 2",
+      "url": "https://www.igdb.com/games/borderlands-2",
+      "publishers": [
+        "2K Games",
+        "Aspyr Media",
+        "Sony Computer Entertainment of America"
+      ],
+      "developers": [
+        "Gearbox Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

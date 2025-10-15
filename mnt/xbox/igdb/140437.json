@@ -1,0 +1,58 @@
+{
+  "id": 140437,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 113618,
+      "company": {
+        "id": 4726,
+        "name": "Merge Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 113619,
+      "company": {
+        "id": 16183,
+        "name": "Infuse Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Spirit of the North: Enhanced Edition",
+  "parent_game": 107141,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/spirit-of-the-north-enhanced-edition"
+}

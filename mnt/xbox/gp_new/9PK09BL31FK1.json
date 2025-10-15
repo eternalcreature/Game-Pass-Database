@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 103298,
+    "specific_id": 103298,
+    "title": "Doom Eternal",
+    "store_title": "DOOM Eternal Standard Edition (PC)",
+    "pid": "9PK09BL31FK1",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P0C7T3K4GND",
+      "9P5S26314HWQ"
+    ],
+    "sku_groups": [
+      [
+        "9P0C7T3K4GND",
+        "9P5S26314HWQ"
+      ],
+      [
+        "9PK09BL31FK1"
+      ]
+    ],
+    "original_release_date": "2020-03-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-12-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-12-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-3)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103298,
+      "name": "Doom Eternal",
+      "url": "https://www.igdb.com/games/doom-eternal",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

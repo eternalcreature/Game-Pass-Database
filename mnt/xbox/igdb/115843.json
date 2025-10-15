@@ -1,0 +1,61 @@
+{
+  "id": 115843,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 242569,
+      "company": {
+        "id": 4616,
+        "name": "Witch Beam"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 242570,
+      "company": {
+        "id": 26341,
+        "name": "Humble Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Unpacking",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/unpacking"
+}

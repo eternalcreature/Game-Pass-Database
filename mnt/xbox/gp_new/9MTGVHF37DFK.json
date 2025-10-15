@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 143612,
+    "specific_id": 143612,
+    "title": "Neon White",
+    "store_title": "Neon White",
+    "pid": "9MTGVHF37DFK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MTGVHF37DFK"
+      ]
+    ],
+    "original_release_date": "2022-06-16",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-07-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-07-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-04-16",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Angel Matrix"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143612,
+      "name": "Neon White",
+      "url": "https://www.igdb.com/games/neon-white",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Ben Esposito"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Indie",
+        "Arcade",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

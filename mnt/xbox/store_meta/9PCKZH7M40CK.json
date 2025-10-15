@@ -1,0 +1,170 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 0,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 10
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Nudity",
+      "Blood",
+      "Sexual Themes",
+      "Use of Drugs",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area.\r\nTeam up with Dedsec, a notorious group of hackers, to execute the biggest hack in history; take down ctOS 2.0, an invasive operating system being used by criminal masterminds to monitor and manipulate citizens on a massive scale.\r\n\r\n·         Explore the dynamic open-world, full of gameplay possibilities\r\n·         Hack into every connected device and take control of the city infrastructure.\r\n·         Develop different skills to suit your playstyle, and upgrade your hacker tools – RC cars, Quadcopter drone, 3D printed weapons and much more.\r\n·         Stay seamlessly connected to your friends with a brand new co-op and adversarial multiplayer Watch Dogs experience.",
+  "developerName": "Ubisoft Montreal",
+  "editions": [],
+  "franchiseId": "WATCHDOGS",
+  "franchiseName": "Watch Dogs",
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "nakupcgce"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "UbisoftPCVersion"
+  ],
+  "maxInstallSize": 28991029248,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PCKZH7M40CK",
+  "productKind": "Game",
+  "publisherName": "Ubisoft Entertainment",
+  "ratingCount": 0,
+  "releaseDate": "2025-05-06T14:00:00.0000000Z",
+  "shortDescription": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of the history.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9N14PL0GMZ70",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "07/01/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B00JVJ7HHR4F",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NW0Q9DNC9SX",
+        "discountPercentage": 20.003998,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9R7SNN2VDS3W",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "07/01/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Watch Dogs®2",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-07-19T15:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-07-19T15:00:00Z"
+    },
+    "nakupcgce": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": true
+}

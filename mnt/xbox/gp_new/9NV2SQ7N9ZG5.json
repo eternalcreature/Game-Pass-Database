@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 28952,
+    "specific_id": 28952,
+    "title": "Timespinner",
+    "store_title": "Timespinner",
+    "pid": "9NV2SQ7N9ZG5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NV2SQ7N9ZG5"
+      ]
+    ],
+    "original_release_date": "2018-09-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Role playing"
+    ],
+    "publisher": "Chucklefish",
+    "developer": "Lunar Ray Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28952,
+      "name": "Timespinner",
+      "url": "https://www.igdb.com/games/timespinner",
+      "publishers": [
+        "Chucklefish Games",
+        "DANGEN Entertainment"
+      ],
+      "developers": [
+        "Lunar Ray Games"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

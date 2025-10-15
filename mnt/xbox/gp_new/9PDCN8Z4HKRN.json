@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 320144,
+    "specific_id": 320144,
+    "title": "FBC: Firebreak",
+    "store_title": "FBC: Firebreak",
+    "pid": "9PDCN8Z4HKRN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDCN8Z4HKRN"
+      ]
+    ],
+    "original_release_date": "2025-06-17",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "CapabilityHDR": "HDR10",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "Remedy Entertainment",
+    "developer": "Remedy Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 320144,
+      "name": "FBC: Firebreak",
+      "url": "https://www.igdb.com/games/fbc-firebreak",
+      "publishers": [
+        "Remedy Entertainment"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

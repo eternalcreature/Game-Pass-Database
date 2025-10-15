@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 54548,
+    "specific_id": 54548,
+    "title": "Dragon Quest Builders 2",
+    "store_title": "DRAGON QUEST BUILDERS 2",
+    "pid": "9PFD00CZJ35V",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PFD00CZJ35V"
+      ]
+    ],
+    "original_release_date": "2019-07-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-01",
+        "removed": "2023-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-01",
+        "removed": "2023-05-01"
+      },
+      "Console": {
+        "added": "2022-05-01",
+        "removed": "2023-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "Developed by KOEI TECMO GAMES CO.,LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 54548,
+      "name": "Dragon Quest Builders 2",
+      "url": "https://www.igdb.com/games/dragon-quest-builders-2",
+      "publishers": [
+        "Nintendo",
+        "Square Enix"
+      ],
+      "developers": [
+        "Omega Force",
+        "Square Enix Business Division 5"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

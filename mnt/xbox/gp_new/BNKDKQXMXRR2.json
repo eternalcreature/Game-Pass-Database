@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 2587,
+    "specific_id": 2587,
+    "title": "Skate 3",
+    "store_title": "Skate 3",
+    "pid": "BNKDKQXMXRR2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNKDKQXMXRR2"
+      ]
+    ],
+    "original_release_date": "2010-05-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts Blackbox"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2587,
+      "name": "Skate 3",
+      "url": "https://www.igdb.com/games/skate-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Black Box"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

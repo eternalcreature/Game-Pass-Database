@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 178126,
+    "specific_id": 178126,
+    "title": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "store_title": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
+    "pid": "9P7RSGG6Z699",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7RSGG6Z699"
+      ]
+    ],
+    "original_release_date": "2021-11-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-11-11",
+        "removed": "2022-05-11"
+      },
+      "Ultimate": {
+        "added": "2021-11-11",
+        "removed": "2022-05-11"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 178126,
+      "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "url": "https://www.igdb.com/games/grand-theft-auto-san-andreas-the-definitive-edition",
+      "publishers": [
+        "Netflix",
+        "Rockstar Games"
+      ],
+      "developers": [
+        "Grove Street Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Racing",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

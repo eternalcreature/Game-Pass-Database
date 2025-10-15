@@ -1,0 +1,123 @@
+{
+  "basic_info": {
+    "base_id": 3182,
+    "specific_id": 47452,
+    "title": "Diablo III: Reaper of Souls",
+    "store_title": "Diablo\u00ae III: Reaper of Souls\u2122 \u2013 Ultimate Evil Edition PC",
+    "pid": "9N9DKMNL85XZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2R5R5P2DF3C"
+    ],
+    "sku_groups": [
+      [
+        "9N9DKMNL85XZ"
+      ],
+      [
+        "C2R5R5P2DF3C"
+      ]
+    ],
+    "original_release_date": "2014-08-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-04-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing",
+      "Action & adventure"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3182,
+      "name": "Diablo III: Reaper of Souls",
+      "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls",
+      "publishers": [
+        "Blizzard Entertainment",
+        "Square Enix"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 3182,
+      "name": "Diablo III: Reaper of Souls",
+      "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls",
+      "publishers": [
+        "Blizzard Entertainment",
+        "Square Enix"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Incomplete Entries ({{ completion_data|length }})</h2>
+
+<table class="table table-striped align-middle" id="completionTable">
+    <thead>
+        <tr>
+            <th onclick="sortTable(0)">Game</th>
+            <th onclick="sortTable(1)">Completion</th>
+            <th onclick="sortTable(2)">Filled / Total</th>
+            <th onclick="sortTable(3)">Missing Fields</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for entry in completion_data %}
+        <tr>
+            <td>{{ entry.game.game }}</td>
+            <td>
+                <div class="progress" style="height: 20px;">
+                    <div class="progress-bar {% if entry.percent >= 75 %}bg-info{% elif entry.percent >= 50 %}bg-warning{% else %}bg-danger{% endif %}"
+                        style="width: {{ entry.percent }}%">
+                        {{ entry.percent }}%
+                    </div>
+                </div>
+            </td>
+            <td>{{ entry.filled }} / {{ entry.total }}</td>
+            <td>
+                {% if entry.missing %}
+                {{ entry.missing | join(', ') }}
+                {% else %}
+                <span class="text-success">Complete</span>
+                {% endif %}
+            </td>
+            <td><a href="{{ url_for('edit', game_id=entry.game.id) }}" class="btn btn-sm btn-primary">Edit</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+    function sortTable(n) {
+        const table = document.getElementById("completionTable");
+        let switching = true;
+        let dir = "asc";
+        while (switching) {
+            switching = false;
+            const rows = table.rows;
+            for (let i = 1; i < rows.length - 1; i++) {
+                let shouldSwitch = false;
+                const x = rows[i].getElementsByTagName("TD")[n];
+                const y = rows[i + 1].getElementsByTagName("TD")[n];
+                let xVal = x.innerText.toLowerCase();
+                let yVal = y.innerText.toLowerCase();
+                if (!isNaN(parseFloat(xVal)) && !isNaN(parseFloat(yVal))) {
+                    xVal = parseFloat(xVal);
+                    yVal = parseFloat(yVal);
+                }
+                if (dir === "asc" && xVal > yVal) { shouldSwitch = true; break; }
+                if (dir === "desc" && xVal < yVal) { shouldSwitch = true; break; }
+            }
+            if (shouldSwitch) {
+                rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                switching = true;
+            } else if (!switching && dir === "asc") {
+                dir = "desc";
+                switching = true;
+            }
+        }
+    }
+</script>
+{% endblock %}

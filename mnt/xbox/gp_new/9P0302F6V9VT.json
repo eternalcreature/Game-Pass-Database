@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 308697,
+    "specific_id": 308697,
+    "title": "Orcs Must Die! Deathtrap",
+    "store_title": "Orcs Must Die! Deathtrap",
+    "pid": "9P0302F6V9VT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P0302F6V9VT"
+      ]
+    ],
+    "original_release_date": "2025-01-28",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-01-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-01-28",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-01-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-08-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy",
+      "Shooter"
+    ],
+    "publisher": "Robot Entertainment, Inc.",
+    "developer": "Robot Entertainment, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 308697,
+      "name": "Orcs Must Die! Deathtrap",
+      "url": "https://www.igdb.com/games/orcs-must-die-deathtrap",
+      "publishers": [
+        "Robot Entertainment"
+      ],
+      "developers": [
+        "Robot Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 5503,
+    "specific_id": 5503,
+    "title": "Batman: Arkham Knight",
+    "store_title": "Batman\u2122: Arkham Knight",
+    "pid": "BSLX1RNXR6H7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BSLX1RNXR6H7"
+      ]
+    ],
+    "original_release_date": "2015-06-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-03-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Console": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Rocksteady Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5503,
+      "name": "Batman: Arkham Knight",
+      "url": "https://www.igdb.com/games/batman-arkham-knight",
+      "publishers": [
+        "Warner Bros. Interactive Entertainment"
+      ],
+      "developers": [
+        "Rocksteady Studios"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Thriller",
+        "Stealth",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

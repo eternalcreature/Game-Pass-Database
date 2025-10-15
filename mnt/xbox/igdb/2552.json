@@ -1,0 +1,74 @@
+{
+  "id": 2552,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 269048,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 269049,
+      "company": {
+        "id": 437,
+        "name": "Avalanche Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 236063,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Mad Max",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mad-max"
+}

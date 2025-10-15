@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 27771,
+    "specific_id": 27771,
+    "title": "Moonlighter",
+    "store_title": "Moonlighter",
+    "pid": "9P8XJRLCLH2P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P8XJRLCLH2P"
+      ]
+    ],
+    "original_release_date": "2018-05-29",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "Digital Sun"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27771,
+      "name": "Moonlighter",
+      "url": "https://www.igdb.com/games/moonlighter",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "Digital Sun Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

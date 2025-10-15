@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 132188,
+    "specific_id": 132188,
+    "title": "Dordogne",
+    "store_title": "Dordogne",
+    "pid": "9PBC65KXPV5V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3GDLVDMXG4"
+    ],
+    "sku_groups": [
+      [
+        "9N3GDLVDMXG4"
+      ],
+      [
+        "9PBC65KXPV5V"
+      ]
+    ],
+    "original_release_date": "2023-06-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-06-13",
+        "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-13",
+        "removed": "2025-06-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Other"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Un Je Ne Sais Quoi, Umanimation"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 132188,
+      "name": "Dordogne",
+      "url": "https://www.igdb.com/games/dordogne",
+      "publishers": [
+        "Focus Entertainment",
+        "Un Je Ne Sais Quoi"
+      ],
+      "developers": [
+        "Umanimation",
+        "Un Je Ne Sais Quoi"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

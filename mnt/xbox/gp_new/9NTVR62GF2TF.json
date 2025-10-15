@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 237681,
+    "specific_id": 237681,
+    "title": "Shadow Warrior 3: Definitive Edition",
+    "store_title": "Shadow Warrior 3: Definitive Edition",
+    "pid": "9NTVR62GF2TF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P6N45QZR81R"
+    ],
+    "sku_groups": [
+      [
+        "9NTVR62GF2TF"
+      ],
+      [
+        "9P6N45QZR81R"
+      ]
+    ],
+    "original_release_date": "2022-03-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-02-16",
+        "removed": "2024-08-16"
+      },
+      "Ultimate": {
+        "added": "2023-02-16",
+        "removed": "2024-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Flying Wild Hog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 237681,
+      "name": "Shadow Warrior 3: Definitive Edition",
+      "url": "https://www.igdb.com/games/shadow-warrior-3-definitive-edition",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Flying Wild Hog"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

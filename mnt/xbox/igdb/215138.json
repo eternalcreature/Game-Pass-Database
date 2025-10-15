@@ -1,0 +1,69 @@
+{
+  "id": 215138,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 185744,
+      "company": {
+        "id": 3006,
+        "name": "Gaming Minds Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 185745,
+      "company": {
+        "id": 783,
+        "name": "Kalypso Media"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Railway Empire 2",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 28,
+      "name": "Business"
+    },
+    {
+      "id": 32,
+      "name": "Non-fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/railway-empire-2"
+}

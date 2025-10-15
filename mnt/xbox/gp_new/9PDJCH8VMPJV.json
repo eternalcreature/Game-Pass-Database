@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 256092,
+    "specific_id": 256092,
+    "title": "EA Sports FC 24",
+    "store_title": "EA SPORTS FC\u2122 24",
+    "pid": "9PDJCH8VMPJV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NN6QW1NPCKN",
+      "9P5H37NXML9D"
+    ],
+    "sku_groups": [
+      [
+        "9NN6QW1NPCKN"
+      ],
+      [
+        "9P5H37NXML9D"
+      ],
+      [
+        "9PDJCH8VMPJV"
+      ]
+    ],
+    "original_release_date": "2023-09-29",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-06-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-06-25",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-06-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CrossPlatformCoOp": "Cross-platform co-op"
+    },
+    "categories": [
+      "Sports",
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 256092,
+      "name": "EA Sports FC 24",
+      "url": "https://www.igdb.com/games/ea-sports-fc-24",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Romania",
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

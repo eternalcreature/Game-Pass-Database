@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 127816,
+    "specific_id": 127816,
+    "title": "Paradise Killer",
+    "store_title": "Paradise Killer",
+    "pid": "9N673ZL1TCS7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N673ZL1TCS7"
+      ]
+    ],
+    "original_release_date": "2020-09-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-16",
+        "removed": "2023-03-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-16",
+        "removed": "2023-03-16"
+      },
+      "Console": {
+        "added": "2022-03-16",
+        "removed": "2023-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Fellow Traveller",
+    "developer": "Kaizen Game Works"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127816,
+      "name": "Paradise Killer",
+      "url": "https://www.igdb.com/games/paradise-killer",
+      "publishers": [
+        "Fellow Traveller"
+      ],
+      "developers": [
+        "Kaizen Game Works"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

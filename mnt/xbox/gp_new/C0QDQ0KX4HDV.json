@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 1262,
+    "specific_id": 1262,
+    "title": "South Park: The Stick of Truth",
+    "store_title": "South Park\u2122: The Stick of Truth \u2122",
+    "pid": "C0QDQ0KX4HDV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NQ26CN8MZ1R"
+    ],
+    "sku_groups": [
+      [
+        "9NQ26CN8MZ1R"
+      ],
+      [
+        "C0QDQ0KX4HDV"
+      ]
+    ],
+    "original_release_date": "2014-03-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Obsidian Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1262,
+      "name": "South Park: The Stick of Truth",
+      "url": "https://www.igdb.com/games/south-park-the-stick-of-truth",
+      "publishers": [],
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

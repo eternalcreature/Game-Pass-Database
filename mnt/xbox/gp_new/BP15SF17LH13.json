@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 1979,
+    "specific_id": 1979,
+    "title": "Battlefield 4",
+    "store_title": "Battlefield 4",
+    "pid": "BP15SF17LH13",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C5610G5KX0D6",
+      "9NPSWGMTPRVW"
+    ],
+    "sku_groups": [
+      [
+        "9NPSWGMTPRVW"
+      ],
+      [
+        "BP15SF17LH13",
+        "C5610G5KX0D6"
+      ]
+    ],
+    "original_release_date": "2013-10-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-64)",
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Digital Illusions CE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1979,
+      "name": "Battlefield 4",
+      "url": "https://www.igdb.com/games/battlefield-4",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

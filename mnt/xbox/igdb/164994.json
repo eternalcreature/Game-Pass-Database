@@ -1,0 +1,65 @@
+{
+  "id": 164994,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 151076,
+      "company": {
+        "id": 18288,
+        "name": "Gamera Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 151077,
+      "company": {
+        "id": 37951,
+        "name": "Egg Hatcher"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Volcano Princess",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/volcano-princess"
+}

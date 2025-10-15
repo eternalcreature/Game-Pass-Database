@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 8347,
+    "specific_id": 8347,
+    "title": "The Long Dark",
+    "store_title": "The Long Dark",
+    "pid": "9NFKN56ZBMR0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C41ZDFQ82M1G"
+    ],
+    "sku_groups": [
+      [
+        "9NFKN56ZBMR0"
+      ],
+      [
+        "C41ZDFQ82M1G"
+      ]
+    ],
+    "original_release_date": "2017-08-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-16",
+        "removed": "2023-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-04-16",
+        "removed": "2023-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Hinterland Studio Inc",
+    "developer": "Hinterland Studio Inc"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8347,
+      "name": "The Long Dark",
+      "url": "https://www.igdb.com/games/the-long-dark",
+      "publishers": [
+        "Hinterland Studio Inc."
+      ],
+      "developers": [
+        "Hinterland Studio Inc."
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

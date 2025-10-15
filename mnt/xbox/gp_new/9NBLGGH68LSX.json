@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 21606,
+    "specific_id": 21606,
+    "title": "Riptide GP: Renegade",
+    "store_title": "Riptide GP: Renegade",
+    "pid": "9NBLGGH68LSX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLGGH68LSX"
+      ]
+    ],
+    "original_release_date": "2016-07-26",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Vector Unit",
+    "developer": "Vector Unit"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 21606,
+      "name": "Riptide GP: Renegade",
+      "url": "https://www.igdb.com/games/riptide-gp-renegade",
+      "publishers": [
+        "Vector Unit"
+      ],
+      "developers": [
+        "Vector Unit"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

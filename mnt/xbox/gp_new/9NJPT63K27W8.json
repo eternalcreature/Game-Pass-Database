@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 29511,
+    "specific_id": 29511,
+    "title": "Double Kick Heroes",
+    "store_title": "Double Kick Heroes",
+    "pid": "9NJPT63K27W8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJPT63K27W8"
+      ]
+    ],
+    "original_release_date": "2020-08-13",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-28",
+        "removed": "2021-09-01"
+      },
+      "Ultimate": {
+        "added": "2020-08-28",
+        "removed": "2021-09-01"
+      },
+      "PC": {
+        "added": "2020-08-28",
+        "removed": "2021-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Music"
+    ],
+    "publisher": "Plug In Digital",
+    "developer": "Headbang Club"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 29511,
+      "name": "Double Kick Heroes",
+      "url": "https://www.igdb.com/games/double-kick-heroes",
+      "publishers": [
+        "Plug In Digital",
+        "WhisperGames"
+      ],
+      "developers": [
+        "Headbang Club"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Music",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

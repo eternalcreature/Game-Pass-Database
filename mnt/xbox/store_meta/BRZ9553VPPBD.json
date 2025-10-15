@@ -1,0 +1,123 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "SinglePlayer": "Single player",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "From the dawn of creation, THE COUNCIL has maintained the Balance across existence.  Carrying out their orders are THE HORSEMEN, Nephilim (powerful beings spawned from the unnatural union of angels and demons) who have pledged themselves to the Council and been granted immense power.  However, this power came at a tragic cost: the Horsemen were ordered to use their newfound strength to wipe out the rest of their kind.  What followed was a bloody battle on Eden where the Horsemen, obeying the will of the Council, annihilated the Nephilim.\r\n\r\nStill reeling from the events on Eden, WAR and STRIFE have been given a new assignment -- LUCIFER, the enigmatic and deceptive demon king, has been plotting to upset the Balance by granting power to master demons throughout Hell.  War and Strife must hunt down these masters, gather information, and ultimately fight their way through a tangled, demonic conspiracy that threatens to forever upset the Balance and unravel all of creation.",
+  "developerName": "Airship Syndicate",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 12446130176,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BRZ9553VPPBD",
+  "productKind": "Game",
+  "publisherName": "THQ Nordic",
+  "ratingCount": 220,
+  "releaseDate": "2020-02-14T17:00:00.0000000Z",
+  "shortDescription": "DARKSIDERS: GENESIS is an action/adventure that tears its way through Hell and back with guns blazing and swords swinging.  Genesis gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B0KX6KK2P4P6",
+        "discountPercentage": 75.01876,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9W473MGRPQ7S",
+        "discountPercentage": 75.01876,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/09/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 9.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Darksiders Genesis",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-08-06T00:00:00Z",
+      "exitDateUTC": "2021-08-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-08-06T00:00:00Z",
+      "exitDateUTC": "2021-08-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

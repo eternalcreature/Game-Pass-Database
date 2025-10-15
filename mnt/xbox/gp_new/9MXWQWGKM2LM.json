@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 151956,
+    "specific_id": 151956,
+    "title": "Farworld Pioneers",
+    "store_title": "Farworld Pioneers",
+    "pid": "9MXWQWGKM2LM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXWQWGKM2LM"
+      ]
+    ],
+    "original_release_date": "2023-05-30",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-05-30",
+        "removed": "2024-06-01"
+      },
+      "Ultimate": {
+        "added": "2023-05-30",
+        "removed": "2024-06-01"
+      },
+      "Console": {
+        "added": "2023-05-30",
+        "removed": "2024-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-32)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Other"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Igloosoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 151956,
+      "name": "Farworld Pioneers",
+      "url": "https://www.igdb.com/games/farworld-pioneers",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Igloosoft"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

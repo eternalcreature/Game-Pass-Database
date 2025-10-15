@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 25653,
+    "specific_id": 25653,
+    "title": "The Escapists 2",
+    "store_title": "The Escapists 2",
+    "pid": "BS8XGCLL3VQZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS8XGCLL3VQZ"
+      ]
+    ],
+    "original_release_date": "2017-08-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Team17 Digital Ltd",
+    "developer": "Mouldy Toof Studios and Team17 Digital Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25653,
+      "name": "The Escapists 2",
+      "url": "https://www.igdb.com/games/the-escapists-2",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Mouldy Toof Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

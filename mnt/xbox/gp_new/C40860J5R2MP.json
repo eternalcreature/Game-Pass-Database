@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 36813,
+    "specific_id": 36813,
+    "title": "The Evil Within 2",
+    "store_title": "The Evil Within\u00ae 2",
+    "pid": "C40860J5R2MP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NT0NT8JQMQN"
+    ],
+    "sku_groups": [
+      [
+        "9NT0NT8JQMQN"
+      ],
+      [
+        "C40860J5R2MP"
+      ]
+    ],
+    "original_release_date": "2017-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Tango Gameworks"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36813,
+      "name": "The Evil Within 2",
+      "url": "https://www.igdb.com/games/the-evil-within-2",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Tango Gameworks"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

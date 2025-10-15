@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 26183,
+    "specific_id": 26183,
+    "title": "Halo Wars: Definitive Edition",
+    "store_title": "Halo Wars: Definitive Edition",
+    "pid": "BPRPQSKXTD1L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPRPQSKXTD1L"
+      ]
+    ],
+    "original_release_date": "2009-02-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-10-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-10-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "GameStreaming": "Cloud enabled",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "343 Industries / Behaviour Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26183,
+      "name": "Halo Wars: Definitive Edition",
+      "url": "https://www.igdb.com/games/halo-wars-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Ensemble Studios"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

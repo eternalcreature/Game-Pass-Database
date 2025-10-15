@@ -1,0 +1,135 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence"
+  },
+  "categories": [
+    "Action & adventure",
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Intense Violence",
+      "Blood and Gore",
+      "Suggestive Themes",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "Shares Location"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Shadow Warrior 2 is the stunning evolution of Flying Wild Hog’s offbeat first-person shooter following the further misadventures of former corporate shogun Lo Wang. Now surviving as a reclusive mercenary on the edge of a corrupted world, the formidable warrior must again wield a devastating combination of guns, blades, magic and wit to strike down the demonic legions overwhelming the world. Battle in spectacular procedurally-generated landscapes to complete daring missions and collect powerful new weapons, armor, and arcane relics of legend.",
+  "developerName": "Flying Wild Hog",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 14406541312,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P6SFBR1TCWQ",
+  "productKind": "Game",
+  "publisherName": "Devolver Digital",
+  "ratingCount": 174,
+  "releaseDate": "2019-09-19T00:00:00.0000000Z",
+  "shortDescription": "Shadow Warrior 2 is the stunning evolution of Flying Wild Hog’s offbeat first-person shooter following the further misadventures of former corporate shogun Lo Wang.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QQ7MX4L0JT5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RX76ZS94MMG",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Shadow Warrior 2",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-04-01T00:00:00Z",
+      "exitDateUTC": "2022-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-04-01T00:00:00Z",
+      "exitDateUTC": "2022-04-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

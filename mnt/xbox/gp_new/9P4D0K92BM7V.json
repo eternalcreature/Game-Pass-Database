@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "base_id": 103329,
+    "specific_id": 136604,
+    "title": "Control",
+    "store_title": "Control Ultimate Edition - Xbox Series X|S",
+    "pid": "9P4D0K92BM7V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P2WJCRJBMRM",
+      "9P7LVXNVQ6K7",
+      "BZ6W9LRPC26W",
+      "9PL1J8PJKH29"
+    ],
+    "sku_groups": [
+      [
+        "9P2WJCRJBMRM",
+        "BZ6W9LRPC26W"
+      ],
+      [
+        "9P4D0K92BM7V"
+      ],
+      [
+        "9P7LVXNVQ6K7",
+        "9PL1J8PJKH29"
+      ]
+    ],
+    "original_release_date": "2019-08-27",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2024-08-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-03-13",
+        "removed": null
+      },
+      "Console": {
+        "added": "2024-03-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Remedy Entertainment Plc.",
+    "developer": "Remedy Entertainment Plc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103329,
+      "name": "Control",
+      "url": "https://www.igdb.com/games/control",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Thriller"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 103329,
+      "name": "Control",
+      "url": "https://www.igdb.com/games/control",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Thriller"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

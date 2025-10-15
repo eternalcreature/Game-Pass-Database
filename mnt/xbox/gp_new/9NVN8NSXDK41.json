@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 152302,
+    "specific_id": 152302,
+    "title": "Paw Patrol the Movie: Adventure City Calls",
+    "store_title": "PAW Patrol The Movie: Adventure City Calls",
+    "pid": "9NVN8NSXDK41",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NVN8NSXDK41"
+      ]
+    ],
+    "original_release_date": "2021-08-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-14",
+        "removed": "2023-07-16"
+      },
+      "Ultimate": {
+        "added": "2022-07-14",
+        "removed": "2023-07-16"
+      },
+      "Console": {
+        "added": "2022-07-14",
+        "removed": "2023-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Platformer"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Drakhar Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152302,
+      "name": "Paw Patrol the Movie: Adventure City Calls",
+      "url": "https://www.igdb.com/games/paw-patrol-the-movie-adventure-city-calls",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Drakhar Studio"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

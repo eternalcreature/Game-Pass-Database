@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 94970,
+    "specific_id": 94970,
+    "title": "Lumines Remastered",
+    "store_title": "LUMINES REMASTERED",
+    "pid": "BNVQ3TXZ3JH4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNVQ3TXZ3JH4"
+      ]
+    ],
+    "original_release_date": "2018-06-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-08-05",
+        "removed": "2022-08-01"
+      },
+      "Ultimate": {
+        "added": "2021-08-05",
+        "removed": "2022-08-01"
+      },
+      "PC": {
+        "added": "2021-08-05",
+        "removed": "2022-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Music",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Enhance",
+    "developer": "Resonair"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 94970,
+      "name": "Lumines Remastered",
+      "url": "https://www.igdb.com/games/lumines-remastered",
+      "publishers": [
+        "Enhance"
+      ],
+      "developers": [
+        "Enhance",
+        "Resonair"
+      ],
+      "genres": [
+        "Music",
+        "Puzzle",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

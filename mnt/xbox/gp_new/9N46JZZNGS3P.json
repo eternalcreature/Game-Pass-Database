@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 185253,
+    "specific_id": 185253,
+    "title": "Dune: Spice Wars",
+    "store_title": "Dune: Spice Wars",
+    "pid": "9N46JZZNGS3P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N46JZZNGS3P"
+      ]
+    ],
+    "original_release_date": "2022-04-26",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-11-28",
+        "removed": "2025-05-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-17",
+        "removed": "2025-05-16"
+      },
+      "PC": {
+        "added": "2022-11-17",
+        "removed": "2025-05-16"
+      },
+      "Premium": {
+        "added": "2024-09-04",
+        "removed": "2025-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Funcom, Shiro Games",
+    "developer": "Shiro Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 185253,
+      "name": "Dune: Spice Wars",
+      "url": "https://www.igdb.com/games/dune-spice-wars",
+      "publishers": [
+        "Funcom",
+        "Shiro Games"
+      ],
+      "developers": [
+        "Shiro Games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Science fiction",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

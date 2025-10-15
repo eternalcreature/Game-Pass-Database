@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 145134,
+    "specific_id": 145134,
+    "title": "Lawn Mowing Simulator",
+    "store_title": "Lawn Mowing Simulator",
+    "pid": "9NPFJTM4HBH9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NPFJTM4HBH9"
+      ]
+    ],
+    "original_release_date": "2021-08-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2023-06-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2023-06-01"
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2023-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Curve Games",
+    "developer": "Skyhook Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145134,
+      "name": "Lawn Mowing Simulator",
+      "url": "https://www.igdb.com/games/lawn-mowing-simulator",
+      "publishers": [
+        "Astragon",
+        "Curve Digital"
+      ],
+      "developers": [
+        "Skyhook Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

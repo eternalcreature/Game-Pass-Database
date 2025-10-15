@@ -1,0 +1,143 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "PcGamePad": "PC Game Pad",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Family & kids",
+    "Other",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Put your love for pups to the test - we have a bunch of dogs that need their photos taken, doggone it! Photograph and catalogue the finest (and derpiest) dogs to build your career, upgrade your camera, and discover new canines. WOOF!\r\n\r\nWho will photograph, pet, and tell these dogs they're good boys and girls if you don't?? The world NEEDS you in Pupperazzi, the dog photography game! Snap photos of dogs while maintaining your social media presence. Will you hound for stardom in public, or would you rather be taken seriously as an artist? Perhaps you just want to show your friends the cute dog you saw while you were out. It's your choice which direction your career goes - just don’t forget to pet the dogs along the way.\r\n\r\nDodge between people and obstacles as you try to capture canine beauty on everlasting digital photos. Double jump across buildings to get that lucrative shot of a local dog celebrity just trying to live their life. Slow motion zooming helps capture mid-air moments that actually make you feel something.\r\n\r\nIt’s a ruff world out there and it’s up to you to document it!",
+  "developerName": "Sundae Month",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 929976320,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P34LH5ZWBVG",
+  "productKind": "Game",
+  "publisherName": "Kitfox Games",
+  "ratingCount": 224,
+  "releaseDate": "2022-01-20T14:00:00.0000000Z",
+  "shortDescription": "Who will photograph, pet, and befriend these dogs if you don't? The world NEEDS you in Pupperazzi, the dog photography game!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SV1J6S0RQ13",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B226GJ43CK0M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Pupperazzi",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-01-20T14:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-01-20T14:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-01-20T14:00:00Z",
+      "exitDateUTC": "2023-01-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "PUPPERAZZI",
+    "xboxTitleId": 2007242268,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

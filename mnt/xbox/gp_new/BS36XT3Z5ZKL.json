@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 28706,
+    "specific_id": 28706,
+    "title": "Madden NFL 18",
+    "store_title": "Madden NFL 18",
+    "pid": "BS36XT3Z5ZKL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS36XT3Z5ZKL"
+      ]
+    ],
+    "original_release_date": "2017-08-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28706,
+      "name": "Madden NFL 18",
+      "url": "https://www.igdb.com/games/madden-nfl-18",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 4754,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 42283,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184026,
+      "company": {
+        "id": 112,
+        "name": "Sega"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184027,
+      "company": {
+        "id": 111,
+        "name": "The Creative Assembly"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Alien: Isolation",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/alien-isolation"
+}

@@ -1,0 +1,57 @@
+{
+  "id": 250162,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 215582,
+      "company": {
+        "id": 12319,
+        "name": "Digital Sun Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 269856,
+      "company": {
+        "id": 35110,
+        "name": "Hooded Horse"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Cataclismo",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/cataclismo"
+}

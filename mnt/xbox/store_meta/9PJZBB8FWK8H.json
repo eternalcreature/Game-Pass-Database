@@ -1,0 +1,139 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Platformer",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "EMPLOYEEEEEE! The Bureau of Shipping is the galaxy's premiere package delivery corporation. For hundreds of years our customers have trusted us to deliver their goods, real good. And now you get to be part of that delivery magic.\r\n\r\nAs a new Employee to the Levelhead Division, you are responsible for training your very own GR-18 delivery robot for every possible delivery scenario. Create L.E.V.E.L.s, or \"Limited Exercises for eValuating employEe Limitations\", with the intuitive Level editor in the Workshop, then publish them for the whole world to experience.\r\n\r\nBuild incredible contraptions and machines, craft adventurous expeditions that require brain and brawn to complete, or just create a relaxing music scene for other Levelheads to chill with. Once you've completed your Level, share it with the rest of the world... and gain a following! The Levelhead Division comes equipped with powerful curation and Following systems, so you'll always be able to find the best new Levels created by your colleagues.\r\n\r\nAnd don't forget about the Training course! More than 90 hand-crafted Levels offer a wealth of challenges and surprises to jumpstart your creativity.\r\n\r\nWhat are you waiting for, Employee? Get out there and do good for our goods!",
+  "developerName": "Butterscotch Shenanigans",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 553766912,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PJZBB8FWK8H",
+  "productKind": "Game",
+  "publisherName": "Butterscotch Shenanigans",
+  "ratingCount": 195,
+  "releaseDate": "2020-04-30T12:00:00.0000000Z",
+  "shortDescription": "Build, play, share and compete in Levelhead, the platformer maker. Create challenging levels with the deep, intuitive systems of the level editor, then share those levels with the world and gain a following!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B36J86VDDTQ0",
+        "discountPercentage": 95.04752,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 0.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9X96WQ2TWWMG",
+        "discountPercentage": 95.04752,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 0.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Levelhead",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-04-30T12:00:00Z",
+      "exitDateUTC": "2021-05-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-04-30T12:00:00Z",
+      "exitDateUTC": "2021-05-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "LEVELHEAD",
+    "xboxTitleId": 1716669263,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

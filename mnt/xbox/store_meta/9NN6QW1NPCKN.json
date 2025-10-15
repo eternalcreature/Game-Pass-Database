@@ -1,0 +1,121 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Chat speech-to-text & text-to-speech",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2.2,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-22)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Sports",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "EA SPORTS FC™ 24 is a new era for The World’s Game: 19,000+ fully licensed players, 700+ teams, and 30+ leagues playing together in the most authentic football experience ever created.\r\n\r\nFeel closer to the game with three cutting-edge technologies powering unparalleled realism in every match: HyperMotionV*, PlayStyles optimised by Opta, and an enhanced Frostbite™ Engine.\r\nHyperMotionV captures the game as it’s truly played, using volumetric data from 180+ pro men’s and women’s matches to ensure movement in-game accurately reflects real-world action on the pitch.\r\nPlayStyles dimensionalise athletes, interpreting data from Opta and other sources into signature abilities which heighten the realism and individuality of each player.\r\nThe enhanced Frostbite™ Engine delivers The World’s Game in lifelike detail, bringing a new level of immersion to each match.\r\n\r\nDevelop club legends and improve your players with the brand new Ultimate Team™ Evolutions, and welcome women’s footballers to the pitch alongside men as you craft your dream XI.\r\nWrite your own story in Manager and Player Career, and join friends on the pitch with cross-play** in Clubs and VOLTA FOOTBALL™.\r\n\r\nEA SPORTS FC™ 24 is the next chapter in a more innovative future of football.\r\n\r\nThis game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\r\nFC Points not available in Belgium.\r\nConditions and restrictions apply. See https://www.ea.com/games/ea-sports-fc/fc-24/game-offer-and-disclaimers for details.\r\n*HyperMotionV technology only available on Xbox Series X|S.\r\n**Cross-play enabled in certain modes on same-generation platforms. Cross-play not available on Nintendo Switch™ version. See ea.com/games/ea-sports-fc/fc-24/news/fc24crossplayupdate for details.\r\n\r\n© 2023 Electronic Arts Inc. Electronic Arts, EA, EA SPORTS, the EA SPORTS logo, EA SPORTS FC, the EA SPORTS FC logo, Frostbite, the Frostbite logo, Ultimate Team, and VOLTA FOOTBALL are trademarks of Electronic Arts Inc.",
+  "developerName": "EA Canada",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 68686503936,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NN6QW1NPCKN",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 434,
+  "shortDescription": "EA SPORTS FC™ 24 welcomes you to The World’s Game: the most true-to-football experience ever with HyperMotionV*, PlayStyles optimised by Opta, and an enhanced Frostbite™ Engine reinventing how 19,000+ authentic players move, play and look in every match.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 0
+  },
+  "title": "EA SPORTS FC™ 24 Xbox Series X|S",
+  "xCloudProperties": {
+    "xCloudId": "EASPORTSFC24XBOXSERIESXS",
+    "xboxTitleId": 1852502655,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2024-06-25T15:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "EASPORTSFC24XBOXSERIESXS",
+    "xboxTitleId": 1852502655,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

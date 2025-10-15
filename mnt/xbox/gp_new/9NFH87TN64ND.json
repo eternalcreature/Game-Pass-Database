@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 7477,
+    "specific_id": 7477,
+    "title": "Valkyria Chronicles",
+    "store_title": "Valkyria Chronicles",
+    "pid": "9NFH87TN64ND",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFH87TN64ND"
+      ]
+    ],
+    "original_release_date": "2008-04-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "Lab42"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7477,
+      "name": "Valkyria Chronicles",
+      "url": "https://www.igdb.com/games/valkyria-chronicles",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sega WOW"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Stealth",
+        "Drama",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

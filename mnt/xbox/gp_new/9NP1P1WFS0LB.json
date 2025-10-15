@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 103281,
+    "specific_id": 103281,
+    "title": "Halo Infinite",
+    "store_title": "Halo Infinite",
+    "pid": "9NP1P1WFS0LB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PP5G1F0C2B6"
+    ],
+    "sku_groups": [
+      [
+        "9NP1P1WFS0LB",
+        "9PP5G1F0C2B6"
+      ]
+    ],
+    "original_release_date": "2021-12-08",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-12-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-12-08",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-12-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103281,
+      "name": "Halo Infinite",
+      "url": "https://www.igdb.com/games/halo-infinite",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "343 Industries"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

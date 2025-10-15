@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 134862,
+    "specific_id": 134862,
+    "title": "Gonner2",
+    "store_title": "GONNER2",
+    "pid": "9NRZHK9QN558",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NRZHK9QN558"
+      ]
+    ],
+    "original_release_date": "2020-10-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-22",
+        "removed": "2021-10-16"
+      },
+      "Ultimate": {
+        "added": "2020-10-22",
+        "removed": "2021-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Art in Heart"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134862,
+      "name": "Gonner2",
+      "url": "https://www.igdb.com/games/gonner2",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Art in Heart"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

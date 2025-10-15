@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "base_id": 14587,
+    "specific_id": 14587,
+    "title": "Oxenfree",
+    "store_title": "Oxenfree",
+    "pid": "9NBLGGH6CTZ5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLGGH6CTZ5"
+      ]
+    ],
+    "original_release_date": "2016-01-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Night School Studio",
+    "developer": "Night School Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14587,
+      "name": "Oxenfree",
+      "url": "https://www.igdb.com/games/oxenfree",
+      "publishers": [
+        "Night School Studio"
+      ],
+      "developers": [
+        "Night School Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Thriller",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

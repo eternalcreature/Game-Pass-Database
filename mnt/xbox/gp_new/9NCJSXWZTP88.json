@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 96437,
+    "specific_id": 96437,
+    "title": "Starfield",
+    "store_title": "Starfield",
+    "pid": "9NCJSXWZTP88",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCJSXWZTP88"
+      ]
+    ],
+    "original_release_date": "2023-09-06",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-09-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-09-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-09-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-02-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 96437,
+      "name": "Starfield",
+      "url": "https://www.igdb.com/games/starfield",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

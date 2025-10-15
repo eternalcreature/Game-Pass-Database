@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 114032,
+    "specific_id": 114032,
+    "title": "Power Rangers: Battle for the Grid",
+    "store_title": "Power Rangers: Battle for the Grid",
+    "pid": "9P5VMG8D4P4B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P5VMG8D4P4B"
+      ]
+    ],
+    "original_release_date": "2019-03-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-01",
+        "removed": "2023-04-01"
+      },
+      "Ultimate": {
+        "added": "2022-04-01",
+        "removed": "2023-04-01"
+      },
+      "Console": {
+        "added": "2022-04-01",
+        "removed": "2023-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "nWay, Inc",
+    "developer": "nWay, Inc"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114032,
+      "name": "Power Rangers: Battle for the Grid",
+      "url": "https://www.igdb.com/games/power-rangers-battle-for-the-grid",
+      "publishers": [
+        "Lionsgate Games",
+        "nWay"
+      ],
+      "developers": [
+        "nWay"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

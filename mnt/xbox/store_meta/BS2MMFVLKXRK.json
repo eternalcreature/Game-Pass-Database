@@ -1,0 +1,108 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "GameStreaming": "Cloud enabled"
+  },
+  "categories": [
+    "Action & adventure",
+    "Other",
+    "Puzzle & trivia"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "The Turing Test is a first person puzzler that explores the phenomena of consciousness and challenges the meaning of human intuition.  Take control of Ava Turing, an engineer for the International Space Agency (ISA), and progress through a narrated story of introspection and morality whilst uncovering the hidden mysteries of Europa. Delve into The Turing Test’s human interaction puzzles and arm yourself with logical and methodical thinking. Take on tests designed in such a way that only a human could solve them. In an evolving story based on mankind’s inherent need to explore, protect and survive; players search deeper into Europa’s ice crusted core and transcend the line between man and machine.",
+  "developerName": "Bulkhead Interactive",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 9578668032,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BS2MMFVLKXRK",
+  "productKind": "Game",
+  "publisherName": "Bulkhead Interactive",
+  "ratingCount": 306,
+  "releaseDate": "2016-08-30T00:00:00.0000000Z",
+  "shortDescription": "The Turing Test is a first person puzzler that challenges the meaning of human intuition. Take control of Ava Turing and take on tests designed that only a human could solve. In an evolving story based on mankind’s inherent need to explore, protect and survive; search deep into Europa’s core and transcend the line between man and machine. The Turing Test sparks your synapses into action in this electrifying first person puzzler, as players learn the true cost of retaining human morality.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3Q40Z75ZS04",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9PKLSCQCHTZT",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Turing Test",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

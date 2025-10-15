@@ -1,0 +1,56 @@
+{
+  "id": 21834,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 39749,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 39748,
+      "company": {
+        "id": 1227,
+        "name": "Carbonated Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 259841,
+      "company": {
+        "id": 4123,
+        "name": "Alexey Pajitnov"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Hexic 2",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "url": "https://www.igdb.com/games/hexic-2"
+}

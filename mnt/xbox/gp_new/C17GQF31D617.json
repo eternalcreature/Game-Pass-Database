@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 7342,
+    "specific_id": 7342,
+    "title": "Inside",
+    "store_title": "INSIDE",
+    "pid": "C17GQF31D617",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C17GQF31D617"
+      ]
+    ],
+    "original_release_date": "2016-06-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-07-28",
+        "removed": null
+      },
+      "Console": {
+        "added": "2022-07-28",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-07-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Playdead",
+    "developer": "Playdead"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7342,
+      "name": "Inside",
+      "url": "https://www.igdb.com/games/inside",
+      "publishers": [
+        "Playdead"
+      ],
+      "developers": [
+        "Playdead"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Stealth",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

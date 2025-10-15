@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 1369,
+    "specific_id": 145682,
+    "title": "Company of Heroes 2",
+    "store_title": "Company of Heroes 2: Complete Collection",
+    "pid": "9NX9WH5F0RZD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NX9WH5F0RZD"
+      ]
+    ],
+    "original_release_date": "2013-06-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-09-17",
+        "removed": "2021-09-16"
+      },
+      "Ultimate": {
+        "added": "2020-09-17",
+        "removed": "2021-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "SEGA Europe Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1369,
+      "name": "Company of Heroes 2",
+      "url": "https://www.igdb.com/games/company-of-heroes-2",
+      "publishers": [
+        "Feral Interactive",
+        "Sega"
+      ],
+      "developers": [
+        "Feral Interactive",
+        "Relic Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 1369,
+      "name": "Company of Heroes 2",
+      "url": "https://www.igdb.com/games/company-of-heroes-2",
+      "publishers": [
+        "Feral Interactive",
+        "Sega"
+      ],
+      "developers": [
+        "Feral Interactive",
+        "Relic Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

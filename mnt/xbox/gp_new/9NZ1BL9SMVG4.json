@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 37,
+    "specific_id": 37,
+    "title": "Dead Space",
+    "store_title": "Dead Space - 2008",
+    "pid": "9NZ1BL9SMVG4",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BRJLJ6RPLQTJ"
+    ],
+    "sku_groups": [
+      [
+        "9NZ1BL9SMVG4"
+      ],
+      [
+        "BRJLJ6RPLQTJ"
+      ]
+    ],
+    "original_release_date": "2008-10-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Visceral Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37,
+      "name": "Dead Space",
+      "url": "https://www.igdb.com/games/dead-space",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Redwood Shores"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

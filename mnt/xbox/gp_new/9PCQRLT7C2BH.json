@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 137948,
+    "specific_id": 137948,
+    "title": "Transformers: Battlegrounds",
+    "store_title": "TRANSFORMERS: BATTLEGROUNDS",
+    "pid": "9PCQRLT7C2BH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCQRLT7C2BH"
+      ]
+    ],
+    "original_release_date": "2020-10-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Console": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Family & kids",
+      "Strategy"
+    ],
+    "publisher": "Outright Games Ltd",
+    "developer": "Coatsink"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 137948,
+      "name": "Transformers: Battlegrounds",
+      "url": "https://www.igdb.com/games/transformers-battlegrounds",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Coatsink"
+      ],
+      "genres": [
+        "Strategy",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 7327,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 207120,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 207121,
+      "company": {
+        "id": 702,
+        "name": "Ubisoft Montpellier"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Valiant Hearts: The Great War",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 34,
+      "name": "Educational"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/valiant-hearts-the-great-war"
+}

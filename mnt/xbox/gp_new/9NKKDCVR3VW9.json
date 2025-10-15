@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 151795,
+    "specific_id": 200915,
+    "title": "Opus: Echo of Starsong",
+    "store_title": "OPUS: Echo of Starsong - Full Bloom Edition",
+    "pid": "9NKKDCVR3VW9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NKKDCVR3VW9"
+      ]
+    ],
+    "original_release_date": "2021-08-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-25",
+        "removed": "2024-02-16"
+      },
+      "Ultimate": {
+        "added": "2022-08-25",
+        "removed": "2024-02-16"
+      },
+      "Console": {
+        "added": "2022-08-25",
+        "removed": "2024-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "SIGONO INC.",
+    "developer": "SIGONO INC."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 151795,
+      "name": "Opus: Echo of Starsong",
+      "url": "https://www.igdb.com/games/opus-echo-of-starsong",
+      "publishers": [],
+      "developers": [
+        "SIGONO INC."
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 151795,
+      "name": "Opus: Echo of Starsong",
+      "url": "https://www.igdb.com/games/opus-echo-of-starsong",
+      "publishers": [],
+      "developers": [
+        "SIGONO INC."
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

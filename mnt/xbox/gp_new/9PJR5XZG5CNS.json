@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 7684,
+    "specific_id": 7684,
+    "title": "Ghost of a Tale",
+    "store_title": "Ghost of a Tale",
+    "pid": "9PJR5XZG5CNS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJR5XZG5CNS"
+      ]
+    ],
+    "original_release_date": "2018-03-13",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-02-04",
+        "removed": "2022-01-16"
+      },
+      "Ultimate": {
+        "added": "2021-02-04",
+        "removed": "2022-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Plug In Digital",
+    "developer": "SeithCG"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7684,
+      "name": "Ghost of a Tale",
+      "url": "https://www.igdb.com/games/ghost-of-a-tale",
+      "publishers": [
+        "Plug In Digital",
+        "SeithCG"
+      ],
+      "developers": [
+        "SeithCG"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

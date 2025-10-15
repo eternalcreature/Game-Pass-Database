@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 10910,
+    "specific_id": 10910,
+    "title": "LEGO Worlds",
+    "store_title": "LEGO\u00ae Worlds",
+    "pid": "BWPV4QXW8W2C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWPV4QXW8W2C"
+      ]
+    ],
+    "original_release_date": "2017-03-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "FPSBoostEnabledX": "FPS Boost Series X"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "TT Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10910,
+      "name": "LEGO Worlds",
+      "url": "https://www.igdb.com/games/lego-worlds",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "Traveller's Tales"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Kids",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

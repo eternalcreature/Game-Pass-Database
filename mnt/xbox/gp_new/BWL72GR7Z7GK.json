@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 11582,
+    "specific_id": 111150,
+    "title": "Stellaris",
+    "store_title": "Stellaris: Console Edition",
+    "pid": "BWL72GR7Z7GK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWL72GR7Z7GK"
+      ]
+    ],
+    "original_release_date": "2016-05-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-08-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-08-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Paradox Development Studio, Tantalus Media"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11582,
+      "name": "Stellaris",
+      "url": "https://www.igdb.com/games/stellaris",
+      "publishers": [
+        "DMM GAMES",
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 11582,
+      "name": "Stellaris",
+      "url": "https://www.igdb.com/games/stellaris",
+      "publishers": [
+        "DMM GAMES",
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

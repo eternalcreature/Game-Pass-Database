@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 77494,
+    "specific_id": 77494,
+    "title": "Wilmot's Warehouse",
+    "store_title": "Wilmot's Warehouse Win10",
+    "pid": "9NCHVR5KH0RN",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NLKJK4M1VQK"
+    ],
+    "sku_groups": [
+      [
+        "9NCHVR5KH0RN"
+      ],
+      [
+        "9NLKJK4M1VQK"
+      ]
+    ],
+    "original_release_date": "2019-08-29",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Family & kids",
+      "Other",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Finji",
+    "developer": "Hollow Ponds and Richard Hogg"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 77494,
+      "name": "Wilmot's Warehouse",
+      "url": "https://www.igdb.com/games/wilmots-warehouse",
+      "publishers": [
+        "Finji"
+      ],
+      "developers": [
+        "Hollow Ponds",
+        "Richard Hogg"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

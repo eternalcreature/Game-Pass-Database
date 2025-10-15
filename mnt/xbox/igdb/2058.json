@@ -1,0 +1,78 @@
+{
+  "id": 2058,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 37134,
+      "company": {
+        "id": 905,
+        "name": "Overkill Software"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 38328,
+      "company": {
+        "id": 280,
+        "name": "Starbreeze Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 37135,
+      "company": {
+        "id": 445,
+        "name": "505 Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Payday 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/payday-2"
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 13182,
+    "specific_id": 13182,
+    "title": "Far Cry: Primal",
+    "store_title": "FAR CRY PRIMAL",
+    "pid": "9P8X98F4BDC9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV6BRSLFJW3W"
+    ],
+    "sku_groups": [
+      [
+        "9P8X98F4BDC9"
+      ],
+      [
+        "BV6BRSLFJW3W"
+      ]
+    ],
+    "original_release_date": "2016-02-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft Entertainment",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 13182,
+      "name": "Far Cry: Primal",
+      "url": "https://www.igdb.com/games/far-cry-primal",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Historical",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

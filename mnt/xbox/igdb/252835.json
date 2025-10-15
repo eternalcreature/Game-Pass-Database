@@ -1,0 +1,48 @@
+{
+  "id": 252835,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 219361,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Kunitsu-Gami: Path of the Goddess",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kunitsu-gami-path-of-the-goddess"
+}

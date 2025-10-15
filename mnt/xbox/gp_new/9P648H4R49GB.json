@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 228463,
+    "specific_id": 228463,
+    "title": "We Love Katamari Reroll + Royal Reverie",
+    "store_title": "We Love Katamari REROLL+ Royal Reverie",
+    "pid": "9P648H4R49GB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P648H4R49GB"
+      ]
+    ],
+    "original_release_date": "2023-06-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "Ultimate": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "PC": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      },
+      "Premium": {
+        "added": "2024-09-26",
+        "removed": "2025-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "MONKEYCRAFT Co. Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 228463,
+      "name": "We Love Katamari Reroll + Royal Reverie",
+      "url": "https://www.igdb.com/games/we-love-katamari-reroll-plus-royal-reverie",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "MONKEYCRAFT Co. Ltd"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

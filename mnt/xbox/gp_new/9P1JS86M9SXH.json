@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 14,
+    "specific_id": 14,
+    "title": "Fallout 2",
+    "store_title": "Fallout 2",
+    "pid": "9P1JS86M9SXH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P1JS86M9SXH"
+      ]
+    ],
+    "original_release_date": "1998-09-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Black Isle Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14,
+      "name": "Fallout 2",
+      "url": "https://www.igdb.com/games/fallout-2",
+      "publishers": [
+        "Bethesda Softworks",
+        "Interplay Entertainment",
+        "MacPlay"
+      ],
+      "developers": [
+        "Black Isle Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

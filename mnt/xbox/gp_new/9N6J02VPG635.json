@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 145838,
+    "specific_id": 145838,
+    "title": "F1 2021",
+    "store_title": "F1\u00ae 2021",
+    "pid": "9N6J02VPG635",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N6J02VPG635"
+      ]
+    ],
+    "original_release_date": "2021-07-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-03-24",
+        "removed": "2024-02-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-24",
+        "removed": "2024-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-20)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Racing & flying",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145838,
+      "name": "F1 2021",
+      "url": "https://www.igdb.com/games/f1-2021",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

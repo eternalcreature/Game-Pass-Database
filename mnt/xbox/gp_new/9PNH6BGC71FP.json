@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 242493,
+    "specific_id": 242493,
+    "title": "LEGO 2K Drive",
+    "store_title": "LEGO\u00ae 2K Drive for Xbox One",
+    "pid": "9PNH6BGC71FP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PDC2J734M08"
+    ],
+    "sku_groups": [
+      [
+        "9PDC2J734M08"
+      ],
+      [
+        "9PNH6BGC71FP"
+      ]
+    ],
+    "original_release_date": "2023-05-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-03",
+        "removed": "2025-01-01"
+      },
+      "Ultimate": {
+        "added": "2024-04-03",
+        "removed": "2025-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Racing & flying",
+      "Family & kids"
+    ],
+    "publisher": "2K",
+    "developer": "Visual Concepts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 242493,
+      "name": "LEGO 2K Drive",
+      "url": "https://www.igdb.com/games/lego-2k-drive",
+      "publishers": [
+        "2K Games"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "genres": [
+        "Racing",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

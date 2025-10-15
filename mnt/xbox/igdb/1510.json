@@ -1,0 +1,97 @@
+{
+  "id": 1510,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 4093,
+      "company": {
+        "id": 868,
+        "name": "Junction Point Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 46290,
+      "company": {
+        "id": 1217,
+        "name": "Spike Chunsoft"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 46291,
+      "company": {
+        "id": 895,
+        "name": "Heavy Iron Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 4094,
+      "company": {
+        "id": 426,
+        "name": "Disney Interactive Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 126042,
+      "company": {
+        "id": 8163,
+        "name": "Junction Point"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 126043,
+      "company": {
+        "id": 95,
+        "name": "Disney Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Epic Mickey 2: The Power of Two",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/epic-mickey-2-the-power-of-two"
+}

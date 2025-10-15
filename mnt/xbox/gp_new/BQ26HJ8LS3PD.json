@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 18954,
+    "specific_id": 18954,
+    "title": "Neon Chrome",
+    "store_title": "Neon Chrome",
+    "pid": "BQ26HJ8LS3PD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQ26HJ8LS3PD"
+      ]
+    ],
+    "original_release_date": "2016-04-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "10tons Ltd.",
+    "developer": "10tons Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18954,
+      "name": "Neon Chrome",
+      "url": "https://www.igdb.com/games/neon-chrome",
+      "publishers": [
+        "10tons"
+      ],
+      "developers": [
+        "10tons"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

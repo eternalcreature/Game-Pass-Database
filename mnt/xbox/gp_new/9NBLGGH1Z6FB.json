@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 19456,
+    "specific_id": 19456,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "store_title": "Ori and the Blind Forest: Definitive Edition",
+    "pid": "9NBLGGH1Z6FB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BW85KQB8Q31M"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH1Z6FB"
+      ],
+      [
+        "BW85KQB8Q31M"
+      ]
+    ],
+    "original_release_date": "2015-03-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Moon Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19456,
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "url": "https://www.igdb.com/games/ori-and-the-blind-forest-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Moon Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

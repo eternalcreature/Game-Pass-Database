@@ -1,0 +1,98 @@
+{
+  "id": 72813,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 290029,
+      "company": {
+        "id": 9786,
+        "name": "22nd Century Toys"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 190026,
+      "company": {
+        "id": 10314,
+        "name": "House House"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 190027,
+      "company": {
+        "id": 5213,
+        "name": "Panic"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Untitled Goose Game",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/untitled-goose-game"
+}

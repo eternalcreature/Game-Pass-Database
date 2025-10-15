@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 7725,
+    "specific_id": 7725,
+    "title": "Resident Evil: Revelations 2",
+    "store_title": "Resident Evil Revelations 2 (Episode One)",
+    "pid": "C2BD1F6CB3L5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2BD1F6CB3L5"
+      ]
+    ],
+    "original_release_date": "2015-02-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7725,
+      "name": "Resident Evil: Revelations 2",
+      "url": "https://www.igdb.com/games/resident-evil-revelations-2",
+      "publishers": [
+        "Capcom",
+        "Sony Computer Entertainment"
+      ],
+      "developers": [
+        "Capcom"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

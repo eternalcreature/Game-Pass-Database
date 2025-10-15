@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 119536,
+    "specific_id": 119536,
+    "title": "HyperDot",
+    "store_title": "HyperDot",
+    "pid": "9NVVJ8TBD7KP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NVVJ8TBD7KP"
+      ]
+    ],
+    "original_release_date": "2020-01-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "GLITCH",
+    "developer": "Tribe Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119536,
+      "name": "HyperDot",
+      "url": "https://www.igdb.com/games/hyperdot",
+      "publishers": [
+        "Glitch"
+      ],
+      "developers": [
+        "Tribe Games"
+      ],
+      "genres": [
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

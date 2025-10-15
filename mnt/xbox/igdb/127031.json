@@ -1,0 +1,69 @@
+{
+  "id": 127031,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 151061,
+      "company": {
+        "id": 24046,
+        "name": "MistyMountainStudio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 151060,
+      "company": {
+        "id": 18288,
+        "name": "Gamera Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Rewinder",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-rewinder"
+}

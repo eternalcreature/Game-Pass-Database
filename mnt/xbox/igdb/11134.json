@@ -1,0 +1,61 @@
+{
+  "id": 11134,
+  "game_modes": [
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 11,
+      "name": "Real Time Strategy (RTS)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 24424,
+      "company": {
+        "id": 5962,
+        "name": "Motiga"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 38737,
+      "company": {
+        "id": 917,
+        "name": "Perfect World Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Gigantic",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/gigantic"
+}

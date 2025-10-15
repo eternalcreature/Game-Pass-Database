@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 204418,
+    "specific_id": 204418,
+    "title": "Spirittea",
+    "store_title": "Spirittea",
+    "pid": "9PPK59BXLD4N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PPK59BXLD4N"
+      ]
+    ],
+    "original_release_date": "2023-11-13",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-11-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-11-13",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-11-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Action & adventure"
+    ],
+    "publisher": "No More Robots",
+    "developer": "Cheesemaster Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204418,
+      "name": "Spirittea",
+      "url": "https://www.igdb.com/games/spirittea",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "Cheesemaster Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

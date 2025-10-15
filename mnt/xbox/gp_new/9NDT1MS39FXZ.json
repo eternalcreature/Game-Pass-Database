@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 217645,
+    "specific_id": 217645,
+    "title": "Turnip Boy Robs a Bank",
+    "store_title": "Turnip Boy Robs a Bank",
+    "pid": "9NDT1MS39FXZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDT1MS39FXZ"
+      ]
+    ],
+    "original_release_date": "2024-01-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-18",
+        "removed": "2025-08-01"
+      },
+      "Ultimate": {
+        "added": "2024-01-18",
+        "removed": "2025-08-01"
+      },
+      "PC": {
+        "added": "2024-01-18",
+        "removed": "2025-08-01"
+      },
+      "Premium": {
+        "added": "2024-11-06",
+        "removed": "2025-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Graffiti Games",
+    "developer": "Snoozy Kazoo"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217645,
+      "name": "Turnip Boy Robs a Bank",
+      "url": "https://www.igdb.com/games/turnip-boy-robs-a-bank",
+      "publishers": [
+        "Graffiti Games",
+        "Plug In Digital"
+      ],
+      "developers": [
+        "Snoozy Kazoo"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 56,
+    "specific_id": 56,
+    "title": "The Elder Scrolls III: Morrowind",
+    "store_title": "The Elder Scrolls III: Morrowind",
+    "pid": "BXVCFBJBNS17",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZ4WD43D8DTS",
+      "9PP7XSG5LDH1"
+    ],
+    "sku_groups": [
+      [
+        "9PP7XSG5LDH1"
+      ],
+      [
+        "BXVCFBJBNS17"
+      ],
+      [
+        "BZ4WD43D8DTS"
+      ]
+    ],
+    "original_release_date": "2002-05-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 56,
+      "name": "The Elder Scrolls III: Morrowind",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-iii-morrowind",
+      "publishers": [
+        "Bethesda Softworks",
+        "ZeniMax Media"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

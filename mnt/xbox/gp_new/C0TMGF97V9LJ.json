@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 20871,
+    "specific_id": 20871,
+    "title": "Zombie Army Trilogy",
+    "store_title": "Zombie Army Trilogy",
+    "pid": "C0TMGF97V9LJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C0TMGF97V9LJ"
+      ]
+    ],
+    "original_release_date": "2015-03-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Rebellion",
+    "developer": "Rebellion"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20871,
+      "name": "Zombie Army Trilogy",
+      "url": "https://www.igdb.com/games/zombie-army-trilogy",
+      "publishers": [
+        "Rebellion Developments"
+      ],
+      "developers": [
+        "Rebellion Developments"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

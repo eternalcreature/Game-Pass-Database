@@ -1,0 +1,177 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": [
+      "Large & clear subtitles"
+    ]
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 0,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 10
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Lyrics"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Jump into the Riders Republic™ massive multiplayer playground! Grab your bike, skis, snowboard, or wingsuit and explore an open world sports paradise where the rules are yours to make—or break.\n\n- Battle against over 50 players simultaneously in a massive multiplayer playground—over 20 players on Xbox One.\n- Compete in an all-out mass start race—collide, grind, and fight your way to the finish!\n- Customize your character to show off your style to your friends or show up the competition.\n- Bike, ski, snowboard, or wingsuit through a seamless open world in Career mode or multiplayer events.\n- Go wild in iconic US national parks like Yosemite and Zion.",
+  "developerName": "UBISOFT ANNECY",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "nakupcgce"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "UbisoftPCVersion"
+  ],
+  "maxInstallSize": 10612736,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N1XDDL50X5F",
+  "productKind": "Game",
+  "publisherName": "UBISOFT",
+  "ratingCount": 0,
+  "releaseDate": "2021-10-28T00:00:00.0000000Z",
+  "shortDescription": "Jump into the Riders Republic™ massive multiplayer playground! Bike, ski, snowboard, or wingsuit across an open world sports paradise. Race in mass start events, develop your rider’s career, or kick back with friends and free roam the parks.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9WV38SXM777X",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "09/16/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VGPS6RBM2PJ",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2H6W4KTJLRP",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9PLF7CSS2N5Q",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "09/16/2027 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Riders Republic™",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2024-09-11T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2024-09-11T00:00:00Z"
+    },
+    "nakupcgce": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": true
+}

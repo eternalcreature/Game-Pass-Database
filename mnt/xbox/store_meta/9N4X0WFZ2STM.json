@@ -1,0 +1,132 @@
+{
+  "availableOn": [
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.4,
+  "badges": [
+    {
+      "type": 3
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Mild Blood",
+      "Suggestive Themes",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases (Includes Random Items)"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Zenless Zone Zero is HoYoverse's brand-new urban fantasy ARPG.\n\nHere, contemporary civilization has been destroyed by a calamity known as \"Hollows.\" They appear out of thin air, creating spatial anomalies filled with formidable monsters — \"Ethereals.\"\n \nAmidst this overwhelming catastrophe, New Eridu, the last metropolis that survived the apocalypse, has risen against the odds by harnessing the technology and resources necessary to fight the Hollow disaster, gradually evolving into human civilization's last beacon of hope.\n \nIn New Eridu, you step into the shoes of a Proxy, a professional specialized in navigating the dangerous Hollows, guiding those who, for various reasons, need to venture inside. You will embark on an adventure with unique characters to explore Hollows, battle formidable enemies, complete commissions, and learn about the mysteries behind the city.",
+  "developerName": "Shanghai JiaoZhai Technology Co.,Ltd.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 81220964352,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N4X0WFZ2STM",
+  "productKind": "Game",
+  "publisherName": "COGNOSPHERE PTE. LTD.",
+  "ratingCount": 325,
+  "releaseDate": "2025-06-05T22:00:00.0000000Z",
+  "shortDescription": "Venture into a post-apocalyptic world, explore perilous Hollows, and unveil the mysteries behind the last beacon of hope for human civilization.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NP68VNW6LX1",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "06/01/2026 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 0,
+        "msrp": 0,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Zenless Zone Zero",
+  "xCloudProperties": {
+    "xCloudId": "ZENLESSZONEZERO",
+    "xboxTitleId": 1696147865,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-06-06T03:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-06-06T03:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "ZENLESSZONEZERO",
+    "xboxTitleId": 1696147865,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "MKB",
+      "NativeTouch"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

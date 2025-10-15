@@ -1,0 +1,48 @@
+{
+  "id": 26197,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 42374,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Marvel vs. Capcom: Infinite",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/marvel-vs-capcom-infinite"
+}

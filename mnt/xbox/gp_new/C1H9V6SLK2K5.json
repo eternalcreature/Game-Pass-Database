@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 4754,
+    "specific_id": 4754,
+    "title": "Alien: Isolation",
+    "store_title": "Alien: Isolation",
+    "pid": "C1H9V6SLK2K5",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NSRJ872SGH7"
+    ],
+    "sku_groups": [
+      [
+        "9NSRJ872SGH7"
+      ],
+      [
+        "C1H9V6SLK2K5"
+      ]
+    ],
+    "original_release_date": "2014-10-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-03-01",
+        "removed": "2023-03-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-01",
+        "removed": "2023-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "The Creative Assembly"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4754,
+      "name": "Alien: Isolation",
+      "url": "https://www.igdb.com/games/alien-isolation",
+      "publishers": [
+        "Feral Interactive",
+        "Sega"
+      ],
+      "developers": [
+        "The Creative Assembly"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

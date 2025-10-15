@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 351,
+    "specific_id": 351,
+    "title": "Battlefield 1943",
+    "store_title": "Battlefield 1943\u2122",
+    "pid": "C1QQ7GM9HLKG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1QQ7GM9HLKG"
+      ]
+    ],
+    "original_release_date": "2009-07-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2023-12-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2023-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Digital Illusions CE AB"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 351,
+      "name": "Battlefield 1943",
+      "url": "https://www.igdb.com/games/battlefield-1943",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

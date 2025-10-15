@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "base_id": 26950,
+    "specific_id": 259466,
+    "title": "Marvel's Avengers",
+    "store_title": "Marvel's Avengers Definitive Edition",
+    "pid": "BRX6HS1G5CDK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRX6HS1G5CDK"
+      ]
+    ],
+    "original_release_date": "2020-09-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-01",
+        "removed": "2023-08-01"
+      },
+      "Ultimate": {
+        "added": "2022-11-01",
+        "removed": "2023-08-01"
+      },
+      "Console": {
+        "added": "2022-11-01",
+        "removed": "2023-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Crystal Dynamics, Eidos Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26950,
+      "name": "Marvel's Avengers",
+      "url": "https://www.igdb.com/games/marvels-avengers",
+      "publishers": [
+        "Crystal Dynamics",
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 26950,
+      "name": "Marvel's Avengers",
+      "url": "https://www.igdb.com/games/marvels-avengers",
+      "publishers": [
+        "Crystal Dynamics",
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montr\u00e9al"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

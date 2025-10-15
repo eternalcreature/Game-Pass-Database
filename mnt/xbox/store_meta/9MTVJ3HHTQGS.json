@@ -1,0 +1,151 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels",
+      "Pausable",
+      "Save anytime"
+    ],
+    "input": [
+      "Basic input remapping",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2.4,
+  "badges": [
+    {
+      "type": 8
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-4)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+    "SinglePlayer": "Single player",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Classics",
+    "Puzzle & trivia",
+    "Action & adventure",
+    "Family & kids",
+    "Racing & flying",
+    "Role playing",
+    "Shooter",
+    "Strategy",
+    "Platformer"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Discover timeless classics and hidden gems with Game Pass. Retro Classics includes over 50 restored and ready-to-play games available for Xbox Game Pass members. Power up your play with community challenges, competitive leaderboards, all-new challenge modes, high-score rankings and more.\nPlay over 50 classic games from Activision like Commando, Grand Prix, Kaboom! Mech Warrior 2: 31st Century Combat, and Pitfall!\nTake on friends, rivals or the entire world with unique challenges - or dive in solo - and collect achievements.\nSave your progress and continue later for the first time for many games.\nAvailable for Game Pass members to play on console, PC, and on supported devices with cloud gaming.\n",
+  "developerName": "Antstream",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "9NQL1Q8CD4D0",
+    "CFQ7TTC0K5DJ",
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeEuropa",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 465580032,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MTVJ3HHTQGS",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 252,
+  "shortDescription": "Discover timeless classics and hidden gems with Game Pass. Power up your play with community challenges, competitive leaderboards, all-new challenge modes, high-score rankings and more.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 0
+  },
+  "title": "Retro Classics",
+  "xCloudProperties": {
+    "xCloudId": "RETROCLASSICS",
+    "xboxTitleId": 1874517142,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DJ": {
+      "entryDateUTC": "2025-05-21T15:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-05-21T15:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-05-21T15:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-05-21T15:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-05-21T15:00:00Z"
+    },
+    "9NQL1Q8CD4D0": {
+      "entryDateUTC": "2025-06-27T00:00:00Z",
+      "exitDateUTC": "9998-12-30T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "RETROCLASSICS",
+    "xboxTitleId": 1874517142,
+    "programs": [
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "GPULTIMATE",
+      "HIMALIA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

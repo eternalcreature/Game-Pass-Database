@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 194821,
+    "specific_id": 194821,
+    "title": "Nine Sols",
+    "store_title": "Nine Sols",
+    "pid": "9N3LGKGF3CC2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3LGKGF3CC2"
+      ]
+    ],
+    "original_release_date": "2024-05-28",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-11-26",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-26",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-11-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-09-03",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Red Candle Games",
+    "developer": "Red Candle Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 194821,
+      "name": "Nine Sols",
+      "url": "https://www.igdb.com/games/nine-sols",
+      "publishers": [
+        "Red Candle Games"
+      ],
+      "developers": [
+        "Red Candle Games"
+      ],
+      "genres": [
+        "Platform",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

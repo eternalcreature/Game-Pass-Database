@@ -1,0 +1,66 @@
+{
+  "id": 3750,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 32249,
+      "company": {
+        "id": 305,
+        "name": "Remedy Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 32250,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 141205,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Quantum Break",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/quantum-break"
+}

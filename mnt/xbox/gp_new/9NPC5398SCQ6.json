@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 44074,
+    "specific_id": 44074,
+    "title": "Evil Genius 2: World Domination",
+    "store_title": "Evil Genius 2: World Domination",
+    "pid": "9NPC5398SCQ6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NPC5398SCQ6"
+      ]
+    ],
+    "original_release_date": "2021-03-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-30",
+        "removed": "2023-06-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-30",
+        "removed": "2023-06-01"
+      },
+      "Console": {
+        "added": "2021-11-30",
+        "removed": "2023-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Rebellion",
+    "developer": "Rebellion"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 44074,
+      "name": "Evil Genius 2: World Domination",
+      "url": "https://www.igdb.com/games/evil-genius-2-world-domination",
+      "publishers": [
+        "Rebellion Developments"
+      ],
+      "developers": [
+        "Rebellion Developments"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

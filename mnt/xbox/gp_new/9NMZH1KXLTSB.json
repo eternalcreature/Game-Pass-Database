@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 240253,
+    "specific_id": 240253,
+    "title": "Blacksmith Master",
+    "store_title": "Blacksmith Master (Game Preview)",
+    "pid": "9NMZH1KXLTSB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NMZH1KXLTSB"
+      ]
+    ],
+    "original_release_date": "2025-05-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-08-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "Untitled Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240253,
+      "name": "Blacksmith Master",
+      "url": "https://www.igdb.com/games/blacksmith-master",
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "developers": [
+        "Untitled Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

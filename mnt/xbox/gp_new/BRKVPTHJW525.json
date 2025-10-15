@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 11590,
+    "specific_id": 11590,
+    "title": "The Surge",
+    "store_title": "The Surge",
+    "pid": "BRKVPTHJW525",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRKVPTHJW525"
+      ]
+    ],
+    "original_release_date": "2017-05-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Deck13"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11590,
+      "name": "The Surge",
+      "url": "https://www.igdb.com/games/the-surge",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Deck13 Interactive"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

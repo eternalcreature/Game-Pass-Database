@@ -1,0 +1,69 @@
+{
+  "id": 108797,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 72028,
+      "company": {
+        "id": 8798,
+        "name": "BonusXP"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 80778,
+      "company": {
+        "id": 8798,
+        "name": "BonusXP"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Stranger Things 3: The Game",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/stranger-things-3-the-game"
+}

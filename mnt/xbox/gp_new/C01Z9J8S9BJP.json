@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 7292,
+    "specific_id": 7292,
+    "title": "Mortal Kombat X",
+    "store_title": "Mortal Kombat X",
+    "pid": "C01Z9J8S9BJP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C01Z9J8S9BJP"
+      ]
+    ],
+    "original_release_date": "2015-04-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "NetherRealm Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7292,
+      "name": "Mortal Kombat X",
+      "url": "https://www.igdb.com/games/mortal-kombat-x",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "NetherRealm Studios"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

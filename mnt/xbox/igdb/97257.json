@@ -1,0 +1,73 @@
+{
+  "id": 97257,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 154950,
+      "company": {
+        "id": 15386,
+        "name": "EggNut"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 195796,
+      "company": {
+        "id": 19006,
+        "name": "Raw Fury"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Tails Noir",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tails-noir--1"
+}

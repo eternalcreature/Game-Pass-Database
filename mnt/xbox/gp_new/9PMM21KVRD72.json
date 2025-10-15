@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 131785,
+    "specific_id": 131785,
+    "title": "Amnesia: Rebirth",
+    "store_title": "Amnesia: Rebirth",
+    "pid": "9PMM21KVRD72",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PMM21KVRD72"
+      ]
+    ],
+    "original_release_date": "2020-10-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      },
+      "Console": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 131785,
+      "name": "Amnesia: Rebirth",
+      "url": "https://www.igdb.com/games/amnesia-rebirth",
+      "publishers": [
+        "Frictional Games"
+      ],
+      "developers": [
+        "Frictional Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

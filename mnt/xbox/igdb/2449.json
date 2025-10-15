@@ -1,0 +1,79 @@
+{
+  "id": 2449,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 253238,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 253239,
+      "company": {
+        "id": 52915,
+        "name": "Square Enix Business Division 1"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 253356,
+      "company": {
+        "id": 93,
+        "name": "Square Enix 1st Production Department"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 253357,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Lightning Returns: Final Fantasy XIII",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lightning-returns-final-fantasy-xiii"
+}

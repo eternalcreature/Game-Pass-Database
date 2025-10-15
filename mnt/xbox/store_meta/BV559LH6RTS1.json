@@ -1,0 +1,111 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.9,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+    "SharedSplitScreen": "Shared/split screen"
+  },
+  "categories": [
+    "Racing & flying"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Use of Tobacco",
+      "Alcohol Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "\"Prepare yourself for the adrenaline of the 2017 MotoGP™!\nEnjoy maximum entertainment with all the bikes, teams and tracks of the official Championship.\nTry the new Managerial Career mode and put yourself in the shoes of a team manager, trying to make the right choices both on the track and off it. \nPlay online against the best players, or join forces with your most skilled friend. Get on the track and start your race to victory in the new cooperative mode.\"",
+  "developerName": "Milestone S.r.l.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 14167257088,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BV559LH6RTS1",
+  "productKind": "Game",
+  "publisherName": "Milestone S.r.l.",
+  "ratingCount": 100,
+  "releaseDate": "2017-07-11T00:00:00.0000000Z",
+  "shortDescription": "\"Prepare yourself for the adrenaline of the 2017 MotoGP™!\nEnjoy maximum entertainment with all the bikes, teams and tracks of the official Championship.\nTry the new Managerial Career mode and put yourself in the shoes of a team manager, trying to make the right choices both on the track and off it. \nPlay online against the best players, or join forces with your most skilled friend. Get on the track and start your race to victory in the new cooperative mode.\"",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9T0ZZP4HN35T",
+        "discountPercentage": 85.0567,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 2.24,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9N8FL0ML1JRJ",
+        "discountPercentage": 85.0567,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 2.24,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "MotoGP™17",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

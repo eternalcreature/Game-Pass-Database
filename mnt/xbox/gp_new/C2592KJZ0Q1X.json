@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 5968,
+    "specific_id": 5968,
+    "title": "Double Dragon Neon",
+    "store_title": "Double Dragon Neon",
+    "pid": "C2592KJZ0Q1X",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2592KJZ0Q1X"
+      ]
+    ],
+    "original_release_date": "2012-09-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2018-05-24",
+        "removed": "2023-04-01"
+      },
+      "Ultimate": {
+        "added": "2018-05-24",
+        "removed": "2023-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Other"
+    ],
+    "publisher": "Majesco Entertainment",
+    "developer": "WayForward"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5968,
+      "name": "Double Dragon Neon",
+      "url": "https://www.igdb.com/games/double-dragon-neon",
+      "publishers": [
+        "Arc System Works",
+        "Majesco Entertainment",
+        "Midnight City"
+      ],
+      "developers": [
+        "WayForward"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

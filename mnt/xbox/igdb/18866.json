@@ -1,0 +1,73 @@
+{
+  "id": 18866,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 167125,
+      "company": {
+        "id": 1260,
+        "name": "Behaviour Interactive"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 282033,
+      "company": {
+        "id": 12898,
+        "name": "Starbreeze Publishing"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dead by Daylight",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dead-by-daylight"
+}

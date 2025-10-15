@@ -1,0 +1,110 @@
+{
+  "basic_info": {
+    "base_id": 82090,
+    "specific_id": 82090,
+    "title": "Forza Horizon 4",
+    "store_title": "Forza Horizon 4",
+    "pid": "9PNQKHFLD2WQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PNQKHFLD2WQ"
+      ]
+    ],
+    "original_release_date": "2018-09-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2024-12-16"
+      },
+      "Ultimate": {
+        "added": "2018-10-02",
+        "removed": "2024-12-16"
+      },
+      "Console": {
+        "added": "2018-10-02",
+        "removed": "2024-12-16"
+      },
+      "Essential": {
+        "added": "2024-08-09",
+        "removed": "2024-12-16"
+      },
+      "Premium": {
+        "added": "2024-08-09",
+        "removed": "2024-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Playground Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 82090,
+      "name": "Forza Horizon 4",
+      "url": "https://www.igdb.com/games/forza-horizon-4",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Playground Games"
+      ],
+      "genres": [
+        "Racing",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

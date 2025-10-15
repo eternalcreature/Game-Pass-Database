@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 18688,
+    "specific_id": 18688,
+    "title": "Manual Samuel",
+    "store_title": "Manual Samuel Last Tuesday Edition",
+    "pid": "C1N8NK80CLXV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1N8NK80CLXV"
+      ]
+    ],
+    "original_release_date": "2016-10-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Simulation"
+    ],
+    "publisher": "Curve Digital",
+    "developer": "Perfectly Paranormal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18688,
+      "name": "Manual Samuel",
+      "url": "https://www.igdb.com/games/manual-samuel",
+      "publishers": [
+        "Curve Digital"
+      ],
+      "developers": [
+        "Perfectly Paranormal"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 8965,
+    "specific_id": 8965,
+    "title": "Darkest Dungeon",
+    "store_title": "Darkest Dungeon PC",
+    "pid": "9PKXZHKXNH8C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BXKVN6G9C5WJ"
+    ],
+    "sku_groups": [
+      [
+        "9PKXZHKXNH8C"
+      ],
+      [
+        "BXKVN6G9C5WJ"
+      ]
+    ],
+    "original_release_date": "2016-01-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-02-02",
+        "removed": "2025-02-01"
+      },
+      "Ultimate": {
+        "added": "2023-02-02",
+        "removed": "2025-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Red Hook Studios",
+    "developer": "Red Hook Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8965,
+      "name": "Darkest Dungeon",
+      "url": "https://www.igdb.com/games/darkest-dungeon",
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "developers": [
+        "Red Hook Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Horror",
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

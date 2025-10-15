@@ -1,0 +1,69 @@
+{
+  "id": 15909,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 29967,
+      "company": {
+        "id": 7908,
+        "name": "Awfully Nice Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 133211,
+      "company": {
+        "id": 13976,
+        "name": "2Awesome Studio"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Bug Butcher",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-bug-butcher"
+}

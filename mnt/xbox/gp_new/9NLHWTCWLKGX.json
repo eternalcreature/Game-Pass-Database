@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 51528,
+    "specific_id": 51528,
+    "title": "Telling Lies",
+    "store_title": "Telling Lies",
+    "pid": "9NLHWTCWLKGX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLHWTCWLKGX"
+      ]
+    ],
+    "original_release_date": "2019-08-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-03",
+        "removed": "2023-02-01"
+      },
+      "Ultimate": {
+        "added": "2022-02-03",
+        "removed": "2023-02-01"
+      },
+      "Console": {
+        "added": "2022-02-03",
+        "removed": "2023-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Sam Barlow"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 51528,
+      "name": "Telling Lies",
+      "url": "https://www.igdb.com/games/telling-lies",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Furious Bee Limited",
+        "Half Mermaid",
+        "Sam Barlow"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 135789,
+    "specific_id": 135789,
+    "title": "Townscaper",
+    "store_title": "Townscaper",
+    "pid": "9NFM39PSFXJD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NFM39PSFXJD"
+      ]
+    ],
+    "original_release_date": "2020-06-30",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2023-11-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2023-11-16"
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2023-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Other",
+      "Simulation",
+      "Tools"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Oskar St\u00e5lberg"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135789,
+      "name": "Townscaper",
+      "url": "https://www.igdb.com/games/townscaper",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Oskar St\u00e5lberg"
+      ],
+      "genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

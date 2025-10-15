@@ -1,0 +1,110 @@
+{
+  "basic_info": {
+    "base_id": 11148,
+    "specific_id": 81997,
+    "title": "Plants vs. Zombies: Garden Warfare 2",
+    "store_title": "Plants vs. Zombies\u2122 Garden Warfare 2: Deluxe Edition",
+    "pid": "9MTVHJXXF3K9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BNRH7BRC1D02"
+    ],
+    "sku_groups": [
+      [
+        "9MTVHJXXF3K9"
+      ],
+      [
+        "BNRH7BRC1D02"
+      ]
+    ],
+    "original_release_date": "2016-02-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "PopCap"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11148,
+      "name": "Plants vs. Zombies: Garden Warfare 2",
+      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 11148,
+      "name": "Plants vs. Zombies: Garden Warfare 2",
+      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

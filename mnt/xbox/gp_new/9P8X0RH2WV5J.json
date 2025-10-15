@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 188540,
+    "specific_id": 188540,
+    "title": "Matchpoint: Tennis Championships",
+    "store_title": "Matchpoint - Tennis Championships (Win)",
+    "pid": "9P8X0RH2WV5J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P66GGSJR71M"
+    ],
+    "sku_groups": [
+      [
+        "9P66GGSJR71M"
+      ],
+      [
+        "9P8X0RH2WV5J"
+      ]
+    ],
+    "original_release_date": "2022-07-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-07",
+        "removed": "2023-07-01"
+      },
+      "Ultimate": {
+        "added": "2022-07-07",
+        "removed": "2023-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Kalypso Media ",
+    "developer": "Torus Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 188540,
+      "name": "Matchpoint: Tennis Championships",
+      "url": "https://www.igdb.com/games/matchpoint-tennis-championships",
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "developers": [
+        "Torus Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 218793,
+    "specific_id": 218793,
+    "title": "Wild Hearts",
+    "store_title": "WILD HEARTS\u2122 Standard Edition",
+    "pid": "9NTFPTBXDDT3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NFT3TR6MN9W"
+    ],
+    "sku_groups": [
+      [
+        "9NFT3TR6MN9W"
+      ],
+      [
+        "9NTFPTBXDDT3"
+      ]
+    ],
+    "original_release_date": "2023-02-17",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2023-11-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-11-09",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-3)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "KOEI TECMO GAMES CO. LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 218793,
+      "name": "Wild Hearts",
+      "url": "https://www.igdb.com/games/wild-hearts",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Omega Force"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

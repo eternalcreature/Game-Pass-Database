@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 11416,
+    "specific_id": 11416,
+    "title": "Persona 3 Portable",
+    "store_title": "Persona 3 Portable",
+    "pid": "9NJWL0XVLP7T",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJWL0XVLP7T"
+      ]
+    ],
+    "original_release_date": "2009-11-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-01-19",
+        "removed": "2024-01-16"
+      },
+      "Ultimate": {
+        "added": "2023-01-19",
+        "removed": "2024-01-16"
+      },
+      "Console": {
+        "added": "2023-01-19",
+        "removed": "2024-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "ATLUS"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11416,
+      "name": "Persona 3 Portable",
+      "url": "https://www.igdb.com/games/persona-3-portable",
+      "publishers": [
+        "Atlus",
+        "Atlus USA",
+        "Ghostlight Ltd."
+      ],
+      "developers": [
+        "Atlus"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

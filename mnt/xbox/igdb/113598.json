@@ -1,0 +1,65 @@
+{
+  "id": 113598,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 101641,
+      "company": {
+        "id": 19,
+        "name": "Arkane Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 101640,
+      "company": {
+        "id": 16565,
+        "name": "Bethesda Softworks"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Deathloop",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/deathloop"
+}

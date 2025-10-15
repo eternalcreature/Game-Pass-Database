@@ -1,0 +1,65 @@
+{
+  "id": 27316,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 69102,
+      "company": {
+        "id": 110,
+        "name": "Focus Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 267021,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "A Plague Tale: Innocence",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/a-plague-tale-innocence"
+}

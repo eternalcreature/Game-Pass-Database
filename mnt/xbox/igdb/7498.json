@@ -1,0 +1,53 @@
+{
+  "id": 7498,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 86710,
+      "company": {
+        "id": 248,
+        "name": "Bandai Namco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 98165,
+      "company": {
+        "id": 22721,
+        "name": "Bandai Namco Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Tekken 7",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tekken-7"
+}

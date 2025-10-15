@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 99071,
+    "specific_id": 99071,
+    "title": "Hypnospace Outlaw",
+    "store_title": "Hypnospace Outlaw",
+    "pid": "9PM3NVB3PXG0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PM3NVB3PXG0"
+      ]
+    ],
+    "original_release_date": "2019-03-12",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-06-06",
+        "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-06",
+        "removed": "2025-06-16"
+      },
+      "PC": {
+        "added": "2023-06-06",
+        "removed": "2025-06-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia",
+      "Simulation"
+    ],
+    "publisher": "No More Robots",
+    "developer": "Tendershoot, ThatWhichIs Media & Michael Lasch"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 99071,
+      "name": "Hypnospace Outlaw",
+      "url": "https://www.igdb.com/games/hypnospace-outlaw",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "Michael Lasch",
+        "Tendershoot",
+        "ThatWhichIs Media"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Comedy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 239080,
+    "specific_id": 239080,
+    "title": "Totally Accurate Battle Simulator: Bug DLC",
+    "store_title": "Totally Accurate Battle Simulator",
+    "pid": "9PC4RWP34M2D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PC4RWP34M2D"
+      ]
+    ],
+    "original_release_date": "2019-04-01",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-12-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-12-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-12-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Fighting",
+      "Simulation"
+    ],
+    "publisher": "Landfall",
+    "developer": "Landfall and 24 Bit Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 239080,
+      "name": "Totally Accurate Battle Simulator: Bug DLC",
+      "url": "https://www.igdb.com/games/totally-accurate-battle-simulator-bug-dlc",
+      "publishers": [
+        "Landfall Games"
+      ],
+      "developers": [
+        "Landfall Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy",
+        "Warfare"
+      ],
+      "game_modes": [],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

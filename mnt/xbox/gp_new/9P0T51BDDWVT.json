@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 125166,
+    "specific_id": 125166,
+    "title": "Battlefield 2042",
+    "store_title": "Battlefield\u2122 2042 Xbox Series X|S",
+    "pid": "9P0T51BDDWVT",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N8C8L9MVQ89",
+      "9PD5BFNZ4V7K"
+    ],
+    "sku_groups": [
+      [
+        "9N8C8L9MVQ89"
+      ],
+      [
+        "9P0T51BDDWVT"
+      ],
+      [
+        "9PD5BFNZ4V7K"
+      ]
+    ],
+    "original_release_date": "2021-11-12",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-11-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-11-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-128)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125166,
+      "name": "Battlefield 2042",
+      "url": "https://www.igdb.com/games/battlefield-2042",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

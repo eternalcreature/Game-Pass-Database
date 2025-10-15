@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 107262,
+    "specific_id": 107262,
+    "title": "Streets of Rage 4",
+    "store_title": "Streets of Rage 4",
+    "pid": "9N7H54KNCB9N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N7H54KNCB9N"
+      ]
+    ],
+    "original_release_date": "2020-04-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-05-01",
+        "removed": "2022-05-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-01",
+        "removed": "2022-05-01"
+      },
+      "PC": {
+        "added": "2021-05-01",
+        "removed": "2022-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Fighting"
+    ],
+    "publisher": "Dotemu",
+    "developer": "Dotemu, Lizardcube, Guard Crush Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 107262,
+      "name": "Streets of Rage 4",
+      "url": "https://www.igdb.com/games/streets-of-rage-4",
+      "publishers": [
+        "DotEmu",
+        "Yooreka Studio"
+      ],
+      "developers": [
+        "DotEmu",
+        "Guard Crush Games",
+        "Lizardcube"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

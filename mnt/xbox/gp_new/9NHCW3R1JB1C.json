@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 30208,
+    "specific_id": 30208,
+    "title": "Dragon Age: The Veilguard",
+    "store_title": "Dragon Age\u2122: The Veilguard - PC",
+    "pid": "9NHCW3R1JB1C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BSDX4FNNC0DK"
+    ],
+    "sku_groups": [
+      [
+        "9NHCW3R1JB1C"
+      ],
+      [
+        "BSDX4FNNC0DK"
+      ]
+    ],
+    "original_release_date": "2024-10-31",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-08-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-28",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2025-08-28",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing",
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 30208,
+      "name": "Dragon Age: The Veilguard",
+      "url": "https://www.igdb.com/games/dragon-age-the-veilguard",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

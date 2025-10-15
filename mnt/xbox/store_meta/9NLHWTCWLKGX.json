@@ -1,0 +1,144 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Drug Reference",
+      "Sexual Content",
+      "Strong Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "A Video Game About Private Conversations\r\n\r\nAn investigative thriller game with non-linear storytelling, Telling Lies revolves around a cache of secretly recorded video conversations. Starring Logan Marshall-Green, Alexandra Shipp, Kerry Bishé, Angela Sarafyan and directed by Sam Barlow, creator of Her Story and Silent Hill: Shattered Memories. \r\n\r\nHow does it work?\r\n\r\nTelling Lies sits you in front of an anonymous laptop loaded with a stolen NSA database full of footage. The footage covers two years in the intimate lives of four people whose stories are linked by a shocking incident. Explore the database by typing search terms, watch the clips where those words are spoken and piece together your story. \r\n\r\nUnlike anything you've played before, Telling Lies is an intimate and intense experience. A game where you decide the truth.",
+  "developerName": "Sam Barlow",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 11274559488,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NLHWTCWLKGX",
+  "productKind": "Game",
+  "publisherName": "Annapurna Interactive",
+  "ratingCount": 240,
+  "releaseDate": "2020-04-28T13:00:00.0000000Z",
+  "shortDescription": "An investigative thriller game with non-linear storytelling, Telling Lies revolves around a cache of secretly recorded video conversations. Starring Logan Marshall-Green, Alexandra Shipp, Kerry Bishé, Angela Sarafyan and directed by Sam Barlow, creator of Her Story and Silent Hill: Shattered Memories. ",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4T70ZSLWXSK",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W21B638MFP2",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Telling Lies",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-02-03T17:00:00Z",
+      "exitDateUTC": "2023-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-02-03T17:00:00Z",
+      "exitDateUTC": "2023-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-02-03T17:00:00Z",
+      "exitDateUTC": "2023-02-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "TELLINGLIES",
+    "xboxTitleId": 1824777308,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

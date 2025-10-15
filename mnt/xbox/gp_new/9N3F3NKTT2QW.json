@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 205780,
+    "specific_id": 205780,
+    "title": "FIFA 23",
+    "store_title": "EA SPORTS\u2122 FIFA 23",
+    "pid": "9N3F3NKTT2QW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4K3F9558RP",
+      "9NDDMHZRZ0R6"
+    ],
+    "sku_groups": [
+      [
+        "9N3F3NKTT2QW"
+      ],
+      [
+        "9N4K3F9558RP"
+      ],
+      [
+        "9NDDMHZRZ0R6"
+      ]
+    ],
+    "original_release_date": "2021-10-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 205780,
+      "name": "FIFA 23",
+      "url": "https://www.igdb.com/games/fifa-23",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

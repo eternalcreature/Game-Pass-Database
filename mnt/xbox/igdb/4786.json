@@ -1,0 +1,78 @@
+{
+  "id": 4786,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 11516,
+      "company": {
+        "id": 2145,
+        "name": "Tango Gameworks"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 55838,
+      "company": {
+        "id": 3980,
+        "name": "The Workshop Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 95296,
+      "company": {
+        "id": 16565,
+        "name": "Bethesda Softworks"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Evil Within",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-evil-within"
+}

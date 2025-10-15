@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 201254,
+    "specific_id": 201254,
+    "title": "Rabbids: Party of Legends",
+    "store_title": "Rabbids\u00ae: Party of Legends",
+    "pid": "9PLF73SS7M6J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PJLNG7448C6"
+    ],
+    "sku_groups": [
+      [
+        "9PJLNG7448C6"
+      ],
+      [
+        "9PLF73SS7M6J"
+      ]
+    ],
+    "original_release_date": "2022-06-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Music",
+      "Role playing"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT CHENGDU"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 201254,
+      "name": "Rabbids: Party of Legends",
+      "url": "https://www.igdb.com/games/rabbids-party-of-legends",
+      "publishers": [
+        "Ubisoft China"
+      ],
+      "developers": [
+        "Ubisoft Chengdu"
+      ],
+      "genres": [
+        "Music",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Comedy",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

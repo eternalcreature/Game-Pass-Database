@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 113623,
+    "specific_id": 113623,
+    "title": "Alvastia Chronicles",
+    "store_title": "Alvastia Chronicles",
+    "pid": "9MVJGBNNFPPS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVJGBNNFPPS"
+      ]
+    ],
+    "original_release_date": "2019-02-12",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "KEMCO",
+    "developer": "EXE-CREATE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113623,
+      "name": "Alvastia Chronicles",
+      "url": "https://www.igdb.com/games/alvastia-chronicles",
+      "publishers": [
+        "Kemco"
+      ],
+      "developers": [
+        "Exe Create"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

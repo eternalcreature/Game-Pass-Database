@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 7570,
+    "specific_id": 7570,
+    "title": "Assassin's Creed Rogue",
+    "store_title": "Assassin's Creed Rogue",
+    "pid": "9NV01PJJLXN2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NV01PJJLXN2"
+      ]
+    ],
+    "original_release_date": "2014-11-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Sofia, Ubisoft Kiev"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7570,
+      "name": "Assassin's Creed Rogue",
+      "url": "https://www.igdb.com/games/assassins-creed-rogue",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Sofia"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 3182,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 19457,
+      "company": {
+        "id": 51,
+        "name": "Blizzard Entertainment"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 19458,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Diablo III: Reaper of Souls",
+  "parent_game": 120,
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 152288,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 229767,
+      "company": {
+        "id": 31355,
+        "name": "Half Mermaid"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 229768,
+      "company": {
+        "id": 6026,
+        "name": "Sam Barlow"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Immortality",
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/immortality"
+}

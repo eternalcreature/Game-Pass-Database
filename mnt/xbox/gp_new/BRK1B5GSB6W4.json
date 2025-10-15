@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 10184,
+    "specific_id": 10184,
+    "title": "Defense Grid 2",
+    "store_title": "Defense Grid 2",
+    "pid": "BRK1B5GSB6W4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRK1B5GSB6W4"
+      ]
+    ],
+    "original_release_date": "2014-09-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "505 Games",
+    "developer": "Hidden Path Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10184,
+      "name": "Defense Grid 2",
+      "url": "https://www.igdb.com/games/defense-grid-2",
+      "publishers": [
+        "505 Games",
+        "Hidden Path Entertainment"
+      ],
+      "developers": [
+        "Hidden Path Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

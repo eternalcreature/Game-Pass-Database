@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 148289,
+    "specific_id": 148289,
+    "title": "My Friend Peppa Pig",
+    "store_title": "My Friend Peppa Pig",
+    "pid": "9NDJLXD2X2DM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDJLXD2X2DM"
+      ]
+    ],
+    "original_release_date": "2021-10-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-07-14",
+        "removed": "2025-07-01"
+      },
+      "Ultimate": {
+        "added": "2022-07-14",
+        "removed": "2025-07-01"
+      },
+      "PC": {
+        "added": "2022-07-14",
+        "removed": "2025-07-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "Petoons Studio Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 148289,
+      "name": "My Friend Peppa Pig",
+      "url": "https://www.igdb.com/games/my-friend-peppa-pig",
+      "publishers": [
+        "Bandai Namco Entertainment",
+        "Outright Games"
+      ],
+      "developers": [
+        "Outright Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

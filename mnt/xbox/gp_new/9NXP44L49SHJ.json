@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "base_id": 135400,
+    "specific_id": 204910,
+    "title": "Minecraft",
+    "store_title": "Minecraft: Java & Bedrock Edition for PC",
+    "pid": "9NXP44L49SHJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVXMVT8ZKWC",
+      "9P1DP2NGFB93"
+    ],
+    "sku_groups": [
+      [
+        "9MVXMVT8ZKWC"
+      ],
+      [
+        "9NXP44L49SHJ",
+        "9P1DP2NGFB93"
+      ]
+    ],
+    "original_release_date": "2011-11-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-06-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-07",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Mojang/Microsoft Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135400,
+      "name": "Minecraft",
+      "url": "https://www.igdb.com/games/minecraft--1",
+      "publishers": [
+        "Mojang Studios"
+      ],
+      "developers": [
+        "Mojang Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Sandbox",
+        "Kids",
+        "Open world",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    },
+    "specific": {
+      "id": 135400,
+      "name": "Minecraft",
+      "url": "https://www.igdb.com/games/minecraft--1",
+      "publishers": [
+        "Mojang Studios"
+      ],
+      "developers": [
+        "Mojang Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Sandbox",
+        "Kids",
+        "Open world",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

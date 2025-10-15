@@ -1,0 +1,36 @@
+{
+  "id": 122080,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 86810,
+      "company": {
+        "id": 486,
+        "name": "Sports Interactive"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Football Manager 2020",
+  "url": "https://www.igdb.com/games/football-manager-2020"
+}

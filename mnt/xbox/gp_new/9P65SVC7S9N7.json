@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 119349,
+    "specific_id": 119349,
+    "title": "Cris Tales",
+    "store_title": "Cris Tales",
+    "pid": "9P65SVC7S9N7",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N38MH44JD8P"
+    ],
+    "sku_groups": [
+      [
+        "9N38MH44JD8P"
+      ],
+      [
+        "9P65SVC7S9N7"
+      ]
+    ],
+    "original_release_date": "2021-07-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-07-20",
+        "removed": "2022-07-16"
+      },
+      "Ultimate": {
+        "added": "2021-07-20",
+        "removed": "2022-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Maximum Entertainment",
+    "developer": "Dreams Uncorporated"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119349,
+      "name": "Cris Tales",
+      "url": "https://www.igdb.com/games/cris-tales",
+      "publishers": [
+        "Maximum Entertainment",
+        "Modus Games"
+      ],
+      "developers": [
+        "Dreams Uncorporated",
+        "SYCK"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

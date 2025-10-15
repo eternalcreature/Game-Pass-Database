@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 11204,
+    "specific_id": 11204,
+    "title": "The Walking Dead: Michonne",
+    "store_title": "The Walking Dead: Michonne",
+    "pid": "9NBLGGH5SP5V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C2XNJC9WK15X"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH5SP5V"
+      ],
+      [
+        "C2XNJC9WK15X"
+      ]
+    ],
+    "original_release_date": "2016-02-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-01",
+        "removed": "2022-11-16"
+      },
+      "Ultimate": {
+        "added": "2022-11-01",
+        "removed": "2022-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Telltale Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11204,
+      "name": "The Walking Dead: Michonne",
+      "url": "https://www.igdb.com/games/the-walking-dead-michonne",
+      "publishers": [
+        "Telltale Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

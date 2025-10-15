@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 133306,
+    "specific_id": 133306,
+    "title": "Call of the Sea",
+    "store_title": "Call of the Sea",
+    "pid": "9P27ZMZ7FDPZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NNG78K7N91K"
+    ],
+    "sku_groups": [
+      [
+        "9NNG78K7N91K"
+      ],
+      [
+        "9P27ZMZ7FDPZ"
+      ]
+    ],
+    "original_release_date": "2020-12-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-08",
+        "removed": "2021-12-01"
+      },
+      "Ultimate": {
+        "added": "2020-12-08",
+        "removed": "2021-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Out of the Blue"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133306,
+      "name": "Call of the Sea",
+      "url": "https://www.igdb.com/games/call-of-the-sea",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Out of the Blue Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

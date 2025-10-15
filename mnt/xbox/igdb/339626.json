@@ -1,0 +1,49 @@
+{
+  "id": 339626,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 315117,
+      "company": {
+        "id": 15299,
+        "name": "Playstack"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 315118,
+      "company": {
+        "id": 41732,
+        "name": "Stubby Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Void/Breaker",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/void-slash-breaker"
+}

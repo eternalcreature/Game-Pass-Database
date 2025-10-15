@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 9888,
+    "specific_id": 9888,
+    "title": "#IDARB",
+    "store_title": "#IDARB",
+    "pid": "BZJH18QJVDVW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BZJH18QJVDVW"
+      ]
+    ],
+    "original_release_date": "2015-01-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Sports"
+    ],
+    "publisher": "Other Ocean",
+    "developer": "Other Ocean"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9888,
+      "name": "#IDARB",
+      "url": "https://www.igdb.com/games/number-idarb",
+      "publishers": [
+        "Other Ocean Interactive"
+      ],
+      "developers": [
+        "Other Ocean Interactive"
+      ],
+      "genres": [
+        "Platform",
+        "Sport",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

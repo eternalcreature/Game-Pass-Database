@@ -1,0 +1,95 @@
+{
+  "id": 189,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 19847,
+      "company": {
+        "id": 292,
+        "name": "Traveller's Tales"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 166600,
+      "company": {
+        "id": 10,
+        "name": "LucasArts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184809,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184810,
+      "company": {
+        "id": 411,
+        "name": "Robosoft Technologies"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "LEGO Indiana Jones: The Original Adventures",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lego-indiana-jones-the-original-adventures"
+}

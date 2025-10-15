@@ -1,0 +1,60 @@
+{
+  "id": 106235,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 72656,
+      "company": {
+        "id": 7700,
+        "name": "Code Mystics"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 72655,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Killer Instinct 2 Classic",
+  "parent_game": 2930,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "url": "https://www.igdb.com/games/killer-instinct-2-classic"
+}

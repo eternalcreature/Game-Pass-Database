@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 12523,
+    "specific_id": 12523,
+    "title": "Faeria",
+    "store_title": "Faeria",
+    "pid": "9PFGRCTKB48G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PFGRCTKB48G"
+      ]
+    ],
+    "original_release_date": "2016-02-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Card & board",
+      "Strategy"
+    ],
+    "publisher": "Versus Evil",
+    "developer": "Abrakam Entertainment SA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 12523,
+      "name": "Faeria",
+      "url": "https://www.igdb.com/games/faeria",
+      "publishers": [
+        "Abrakam",
+        "Versus Evil"
+      ],
+      "developers": [
+        "Abrakam"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

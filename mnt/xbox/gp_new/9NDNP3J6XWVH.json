@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 14144,
+    "specific_id": 14144,
+    "title": "Final Fantasy X/X-2 HD Remaster",
+    "store_title": "FINAL FANTASY X/X-2 HD Remaster",
+    "pid": "9NDNP3J6XWVH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C0KSN20BRP7Z"
+    ],
+    "sku_groups": [
+      [
+        "9NDNP3J6XWVH"
+      ],
+      [
+        "C0KSN20BRP7Z"
+      ]
+    ],
+    "original_release_date": "2013-12-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-05-13",
+        "removed": "2022-05-16"
+      },
+      "Ultimate": {
+        "added": "2021-05-13",
+        "removed": "2022-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14144,
+      "name": "Final Fantasy X/X-2 HD Remaster",
+      "url": "https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix",
+        "Virtuos"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

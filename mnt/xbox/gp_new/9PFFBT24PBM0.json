@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 130517,
+    "specific_id": 130517,
+    "title": "Mad Streets",
+    "store_title": "Mad Streets",
+    "pid": "9PFFBT24PBM0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PFFBT24PBM0"
+      ]
+    ],
+    "original_release_date": "2021-08-27",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-10-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-10-07",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-10-07",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-10-07",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting"
+    ],
+    "publisher": "Craftshop Arts Inc.",
+    "developer": "Craftshop Arts Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 130517,
+      "name": "Mad Streets",
+      "url": "https://www.igdb.com/games/mad-streets",
+      "publishers": [
+        "Craftshop Arts"
+      ],
+      "developers": [
+        "Craftshop Arts"
+      ],
+      "genres": [
+        "Fighting",
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

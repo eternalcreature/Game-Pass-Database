@@ -1,0 +1,142 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Word"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol Reference",
+      "Language",
+      "Mild Suggestive Themes",
+      "Use of Tobacco"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "In a time where people are isolated from each other, Coffee Talk is a place where we can reconnect over a cup of warm drink.\r\n\r\nIt’s time to revisit your favorite late-night coffee shop and reconnect with your fantasy friends over a warm drink or two. You are a barista, and your customers aren't always humans, listen to their stories and influence their hearts with a warm cup of coffee or two.\r\n\r\n*Brew Warm Drinks\r\nMix a combination of ingredients, such as tea, ginger, mint, chocolate, coffee and many more. Experiment and uncover secret recipes, change people’s lives by serving drinks that will warm their hearts.\r\n*Create Latte-Art Masterpieces\r\nShow your creativity, draw your own latte-art masterpiece with our in-game fluid simulation to decorate your drinks.\r\n*Chill Lo-fi Atmosphere\r\nImmerse yourself in the relaxing coffee shop atmosphere. It’s raining outside, brew yourself a warm drink, play that lo-fi chillhop beats, and listen to the coffee talk.\r\n*Urban Fantasy Cappuccinopunk\r\nSet in an alternate present-day Seattle where humans, orcs, elves, and other races have been coexisting since the beginning of time. Explore the world through the stories told by your customers one cup at a time.\r\n*Hangout With a Diverse Cast\r\nMeet quirky and interesting characters, such as; Baileys the elf freelance graphic designer, Lua, the succubus bisdev executive, Myrtle the orc game developer, and more. Listen to their stories and influence them with a warm drink or two!",
+  "developerName": "Toge Productions",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 794865664,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N4DC4325HLM",
+  "productKind": "Game",
+  "publisherName": "Chorus Worldwide Games",
+  "ratingCount": 243,
+  "releaseDate": "2023-04-20T04:00:00.0000000Z",
+  "shortDescription": "A coffee-brewing and heart-to-heart talking simulation.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T14P2H2NDH5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2ZWDFGBF6P6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Coffee Talk Episode 2: Hibiscus and Butterfly",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-04-20T05:00:00Z",
+      "exitDateUTC": "2024-07-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-04-20T05:00:00Z",
+      "exitDateUTC": "2024-07-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-04-20T05:00:00Z",
+      "exitDateUTC": "2024-07-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "COFFEETALKEPISODE2HIBISCUSANDBUTTERFLY",
+    "xboxTitleId": 1941723837,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

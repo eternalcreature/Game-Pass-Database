@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 126459,
+    "specific_id": 126459,
+    "title": "Valorant",
+    "store_title": "VALORANT PC",
+    "pid": "9NKCCHCFTHV2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N1NLJK9SKRN"
+    ],
+    "sku_groups": [
+      [
+        "9N1NLJK9SKRN"
+      ],
+      [
+        "9NKCCHCFTHV2"
+      ]
+    ],
+    "original_release_date": "2020-06-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-12-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-12-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure"
+    ],
+    "publisher": "Riot Games",
+    "developer": "Riot Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 126459,
+      "name": "Valorant",
+      "url": "https://www.igdb.com/games/valorant",
+      "publishers": [
+        "Riot Games"
+      ],
+      "developers": [
+        "Riot Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

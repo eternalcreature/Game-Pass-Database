@@ -1,0 +1,74 @@
+{
+  "id": 1564,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 19207,
+      "company": {
+        "id": 263,
+        "name": "Namco"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 19206,
+      "company": {
+        "id": 732,
+        "name": "Project Soul"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 99597,
+      "company": {
+        "id": 6330,
+        "name": "Namco Bandai Games"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "SoulCalibur",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/soulcalibur"
+}

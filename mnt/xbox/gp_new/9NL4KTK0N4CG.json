@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 106856,
+    "specific_id": 106856,
+    "title": "A Memoir Blue",
+    "store_title": "A Memoir Blue",
+    "pid": "9NL4KTK0N4CG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NL4KTK0N4CG"
+      ]
+    ],
+    "original_release_date": "2022-03-24",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-24",
+        "removed": "2023-04-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-24",
+        "removed": "2023-04-01"
+      },
+      "Console": {
+        "added": "2022-03-24",
+        "removed": "2023-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Cloisters Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106856,
+      "name": "A Memoir Blue",
+      "url": "https://www.igdb.com/games/a-memoir-blue",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Cloisters Interactive"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Drama",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

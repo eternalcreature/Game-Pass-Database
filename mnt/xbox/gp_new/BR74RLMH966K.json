@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 5637,
+    "specific_id": 5637,
+    "title": "Costume Quest",
+    "store_title": "Costume Quest",
+    "pid": "BR74RLMH966K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR74RLMH966K"
+      ]
+    ],
+    "original_release_date": "2010-10-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-10-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-10-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "THQ, Inc.",
+    "developer": "Double Fine Productions, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5637,
+      "name": "Costume Quest",
+      "url": "https://www.igdb.com/games/costume-quest",
+      "publishers": [
+        "Humble Bundle",
+        "Nordic Games Publishing",
+        "THQ",
+        "The Adventure Company"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

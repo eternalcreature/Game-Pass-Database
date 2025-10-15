@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 250162,
+    "specific_id": 250162,
+    "title": "Cataclismo",
+    "store_title": "Cataclismo",
+    "pid": "9N77QBDKKM4C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N77QBDKKM4C"
+      ]
+    ],
+    "original_release_date": "2025-03-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-09-04",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-09-04",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "Digital Sun"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 250162,
+      "name": "Cataclismo",
+      "url": "https://www.igdb.com/games/cataclismo",
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "developers": [
+        "Digital Sun Games"
+      ],
+      "genres": [
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

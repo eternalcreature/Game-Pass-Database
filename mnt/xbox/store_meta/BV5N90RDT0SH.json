@@ -1,0 +1,143 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 4.7,
+  "badges": [
+    {
+      "type": 11
+    },
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Sexual Themes",
+      "Partial Nudity",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "The Games on Demand version supports English and Spanish. Download the manual for this game by locating the game on http://marketplace.xbox.com and selecting “See Game Manual\". You are Commander Shepard of the SS Normandy, an elite agent in humanity’s Systems Alliance Military. Explore the galaxy with your hand picked squad of combat, tech and biotic specialists as you race against time to stop a madman bent on galactic destruction.Download new systems and worlds to visit! Meet new characters and encounter never before seen alien species! Find new weapons, armor and items as you experience a whole new adventure! There are no refunds for this item. For more information, see www.xbox.com/live/accounts.",
+  "developerName": "BioWare Corp.",
+  "editions": [],
+  "franchiseId": "MASSEFFECT",
+  "franchiseName": "Mass Effect",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH",
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 7979094016,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BV5N90RDT0SH",
+  "productKind": "Game",
+  "publisherName": "Microsoft Game Studios",
+  "ratingCount": 543,
+  "releaseDate": "2009-08-06T00:00:00.0000000Z",
+  "shortDescription": "You are Commander Shepard of the SS Normandy, an elite agent in humanity’s Systems Alliance Military. Explore the galaxy with your hand picked squad of combat, tech and biotic specialists as you race against time to stop a madman bent on galactic destruction. Download new systems and worlds to visit! Meet new characters and encounter never before seen alien species! Find new weapons, armor and items as you experience a whole new adventure!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9NHJG6T7Q5QQ",
+        "discountPercentage": 67.033516,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/16/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 6.59,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9SKN4CJ1JTS7",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Mass Effect",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2024-08-29T19:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2017-11-30T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2017-11-30T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-20T04:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

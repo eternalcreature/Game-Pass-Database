@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 332273,
+    "specific_id": 332273,
+    "title": "Monster Train 2",
+    "store_title": "Monster Train 2",
+    "pid": "9NJC29JG70LM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NJC29JG70LM"
+      ]
+    ],
+    "original_release_date": "2025-05-21",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-21",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Strategy"
+    ],
+    "publisher": "Big Fan Games",
+    "developer": "Shiny Shoe"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 332273,
+      "name": "Monster Train 2",
+      "url": "https://www.igdb.com/games/monster-train-2",
+      "publishers": [
+        "Big Fan Games"
+      ],
+      "developers": [
+        "Shiny Shoe"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

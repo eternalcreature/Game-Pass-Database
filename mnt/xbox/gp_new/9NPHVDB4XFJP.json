@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 25581,
+    "specific_id": 25581,
+    "title": "Iron Harvest",
+    "store_title": "Iron Harvest (Windows)",
+    "pid": "9NPHVDB4XFJP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NPHVDB4XFJP"
+      ]
+    ],
+    "original_release_date": "2020-09-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-24",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2021-06-24",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Prime Matter",
+    "developer": "KING Art Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25581,
+      "name": "Iron Harvest",
+      "url": "https://www.igdb.com/games/iron-harvest",
+      "publishers": [
+        "Deep Silver",
+        "King Art",
+        "King Art Games"
+      ],
+      "developers": [
+        "King Art",
+        "King Art Games"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

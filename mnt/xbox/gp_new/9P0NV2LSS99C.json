@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 203376,
+    "specific_id": 203376,
+    "title": "Madden NFL 23",
+    "store_title": "Madden NFL 23 Xbox One",
+    "pid": "9P0NV2LSS99C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MZKW7QMXQRV",
+      "9NTPR5TCLHKX"
+    ],
+    "sku_groups": [
+      [
+        "9MZKW7QMXQRV"
+      ],
+      [
+        "9NTPR5TCLHKX"
+      ],
+      [
+        "9P0NV2LSS99C"
+      ]
+    ],
+    "original_release_date": "2022-08-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2023-02-09",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2023-02-09",
+        "removed": "2025-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 203376,
+      "name": "Madden NFL 23",
+      "url": "https://www.igdb.com/games/madden-nfl-23",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

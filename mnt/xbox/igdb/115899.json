@@ -1,0 +1,96 @@
+{
+  "id": 115899,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 128753,
+      "company": {
+        "id": 1460,
+        "name": "Plug In Digital"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 110994,
+      "company": {
+        "id": 21313,
+        "name": "Dear Villagers"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 110995,
+      "company": {
+        "id": 14282,
+        "name": "E-Studio"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 125637,
+      "company": {
+        "id": 2238,
+        "name": "EastAsiaSoft"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 128751,
+      "company": {
+        "id": 10860,
+        "name": "Flying Oak Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "ScourgeBringer",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/scourgebringer"
+}

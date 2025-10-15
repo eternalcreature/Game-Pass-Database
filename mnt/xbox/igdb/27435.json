@@ -1,0 +1,65 @@
+{
+  "id": 27435,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 97144,
+      "company": {
+        "id": 12207,
+        "name": "Long Hat House"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 195805,
+      "company": {
+        "id": 19006,
+        "name": "Raw Fury"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dandara",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dandara"
+}

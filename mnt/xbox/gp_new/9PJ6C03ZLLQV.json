@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 111661,
+    "specific_id": 111661,
+    "title": "Omno",
+    "store_title": "Omno",
+    "pid": "9PJ6C03ZLLQV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJ6C03ZLLQV"
+      ]
+    ],
+    "original_release_date": "2018-11-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-07-29",
+        "removed": "2022-08-01"
+      },
+      "Ultimate": {
+        "added": "2021-07-29",
+        "removed": "2022-08-01"
+      },
+      "PC": {
+        "added": "2021-07-29",
+        "removed": "2022-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Studio Inkyfox & Future Friends Games",
+    "developer": "Studio Inkyfox"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 111661,
+      "name": "Omno",
+      "url": "https://www.igdb.com/games/omno",
+      "publishers": [
+        "Future Friends Games",
+        "Studio Inkyfox"
+      ],
+      "developers": [
+        "Studio Inkyfox"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

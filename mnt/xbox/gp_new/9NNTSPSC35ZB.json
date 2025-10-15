@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 119374,
+    "specific_id": 119374,
+    "title": "Final Fantasy VIII Remastered",
+    "store_title": "FINAL FANTASY VIII Remastered",
+    "pid": "9NNTSPSC35ZB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P35DPLN1JCN"
+    ],
+    "sku_groups": [
+      [
+        "9NNTSPSC35ZB"
+      ],
+      [
+        "9P35DPLN1JCN"
+      ]
+    ],
+    "original_release_date": "2019-09-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-11-12",
+        "removed": "2021-11-16"
+      },
+      "Ultimate": {
+        "added": "2020-11-12",
+        "removed": "2021-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119374,
+      "name": "Final Fantasy VIII Remastered",
+      "url": "https://www.igdb.com/games/final-fantasy-viii-remastered",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

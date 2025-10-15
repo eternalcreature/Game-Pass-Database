@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 15862,
+    "specific_id": 15862,
+    "title": "Day of the Tentacle Remastered",
+    "store_title": "Day of the Tentacle Remastered",
+    "pid": "9NKK6CX54183",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NKK6CX54183"
+      ]
+    ],
+    "original_release_date": "2016-03-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Double Fine Productions & Shiny Shoe"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 15862,
+      "name": "Day of the Tentacle Remastered",
+      "url": "https://www.igdb.com/games/day-of-the-tentacle-remastered",
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

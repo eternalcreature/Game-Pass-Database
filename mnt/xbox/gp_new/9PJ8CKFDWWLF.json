@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 252476,
+    "specific_id": 252476,
+    "title": "Prince of Persia: The Lost Crown",
+    "store_title": "Prince of Persia The Lost Crown",
+    "pid": "9PJ8CKFDWWLF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P4LSLG7B8CT"
+    ],
+    "sku_groups": [
+      [
+        "9P4LSLG7B8CT"
+      ],
+      [
+        "9PJ8CKFDWWLF"
+      ]
+    ],
+    "original_release_date": "2024-01-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-09-25",
+        "removed": "2025-09-25"
+      },
+      "PC": {
+        "added": "2025-09-25",
+        "removed": "2025-09-25"
+      },
+      "Ultimate": {
+        "added": "2025-09-25",
+        "removed": "2025-09-25"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252476,
+      "name": "Prince of Persia: The Lost Crown",
+      "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montpellier"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

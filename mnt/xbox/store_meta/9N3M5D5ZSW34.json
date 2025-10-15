@@ -1,0 +1,153 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Simulation",
+    "Role playing",
+    "Strategy",
+    "Family & kids",
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Alcohol Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "You play as Morgan, an aspiring engineer headed home to complete your family's dream project - a rocket ship! Finding home not quite how she left it, Morgan will need to research and build clever contraptions and sprawling factories to help the locals. From simple drills and furnaces to complex assemblers, cranes and miles of conveyor belts, you'll convert local resources into useful materials and bring industry back to sleepy St. Ambroise.\n\n• Build clever contraptions and sprawling factories to solve puzzles and help the town\n• Get to know the locals, make lifelong friendships and become the heart of the community\n• Research and invent new machines, energy sources and mechanical friends\n• Discover a heartwarming story as Morgan, an aspiring engineer with high hopes for town!\n• Finally build your family's rocket ship!\n\nOutside of smashing together crazy contraptions, you'll need to mine out resources, explore coasts, railyards, quarries and underground areas - each part of town has its own materials to inspire you! You'll need to complete challenges, incorporate electrical elements, water, cranes, furnaces, crafting, automate through robotics, and loads more to ensure St. Ambroise returns to its former glory. Are you ready to roll up your sleeves?",
+  "developerName": "Teenage Astronauts",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2318594048,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N3M5D5ZSW34",
+  "productKind": "Game",
+  "publisherName": "No More Robots",
+  "ratingCount": 175,
+  "releaseDate": "2025-10-07T00:00:00.0000000Z",
+  "shortDescription": "Transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. Roll up your sleeves, it turns out that saving this town really IS rocket science!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SM22V12G9RN",
+        "discountPercentage": 25.012505,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/22/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NVF47CWZF2G",
+        "discountPercentage": 25.012505,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/22/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Little Rocket Lab",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-07T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-07T00:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-10-07T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "LITTLEROCKETLAB",
+    "xboxTitleId": 1944276274,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

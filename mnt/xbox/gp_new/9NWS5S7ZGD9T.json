@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 22739,
+    "specific_id": 22739,
+    "title": "Uno",
+    "store_title": "UNO\u00ae",
+    "pid": "9NWS5S7ZGD9T",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BNSDHDK45KBR"
+    ],
+    "sku_groups": [
+      [
+        "9NWS5S7ZGD9T"
+      ],
+      [
+        "BNSDHDK45KBR"
+      ]
+    ],
+    "original_release_date": "2016-08-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Card & board",
+      "Family & kids",
+      "Puzzle & trivia",
+      "Classics",
+      "Other"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 22739,
+      "name": "Uno",
+      "url": "https://www.igdb.com/games/uno--1",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Chengdu"
+      ],
+      "genres": [
+        "Strategy",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

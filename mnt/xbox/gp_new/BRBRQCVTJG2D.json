@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 3759,
+    "specific_id": 3759,
+    "title": "Feeding Frenzy",
+    "store_title": "Feeding Frenzy",
+    "pid": "BRBRQCVTJG2D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRBRQCVTJG2D"
+      ]
+    ],
+    "original_release_date": "2004-02-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "PopCap"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3759,
+      "name": "Feeding Frenzy",
+      "url": "https://www.igdb.com/games/feeding-frenzy",
+      "publishers": [
+        "PopCap Games"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

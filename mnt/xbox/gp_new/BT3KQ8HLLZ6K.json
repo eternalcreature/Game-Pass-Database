@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 37066,
+    "specific_id": 37066,
+    "title": "Starlink: Battle for Atlas",
+    "store_title": "Starlink: Battle for Atlas\u2122",
+    "pid": "BT3KQ8HLLZ6K",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PL427M642BV"
+    ],
+    "sku_groups": [
+      [
+        "9PL427M642BV"
+      ],
+      [
+        "BT3KQ8HLLZ6K"
+      ]
+    ],
+    "original_release_date": "2018-10-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Other"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Toronto"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37066,
+      "name": "Starlink: Battle for Atlas",
+      "url": "https://www.igdb.com/games/starlink-battle-for-atlas",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Toronto"
+      ],
+      "genres": [
+        "Shooter",
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

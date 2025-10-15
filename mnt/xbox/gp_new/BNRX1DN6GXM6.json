@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 76770,
+    "specific_id": 76770,
+    "title": "Bridge Constructor Portal",
+    "store_title": "Bridge Constructor Portal",
+    "pid": "BNRX1DN6GXM6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNRX1DN6GXM6"
+      ]
+    ],
+    "original_release_date": "2017-12-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-15",
+        "removed": "2023-06-16"
+      },
+      "Ultimate": {
+        "added": "2021-06-15",
+        "removed": "2023-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Headup Games",
+    "developer": "ClockStone STUDIO"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 76770,
+      "name": "Bridge Constructor Portal",
+      "url": "https://www.igdb.com/games/bridge-constructor-portal",
+      "publishers": [
+        "Headup Games"
+      ],
+      "developers": [
+        "ClockStone Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 37062,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 273205,
+      "company": {
+        "id": 822,
+        "name": "Ubisoft Singapore"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 273206,
+      "company": {
+        "id": 3928,
+        "name": "Ubisoft Chengdu"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 273207,
+      "company": {
+        "id": 19099,
+        "name": "Ubisoft Blue Byte"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 273208,
+      "company": {
+        "id": 1897,
+        "name": "Ubisoft Berlin"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 273209,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Skull and Bones",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/skull-and-bones"
+}

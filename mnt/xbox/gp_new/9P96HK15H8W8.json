@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 202858,
+    "specific_id": 202858,
+    "title": "Super Mega Baseball 4",
+    "store_title": "Super Mega Baseball\u2122 4",
+    "pid": "9P96HK15H8W8",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N93V5M3TG4N"
+    ],
+    "sku_groups": [
+      [
+        "9N93V5M3TG4N"
+      ],
+      [
+        "9P96HK15H8W8"
+      ]
+    ],
+    "original_release_date": "2023-06-02",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-01-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-11",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-01-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Sports",
+      "Family & kids",
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Metalhead Software Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 202858,
+      "name": "Super Mega Baseball 4",
+      "url": "https://www.igdb.com/games/super-mega-baseball-4",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Metalhead Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

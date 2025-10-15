@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 119257,
+    "specific_id": 119257,
+    "title": "Destroy All Humans!",
+    "store_title": "Destroy All Humans!",
+    "pid": "C2GMBPMTHDDK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2GMBPMTHDDK"
+      ]
+    ],
+    "original_release_date": "2020-07-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-05-01",
+        "removed": "2023-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-01",
+        "removed": "2023-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Black Forest Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119257,
+      "name": "Destroy All Humans!",
+      "url": "https://www.igdb.com/games/destroy-all-humans--1",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Black Forest Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

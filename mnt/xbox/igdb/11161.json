@@ -1,0 +1,88 @@
+{
+  "id": 11161,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 36338,
+      "company": {
+        "id": 1225,
+        "name": "Ubisoft San Francisco"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 55889,
+      "company": {
+        "id": 809,
+        "name": "South Park Digital Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 55887,
+      "company": {
+        "id": 8264,
+        "name": "Ubisoft Osaka"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 75600,
+      "company": {
+        "id": 537,
+        "name": "Massive Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 215754,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "South Park: The Fractured But Whole",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/south-park-the-fractured-but-whole"
+}

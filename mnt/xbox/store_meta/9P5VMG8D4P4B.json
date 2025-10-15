@@ -1,0 +1,150 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N167RTV1WDH",
+    "9NHGD97LXSGG"
+  ],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere",
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "It's Morphin Time! \r\nPower Rangers finally comes to the Xbox One. Pit current and classic Rangers like never before in 3 vs. 3 tag battles.\r\n\r\nA modern take on the 25 year franchise, Power Rangers: Battle for the Grid showcases stunning graphics and vivid details. Pit current and classic Rangers and villains like never before in 3 vs. 3 tag battles. Test your skills online against friends and players from around the world for endless replayability. A streamlined combat system welcomes newcomers with simplified controls while maintaining depth for the most dedicated competitor to learn and master.\r\n\r\n25 YEARS OF RANGERS\r\nGenerations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic but re-imagined Power Rangers battle sequences like never before.\r\n\r\nEASY TO LEARN, HARD TO MASTER\r\nPower Rangers: Battle for the Grid features traditional fighting game controls. This easy to learn but hard to master game is designed to welcome players of all skill levels.",
+  "developerName": "nWay, Inc",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 1709735936,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P5VMG8D4P4B",
+  "productKind": "Game",
+  "publisherName": "nWay, Inc",
+  "ratingCount": 338,
+  "releaseDate": "2019-03-26T00:00:00.0000000Z",
+  "shortDescription": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but re-imagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W43M5NJTT86",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TG6NZSTNZGS",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Power Rangers: Battle for the Grid",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-04-01T10:00:00Z",
+      "exitDateUTC": "2023-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-04-01T10:00:00Z",
+      "exitDateUTC": "2023-04-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-04-01T10:00:00Z",
+      "exitDateUTC": "2023-04-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "POWERRANGERSBATTLEFORTHEGRID",
+    "xboxTitleId": 1702524932,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

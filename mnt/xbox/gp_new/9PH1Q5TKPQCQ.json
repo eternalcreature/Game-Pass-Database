@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 138244,
+    "specific_id": 138244,
+    "title": "Midnight Fight Express",
+    "store_title": "Midnight Fight Express",
+    "pid": "9PH1Q5TKPQCQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PH1Q5TKPQCQ"
+      ]
+    ],
+    "original_release_date": "2022-08-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-23",
+        "removed": "2023-08-16"
+      },
+      "Ultimate": {
+        "added": "2022-08-23",
+        "removed": "2023-08-16"
+      },
+      "Console": {
+        "added": "2022-08-23",
+        "removed": "2023-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting",
+      "Shooter"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Jacob Dzwinel"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 138244,
+      "name": "Midnight Fight Express",
+      "url": "https://www.igdb.com/games/midnight-fight-express",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Jacob Dzwinel"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 11208,
+    "specific_id": 11208,
+    "title": "NieR: Automata",
+    "store_title": "NieR:Automata\u2122 BECOME AS GODS Edition",
+    "pid": "BPPZVT8BZ15N",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PM2P9HQD1ML"
+    ],
+    "sku_groups": [
+      [
+        "9PM2P9HQD1ML"
+      ],
+      [
+        "BPPZVT8BZ15N"
+      ]
+    ],
+    "original_release_date": "2017-02-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-04-01",
+        "removed": "2022-03-16"
+      },
+      "Ultimate": {
+        "added": "2021-04-01",
+        "removed": "2022-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "PlatinumGames Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11208,
+      "name": "NieR: Automata",
+      "url": "https://www.igdb.com/games/nier-automata",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "PlatinumGames",
+        "Square Enix Business Division 6"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 20863,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 329539,
+      "company": {
+        "id": 3130,
+        "name": "Zenimax Europe"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 329540,
+      "company": {
+        "id": 19,
+        "name": "Arkane Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 329541,
+      "company": {
+        "id": 16565,
+        "name": "Bethesda Softworks"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dishonored: Definitive Edition",
+  "parent_game": 533,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dishonored-definitive-edition"
+}

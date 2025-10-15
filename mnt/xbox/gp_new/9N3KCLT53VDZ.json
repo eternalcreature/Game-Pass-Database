@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 13555,
+    "specific_id": 13555,
+    "title": "Indivisible",
+    "store_title": "Indivisible",
+    "pid": "9N3KCLT53VDZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBFQMP69N1S"
+    ],
+    "sku_groups": [
+      [
+        "9N3KCLT53VDZ"
+      ],
+      [
+        "9NBFQMP69N1S"
+      ]
+    ],
+    "original_release_date": "2019-10-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-28",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2024-02-28",
+        "removed": "2025-02-16"
+      }
+    },
+    {
+      "PC": {
+        "added": "2020-01-23",
+        "removed": "2021-01-29"
+      },
+      "Ultimate": {
+        "added": "2020-01-23",
+        "removed": "2021-01-29"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Role playing"
+    ],
+    "publisher": "505 Games",
+    "developer": "Lab Zero Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 13555,
+      "name": "Indivisible",
+      "url": "https://www.igdb.com/games/indivisible",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Lab Zero Games"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,139 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblAchievements": "Xbox achievements",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Language",
+      "Use of Alcohol"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Eiyuden Chronicle: Rising combines a thrilling adventure through ancient ruins with the tale of one town’s rise from the ashes.\r\n\r\nDrawn by lenses and other treasure in the nearby Runebarrows, our heroes learn that the town is struggling to rebuild after an earthquake and decide to help. Along the way, they’ll resolve disputes between eager adventurers and wary locals who don’t think the Barrows should be disturbed. And they’ll learn more about each other’s reasons for seeking treasure, deepening their bonds in the process.\r\n\r\nAs you will learn, these Runebarrows hide a great secret that has fateful implications for one of the characters. What begins as a simple treasure hunt turns into a dark conspiracy that will shake the world and plant seeds that carry over into the main story of Eiyuden Chronicle: Hundred Heroes.\r\n\r\nThe game will introduce a portion of Eiyuden Chronicle’s cast of characters in an original story with thrilling action and engaging town-upgrading elements.\r\n\r\nThere will be some perks for players that link the game with Eiyuden Chronicle: Hundred Heroes.\r\n\r\nThe name of one character from the Eiyuden Chronicle franchise has been changed from JB to CJ.",
+  "developerName": "Natsume Atari",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 5395435520,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NMD6VV08WGF",
+  "productKind": "Game",
+  "publisherName": "505 Games",
+  "ratingCount": 258,
+  "releaseDate": "2022-05-10T16:00:00.0000000Z",
+  "shortDescription": "Eiyuden Chronicle: Rising is an action RPG set in the same world as Eiyuden Chronicle: Hundred Heroes. Features town-upgrading mechanics, fast-paced combat, and important back-story for several of the Eiyuden Chronicle: Hundred Heroes cast of characters.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZT4WKXR7XFN",
+        "discountPercentage": 75.05003,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.74,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9R6HGKBWQH98",
+        "discountPercentage": 75.05003,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/07/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 3.74,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Eiyuden Chronicle: Rising",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-05-10T16:00:00Z",
+      "exitDateUTC": "2024-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-05-10T16:00:00Z",
+      "exitDateUTC": "2024-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-05-10T16:00:00Z",
+      "exitDateUTC": "2024-05-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "EIYUDENCHRONICLERISING",
+    "xboxTitleId": 1963912042,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

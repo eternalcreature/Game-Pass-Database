@@ -1,0 +1,81 @@
+{
+  "id": 9608,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 51334,
+      "company": {
+        "id": 947,
+        "name": "Taleworlds"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 138816,
+      "company": {
+        "id": 34936,
+        "name": "Prime Matter"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Mount & Blade II: Bannerlord",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mount-and-blade-ii-bannerlord"
+}

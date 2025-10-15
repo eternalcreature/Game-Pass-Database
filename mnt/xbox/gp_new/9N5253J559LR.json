@@ -1,0 +1,122 @@
+{
+  "basic_info": {
+    "base_id": 8499,
+    "specific_id": 223088,
+    "title": "Five Nights at Freddy's",
+    "store_title": "Five Nights at Freddy's",
+    "pid": "9N5253J559LR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5253J559LR"
+      ]
+    ],
+    "original_release_date": "2014-08-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      },
+      "Ultimate": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      },
+      "PC": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Clickteam LLC USA",
+    "developer": "Scottgames, LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8499,
+      "name": "Five Nights at Freddy's",
+      "url": "https://www.igdb.com/games/five-nights-at-freddys",
+      "publishers": [
+        "Scottgames"
+      ],
+      "developers": [
+        "Scottgames"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 8499,
+      "name": "Five Nights at Freddy's",
+      "url": "https://www.igdb.com/games/five-nights-at-freddys",
+      "publishers": [
+        "Scottgames"
+      ],
+      "developers": [
+        "Scottgames"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

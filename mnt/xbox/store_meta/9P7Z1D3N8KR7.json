@@ -1,0 +1,189 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Pausable",
+      "Save anytime"
+    ],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable with keyboard only",
+      "Playable without button holds",
+      "Playable with buttons only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Large text",
+      "Color alternatives",
+      "Camera comfort"
+    ]
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 4.3,
+  "badges": [
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Developed by id Software in 1992, Wolfenstein 3D is a ground-breaking and critically acclaimed, World War II, first-person shooter action game that started the modern-day FPS genre. \r\n\r\nStory \r\n\r\nWorld War II rages. You are William \"B.J.\" Blazkowicz, the Allies' most trusted agent. The Nazis are planning Operation Eisenfaust, a project to build an unstoppable, mutant army. Your mission was to steal the secret plans, but you were captured and imprisoned in Castle Wolfenstein. Now, a lucky break gives you the chance to make your escape, but a maze of passages and trigger-happy Nazis stand in your way. \r\n\r\nFeatures \r\n\r\n- Experience the origin of the modern first-person shooter genre. \r\n- Enjoy one of the first, fully-3D FPS games ever made. \r\n- Battle Nazi soldiers, evil scientists, mutants, and more. \r\n- Wield a variety of weapons including knives, pistols, and machine guns. \r\n- Run, gun, and fight your way through six episodes. \r\n\r\n'Spear of Destiny' Expansion Included\r\n\r\nIn this prequel to Wolfenstein 3D, you are William “B.J.” Blazkowicz, the Allies' most valuable agent. During the German Blitzkrieg of World War II, the spear that pierced the side of Christ is stolen from Versailles by the Nazis and secured in Castle Nuremberg. According to legend, no man can be defeated when he wields the spear. Your mission is to infiltrate the heavily guarded Nazi stronghold and recapture the Spear of Destiny before it’s too late. ",
+  "developerName": "id Software",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 15921152,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P7Z1D3N8KR7",
+  "productKind": "Game",
+  "publisherName": "Bethesda Softworks",
+  "ratingCount": 77,
+  "releaseDate": "2022-08-18T00:00:00.0000000Z",
+  "shortDescription": "World War II rages. The Nazis are planning to build an unstoppable, mutant army. On a mission to steal the secret plans, you were captured and imprisoned. Now, a lucky break gives you the chance to escape, but a maze of passages and trigger-happy Nazis stand in your way.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VB87Z9LKF2D",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9PC6LQ4HCPFM",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZLJC5D0RXDC",
+        "discountPercentage": 20.040077,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 3.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9V3MNJ6BQKLC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 4.99,
+        "msrp": 4.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Wolfenstein 3D",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-08-18T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-08-18T16:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

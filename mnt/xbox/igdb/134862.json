@@ -1,0 +1,69 @@
+{
+  "id": 134862,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 129026,
+      "company": {
+        "id": 9735,
+        "name": "Art in Heart"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 129028,
+      "company": {
+        "id": 19006,
+        "name": "Raw Fury"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Gonner2",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/gonner2"
+}

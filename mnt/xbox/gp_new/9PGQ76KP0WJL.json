@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 26298,
+    "specific_id": 26298,
+    "title": "Sea of Solitude",
+    "store_title": "Sea of Solitude",
+    "pid": "9PGQ76KP0WJL",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C4060P46HH4D"
+    ],
+    "sku_groups": [
+      [
+        "9PGQ76KP0WJL"
+      ],
+      [
+        "C4060P46HH4D"
+      ]
+    ],
+    "original_release_date": "2019-07-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Jo-Mei GmbH"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26298,
+      "name": "Sea of Solitude",
+      "url": "https://www.igdb.com/games/sea-of-solitude",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Jo-Mei Games"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

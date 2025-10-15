@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 97257,
+    "specific_id": 97257,
+    "title": "Tails Noir",
+    "store_title": "Tails Noir",
+    "pid": "9NC9TNXS9C8G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NC9TNXS9C8G"
+      ]
+    ],
+    "original_release_date": "2021-06-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-08",
+        "removed": "2022-11-01"
+      },
+      "Ultimate": {
+        "added": "2021-06-08",
+        "removed": "2022-11-01"
+      },
+      "Console": {
+        "added": "2021-10-28",
+        "removed": "2022-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Eggnut"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 97257,
+      "name": "Tails Noir",
+      "url": "https://www.igdb.com/games/tails-noir--1",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "EggNut"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

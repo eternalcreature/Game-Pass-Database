@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 111033,
+    "specific_id": 111033,
+    "title": "Project Winter",
+    "store_title": "Project Winter",
+    "pid": "9P3SX4G50LZ1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3SX4G50LZ1"
+      ]
+    ],
+    "original_release_date": "2019-02-07",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-02-04",
+        "removed": "2022-02-16"
+      },
+      "Ultimate": {
+        "added": "2021-02-04",
+        "removed": "2022-02-16"
+      },
+      "PC": {
+        "added": "2021-02-04",
+        "removed": "2022-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (5-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (5-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Other Ocean Group",
+    "developer": "Other Ocean Interactive "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 111033,
+      "name": "Project Winter",
+      "url": "https://www.igdb.com/games/project-winter",
+      "publishers": [
+        "Other Ocean Group"
+      ],
+      "developers": [
+        "Other Ocean Interactive"
+      ],
+      "genres": [
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

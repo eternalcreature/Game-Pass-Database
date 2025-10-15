@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 134599,
+    "specific_id": 134599,
+    "title": "NBA 2K21",
+    "store_title": "NBA 2K21 Next Generation",
+    "pid": "9PKD9696652S",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NTQZ1S94ZBJ"
+    ],
+    "sku_groups": [
+      [
+        "9NTQZ1S94ZBJ"
+      ],
+      [
+        "9PKD9696652S"
+      ]
+    ],
+    "original_release_date": "2020-09-04",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "Visual Concepts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134599,
+      "name": "NBA 2K21",
+      "url": "https://www.igdb.com/games/nba-2k21",
+      "publishers": [
+        "2K",
+        "2K Games"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Business",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

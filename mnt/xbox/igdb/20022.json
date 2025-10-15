@@ -1,0 +1,62 @@
+{
+  "id": 20022,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 178739,
+      "company": {
+        "id": 660,
+        "name": "Capcom Production Studio 1"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 178740,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Devil May Cry 4: Special Edition",
+  "parent_game": 112,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/devil-may-cry-4-special-edition"
+}

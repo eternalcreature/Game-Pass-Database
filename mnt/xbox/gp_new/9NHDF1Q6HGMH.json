@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 27979,
+    "specific_id": 27979,
+    "title": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+    "store_title": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+    "pid": "9NHDF1Q6HGMH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NHDF1Q6HGMH"
+      ]
+    ],
+    "original_release_date": "2017-03-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-11",
+        "removed": "2021-06-01"
+      },
+      "Ultimate": {
+        "added": "2020-06-11",
+        "removed": "2021-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27979,
+      "name": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+      "url": "https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix",
+      "publishers": [
+        "Disney Interactive Studios",
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix",
+        "Square Enix 1st Production Department"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

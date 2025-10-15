@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 119357,
+    "specific_id": 119357,
+    "title": "Immortals Fenyx Rising",
+    "store_title": "Immortals Fenyx Rising\u2122",
+    "pid": "9NFPNPLR8VBK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C07KJZRH0L7S"
+    ],
+    "sku_groups": [
+      [
+        "9NFPNPLR8VBK"
+      ],
+      [
+        "C07KJZRH0L7S"
+      ]
+    ],
+    "original_release_date": "2020-12-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-30",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2022-08-30",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Quebec"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119357,
+      "name": "Immortals Fenyx Rising",
+      "url": "https://www.igdb.com/games/immortals-fenyx-rising",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Qu\u00e9bec"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

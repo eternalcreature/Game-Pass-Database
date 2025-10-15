@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 26855,
+    "specific_id": 26855,
+    "title": "Dead Cells",
+    "store_title": "Dead Cells",
+    "pid": "9NKVX66J0ZSK",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BQSCNS1T8PHQ"
+    ],
+    "sku_groups": [
+      [
+        "9NKVX66J0ZSK"
+      ],
+      [
+        "BQSCNS1T8PHQ"
+      ]
+    ],
+    "original_release_date": "2017-05-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-09-05",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-09-05",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Motion Twin",
+    "developer": "Motion Twin"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26855,
+      "name": "Dead Cells",
+      "url": "https://www.igdb.com/games/dead-cells",
+      "publishers": [
+        "Motion Twin"
+      ],
+      "developers": [
+        "Evil Empire",
+        "Motion Twin"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

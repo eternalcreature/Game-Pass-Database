@@ -1,0 +1,69 @@
+{
+  "basic_info": {
+    "base_id": 28081,
+    "specific_id": 28081,
+    "title": "NBA Playgrounds",
+    "store_title": "NBA Playgrounds",
+    "pid": "BWD1BSW764RV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWD1BSW764RV"
+      ]
+    ],
+    "original_release_date": "2017-05-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Mad Dog Games, LLC",
+    "developer": "Saber Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28081,
+      "name": "NBA Playgrounds",
+      "url": "https://www.igdb.com/games/nba-playgrounds",
+      "publishers": [
+        "Mad Dog Games, LLC"
+      ],
+      "developers": [
+        "Saber Interactive"
+      ],
+      "genres": [
+        "Sport",
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

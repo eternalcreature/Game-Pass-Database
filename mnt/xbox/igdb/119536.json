@@ -1,0 +1,57 @@
+{
+  "id": 119536,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 90312,
+      "company": {
+        "id": 3351,
+        "name": "Glitch"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 90311,
+      "company": {
+        "id": 23446,
+        "name": "Tribe Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "HyperDot",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/hyperdot"
+}

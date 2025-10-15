@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 9630,
+    "specific_id": 9630,
+    "title": "Fallout 4",
+    "store_title": "Fallout 4 (PC)",
+    "pid": "9P71MB9QCF77",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C3KLDKZBHNCZ"
+    ],
+    "sku_groups": [
+      [
+        "9P71MB9QCF77"
+      ],
+      [
+        "C3KLDKZBHNCZ"
+      ]
+    ],
+    "original_release_date": "2015-11-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9630,
+      "name": "Fallout 4",
+      "url": "https://www.igdb.com/games/fallout-4",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

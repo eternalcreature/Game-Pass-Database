@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 163456,
+    "specific_id": 163456,
+    "title": "Lightyear Frontier",
+    "store_title": "Lightyear Frontier (Game Preview)",
+    "pid": "9NDX2927SND9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDX2927SND9"
+      ]
+    ],
+    "original_release_date": "2024-03-19",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-03-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-03-19",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-03-19",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-01-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Simulation"
+    ],
+    "publisher": "FRAME BREAK, Amplifier Studios",
+    "developer": "FRAME BREAK, Amplifier Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 163456,
+      "name": "Lightyear Frontier",
+      "url": "https://www.igdb.com/games/lightyear-frontier",
+      "publishers": [
+        "Amplifier Game Invest",
+        "Frame Break"
+      ],
+      "developers": [
+        "Frame Break"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

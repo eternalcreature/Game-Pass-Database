@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 132707,
+    "specific_id": 132707,
+    "title": "Madden NFL 21",
+    "store_title": "Madden NFL 21 Xbox Series X|S",
+    "pid": "9NW6RJDFKV5V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PBLVTGXLV7D",
+      "9P4Q52VF62MQ"
+    ],
+    "sku_groups": [
+      [
+        "9NW6RJDFKV5V"
+      ],
+      [
+        "9P4Q52VF62MQ"
+      ],
+      [
+        "9PBLVTGXLV7D"
+      ]
+    ],
+    "original_release_date": "2020-08-28",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-03-02",
+        "removed": "2023-03-01"
+      },
+      "Ultimate": {
+        "added": "2021-03-02",
+        "removed": "2023-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (3-3)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 132707,
+      "name": "Madden NFL 21",
+      "url": "https://www.igdb.com/games/madden-nfl-21",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

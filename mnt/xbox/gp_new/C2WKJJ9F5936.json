@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 522,
+    "specific_id": 522,
+    "title": "Fable II",
+    "store_title": "Fable II",
+    "pid": "C2WKJJ9F5936",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2WKJJ9F5936"
+      ]
+    ],
+    "original_release_date": "2008-10-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-09-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-09-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Lionhead Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 522,
+      "name": "Fable II",
+      "url": "https://www.igdb.com/games/fable-ii",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Lionhead Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 199116,
+    "specific_id": 199116,
+    "title": "Brotato",
+    "store_title": "Brotato",
+    "pid": "9P9VNSQK1W3K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P9VNSQK1W3K"
+      ]
+    ],
+    "original_release_date": "2022-02-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-01-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-30",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-01-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Fighting",
+      "Role playing"
+    ],
+    "publisher": "Seaven Studio",
+    "developer": "Blobfish"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 199116,
+      "name": "Brotato",
+      "url": "https://www.igdb.com/games/brotato",
+      "publishers": [
+        "Blobfish",
+        "Erabit Studios",
+        "Seaven Studio"
+      ],
+      "developers": [
+        "Blobfish",
+        "Erabit Studios"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Role-playing (RPG)",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

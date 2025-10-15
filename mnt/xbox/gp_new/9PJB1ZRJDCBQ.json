@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 252836,
+    "specific_id": 252836,
+    "title": "Jusant",
+    "store_title": "Jusant",
+    "pid": "9PJB1ZRJDCBQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJB1ZRJDCBQ"
+      ]
+    ],
+    "original_release_date": "2023-10-31",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-10-31",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-10-31",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-10-31",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "DON'T NOD",
+    "developer": "DON'T NOD"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252836,
+      "name": "Jusant",
+      "url": "https://www.igdb.com/games/jusant",
+      "publishers": [
+        "DON'T NOD"
+      ],
+      "developers": [
+        "DON'T NOD"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

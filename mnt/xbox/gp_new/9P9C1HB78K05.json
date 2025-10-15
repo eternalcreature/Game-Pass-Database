@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 15465,
+    "specific_id": 15465,
+    "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "store_title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "pid": "9P9C1HB78K05",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P9C1HB78K05"
+      ]
+    ],
+    "original_release_date": "2016-06-21",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-12-03",
+        "removed": "2021-12-01"
+      },
+      "Ultimate": {
+        "added": "2020-12-03",
+        "removed": "2021-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Ysbryd Games",
+    "developer": "Sukeban Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 15465,
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "url": "https://www.igdb.com/games/va-11-hall-a-cyberpunk-bartender-action",
+      "publishers": [
+        "Ysbryd Games"
+      ],
+      "developers": [
+        "SUKEBAN"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

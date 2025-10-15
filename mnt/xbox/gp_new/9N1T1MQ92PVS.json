@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 143061,
+    "specific_id": 143061,
+    "title": "Coral Island",
+    "store_title": "Coral Island",
+    "pid": "9N1T1MQ92PVS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N1T1MQ92PVS"
+      ]
+    ],
+    "original_release_date": "2022-10-11",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-11-14",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2023-11-14",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-08-21",
+        "removed": "2025-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Stairway Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143061,
+      "name": "Coral Island",
+      "url": "https://www.igdb.com/games/coral-island",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "Stairway Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

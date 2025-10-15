@@ -1,0 +1,71 @@
+{
+  "id": 2985,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 24863,
+      "company": {
+        "id": 2262,
+        "name": "NIS America"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 202639,
+      "company": {
+        "id": 2488,
+        "name": "Atlus USA"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 202651,
+      "company": {
+        "id": 818,
+        "name": "Atlus"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Persona 4 Golden",
+  "parent_game": 9600,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/persona-4-golden"
+}

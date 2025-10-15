@@ -1,0 +1,133 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-10)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "The Next Installment to the Award-Winning RTS.\r\nWhile many were hopeful that diplomacy would finally end the war, differing opinions on what should be done, along with the depleted power of the controlling factions, has led to a splintering of the groups involved.\r\n\r\nThe loyalist members of the Trader Emergency Coalition adopt a policy of isolation, focusing on enhanced defenses to ride out the rest of the war. Those who rebel against the coalition take on a purely militant view, coming to the opinion that the only way to bring peace is by ultimately crushing all who oppose them - especially xenos.\r\n\r\nFor the first time in their history, the war creates a schism in the Advent Unity. The loyalists seek to continue their policy of revenge against the Traders, and to assimilate all others to the Unity’s influence. However, others amongst the Advent suspect that a corrupting influence from within has diverted the Unity from its proper destiny.\r\n\r\nThe divide created in the Vasari Empire is less pronounced, but just as severe to their people. With the Vasari now practically frantic to move on to new space, the loyalist faction abandons cooperation and decides to take the resources they need by any means necessary. Having accepted the need to work together, the rebel faction feels that their best chance for survival is to work with the other races and bring them along to flee the approaching enemy.\r\n\r\nTake the battle for galactic supremacy to its ultimate level in Sins of a Solar Empire: Rebellion – a standalone RT4X game that combines the tactics of real-time strategy with the depth of the 4X genre (eXplore, eXpand, eXploit, eXterminate).",
+  "developerName": "Ironclad Games, Stardock Entertainment",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 4465926144,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N2Q2VL8FGBK",
+  "productKind": "Game",
+  "publisherName": "Stardock Entertainment",
+  "ratingCount": 48,
+  "releaseDate": "2022-07-21T00:00:00.0000000Z",
+  "shortDescription": "Command a space-faring empire in Sins of a Solar Empire: Rebellion, the new stand-alone expansion that combines 4X depth with real-time strategy gameplay.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B095G2SF7X1D",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VWP5TKGHV4M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Sins of a Solar Empire: Rebellion",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-07-21T00:00:00Z",
+      "exitDateUTC": "2024-07-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-07-21T00:00:00Z",
+      "exitDateUTC": "2024-07-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

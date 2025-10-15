@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 19000,
+    "specific_id": 19000,
+    "title": "The Walking Dead: A New Frontier",
+    "store_title": "The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5)",
+    "pid": "BQR7QS0F8SJ3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N7LHN8K6D9D"
+    ],
+    "sku_groups": [
+      [
+        "9N7LHN8K6D9D"
+      ],
+      [
+        "BQR7QS0F8SJ3"
+      ]
+    ],
+    "original_release_date": "2016-12-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-04-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-04-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Skybound Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19000,
+      "name": "The Walking Dead: A New Frontier",
+      "url": "https://www.igdb.com/games/the-walking-dead-a-new-frontier",
+      "publishers": [
+        "Skybound Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

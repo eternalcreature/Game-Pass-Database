@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 152168,
+    "specific_id": 152168,
+    "title": "Archvale",
+    "store_title": "Archvale",
+    "pid": "9P3MGM8ZCS5D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3MGM8ZCS5D"
+      ]
+    ],
+    "original_release_date": "2021-12-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "Humble Games",
+    "developer": "idoz & phops"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152168,
+      "name": "Archvale",
+      "url": "https://www.igdb.com/games/archvale",
+      "publishers": [
+        "Humble Games"
+      ],
+      "developers": [
+        "idoz & phops"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

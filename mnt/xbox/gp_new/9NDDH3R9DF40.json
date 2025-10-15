@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 18167,
+    "specific_id": 18167,
+    "title": "Hello Neighbor",
+    "store_title": "Hello Neighbor",
+    "pid": "9NDDH3R9DF40",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C0G1L18DT97K"
+    ],
+    "sku_groups": [
+      [
+        "9NDDH3R9DF40"
+      ],
+      [
+        "C0G1L18DT97K"
+      ]
+    ],
+    "original_release_date": "2017-12-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-11-01",
+        "removed": "2021-12-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-01",
+        "removed": "2021-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Dynamic Pixels"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18167,
+      "name": "Hello Neighbor",
+      "url": "https://www.igdb.com/games/hello-neighbor",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "DYNAMIC PIXELS"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Stealth",
+        "Comedy",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

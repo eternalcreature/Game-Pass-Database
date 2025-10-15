@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 9066,
+    "specific_id": 9066,
+    "title": "Cities: Skylines",
+    "store_title": "Cities: Skylines - Windows 10 Edition",
+    "pid": "9NWVC7XP3PFD",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C4GH8N6ZXG5L"
+    ],
+    "sku_groups": [
+      [
+        "9NWVC7XP3PFD"
+      ],
+      [
+        "C4GH8N6ZXG5L"
+      ]
+    ],
+    "original_release_date": "2015-03-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-05-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-05-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Tantalus Media"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9066,
+      "name": "Cities: Skylines",
+      "url": "https://www.igdb.com/games/cities-skylines",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Colossal Order"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Business",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

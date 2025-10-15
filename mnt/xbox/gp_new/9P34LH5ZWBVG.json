@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 119108,
+    "specific_id": 119108,
+    "title": "Pupperazzi",
+    "store_title": "Pupperazzi",
+    "pid": "9P34LH5ZWBVG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P34LH5ZWBVG"
+      ]
+    ],
+    "original_release_date": "2022-01-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-01-20",
+        "removed": "2023-01-16"
+      },
+      "Ultimate": {
+        "added": "2022-01-20",
+        "removed": "2023-01-16"
+      },
+      "Console": {
+        "added": "2022-01-20",
+        "removed": "2023-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Other",
+      "Simulation"
+    ],
+    "publisher": "Kitfox Games",
+    "developer": "Sundae Month"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119108,
+      "name": "Pupperazzi",
+      "url": "https://www.igdb.com/games/pupperazzi",
+      "publishers": [
+        "Kitfox Games"
+      ],
+      "developers": [
+        "Sundae Month"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

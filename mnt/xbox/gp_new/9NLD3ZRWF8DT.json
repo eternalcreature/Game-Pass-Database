@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 87683,
+    "specific_id": 87683,
+    "title": "Spyro Reignited Trilogy",
+    "store_title": "Spyro\u2122 Reignited Trilogy",
+    "pid": "9NLD3ZRWF8DT",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BWHFZNSL0PB5"
+    ],
+    "sku_groups": [
+      [
+        "9NLD3ZRWF8DT"
+      ],
+      [
+        "BWHFZNSL0PB5"
+      ]
+    ],
+    "original_release_date": "2018-11-13",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-11-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 87683,
+      "name": "Spyro Reignited Trilogy",
+      "url": "https://www.igdb.com/games/spyro-reignited-trilogy",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Toys for Bob"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

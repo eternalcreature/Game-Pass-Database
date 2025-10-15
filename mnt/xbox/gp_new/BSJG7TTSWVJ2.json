@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 2148,
+    "specific_id": 2148,
+    "title": "Banjo-Kazooie",
+    "store_title": "Banjo-Kazooie",
+    "pid": "BSJG7TTSWVJ2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BSJG7TTSWVJ2"
+      ]
+    ],
+    "original_release_date": "1998-06-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Classics",
+      "Platformer"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "4J Studios Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2148,
+      "name": "Banjo-Kazooie",
+      "url": "https://www.igdb.com/games/banjo-kazooie",
+      "publishers": [
+        "Gradiente",
+        "Nintendo"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Platform",
+        "Quiz/Trivia",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

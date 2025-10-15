@@ -1,0 +1,82 @@
+{
+  "id": 161220,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 289789,
+      "company": {
+        "id": 37952,
+        "name": "Studio Doodal"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 289790,
+      "company": {
+        "id": 37952,
+        "name": "Studio Doodal"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 289791,
+      "company": {
+        "id": 24820,
+        "name": "CFK"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Lapin",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/lapin"
+}

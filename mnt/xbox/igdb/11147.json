@@ -1,0 +1,124 @@
+{
+  "id": 11147,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 10,
+      "name": "Racing"
+    },
+    {
+      "id": 26,
+      "name": "Quiz/Trivia"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 28300,
+      "company": {
+        "id": 771,
+        "name": "Rare"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 28299,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 126936,
+      "company": {
+        "id": 33566,
+        "name": "4th Kernel Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 126937,
+      "company": {
+        "id": 7700,
+        "name": "Code Mystics"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 126938,
+      "company": {
+        "id": 4449,
+        "name": "Sprung Studios"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Rare Replay",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/rare-replay"
+}

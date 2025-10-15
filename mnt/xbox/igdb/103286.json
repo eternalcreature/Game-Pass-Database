@@ -1,0 +1,62 @@
+{
+  "id": 103286,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 98170,
+      "company": {
+        "id": 22721,
+        "name": "Bandai Namco Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 131269,
+      "company": {
+        "id": 248,
+        "name": "Bandai Namco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Tales of Vesperia: Definitive Edition",
+  "parent_game": 1209,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tales-of-vesperia-definitive-edition"
+}

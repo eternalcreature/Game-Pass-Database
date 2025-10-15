@@ -1,0 +1,63 @@
+{
+  "id": 20586,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 106726,
+      "company": {
+        "id": 37,
+        "name": "Capcom"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 106727,
+      "company": {
+        "id": 396,
+        "name": "Dimps"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 106728,
+      "company": {
+        "id": 774,
+        "name": "QLOC"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Super Street Fighter IV: Arcade Edition",
+  "parent_game": 7198,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/super-street-fighter-iv-arcade-edition"
+}

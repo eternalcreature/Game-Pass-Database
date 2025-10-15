@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 103261,
+    "specific_id": 103261,
+    "title": "Just Cause 4",
+    "store_title": "Just Cause 4",
+    "pid": "BRT72KDT7G43",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRT72KDT7G43"
+      ]
+    ],
+    "original_release_date": "2018-12-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "SpatialSound": "Spatial Sound",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Square Enix",
+    "developer": "Avalanche Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103261,
+      "name": "Just Cause 4",
+      "url": "https://www.igdb.com/games/just-cause-4",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Avalanche Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

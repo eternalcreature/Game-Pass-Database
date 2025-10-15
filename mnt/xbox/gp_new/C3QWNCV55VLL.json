@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 2585,
+    "specific_id": 2585,
+    "title": "Skate",
+    "store_title": "skate. (2007)",
+    "pid": "C3QWNCV55VLL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3QWNCV55VLL"
+      ]
+    ],
+    "original_release_date": "2007-09-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-05",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-08-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2585,
+      "name": "Skate",
+      "url": "https://www.igdb.com/games/skate",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Black Box"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

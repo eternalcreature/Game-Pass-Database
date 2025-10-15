@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 303285,
+    "specific_id": 303285,
+    "title": "Killer Klowns From Outer Space: The Game - Digital Deluxe Edition",
+    "store_title": "From Space",
+    "pid": "9PLK75782446",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLK75782446"
+      ]
+    ],
+    "original_release_date": "2023-10-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-10-12",
+        "removed": "2024-10-16"
+      },
+      "Ultimate": {
+        "added": "2023-10-12",
+        "removed": "2024-10-16"
+      },
+      "Console": {
+        "added": "2023-10-12",
+        "removed": "2024-10-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Curve Games",
+    "developer": "Triangle Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 303285,
+      "name": "Killer Klowns From Outer Space: The Game - Digital Deluxe Edition",
+      "url": "https://www.igdb.com/games/killer-klowns-from-outer-space-the-game-digital-deluxe-edition",
+      "publishers": [
+        "Illfonic"
+      ],
+      "developers": [
+        "Teravision Games"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

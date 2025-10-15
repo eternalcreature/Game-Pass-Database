@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 76747,
+    "specific_id": 76747,
+    "title": "Atomic Heart",
+    "store_title": "Atomic Heart",
+    "pid": "9P731Z4BBCT3",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N9KXP8RRPB5"
+    ],
+    "sku_groups": [
+      [
+        "9N9KXP8RRPB5"
+      ],
+      [
+        "9P731Z4BBCT3"
+      ]
+    ],
+    "original_release_date": "2023-02-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-02-21",
+        "removed": "2024-09-01"
+      },
+      "Ultimate": {
+        "added": "2023-02-21",
+        "removed": "2024-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Mundfish"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 76747,
+      "name": "Atomic Heart",
+      "url": "https://www.igdb.com/games/atomic-heart",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Mundfish"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

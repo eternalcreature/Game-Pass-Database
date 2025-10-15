@@ -1,0 +1,53 @@
+{
+  "id": 314271,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 282771,
+      "company": {
+        "id": 13947,
+        "name": "Okomotive"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 282772,
+      "company": {
+        "id": 5213,
+        "name": "Panic"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Herdling",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/herdling"
+}

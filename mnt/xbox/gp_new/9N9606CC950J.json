@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "base_id": 26765,
+    "specific_id": 26765,
+    "title": "Octopath Traveler",
+    "store_title": "OCTOPATH TRAVELER",
+    "pid": "9N9606CC950J",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N9606CC950J"
+      ]
+    ],
+    "original_release_date": "2018-07-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-06-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-06-06",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2021-03-25",
+        "removed": "2023-02-28"
+      },
+      "Ultimate": {
+        "added": "2021-03-25",
+        "removed": "2023-02-28"
+      },
+      "Console": {
+        "added": "2021-03-25",
+        "removed": "2023-02-28"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX CO. LTD.",
+    "developer": "Square Enix, ACQUIRE Corp."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26765,
+      "name": "Octopath Traveler",
+      "url": "https://www.igdb.com/games/octopath-traveler",
+      "publishers": [
+        "Nintendo",
+        "Square Enix"
+      ],
+      "developers": [
+        "ACQUIRE Corp.",
+        "Square Enix Business Division 11",
+        "Square Enix Business Division 6",
+        "Square Enix Business Division 9",
+        "Team Asano"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 26765,
+      "name": "Octopath Traveler",
+      "url": "https://www.igdb.com/games/octopath-traveler",
+      "publishers": [
+        "Nintendo",
+        "Square Enix"
+      ],
+      "developers": [
+        "ACQUIRE Corp.",
+        "Square Enix Business Division 11",
+        "Square Enix Business Division 6",
+        "Square Enix Business Division 9",
+        "Team Asano"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

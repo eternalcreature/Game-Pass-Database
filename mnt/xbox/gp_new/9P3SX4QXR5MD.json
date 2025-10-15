@@ -1,0 +1,75 @@
+{
+  "basic_info": {
+    "base_id": 14813,
+    "specific_id": 14813,
+    "title": "Peggle Nights",
+    "store_title": "Peggle\u00ae Nights",
+    "pid": "9P3SX4QXR5MD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3SX4QXR5MD"
+      ]
+    ],
+    "original_release_date": "2008-09-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-04",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-02-04",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2022-02-04",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "PopCap Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14813,
+      "name": "Peggle Nights",
+      "url": "https://www.igdb.com/games/peggle-nights",
+      "publishers": [
+        "PopCap Games"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

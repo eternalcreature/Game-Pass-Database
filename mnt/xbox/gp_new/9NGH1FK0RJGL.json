@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 129143,
+    "specific_id": 129143,
+    "title": "Wasteland Remastered",
+    "store_title": "Wasteland Remastered",
+    "pid": "9NGH1FK0RJGL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGH1FK0RJGL"
+      ]
+    ],
+    "original_release_date": "2020-02-25",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-02-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-02-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-02-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Classics",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "inXile entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 129143,
+      "name": "Wasteland Remastered",
+      "url": "https://www.igdb.com/games/wasteland-remastered",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "inXile Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 7842,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 68751,
+      "company": {
+        "id": 2345,
+        "name": "Abstraction Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 288106,
+      "company": {
+        "id": 2262,
+        "name": "NIS America"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 280021,
+      "company": {
+        "id": 1217,
+        "name": "Spike Chunsoft"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Danganronpa: Trigger Happy Havoc",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc"
+}

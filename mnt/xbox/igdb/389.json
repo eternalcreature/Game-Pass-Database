@@ -1,0 +1,70 @@
+{
+  "id": 389,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 254749,
+      "company": {
+        "id": 799,
+        "name": "Square Enix Product Development Division 1"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 253350,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 253349,
+      "company": {
+        "id": 52915,
+        "name": "Square Enix Business Division 1"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Final Fantasy XIII",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/final-fantasy-xiii"
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 157446,
+    "specific_id": 157446,
+    "title": "NBA 2K22",
+    "store_title": "NBA 2K22 for Xbox One",
+    "pid": "9N9PDB02QD7T",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NFZJFLDW3VW"
+    ],
+    "sku_groups": [
+      [
+        "9N9PDB02QD7T"
+      ],
+      [
+        "9NFZJFLDW3VW"
+      ]
+    ],
+    "original_release_date": "2021-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-04-28",
+        "removed": "2022-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-04-28",
+        "removed": "2022-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "Visual Concepts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 157446,
+      "name": "NBA 2K22",
+      "url": "https://www.igdb.com/games/nba-2k22",
+      "publishers": [
+        "2K"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Business",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

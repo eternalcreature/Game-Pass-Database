@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 79995,
+    "specific_id": 79995,
+    "title": "Sable",
+    "store_title": "Sable",
+    "pid": "9MZ4V4RG0W81",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZ4V4RG0W81"
+      ]
+    ],
+    "original_release_date": "2021-09-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-23",
+        "removed": "2022-10-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-23",
+        "removed": "2022-10-16"
+      },
+      "Console": {
+        "added": "2021-09-23",
+        "removed": "2022-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Music"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Shedworks"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 79995,
+      "name": "Sable",
+      "url": "https://www.igdb.com/games/sable",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Shedworks"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

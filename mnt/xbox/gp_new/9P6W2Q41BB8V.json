@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 25074,
+    "specific_id": 25074,
+    "title": "Pac-Man Museum",
+    "store_title": "PAC-MAN MUSEUM+",
+    "pid": "9P6W2Q41BB8V",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P6W2Q41BB8V"
+      ]
+    ],
+    "original_release_date": "2014-02-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-27",
+        "removed": "2024-06-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-27",
+        "removed": "2024-06-01"
+      },
+      "Console": {
+        "added": "2022-05-27",
+        "removed": "2024-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Bandai Namco Entertainment America Inc.",
+    "developer": "Bandai Namco Entertainment, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25074,
+      "name": "Pac-Man Museum",
+      "url": "https://www.igdb.com/games/pac-man-museum",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

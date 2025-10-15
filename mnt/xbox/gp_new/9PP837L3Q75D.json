@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 219442,
+    "specific_id": 219442,
+    "title": "Need for Speed: Unbound",
+    "store_title": "Need for Speed\u2122 Unbound",
+    "pid": "9PP837L3Q75D",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PCTJZRLV21G"
+    ],
+    "sku_groups": [
+      [
+        "9PCTJZRLV21G"
+      ],
+      [
+        "9PP837L3Q75D"
+      ]
+    ],
+    "original_release_date": "2022-11-29",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2023-06-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-06-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Racing & flying",
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Criterion Games "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 219442,
+      "name": "Need for Speed: Unbound",
+      "url": "https://www.igdb.com/games/need-for-speed-unbound",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Criterion Games"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

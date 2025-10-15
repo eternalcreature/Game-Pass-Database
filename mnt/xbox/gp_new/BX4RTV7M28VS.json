@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 19464,
+    "specific_id": 19464,
+    "title": "NHL 17",
+    "store_title": "EA SPORTS\u2122 NHL\u00ae 17",
+    "pid": "BX4RTV7M28VS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BX4RTV7M28VS"
+      ]
+    ],
+    "original_release_date": "2016-09-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19464,
+      "name": "NHL 17",
+      "url": "https://www.igdb.com/games/nhl-17",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Canada"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

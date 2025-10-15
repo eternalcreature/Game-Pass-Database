@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 240558,
+    "specific_id": 240558,
+    "title": "F1 23",
+    "store_title": "F1\u00ae 23",
+    "pid": "9PMKPX9HTBBH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MTK0S8CQ0QV"
+    ],
+    "sku_groups": [
+      [
+        "9MTK0S8CQ0QV"
+      ],
+      [
+        "9PMKPX9HTBBH"
+      ]
+    ],
+    "original_release_date": "2023-06-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-01-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2024-01-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CrossPlatformCoOp": "Cross-platform co-op"
+    },
+    "categories": [
+      "Racing & flying",
+      "Family & kids",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240558,
+      "name": "F1 23",
+      "url": "https://www.igdb.com/games/f1-23",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

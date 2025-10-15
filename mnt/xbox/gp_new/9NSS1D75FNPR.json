@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 99481,
+    "specific_id": 99481,
+    "title": "ACA Neo Geo: Metal Slug X",
+    "store_title": "ACA NEOGEO METAL SLUG X for Windows",
+    "pid": "9NSS1D75FNPR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C5FWJGBXCVX4"
+    ],
+    "sku_groups": [
+      [
+        "9NSS1D75FNPR"
+      ],
+      [
+        "C5FWJGBXCVX4"
+      ]
+    ],
+    "original_release_date": "2017-10-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "HAMSTER Corporation",
+    "developer": "HAMSTER Corporation"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 99481,
+      "name": "ACA Neo Geo: Metal Slug X",
+      "url": "https://www.igdb.com/games/aca-neo-geo-metal-slug-x",
+      "publishers": [
+        "HAMSTER"
+      ],
+      "developers": [
+        "SNK"
+      ],
+      "genres": [
+        "Shooter",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

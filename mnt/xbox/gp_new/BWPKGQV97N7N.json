@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 27081,
+    "specific_id": 240452,
+    "title": "FIFA 18",
+    "store_title": "FIFA 18",
+    "pid": "BWPKGQV97N7N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWPKGQV97N7N"
+      ]
+    ],
+    "original_release_date": "2017-09-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2021-05-07"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2021-05-07"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-11)",
+      "XblOnlineCoop": "Online co-op (2-11)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-22)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27081,
+      "name": "FIFA 18",
+      "url": "https://www.igdb.com/games/fifa-18",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Romania",
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 27081,
+      "name": "FIFA 18",
+      "url": "https://www.igdb.com/games/fifa-18",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Romania",
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

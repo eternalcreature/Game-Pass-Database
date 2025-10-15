@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 36926,
+    "specific_id": 36926,
+    "title": "Monster Hunter: World",
+    "store_title": "MONSTER HUNTER: WORLD\u2122",
+    "pid": "BNG91PT95LQN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNG91PT95LQN"
+      ]
+    ],
+    "original_release_date": "2018-01-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-04-18",
+        "removed": "2021-07-01"
+      },
+      "Ultimate": {
+        "added": "2020-04-18",
+        "removed": "2021-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36926,
+      "name": "Monster Hunter: World",
+      "url": "https://www.igdb.com/games/monster-hunter-world",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

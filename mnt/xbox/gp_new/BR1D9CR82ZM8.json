@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 1277,
+    "specific_id": 1277,
+    "title": "Plants vs. Zombies",
+    "store_title": "Plants vs. Zombies",
+    "pid": "BR1D9CR82ZM8",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MTNPX4WLP10"
+    ],
+    "sku_groups": [
+      [
+        "9MTNPX4WLP10"
+      ],
+      [
+        "BR1D9CR82ZM8"
+      ]
+    ],
+    "original_release_date": "2009-05-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "PopCap Games",
+    "developer": "PopCap Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1277,
+      "name": "Plants vs. Zombies",
+      "url": "https://www.igdb.com/games/plants-vs-zombies",
+      "publishers": [
+        "Electronic Arts",
+        "PopCap Games"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 69425,
+    "specific_id": 69425,
+    "title": "Pandemic: The Board Game",
+    "store_title": "Pandemic: The Board Game",
+    "pid": "9P8Q4W21QQZ2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P8Q4W21QQZ2"
+      ]
+    ],
+    "original_release_date": "2018-08-24",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-01",
+        "removed": "2022-01-16"
+      },
+      "Ultimate": {
+        "added": "2020-08-01",
+        "removed": "2022-01-16"
+      },
+      "PC": {
+        "added": "2020-08-01",
+        "removed": "2022-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-5)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-5)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Puzzle & trivia",
+      "Strategy"
+    ],
+    "publisher": "Twin Sails Interactive, Z-Man Games",
+    "developer": "Twin Sails Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 69425,
+      "name": "Pandemic: The Board Game",
+      "url": "https://www.igdb.com/games/pandemic-the-board-game",
+      "publishers": [
+        "Asmodee Digital"
+      ],
+      "developers": [
+        "Asmodee Digital"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

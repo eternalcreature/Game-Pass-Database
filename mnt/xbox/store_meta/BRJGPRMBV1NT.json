@@ -1,0 +1,130 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Single stick gameplay"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9NDKCCHCQ6SX",
+    "9PBZLMJZ5MMW"
+  ],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+  },
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Crude Humor",
+      "Mild Blood",
+      "Suggestive Themes",
+      "Mild Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases",
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "THE BEST FIGHTS ARE PERSONAL\r\n\r\nRaise your fists and get ready for the ultimate battle on the next generation of home consoles. Powered by the Unreal Engine 4, the storied fighting franchise returns for another round in TEKKEN 7. With the faithful 3D battle system and gameplay intact, TEKKEN 7 takes the franchise to the next level with photo-realistic graphics and new and innovative features and fighting mechanics. TEKKEN 7 resurrects the attitude, competiveness and showmanship rooted in its arcade DNA to provide the ultimate fighting game experience.",
+  "developerName": "BANDAI NAMCO Studios",
+  "editions": [],
+  "franchiseId": "TEKKEN",
+  "franchiseName": "Tekken",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 58587320320,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BRJGPRMBV1NT",
+  "productKind": "Game",
+  "publisherName": "BANDAI NAMCO Entertainment Inc.",
+  "ratingCount": 327,
+  "releaseDate": "2017-06-02T00:00:00.0000000Z",
+  "shortDescription": "THE BEST FIGHTS ARE PERSONAL\r\n\r\nRaise your fists and get ready for the ultimate battle on the next generation of home consoles. Powered by the Unreal Engine 4, the storied fighting franchise returns for another round in TEKKEN 7.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9Z7MK28VNX98",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9X5B7GBZRV64",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "TEKKEN 7",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

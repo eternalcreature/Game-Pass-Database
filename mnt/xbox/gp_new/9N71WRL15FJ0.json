@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 252167,
+    "specific_id": 252167,
+    "title": "Madden NFL 24",
+    "store_title": "Madden NFL 24 Xbox Series X|S",
+    "pid": "9N71WRL15FJ0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N0TW47K7C97",
+      "9P74C0WC1KW8"
+    ],
+    "sku_groups": [
+      [
+        "9N0TW47K7C97"
+      ],
+      [
+        "9N71WRL15FJ0"
+      ],
+      [
+        "9P74C0WC1KW8"
+      ]
+    ],
+    "original_release_date": "2023-08-18",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2024-02-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-02-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252167,
+      "name": "Madden NFL 24",
+      "url": "https://www.igdb.com/games/madden-nfl-24",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

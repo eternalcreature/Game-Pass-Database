@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 289562,
+    "specific_id": 289562,
+    "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+    "store_title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+    "pid": "9P27ZX0DH2JN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P27ZX0DH2JN"
+      ]
+    ],
+    "original_release_date": "2024-10-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-08",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-05-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Fighting"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "AHEARTFULOFGAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 289562,
+      "name": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+      "url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-mutants-unleashed",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "AHEARTFULOFGAMES"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

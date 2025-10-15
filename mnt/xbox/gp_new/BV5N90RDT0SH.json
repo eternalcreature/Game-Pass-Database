@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 73,
+    "specific_id": 73,
+    "title": "Mass Effect",
+    "store_title": "Mass Effect",
+    "pid": "BV5N90RDT0SH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NVB51LMXLJF"
+    ],
+    "sku_groups": [
+      [
+        "9NVB51LMXLJF"
+      ],
+      [
+        "BV5N90RDT0SH"
+      ]
+    ],
+    "original_release_date": "2007-11-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2024-08-29",
+        "removed": null
+      },
+      "Console": {
+        "added": "2017-11-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-11-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-20",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Microsoft Game Studios",
+    "developer": "BioWare Corp."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 73,
+      "name": "Mass Effect",
+      "url": "https://www.igdb.com/games/mass-effect",
+      "publishers": [
+        "Electronic Arts",
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "BioWare",
+        "BioWare Edmonton"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,65 @@
+{
+  "basic_info": {
+    "base_id": 5452,
+    "specific_id": 5452,
+    "title": "Sonic CD",
+    "store_title": "Sonic CD",
+    "pid": "C569J4JN70JD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C569J4JN70JD"
+      ]
+    ],
+    "original_release_date": "1993-09-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA",
+    "developer": "SEGA"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5452,
+      "name": "Sonic CD",
+      "url": "https://www.igdb.com/games/sonic-cd",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sonic Team"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

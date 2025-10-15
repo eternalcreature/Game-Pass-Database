@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 7603,
+    "specific_id": 7603,
+    "title": "Hellblade: Senua's Sacrifice",
+    "store_title": "Hellblade: Senua's Sacrifice",
+    "pid": "9NCLP4LV5K7Z",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C4Z7QM8FSXM2"
+    ],
+    "sku_groups": [
+      [
+        "9NCLP4LV5K7Z"
+      ],
+      [
+        "C4Z7QM8FSXM2"
+      ]
+    ],
+    "original_release_date": "2017-08-08",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ninja Theory Ltd.",
+    "developer": "Ninja Theory Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7603,
+      "name": "Hellblade: Senua's Sacrifice",
+      "url": "https://www.igdb.com/games/hellblade-senuas-sacrifice",
+      "publishers": [
+        "Ninja Theory"
+      ],
+      "developers": [
+        "Ninja Theory"
+      ],
+      "genres": [
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

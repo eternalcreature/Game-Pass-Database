@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 127342,
+    "specific_id": 127342,
+    "title": "Senua's Saga: Hellblade II",
+    "store_title": "Senua\u2019s Saga: Hellblade II",
+    "pid": "9PMBB7NGHV95",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PMBB7NGHV95"
+      ]
+    ],
+    "original_release_date": "2024-05-21",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-05-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-05-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Games Studios",
+    "developer": "Ninja Theory"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127342,
+      "name": "Senua's Saga: Hellblade II",
+      "url": "https://www.igdb.com/games/senuas-saga-hellblade-ii",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Ninja Theory"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

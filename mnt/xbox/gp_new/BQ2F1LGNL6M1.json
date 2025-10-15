@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 2552,
+    "specific_id": 2552,
+    "title": "Mad Max",
+    "store_title": "Mad Max",
+    "pid": "BQ2F1LGNL6M1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQ2F1LGNL6M1"
+      ]
+    ],
+    "original_release_date": "2015-09-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Avalanche Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2552,
+      "name": "Mad Max",
+      "url": "https://www.igdb.com/games/mad-max",
+      "publishers": [
+        "Feral Interactive",
+        "WB Games"
+      ],
+      "developers": [
+        "Avalanche Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Racing",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

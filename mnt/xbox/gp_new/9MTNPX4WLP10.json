@@ -1,0 +1,122 @@
+{
+  "basic_info": {
+    "base_id": 1277,
+    "specific_id": 20546,
+    "title": "Plants vs. Zombies",
+    "store_title": "Plants vs. Zombies\u2122 Game of the Year Edition",
+    "pid": "9MTNPX4WLP10",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BR1D9CR82ZM8"
+    ],
+    "sku_groups": [
+      [
+        "9MTNPX4WLP10"
+      ],
+      [
+        "BR1D9CR82ZM8"
+      ]
+    ],
+    "original_release_date": "2009-05-05",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "PopCap Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1277,
+      "name": "Plants vs. Zombies",
+      "url": "https://www.igdb.com/games/plants-vs-zombies",
+      "publishers": [
+        "Electronic Arts",
+        "PopCap Games"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 1277,
+      "name": "Plants vs. Zombies",
+      "url": "https://www.igdb.com/games/plants-vs-zombies",
+      "publishers": [
+        "Electronic Arts",
+        "PopCap Games"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 28856,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 5,
+      "name": "Massively Multiplayer Online (MMO)"
+    }
+  ],
+  "genres": [
+    {
+      "id": 10,
+      "name": "Racing"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 50782,
+      "company": {
+        "id": 1062,
+        "name": "Ivory Tower"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 141206,
+      "company": {
+        "id": 442,
+        "name": "Asobo Studio"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 202299,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Crew 2",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-crew-2"
+}

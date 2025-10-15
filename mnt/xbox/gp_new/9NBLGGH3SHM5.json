@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 16605,
+    "specific_id": 16605,
+    "title": "Gears of War: Ultimate Edition",
+    "store_title": "Gears of War: Ultimate Edition for Windows 10",
+    "pid": "9NBLGGH3SHM5",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BQT21VXFS52F"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH3SHM5"
+      ],
+      [
+        "BQT21VXFS52F"
+      ]
+    ],
+    "original_release_date": "2006-11-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Microsoft Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16605,
+      "name": "Gears of War: Ultimate Edition",
+      "url": "https://www.igdb.com/games/gears-of-war-ultimate-edition--1",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Epic Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 18997,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 35099,
+      "company": {
+        "id": 9730,
+        "name": "Clifftop Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 195789,
+      "company": {
+        "id": 19006,
+        "name": "Raw Fury"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Kathy Rain",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kathy-rain"
+}

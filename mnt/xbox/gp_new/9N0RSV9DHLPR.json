@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 21604,
+    "specific_id": 21604,
+    "title": "Old Man's Journey",
+    "store_title": "Old Man's Journey",
+    "pid": "9N0RSV9DHLPR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0RSV9DHLPR"
+      ]
+    ],
+    "original_release_date": "2017-05-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Broken Rules",
+    "developer": "Broken Rules"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 21604,
+      "name": "Old Man's Journey",
+      "url": "https://www.igdb.com/games/old-mans-journey",
+      "publishers": [
+        "Broken Rules",
+        "Tilt Games Asia"
+      ],
+      "developers": [
+        "Broken Rules"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

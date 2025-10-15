@@ -1,0 +1,48 @@
+{
+  "id": 1238,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 237087,
+      "company": {
+        "id": 6330,
+        "name": "Namco Bandai Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Tekken Tag Tournament 2",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tekken-tag-tournament-2"
+}

@@ -1,0 +1,82 @@
+{
+  "id": 990,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 2382,
+      "company": {
+        "id": 620,
+        "name": "Bungie"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 2383,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 145352,
+      "company": {
+        "id": 722,
+        "name": "343 Industries"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Halo: Reach",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/halo-reach"
+}

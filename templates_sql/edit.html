@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+<form method="post">
+    <div class="mb-3">
+        <label>Game Title</label>
+        <input type="text" name="game" class="form-control" value="{{ game.game if game else '' }}" required>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col">
+            <label>Announced</label>
+            <input type="date" name="announced" class="form-control" value="{{ dates['announced'] }}">
+        </div>
+        <div class="col">
+            <label>Added</label>
+            <input type="date" name="added" class="form-control" value="{{ dates['added'] }}">
+        </div>
+        <div class="col">
+            <label>Removed</label>
+            <input type="date" name="removed" class="form-control" value="{{ dates['removed'] }}">
+        </div>
+        <div class="col">
+            <label>Release</label>
+            <input type="date" name="release" class="form-control" value="{{ dates['release'] }}">
+        </div>
+    </div>
+
+    <label>PIDs</label>
+    <div id="pid-container">
+        {% for i in range(1,6) %}
+        {% set pid_val = pid_values[i-1] %}
+        {% if pid_val or i == 1 %}
+        <input type="text" name="pid{{ i }}" class="form-control mt-1" placeholder="PID {{ i }}" value="{{ pid_val }}"
+            oninput="addPidInput()">
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="mt-3">
+        <label><input type="checkbox" name="indie" {% if game and game.indie %}checked{% endif %}> Indie</label>
+        <label class="ms-3"><input type="checkbox" name="f2p" {% if game and game.f2p %}checked{% endif %}>
+            Free-to-play</label>
+        <label class="ms-3"><input type="checkbox" name="first_party" {% if game and game.first_party %}checked{% endif
+                %}> First Party</label>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col">
+            <label>IGDB ID</label>
+            <input type="number" name="igdb" class="form-control" value="{{ game.igdb if game else '' }}">
+        </div>
+        <div class="col">
+            <label>Steam ID</label>
+            <input type="number" name="steam" class="form-control" value="{{ game.steam if game else '' }}">
+        </div>
+        <div class="col">
+            <label>OpenCritic ID</label>
+            <input type="number" name="opencritic" class="form-control" value="{{ game.opencritic if game else '' }}">
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-4">Save</button>
+    <a href="{{ url_for('search') }}" class="btn btn-secondary mt-4">Back</a>
+</form>
+{% endblock %}

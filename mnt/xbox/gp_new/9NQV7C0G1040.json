@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 26381,
+    "specific_id": 26381,
+    "title": "TheHunter: Call of the Wild",
+    "store_title": "theHunter: Call of the Wild\u2122 - Windows 10",
+    "pid": "9NQV7C0G1040",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BXBJQ1932138"
+    ],
+    "sku_groups": [
+      [
+        "9NQV7C0G1040"
+      ],
+      [
+        "BXBJQ1932138"
+      ]
+    ],
+    "original_release_date": "2017-02-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-11-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "publisher": "Avalanche Studios",
+    "developer": "Expansive Worlds"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26381,
+      "name": "TheHunter: Call of the Wild",
+      "url": "https://www.igdb.com/games/thehunter-call-of-the-wild",
+      "publishers": [
+        "Avalanche Studios"
+      ],
+      "developers": [
+        "Expansive Worlds"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Sport",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

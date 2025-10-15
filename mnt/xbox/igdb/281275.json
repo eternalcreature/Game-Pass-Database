@@ -1,0 +1,65 @@
+{
+  "id": 281275,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 254562,
+      "company": {
+        "id": 44172,
+        "name": "Mike Klubnika"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 254563,
+      "company": {
+        "id": 34920,
+        "name": "Critical Reflex"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Buckshot Roulette",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/buckshot-roulette"
+}

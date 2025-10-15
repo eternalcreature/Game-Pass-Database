@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "base_id": 121754,
+    "specific_id": 121754,
+    "title": "Orcs Must Die! 3",
+    "store_title": "Orcs Must Die! 3",
+    "pid": "9NCWF7RRR52G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCWF7RRR52G"
+      ]
+    ],
+    "original_release_date": "2021-07-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-17",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2024-04-17",
+        "removed": "2025-04-16"
+      },
+      "PC": {
+        "added": "2024-04-17",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Strategy"
+    ],
+    "publisher": "Robot Entertainment, Inc.",
+    "developer": "Robot Entertainment, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 121754,
+      "name": "Orcs Must Die! 3",
+      "url": "https://www.igdb.com/games/orcs-must-die-3",
+      "publishers": [
+        "Robot Entertainment",
+        "Stadia Games and Entertainment"
+      ],
+      "developers": [
+        "Robot Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

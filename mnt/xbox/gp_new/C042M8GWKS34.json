@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 4851,
+    "specific_id": 4851,
+    "title": "Stacking",
+    "store_title": "Stacking",
+    "pid": "C042M8GWKS34",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C042M8GWKS34"
+      ]
+    ],
+    "original_release_date": "2011-02-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-06-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-06-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "THQ",
+    "developer": "Double Fine"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4851,
+      "name": "Stacking",
+      "url": "https://www.igdb.com/games/stacking",
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Historical",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

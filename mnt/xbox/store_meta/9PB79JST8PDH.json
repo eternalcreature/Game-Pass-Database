@@ -1,0 +1,131 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PM3JCK0CXHC"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Suggestive Themes",
+      "Partial Nudity",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Explore uncharted new lands as you set foot on a remote island seeping with magic, and filled with riches, lost secrets, and fantastic creatures.\r\n\r\nForge this new world’s destiny, as you befriend or betray companions and entire factions. With diplomacy, deception and force, become part of a living, evolving world - influence its course and shape your story.\r\n\r\n- Engage in a core roleplaying experience – achieve quests and complete objectives in a multitude of different ways – through combat, diplomacy, deception, or stealth.\r\n- Complete freedom in character progression – play as a male or female, customize your appearance, and freely choose your abilities, spells and skills.\r\n- Delve into a mysterious world of magic – begin a grand journey and uncover ancient secrets protected by supernatural beings, manifestations of the island’s earthly magic.",
+  "developerName": "Spiders",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 22659403776,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PB79JST8PDH",
+  "productKind": "Game",
+  "publisherName": "Focus Entertainment",
+  "ratingCount": 225,
+  "releaseDate": "2020-12-10T00:00:00.0000000Z",
+  "shortDescription": "Explore uncharted new lands as you set foot on a remote island seeping with magic, and filled with riches, lost secrets, and fantastic creatures.\r\n\r\nForge this new world’s destiny, as you befriend or betray companions and entire factions. With diplomacy, deception and force, become part of a living, evolving world - influence its course and shape your story.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VMVJ5Z3LPJV",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 34.99,
+        "msrp": 34.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9QV7G0V3QB5T",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 34.99,
+        "msrp": 34.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "GreedFall - Windows 10",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-12-10T00:00:00Z",
+      "exitDateUTC": "2022-06-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-12-10T00:00:00Z",
+      "exitDateUTC": "2022-06-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 143737,
+    "specific_id": 143737,
+    "title": "Blizzard Arcade Collection",
+    "store_title": "Blizzard\u00ae Arcade Collection",
+    "pid": "9NZP7NKR2QWG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NJRRVNZ8MRJ"
+    ],
+    "sku_groups": [
+      [
+        "9NJRRVNZ8MRJ"
+      ],
+      [
+        "9NZP7NKR2QWG"
+      ]
+    ],
+    "original_release_date": "2021-02-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-03-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-03-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-03-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Classics",
+      "Platformer",
+      "Puzzle & trivia",
+      "Racing & flying",
+      "Shooter"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143737,
+      "name": "Blizzard Arcade Collection",
+      "url": "https://www.igdb.com/games/blizzard-arcade-collection",
+      "publishers": [
+        "Blizzard Entertainment"
+      ],
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Puzzle",
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

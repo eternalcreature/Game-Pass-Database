@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 989,
+    "specific_id": 989,
+    "title": "Halo 3: ODST",
+    "store_title": "Halo 3: ODST",
+    "pid": "9P6VZCRGXFMX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P6VZCRGXFMX"
+      ]
+    ],
+    "original_release_date": "2009-09-22",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-09-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-09-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries, Bungie, Saber Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 989,
+      "name": "Halo 3: ODST",
+      "url": "https://www.igdb.com/games/halo-3-odst",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Bungie"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

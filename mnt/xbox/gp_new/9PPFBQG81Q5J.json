@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "base_id": 9047,
+    "specific_id": null,
+    "title": "Besiege",
+    "store_title": "Besiege Console",
+    "pid": "9PPFBQG81Q5J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NNFFCR5XGZ3"
+    ],
+    "sku_groups": [
+      [
+        "9NNFFCR5XGZ3"
+      ],
+      [
+        "9PPFBQG81Q5J"
+      ]
+    ],
+    "original_release_date": "2022-02-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-05-01",
+        "removed": "2024-05-01"
+      },
+      "Ultimate": {
+        "added": "2023-05-01",
+        "removed": "2024-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Spiderling Studios",
+    "developer": "Spiderling Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9047,
+      "name": "Besiege",
+      "url": "https://www.igdb.com/games/besiege",
+      "publishers": [
+        "Spiderling Games"
+      ],
+      "developers": [
+        "Spiderling Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Sandbox",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 9047,
+      "name": "Besiege",
+      "url": "https://www.igdb.com/games/besiege",
+      "publishers": [
+        "Spiderling Games"
+      ],
+      "developers": [
+        "Spiderling Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Sandbox",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

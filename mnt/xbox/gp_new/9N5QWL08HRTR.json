@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 103286,
+    "specific_id": 103286,
+    "title": "Tales of Vesperia: Definitive Edition",
+    "store_title": "Tales of Vesperia\u2122: Definitive Edition",
+    "pid": "9N5QWL08HRTR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZBX8JFCDBPR"
+    ],
+    "sku_groups": [
+      [
+        "9N5QWL08HRTR"
+      ],
+      [
+        "BZBX8JFCDBPR"
+      ]
+    ],
+    "original_release_date": "2019-01-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-10-15",
+        "removed": "2021-10-16"
+      },
+      "Ultimate": {
+        "added": "2020-10-15",
+        "removed": "2021-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": "Originally Developed by BANDAI NAMCO Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103286,
+      "name": "Tales of Vesperia: Definitive Edition",
+      "url": "https://www.igdb.com/games/tales-of-vesperia-definitive-edition",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Bandai Namco Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

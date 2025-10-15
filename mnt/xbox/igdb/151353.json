@@ -1,0 +1,73 @@
+{
+  "id": 151353,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 230743,
+      "company": {
+        "id": 47516,
+        "name": "Yogscast Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 231160,
+      "company": {
+        "id": 49619,
+        "name": "It’s happening"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "PlateUp!",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 28,
+      "name": "Business"
+    },
+    {
+      "id": 40,
+      "name": "Party"
+    }
+  ],
+  "url": "https://www.igdb.com/games/plateup"
+}

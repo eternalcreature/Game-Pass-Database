@@ -1,0 +1,65 @@
+{
+  "id": 211242,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 234717,
+      "company": {
+        "id": 7215,
+        "name": "Parabole"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 234718,
+      "company": {
+        "id": 9043,
+        "name": "Ravenscourt"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Kona II: Brume",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kona-ii-brume"
+}

@@ -1,0 +1,149 @@
+{
+  "id": 21,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 25,
+      "company": {
+        "id": 8,
+        "name": "2K Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 20004,
+      "company": {
+        "id": 139,
+        "name": "Take-Two Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184993,
+      "company": {
+        "id": 449,
+        "name": "D3 Publisher"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 184998,
+      "company": {
+        "id": 19,
+        "name": "Arkane Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 184999,
+      "company": {
+        "id": 23,
+        "name": "Feral Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 185001,
+      "company": {
+        "id": 20,
+        "name": "Darkside Game Studios"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 262496,
+      "company": {
+        "id": 18,
+        "name": "2K China"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 262497,
+      "company": {
+        "id": 2492,
+        "name": "2K Australia"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 262498,
+      "company": {
+        "id": 17,
+        "name": "Digital Extremes"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 262494,
+      "company": {
+        "id": 15,
+        "name": "2K Marin"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "BioShock 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/bioshock-2"
+}

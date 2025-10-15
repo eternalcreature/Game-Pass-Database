@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 114764,
+    "specific_id": 114764,
+    "title": "Deeeer Simulator",
+    "store_title": "DEEEER Simulator: Your Average Everyday Deer Game",
+    "pid": "9NNBPBM2F60W",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NNBPBM2F60W"
+      ]
+    ],
+    "original_release_date": "2020-01-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-23",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-23",
+        "removed": "2022-12-01"
+      },
+      "Console": {
+        "added": "2021-11-23",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "PLAYISM",
+    "developer": "Gibier Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114764,
+      "name": "Deeeer Simulator",
+      "url": "https://www.igdb.com/games/deeeer-simulator",
+      "publishers": [
+        "PLAYISM"
+      ],
+      "developers": [
+        "NASPAPA GAMES"
+      ],
+      "genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

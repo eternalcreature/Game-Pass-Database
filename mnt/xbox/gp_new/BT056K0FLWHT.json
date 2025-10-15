@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 6032,
+    "specific_id": 6032,
+    "title": "Borderlands: The Pre-Sequel",
+    "store_title": "Borderlands: The Pre-Sequel",
+    "pid": "BT056K0FLWHT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BT056K0FLWHT"
+      ]
+    ],
+    "original_release_date": "2014-10-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "2K",
+    "developer": "Gearbox Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 6032,
+      "name": "Borderlands: The Pre-Sequel",
+      "url": "https://www.igdb.com/games/borderlands-the-pre-sequel",
+      "publishers": [
+        "2K Games",
+        "Aspyr Media",
+        "Take-Two Interactive"
+      ],
+      "developers": [
+        "2K Australia",
+        "Gearbox Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 21518,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 269739,
+      "company": {
+        "id": 2582,
+        "name": "SNK Playmore"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 269740,
+      "company": {
+        "id": 2153,
+        "name": "G1M2"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 269741,
+      "company": {
+        "id": 833,
+        "name": "Ignition Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Neo Geo Battle Coliseum",
+  "parent_game": 39437,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "url": "https://www.igdb.com/games/neo-geo-battle-coliseum--1"
+}

@@ -1,0 +1,177 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound",
+      "Mono sound",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels",
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [
+    "9N647K4PK0KV",
+    "9PBG1CWX8558",
+    "9NT5XFKT0HVN",
+    "9P8CM5R0NMJS",
+    "9NRVD62PHN8Q",
+    "9N98G5MXLZGX",
+    "9N8091G2F5MP",
+    "9MSWDP8L1C03",
+    "9NJX53JS1215",
+    "9NXCMPS8DB79"
+  ],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Use Of Drugs And Alcohol",
+      "Blood",
+      "Strong Language",
+      "Intense Violence",
+      "Sexual Themes",
+      "Drug Reference"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Enter the world of the ultimate assassin.\n\nBECOME AGENT 47\nSuit up for a spy-thriller adventure where all your deadly abilities are put to the test across more than 20 locations.\n\nFREEDOM OF APPROACH\nYour deadliest weapon is creativity. Unlock new gear and up your game on highly replayable missions.\n\nWORLD OF ASSASSINATION\nTravel a living, breathing world, filled with intriguing characters and lethal opportunities.\n\nHITMAN FREELANCER\nA new way to play on your own terms, that combines rogue-like elements and deep strategic planning with a persistent and infinitely replayable gameplay experience.\n\nHITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3, including the main campaign, contracts mode, escalations, elusive target arcades and featured live content.",
+  "developerName": "IO Interactive A/S",
+  "editions": [
+    "9N9RV75RKSL5",
+    "9NN82NH949D5"
+  ],
+  "franchiseId": "HITMAN",
+  "franchiseName": "Hitman",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 93344305152,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NN82NH949D5",
+  "productKind": "Game",
+  "publisherName": "IO Interactive A/S",
+  "ratingCount": 683,
+  "releaseDate": "2022-01-20T13:00:00.0000000Z",
+  "shortDescription": "Become Agent 47 in the ultimate spy-thriller adventure across more than 20 locations.\n\nHITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3, including the main campaign, contracts mode, escalations, elusive target arcades and HITMAN: Freelancer.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B24WX9NJZM86",
+        "discountPercentage": 60.008575,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 27.99,
+        "msrp": 69.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9PJ8V4M6QRZW",
+        "discountPercentage": 60.008575,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 27.99,
+        "msrp": 69.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "HITMAN World of Assassination",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-01-20T13:00:00Z",
+      "exitDateUTC": "2024-02-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-01-20T13:00:00Z",
+      "exitDateUTC": "2024-02-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "HITMAN3",
+    "xboxTitleId": 1701108859,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

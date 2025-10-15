@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 36950,
+    "specific_id": 36950,
+    "title": "Anthem",
+    "store_title": "Anthem\u2122",
+    "pid": "9PKRFH8LH70C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BP9JQBJM0FNW"
+    ],
+    "sku_groups": [
+      [
+        "9PKRFH8LH70C"
+      ],
+      [
+        "BP9JQBJM0FNW"
+      ]
+    ],
+    "original_release_date": "2019-02-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": "2025-08-16"
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": "2025-08-16"
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": "2025-08-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportOnline": "Online co-op",
+      "OnlineMultiplayerWithGold": "Online multiplayer"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36950,
+      "name": "Anthem",
+      "url": "https://www.igdb.com/games/anthem",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

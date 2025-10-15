@@ -1,0 +1,57 @@
+{
+  "id": 217635,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 187126,
+      "company": {
+        "id": 6352,
+        "name": "Serenity Forge"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 187127,
+      "company": {
+        "id": 16242,
+        "name": "Skybound Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Homestead Arcana",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Business"
+    }
+  ],
+  "url": "https://www.igdb.com/games/homestead-arcana"
+}

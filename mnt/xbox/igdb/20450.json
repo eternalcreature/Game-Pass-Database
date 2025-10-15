@@ -1,0 +1,64 @@
+{
+  "id": 20450,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 75706,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 75707,
+      "company": {
+        "id": 439,
+        "name": "Sumo Digital"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 75708,
+      "company": {
+        "id": 7,
+        "name": "Visceral Games"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Dead Space: Ignition",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dead-space-ignition"
+}

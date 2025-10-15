@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 118218,
+    "specific_id": 118218,
+    "title": "Tom Clancy's Ghost Recon: Breakpoint",
+    "store_title": "Tom Clancy's Ghost Recon\u00ae Breakpoint",
+    "pid": "9MVR1G75VX22",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C3VVNLQQ54F8"
+    ],
+    "sku_groups": [
+      [
+        "9MVR1G75VX22"
+      ],
+      [
+        "C3VVNLQQ54F8"
+      ]
+    ],
+    "original_release_date": "2019-10-04",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 118218,
+      "name": "Tom Clancy's Ghost Recon: Breakpoint",
+      "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-breakpoint",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Paris"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

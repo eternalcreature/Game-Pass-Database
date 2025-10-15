@@ -1,0 +1,121 @@
+{
+  "basic_info": {
+    "base_id": 7323,
+    "specific_id": 7323,
+    "title": "Rise of the Tomb Raider",
+    "store_title": "Rise of the Tomb Raider",
+    "pid": "BPCN22ZVT05C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLGGH6CRSZ"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH6CRSZ"
+      ],
+      [
+        "BPCN22ZVT05C"
+      ]
+    ],
+    "original_release_date": "2015-11-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-07-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-01",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2023-12-05",
+        "removed": "2024-12-15"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-15"
+      },
+      "Ultimate": {
+        "added": "2023-12-05",
+        "removed": "2024-12-15"
+      }
+    },
+    {
+      "Console": {
+        "added": "2018-03-01",
+        "removed": "2020-05-15"
+      },
+      "Ultimate": {
+        "added": "2018-03-01",
+        "removed": "2020-05-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Crystal Dynamics"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7323,
+      "name": "Rise of the Tomb Raider",
+      "url": "https://www.igdb.com/games/rise-of-the-tomb-raider",
+      "publishers": [
+        "Microsoft Studios",
+        "Square Enix Europe"
+      ],
+      "developers": [
+        "Crystal Dynamics"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

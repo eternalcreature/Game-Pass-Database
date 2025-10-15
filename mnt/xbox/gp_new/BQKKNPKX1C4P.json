@@ -1,0 +1,71 @@
+{
+  "basic_info": {
+    "base_id": 52190,
+    "specific_id": 52190,
+    "title": "The LEGO Ninjago Movie Video Game",
+    "store_title": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game",
+    "pid": "BQKKNPKX1C4P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BQKKNPKX1C4P"
+      ]
+    ],
+    "original_release_date": "2017-09-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "TT Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 52190,
+      "name": "The LEGO Ninjago Movie Video Game",
+      "url": "https://www.igdb.com/games/the-lego-ninjago-movie-video-game",
+      "publishers": [
+        "Warner Bros. Interactive Entertainment"
+      ],
+      "developers": [
+        "Traveller's Tales"
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

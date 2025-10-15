@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 213264,
+    "specific_id": 213264,
+    "title": "Soccer Story",
+    "store_title": "Soccer Story",
+    "pid": "9PJ1045MHZJ0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJ1045MHZJ0"
+      ]
+    ],
+    "original_release_date": "2022-11-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-11-29",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2022-11-29",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2022-11-29",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Role playing",
+      "Sports"
+    ],
+    "publisher": "No More Robots",
+    "developer": "PanicBarn"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 213264,
+      "name": "Soccer Story",
+      "url": "https://www.igdb.com/games/soccer-story",
+      "publishers": [
+        "No More Robots"
+      ],
+      "developers": [
+        "PanicBarn"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Sport",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

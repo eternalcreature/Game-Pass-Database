@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 3199,
+    "specific_id": 3199,
+    "title": "Dead Rising 3",
+    "store_title": "Dead Rising 3",
+    "pid": "BVJ6FHN3SMJJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BVJ6FHN3SMJJ"
+      ]
+    ],
+    "original_release_date": "2013-11-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Capcom Game Studio Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3199,
+      "name": "Dead Rising 3",
+      "url": "https://www.igdb.com/games/dead-rising-3",
+      "publishers": [
+        "Capcom",
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Capcom Game Studio Vancouver, Inc."
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 71800,
+    "specific_id": 71800,
+    "title": "The Bard's Tale Trilogy",
+    "store_title": "The Bard's Tale Trilogy",
+    "pid": "9MVN4ND41DD3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVN4ND41DD3"
+      ]
+    ],
+    "original_release_date": "2018-08-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2024-08-29",
+        "removed": null
+      },
+      "Console": {
+        "added": "2019-08-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-08-13",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-08-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Classics",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "inXile entertainment, Inc. ",
+    "developer": "Krome Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 71800,
+      "name": "The Bard's Tale Trilogy",
+      "url": "https://www.igdb.com/games/the-bards-tale-trilogy",
+      "publishers": [
+        "inXile Entertainment"
+      ],
+      "developers": [
+        "Krome Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

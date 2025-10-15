@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "base_id": 141543,
+    "specific_id": 141543,
+    "title": "Road 96",
+    "store_title": "Road 96",
+    "pid": "9NVBKDF85W8T",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NVBKDF85W8T"
+      ]
+    ],
+    "original_release_date": "2021-08-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-01-07",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-01-07",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-01-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-01-07",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2022-07-07",
+        "removed": "2023-06-30"
+      },
+      "Ultimate": {
+        "added": "2022-07-07",
+        "removed": "2023-06-30"
+      },
+      "Console": {
+        "added": "2022-07-07",
+        "removed": "2023-06-30"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Word"
+    ],
+    "publisher": "Ravenscourt Games",
+    "developer": "DigixArt Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141543,
+      "name": "Road 96",
+      "url": "https://www.igdb.com/games/road-96",
+      "publishers": [
+        "Ravenscourt"
+      ],
+      "developers": [
+        "DigixArt"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

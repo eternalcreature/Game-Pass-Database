@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 119403,
+    "specific_id": 119403,
+    "title": "New Super Lucky's Tale",
+    "store_title": "New Super Lucky's Tale",
+    "pid": "9MZN3SMXN824",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZN3SMXN824"
+      ]
+    ],
+    "original_release_date": "2019-11-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-08-21",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-08-21",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-08-21",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Playful Studios",
+    "developer": "Playful Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119403,
+      "name": "New Super Lucky's Tale",
+      "url": "https://www.igdb.com/games/new-super-luckys-tale",
+      "publishers": [
+        "Playful"
+      ],
+      "developers": [
+        "Playful"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

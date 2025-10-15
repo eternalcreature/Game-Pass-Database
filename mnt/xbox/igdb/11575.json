@@ -1,0 +1,53 @@
+{
+  "id": 11575,
+  "game_modes": [
+    {
+      "id": 5,
+      "name": "Massively Multiplayer Online (MMO)"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 24,
+      "name": "Tactical"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 25055,
+      "company": {
+        "id": 6090,
+        "name": "Dean \"Rocket\" Hall"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Arma II: DayZ",
+  "parent_game": 601,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/arma-ii-dayz"
+}

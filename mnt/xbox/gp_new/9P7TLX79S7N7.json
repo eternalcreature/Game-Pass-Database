@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 252839,
+    "specific_id": 252839,
+    "title": "Towerborne",
+    "store_title": "Towerborne (Game Preview)",
+    "pid": "9P7TLX79S7N7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7TLX79S7N7"
+      ]
+    ],
+    "original_release_date": "2024-09-10",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-29",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios ",
+    "developer": "Stoic "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252839,
+      "name": "Towerborne",
+      "url": "https://www.igdb.com/games/towerborne",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Stoic"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

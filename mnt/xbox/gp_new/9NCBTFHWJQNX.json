@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 147021,
+    "specific_id": 147021,
+    "title": "Phantom Abyss",
+    "store_title": "Phantom Abyss",
+    "pid": "9NCBTFHWJQNX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NH9W1N1XWV5"
+    ],
+    "sku_groups": [
+      [
+        "9NCBTFHWJQNX"
+      ],
+      [
+        "9NH9W1N1XWV5"
+      ]
+    ],
+    "original_release_date": "2021-06-22",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-10-20",
+        "removed": "2024-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Team WIBY"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 147021,
+      "name": "Phantom Abyss",
+      "url": "https://www.igdb.com/games/phantom-abyss",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Team WIBY"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

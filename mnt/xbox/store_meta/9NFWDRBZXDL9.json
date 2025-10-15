@@ -1,0 +1,149 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [
+      "On-demand tutorials",
+      "Pausable"
+    ],
+    "input": [
+      "Playable without button holds"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 4.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Fighting"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Suggestive Themes",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "*Includes the original game and all downloadable contents released up until version 2.0.\r\n\r\nTHE COLLISION IS INEVITABLE! THE IMPACT WILL BE UNAVOIDABLE!\r\nAn unrivaled clash of explosive proportions! The beloved BlazBlue franchise Crosses universes, Tags in fan favorites, and Battles it out in BlazBlue: Cross Tag Battle! Created through an all-star collaboration between BlazBlue, Atlus’ Persona, French Bread’s Under Night In-Birth, and Rooster Teeth’s hugely popular RWBY web series, Cross Tag Battle celebrates the fighting genre for pros and newcomers alike! Choose your team in fast paced 2v2 team battles filled with the craziness you’ve come to love from BlazBlue, with all the tight mechanics, smooth gameplay, and gorgeous 2D graphics you expect from Arc System Works.",
+  "developerName": "ARC SYSTEM WORKS",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequired"
+  ],
+  "maxInstallSize": 13848141824,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NFWDRBZXDL9",
+  "productKind": "Game",
+  "publisherName": "ARC SYSTEM WORKS",
+  "ratingCount": 219,
+  "releaseDate": "2023-04-27T00:00:00.0000000Z",
+  "shortDescription": "THE COLLISION IS INEVITABLE! THE IMPACT WILL BE UNAVOIDABLE! Cross over between 4 different universes! Play as characters from the BlazBlue, Persona, Under Night In-Birth, and (for the first time ever in a fighting game), RWBY series!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TVW9ZZV2SZT",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W0ZW79D960B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 49.99,
+        "msrp": 49.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "BlazBlue: Cross Tag Battle Special Edition",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-04-27T00:00:00Z",
+      "exitDateUTC": "2025-01-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-04-27T00:00:00Z",
+      "exitDateUTC": "2025-01-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-04-27T00:00:00Z",
+      "exitDateUTC": "2025-01-01T10:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z",
+      "exitDateUTC": "2025-01-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

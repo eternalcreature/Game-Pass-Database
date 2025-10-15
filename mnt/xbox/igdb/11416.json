@@ -1,0 +1,67 @@
+{
+  "id": 11416,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 24866,
+      "company": {
+        "id": 2932,
+        "name": "Ghostlight Ltd."
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 202636,
+      "company": {
+        "id": 2488,
+        "name": "Atlus USA"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 202646,
+      "company": {
+        "id": 818,
+        "name": "Atlus"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Persona 3 Portable",
+  "parent_game": 9577,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/persona-3-portable"
+}

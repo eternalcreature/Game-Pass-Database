@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 27804,
+    "specific_id": 27804,
+    "title": "Phoenix Point",
+    "store_title": "Phoenix Point",
+    "pid": "9P1P5Q3BNM7J",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P1P5Q3BNM7J"
+      ]
+    ],
+    "original_release_date": "2019-12-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-01-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-01-23",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Classics",
+      "Role playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Snapshot Games Inc",
+    "developer": "Snapshot Games Inc"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27804,
+      "name": "Phoenix Point",
+      "url": "https://www.igdb.com/games/phoenix-point",
+      "publishers": [
+        "Snapshot Games"
+      ],
+      "developers": [
+        "Snapshot Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

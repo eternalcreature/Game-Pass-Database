@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 165197,
+    "specific_id": 165197,
+    "title": "NHL 22",
+    "store_title": "NHL\u00ae 22 Xbox Series X|S",
+    "pid": "9MT364N9QK38",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NRDC9PXDQ5N"
+    ],
+    "sku_groups": [
+      [
+        "9MT364N9QK38"
+      ],
+      [
+        "9NRDC9PXDQ5N"
+      ]
+    ],
+    "original_release_date": "2021-10-15",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2022-05-12",
+        "removed": "2024-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-12",
+        "removed": "2024-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 165197,
+      "name": "NHL 22",
+      "url": "https://www.igdb.com/games/nhl-22",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 152180,
+    "specific_id": 152180,
+    "title": "A Little to the Left",
+    "store_title": "A Little to the Left",
+    "pid": "9NLDDF97GTJ0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLDDF97GTJ0"
+      ]
+    ],
+    "original_release_date": "2022-11-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-15",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2024-02-15",
+        "removed": "2025-02-16"
+      },
+      "Console": {
+        "added": "2024-02-15",
+        "removed": "2025-02-16"
+      },
+      "Premium": {
+        "added": "2024-08-21",
+        "removed": "2025-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia",
+      "Family & kids"
+    ],
+    "publisher": "Secret Mode",
+    "developer": "Max Inferno"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152180,
+      "name": "A Little to the Left",
+      "url": "https://www.igdb.com/games/a-little-to-the-left",
+      "publishers": [
+        "Secret Mode"
+      ],
+      "developers": [
+        "Max Inferno"
+      ],
+      "genres": [
+        "Puzzle",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

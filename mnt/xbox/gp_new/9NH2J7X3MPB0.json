@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 70828,
+    "specific_id": 70828,
+    "title": "Raji: An Ancient Epic",
+    "store_title": "Raji: An Ancient Epi\u0441",
+    "pid": "9NH2J7X3MPB0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NH2J7X3MPB0"
+      ]
+    ],
+    "original_release_date": "2020-10-15",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-07-22",
+        "removed": "2022-08-01"
+      },
+      "Ultimate": {
+        "added": "2021-07-22",
+        "removed": "2022-08-01"
+      },
+      "PC": {
+        "added": "2021-07-22",
+        "removed": "2022-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "SuperGG.com",
+    "developer": "Nodding Heads Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 70828,
+      "name": "Raji: An Ancient Epic",
+      "url": "https://www.igdb.com/games/raji-an-ancient-epic",
+      "publishers": [
+        "Netflix",
+        "SUPERGG.COM"
+      ],
+      "developers": [
+        "Nodding Heads Games"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 30206,
+    "specific_id": 30206,
+    "title": "YIIK: A Postmodern RPG",
+    "store_title": "YIIK: A Postmodern RPG",
+    "pid": "9P3XR9QN0P4C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3XR9QN0P4C"
+      ]
+    ],
+    "original_release_date": "2019-01-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-14",
+        "removed": "2022-01-16"
+      },
+      "Ultimate": {
+        "added": "2021-01-14",
+        "removed": "2022-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Ysbryd Games",
+    "developer": "Ackk Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 30206,
+      "name": "YIIK: A Postmodern RPG",
+      "url": "https://www.igdb.com/games/yiik-a-postmodern-rpg",
+      "publishers": [
+        "Ysbryd Games"
+      ],
+      "developers": [
+        "Ackk Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

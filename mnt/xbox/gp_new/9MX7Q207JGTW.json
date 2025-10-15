@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 118565,
+    "specific_id": 118565,
+    "title": "Rocket Arena",
+    "store_title": "Rocket Arena",
+    "pid": "9MX7Q207JGTW",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MV9JZVB3H19"
+    ],
+    "sku_groups": [
+      [
+        "9MV9JZVB3H19"
+      ],
+      [
+        "9MX7Q207JGTW"
+      ]
+    ],
+    "original_release_date": "2020-07-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2023-11-13"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2023-11-13"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (6-6)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Multi-Player Online Battle Arena",
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Final Strike Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 118565,
+      "name": "Rocket Arena",
+      "url": "https://www.igdb.com/games/rocket-arena",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Final Strike Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

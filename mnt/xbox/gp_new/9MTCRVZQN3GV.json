@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 152203,
+    "specific_id": 152203,
+    "title": "Trek to Yomi",
+    "store_title": "Trek to Yomi",
+    "pid": "9MTCRVZQN3GV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MTCRVZQN3GV"
+      ]
+    ],
+    "original_release_date": "2022-05-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-05-05",
+        "removed": "2023-10-16"
+      },
+      "Ultimate": {
+        "added": "2022-05-05",
+        "removed": "2023-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Flying Wild Hog"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152203,
+      "name": "Trek to Yomi",
+      "url": "https://www.igdb.com/games/trek-to-yomi",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Leonard Menchiari"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

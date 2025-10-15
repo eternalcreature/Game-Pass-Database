@@ -1,0 +1,126 @@
+{
+  "basic_info": {
+    "base_id": 101440,
+    "specific_id": 169175,
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "store_title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Xbox Edition",
+    "pid": "9P7ZBF3S7PSS",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3D6V4N58JR"
+    ],
+    "sku_groups": [
+      [
+        "9N3D6V4N58JR"
+      ],
+      [
+        "9P7ZBF3S7PSS"
+      ]
+    ],
+    "original_release_date": "2024-11-20",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-11-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-20",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "GSC Game World",
+    "developer": "GSC Game World"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 101440,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://www.igdb.com/games/stalker-2-heart-of-chornobyl",
+      "publishers": [
+        "GSC Game World"
+      ],
+      "developers": [
+        "GSC Game World"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 101440,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://www.igdb.com/games/stalker-2-heart-of-chornobyl",
+      "publishers": [
+        "GSC Game World"
+      ],
+      "developers": [
+        "GSC Game World"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

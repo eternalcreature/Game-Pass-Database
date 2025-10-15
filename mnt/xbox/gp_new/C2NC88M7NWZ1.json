@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 16287,
+    "specific_id": 16287,
+    "title": "Slime Rancher",
+    "store_title": "Slime Rancher",
+    "pid": "C2NC88M7NWZ1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2NC88M7NWZ1"
+      ]
+    ],
+    "original_release_date": "2017-08-01",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-05-27",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2020-12-03",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2020-12-03",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Shooter",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Monomi Park",
+    "developer": "Monomi Park"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16287,
+      "name": "Slime Rancher",
+      "url": "https://www.igdb.com/games/slime-rancher",
+      "publishers": [
+        "Monomi Park",
+        "Skybound Games"
+      ],
+      "developers": [
+        "Monomi Park"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 3227,
+    "specific_id": 3227,
+    "title": "Nuclear Throne",
+    "store_title": "Nuclear Throne",
+    "pid": "9PCCFDH6LMQJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3K4M5K357L"
+    ],
+    "sku_groups": [
+      [
+        "9N3K4M5K357L"
+      ],
+      [
+        "9PCCFDH6LMQJ"
+      ]
+    ],
+    "original_release_date": "2015-12-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-09-09",
+        "removed": "2023-09-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-09",
+        "removed": "2023-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Vlambeer",
+    "developer": "Vlambeer"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3227,
+      "name": "Nuclear Throne",
+      "url": "https://www.igdb.com/games/nuclear-throne",
+      "publishers": [
+        "Vlambeer"
+      ],
+      "developers": [
+        "Vlambeer"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

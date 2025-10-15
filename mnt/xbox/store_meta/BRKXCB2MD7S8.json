@@ -1,0 +1,131 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-8)",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Family & kids",
+    "Racing & flying"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Cartoon Violence",
+      "Mild Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Join our unlikely duo in this unique (shopping) kart racer as they traverse precarious obstacles and complete deadly challenges inside a range of shops, boutiques and supermarkets.\r\r\r\r\r\nSet in a near future dystopian alternate reality universe world (probably) our heroes must go on a journey to discover something deep within themselves and ultimately save save SAVE! On 3 for 2 items in the canned food isle, while stocks last (Ts and Cs apply).\r\r\r\r\r\nPropel our heroes using their wild, incomprehensible screams! Embark on this adventure solo or enlist the help of a friend for a co-op experience like no other.\r\r\r\r\r\nBut wait, there’s more! Are your thumbs tired from all your evenings l33t gaming pawning n00bs? Why not dust off two of those old USB microphones you’ve had since the music rhythm game boom of 2007 and try our “Duet” co-op mode? Harmonise and avoid being pulverised in a mode that will have your neighbours talking!\r\r\r\r\r\nBonus: Includes 2-8 player party mode.\r\r\r\r\r\nPlease shop responsibly.",
+  "developerName": "Billy Goat Entertainment Ltd",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1338880000,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BRKXCB2MD7S8",
+  "productKind": "Game",
+  "publisherName": "Billy Goat Entertainment Ltd",
+  "ratingCount": 170,
+  "releaseDate": "2019-06-09T07:00:00.0000000Z",
+  "shortDescription": "Join our unlikely duo in this unique (shopping) kart racer as they traverse precarious obstacles and complete deadly challenges inside a range of shops, boutiques and supermarkets.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9QZMF2W13S70",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 17.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9Z1BCBS8H3GM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 17.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Supermarket Shriek",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "SUPERMARKETSHRIEK",
+    "xboxTitleId": 979032440,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

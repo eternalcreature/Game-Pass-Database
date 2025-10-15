@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 1268,
+    "specific_id": 1268,
+    "title": "Crysis 3",
+    "store_title": "Crysis\u00ae 3",
+    "pid": "BNKKJL1VRR5P",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PNRHXZ6ZSS9"
+    ],
+    "sku_groups": [
+      [
+        "9PNRHXZ6ZSS9"
+      ],
+      [
+        "BNKKJL1VRR5P"
+      ]
+    ],
+    "original_release_date": "2013-02-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Crytek"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1268,
+      "name": "Crysis 3",
+      "url": "https://www.igdb.com/games/crysis-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Crytek Frankfurt",
+        "Crytek UK"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

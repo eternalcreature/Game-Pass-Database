@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 19521,
+    "specific_id": 19521,
+    "title": "Dead Rising 4",
+    "store_title": "Dead Rising 4",
+    "pid": "C2JDCLLLBK1W",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2JDCLLLBK1W"
+      ]
+    ],
+    "original_release_date": "2016-12-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Capcom Game Studio Vancouver, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19521,
+      "name": "Dead Rising 4",
+      "url": "https://www.igdb.com/games/dead-rising-4",
+      "publishers": [
+        "Capcom",
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Capcom Game Studio Vancouver, Inc."
+      ],
+      "genres": [
+        "Shooter",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Comedy",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

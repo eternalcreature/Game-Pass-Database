@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 101245,
+    "specific_id": 101245,
+    "title": "Levelhead",
+    "store_title": "Levelhead",
+    "pid": "9PJZBB8FWK8H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJZBB8FWK8H"
+      ]
+    ],
+    "original_release_date": "2019-04-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-04-30",
+        "removed": "2021-05-01"
+      },
+      "Ultimate": {
+        "added": "2020-04-30",
+        "removed": "2021-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer",
+      "Simulation"
+    ],
+    "publisher": "Butterscotch Shenanigans",
+    "developer": "Butterscotch Shenanigans"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 101245,
+      "name": "Levelhead",
+      "url": "https://www.igdb.com/games/levelhead--1",
+      "publishers": [
+        "Butterscotch Shenanigans"
+      ],
+      "developers": [
+        "Butterscotch Shenanigans"
+      ],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

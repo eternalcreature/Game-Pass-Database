@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 121762,
+    "specific_id": 121762,
+    "title": "Everspace 2",
+    "store_title": "EVERSPACE\u2122 2",
+    "pid": "9PFX7F33KVG8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PFX7F33KVG8"
+      ]
+    ],
+    "original_release_date": "2021-01-18",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-21",
+        "removed": "2024-10-16"
+      },
+      "Ultimate": {
+        "added": "2021-10-21",
+        "removed": "2024-10-16"
+      },
+      "Console": {
+        "added": "2023-08-15",
+        "removed": "2024-10-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "ROCKFISH Games",
+    "developer": "ROCKFISH Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 121762,
+      "name": "Everspace 2",
+      "url": "https://www.igdb.com/games/everspace-2",
+      "publishers": [
+        "ROCKFISH Games"
+      ],
+      "developers": [
+        "ROCKFISH Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

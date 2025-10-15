@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 1463,
+    "specific_id": 1463,
+    "title": "Perfect Dark",
+    "store_title": "Perfect Dark",
+    "pid": "C0SWGV4560W1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C0SWGV4560W1"
+      ]
+    ],
+    "original_release_date": "2000-08-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-07-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-07-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Classics",
+      "Shooter"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "4J Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1463,
+      "name": "Perfect Dark",
+      "url": "https://www.igdb.com/games/perfect-dark",
+      "publishers": [
+        "Gradiente",
+        "Nintendo",
+        "Rare"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

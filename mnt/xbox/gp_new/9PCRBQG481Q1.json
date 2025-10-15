@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 238948,
+    "specific_id": 238948,
+    "title": "Magical Delicacy",
+    "store_title": "Magical Delicacy",
+    "pid": "9PCRBQG481Q1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PCRBQG481Q1"
+      ]
+    ],
+    "original_release_date": "2024-07-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-16",
+        "removed": "2025-07-16"
+      },
+      "Ultimate": {
+        "added": "2024-07-16",
+        "removed": "2025-07-16"
+      },
+      "PC": {
+        "added": "2024-07-16",
+        "removed": "2025-07-16"
+      },
+      "Premium": {
+        "added": "2025-01-22",
+        "removed": "2025-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer",
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Whitethorn Games",
+    "developer": "sKaule"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 238948,
+      "name": "Magical Delicacy",
+      "url": "https://www.igdb.com/games/magical-delicacy",
+      "publishers": [
+        "Whitethorn Games"
+      ],
+      "developers": [
+        "Skaule"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Kids",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

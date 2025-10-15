@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 103295,
+    "specific_id": 103295,
+    "title": "Secret Neighbor",
+    "store_title": "Secret Neighbor",
+    "pid": "9P7GBPGT90L3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7GBPGT90L3"
+      ]
+    ],
+    "original_release_date": "2019-10-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-16",
+        "removed": "2023-01-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-16",
+        "removed": "2023-01-01"
+      },
+      "Console": {
+        "added": "2021-11-16",
+        "removed": "2023-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-6)",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Hologryph"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103295,
+      "name": "Secret Neighbor",
+      "url": "https://www.igdb.com/games/secret-neighbor",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "DYNAMIC PIXELS"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

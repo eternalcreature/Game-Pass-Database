@@ -1,0 +1,138 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials",
+      "Pausable"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": [
+      "Color alternatives"
+    ]
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.7,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Engineer Isaac Clarke returns for another blood-curdling adventure in the sequel to the critically acclaimed Dead Space™. After waking from a coma on a massive space city known as “The Sprawl”, the lone survivor of a horrific alien infection finds himself confronting a catastrophic new nightmare. Battling dementia, hunted by the government, and haunted by visions of his dead girlfriend, Isaac will do whatever it takes to save himself and dominate the gruesome onslaught. With an arsenal of tools to dismember Necromorphs and new determination, an engineer will bring the terror to space. The nightmare returns in 2011.",
+  "developerName": "Visceral Games",
+  "editions": [],
+  "franchiseId": "DEADSPACE",
+  "franchiseName": "Dead Space",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 14457823232,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C2PB7STLJGS0",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 319,
+  "releaseDate": "2011-01-25T00:00:00.0000000Z",
+  "shortDescription": "Engineer Isaac Clarke returns for another blood-curdling adventure in the sequel to the critically acclaimed Dead Space™. After waking from a coma on a massive space city known as “The Sprawl”, the lone survivor of a horrific alien infection finds himself confronting a catastrophic new nightmare. Battling dementia, hunted by the government, and haunted by visions of his dead girlfriend, Isaac will do whatever it takes to save himself and dominate the gruesome onslaught. With an arsenal of tools…",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9Q1T324FQW6C",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dead Space™ 2",
+  "xCloudProperties": {
+    "xCloudId": "DEADSPACE2",
+    "xboxTitleId": 964785867,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DEADSPACE2",
+    "xboxTitleId": 964785867,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

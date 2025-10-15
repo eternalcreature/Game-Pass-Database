@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 11583,
+    "specific_id": 11583,
+    "title": "Five Nights at Freddy's 4",
+    "store_title": "Five Nights at Freddy's 4",
+    "pid": "9PLDLMPLR7JV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLDLMPLR7JV"
+      ]
+    ],
+    "original_release_date": "2015-07-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      },
+      "Ultimate": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      },
+      "PC": {
+        "added": "2020-09-29",
+        "removed": "2021-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Clickteam LLC USA",
+    "developer": "Scottgames, LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11583,
+      "name": "Five Nights at Freddy's 4",
+      "url": "https://www.igdb.com/games/five-nights-at-freddys-4",
+      "publishers": [
+        "Scottgames"
+      ],
+      "developers": [
+        "Scottgames"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

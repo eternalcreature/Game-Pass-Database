@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 19470,
+    "specific_id": 19470,
+    "title": "Injustice 2",
+    "store_title": "Injustice\u2122 2 - Standard Edition",
+    "pid": "9PHT4W7WBBDQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BPKVH4C4XV4N"
+    ],
+    "sku_groups": [
+      [
+        "9PHT4W7WBBDQ"
+      ],
+      [
+        "BPKVH4C4XV4N"
+      ]
+    ],
+    "original_release_date": "2017-05-16",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-01-07",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "developer": "Warner Bros. Interactive Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19470,
+      "name": "Injustice 2",
+      "url": "https://www.igdb.com/games/injustice-2",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "NetherRealm Studios"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

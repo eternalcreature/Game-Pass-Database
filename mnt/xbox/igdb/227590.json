@@ -1,0 +1,71 @@
+{
+  "id": 227590,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 194611,
+      "company": {
+        "id": 243,
+        "name": "Sony Online Entertainment"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 194609,
+      "company": {
+        "id": 1893,
+        "name": "PopCap Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 194610,
+      "company": {
+        "id": 13627,
+        "name": "CTXM"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Heavy Weapon",
+  "parent_game": 20397,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/heavy-weapon--2"
+}

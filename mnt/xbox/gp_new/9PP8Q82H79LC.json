@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 116238,
+    "specific_id": 116238,
+    "title": "Sniper Elite 5",
+    "store_title": "Sniper Elite 5",
+    "pid": "9PP8Q82H79LC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PP8Q82H79LC"
+      ]
+    ],
+    "original_release_date": "2022-05-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-05-26",
+        "removed": "2025-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-26",
+        "removed": "2025-05-01"
+      },
+      "PC": {
+        "added": "2022-05-26",
+        "removed": "2025-05-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "Rebellion",
+    "developer": "Rebellion"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 116238,
+      "name": "Sniper Elite 5",
+      "url": "https://www.igdb.com/games/sniper-elite-5",
+      "publishers": [
+        "Rebellion Developments"
+      ],
+      "developers": [
+        "Rebellion Developments"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

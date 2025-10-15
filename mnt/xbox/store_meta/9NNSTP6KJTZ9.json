@@ -1,0 +1,146 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.1,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Card & board",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Suggestive Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "NEOVERSE is a time warping multiverse game consisting of thrilling adventures that are packed with great and exciting challenges; combining roguelite, deck building, strategy gameplay all in one. It puts your skills to the test. Set off on an adventure with unique heroes to save the living realms regardless of time and space. \r\n\r\n“Be the savior of Neoverse”\r\n\r\n-Create your own Strategy with 300 cards and over 100 skills\r\n-Choose from 3 charismatic characters, each with their own unique abilities and specialities.\r\n-Over 70 types of Monsters that need to be defeated in order to save the world, each with their different patterns\r\n-Multiple skill Combinations for each Hero\r\n-Master challenging levels for more Sophisticated Gamers\r\n\r\n “Start your journey across time and space to save Neoverse”\r\n-Experience Different combinations by using new cards each time you play\r\n-Your future destinations will depend on every decisions you make\r\n-Plots and enemies dodging over the past, the future and beyond are legendary tales yet to be told.\r\n\r\n“Endless gaming experience”\r\n-Strategy Customization is key to saving the Neoverse \r\n-Auto-draw system for remaining cards\r\n\r\n-Weave your talent tree and create your own skill combination\r\n-Switch between various gear options to master your game\r\n\r\n“Become who you want to be”  \r\n-Unlock the DLC and have even more fun throughout the Neoverse\r\n-Customize your character to merge into your unique role as a Hero\r\n\r\n“Transcend Time and Space by becoming a time traveling Hero”\r\nImmerse yourself on your journey through Neoverse, your problems, your joy - all these things become one, and you will find yourself transcended to the future.",
+  "developerName": "TINO GAMES Inc.",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 4331606016,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NNSTP6KJTZ9",
+  "productKind": "Game",
+  "publisherName": "SK Telecom.co, Ltd.",
+  "ratingCount": 213,
+  "releaseDate": "2020-12-17T00:00:00.0000000Z",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2JMFT4011PB",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.49,
+        "msrp": 19.49,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9ZVP5T19H747",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.49,
+        "msrp": 19.49,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Neoverse",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-01-14T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-01-14T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-12-17T00:00:00Z",
+      "exitDateUTC": "2022-12-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "NEOVERSE",
+    "xboxTitleId": 1703518315,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

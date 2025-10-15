@@ -1,0 +1,58 @@
+{
+  "id": 263008,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 280254,
+      "company": {
+        "id": 35986,
+        "name": "Sunny Peak"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 280255,
+      "company": {
+        "id": 26367,
+        "name": "Headup"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Symphonia",
+  "parent_game": 135508,
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/symphonia"
+}

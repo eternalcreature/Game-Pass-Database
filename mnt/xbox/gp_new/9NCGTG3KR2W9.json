@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 311747,
+    "specific_id": 311747,
+    "title": "Atlas Fallen: Reign of Sand",
+    "store_title": "Atlas Fallen: Reign of Sand (Windows)",
+    "pid": "9NCGTG3KR2W9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVN3C4CPDT5"
+    ],
+    "sku_groups": [
+      [
+        "9MVN3C4CPDT5"
+      ],
+      [
+        "9NCGTG3KR2W9"
+      ]
+    ],
+    "original_release_date": "2023-08-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-08-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-08-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Deck13 Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 311747,
+      "name": "Atlas Fallen: Reign of Sand",
+      "url": "https://www.igdb.com/games/atlas-fallen-reign-of-sand",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Deck13 Interactive"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

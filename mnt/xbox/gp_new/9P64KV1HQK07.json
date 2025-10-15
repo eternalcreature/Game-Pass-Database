@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 25584,
+    "specific_id": 25584,
+    "title": "Knights and Bikes",
+    "store_title": "Knights and Bikes",
+    "pid": "9P64KV1HQK07",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P64KV1HQK07"
+      ]
+    ],
+    "original_release_date": "2019-08-27",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-11-05",
+        "removed": "2021-11-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-05",
+        "removed": "2021-11-01"
+      },
+      "PC": {
+        "added": "2020-11-05",
+        "removed": "2021-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Double Fine Productions, Inc.",
+    "developer": "Foam Sword Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25584,
+      "name": "Knights and Bikes",
+      "url": "https://www.igdb.com/games/knights-and-bikes",
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "developers": [
+        "Foam Sword"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

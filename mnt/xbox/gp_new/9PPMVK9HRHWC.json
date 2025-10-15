@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 139077,
+    "specific_id": 139077,
+    "title": "Football Manager 2021",
+    "store_title": "Football Manager 2021",
+    "pid": "9PPMVK9HRHWC",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P3S3C0WHGM9"
+    ],
+    "sku_groups": [
+      [
+        "9P3S3C0WHGM9"
+      ],
+      [
+        "9PPMVK9HRHWC"
+      ]
+    ],
+    "original_release_date": "2020-11-24",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-04",
+        "removed": "2021-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-03-04",
+        "removed": "2021-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer",
+      "XblOnlineMultiPlayer": "Online multiplayer ",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "Sports Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139077,
+      "name": "Football Manager 2021",
+      "url": "https://www.igdb.com/games/football-manager-2021",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sports Interactive"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

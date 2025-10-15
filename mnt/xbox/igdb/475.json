@@ -1,0 +1,123 @@
+{
+  "id": 475,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 42077,
+      "company": {
+        "id": 389,
+        "name": "Universomo"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 1186,
+      "company": {
+        "id": 10,
+        "name": "LucasArts"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 42076,
+      "company": {
+        "id": 390,
+        "name": "THQ Wireless"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 182974,
+      "company": {
+        "id": 73,
+        "name": "Aspyr Media"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 182975,
+      "company": {
+        "id": 73,
+        "name": "Aspyr Media"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 273139,
+      "company": {
+        "id": 10,
+        "name": "LucasArts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 273142,
+      "company": {
+        "id": 10,
+        "name": "LucasArts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 273141,
+      "company": {
+        "id": 385,
+        "name": "Krome Studios"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Star Wars: The Force Unleashed",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/star-wars-the-force-unleashed"
+}

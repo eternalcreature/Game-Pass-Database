@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 137276,
+    "specific_id": 137276,
+    "title": "PAW Patrol Mighty Pups: Save Adventure Bay!",
+    "store_title": "PAW Patrol Mighty Pups Save Adventure Bay",
+    "pid": "9N3TF03KNTBD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3TF03KNTBD"
+      ]
+    ],
+    "original_release_date": "2020-11-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-12-16",
+        "removed": "2025-09-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": "2025-09-01"
+      },
+      "PC": {
+        "added": "2021-12-16",
+        "removed": "2025-09-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Platformer"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "DRAKHAR STUDIO"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 137276,
+      "name": "PAW Patrol Mighty Pups: Save Adventure Bay!",
+      "url": "https://www.igdb.com/games/paw-patrol-mighty-pups-save-adventure-bay",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "Drakhar Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

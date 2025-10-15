@@ -1,0 +1,128 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC"
+  ],
+  "averageRating": 4.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Intense Violence",
+      "Strong Language",
+      "Suggestive Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "One rainy night in November, a woman's body is found at an abandoned theme park, mounted on a merry-go-round horse. She had been stabbed repeatedly, and her left eye was gouged out.\r\nKaname Date of the Metropolitan Police Department arrives on the scene. He recognizes the woman. Suddenly, he hears a noise from inside the merry-go-round.\r\nHe breaks into the merry-go-round's central column to find a young girl. And in her hands, she grips a bloody ice pick...\r\n\r\nHone your detective skills in this thrilling sci-fi murder mystery with 30+ hours of gameplay and multiple endings.\r\n\r\nEnter dreams to solve puzzles and learn clues. With multiple outcomes and a 6 minute time limit, every second counts.\r\n\r\nDiscover the truth by interrogating suspects and using 3 special vision modes to investigate crime scenes.",
+  "developerName": "Spike Chunsoft",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasThirdPartyIAP"
+  ],
+  "maxInstallSize": 15472615424,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P3RMG6MSCFB",
+  "productKind": "Game",
+  "publisherName": "Spike Chunsoft",
+  "ratingCount": 257,
+  "releaseDate": "2021-09-30T11:00:00.0000000Z",
+  "shortDescription": "In a near-future Tokyo, Special Agent Kaname Date is on the case of a mysterious serial killer. Date must investigate crime scenes as well as dreams on the hunt for clues.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B13QNDM316GF",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RJGFKV4XLK5",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "AI: THE SOMNIUM FILES",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-09-30T11:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-09-30T11:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-09-30T11:00:00Z",
+      "exitDateUTC": "2022-10-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

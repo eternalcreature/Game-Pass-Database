@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 104967,
+    "specific_id": 104967,
+    "title": "Valheim",
+    "store_title": "Valheim (Game Preview)",
+    "pid": "9NCBL78CG9N7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCBL78CG9N7"
+      ]
+    ],
+    "original_release_date": "2021-02-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-29",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-09-29",
+        "removed": "2024-10-01"
+      },
+      "Console": {
+        "added": "2023-03-14",
+        "removed": "2024-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-10)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Coffee Stain Publishing ",
+    "developer": "Iron Gate "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 104967,
+      "name": "Valheim",
+      "url": "https://www.igdb.com/games/valheim",
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "developers": [
+        "Iron Gate Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

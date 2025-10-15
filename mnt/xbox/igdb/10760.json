@@ -1,0 +1,109 @@
+{
+  "id": 10760,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 72523,
+      "company": {
+        "id": 2344,
+        "name": "Inti Creates"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 72522,
+      "company": {
+        "id": 3226,
+        "name": "Armature Studio"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 71884,
+      "company": {
+        "id": 1021,
+        "name": "WayForward Technologies"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 72520,
+      "company": {
+        "id": 445,
+        "name": "505 Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 72521,
+      "company": {
+        "id": 14304,
+        "name": "ArtPlay"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 59649,
+      "company": {
+        "id": 9791,
+        "name": "DICO Co., Ltd."
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Bloodstained: Ritual of the Night",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/bloodstained-ritual-of-the-night"
+}

@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "base_id": 11137,
+    "specific_id": 336884,
+    "title": "Sea of Thieves",
+    "store_title": "Sea of Thieves: 2025 Edition",
+    "pid": "9P2N57MC619K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P2N57MC619K"
+      ]
+    ],
+    "original_release_date": "2018-03-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2018-06-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-06-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Rare Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11137,
+      "name": "Sea of Thieves",
+      "url": "https://www.igdb.com/games/sea-of-thieves",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 11137,
+      "name": "Sea of Thieves",
+      "url": "https://www.igdb.com/games/sea-of-thieves",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 130182,
+    "specific_id": 130182,
+    "title": "Floppy Knights",
+    "store_title": "Floppy Knights",
+    "pid": "9NLM4TTHCWSH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NLM4TTHCWSH"
+      ]
+    ],
+    "original_release_date": "2022-05-24",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-24",
+        "removed": "2023-06-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-24",
+        "removed": "2023-06-01"
+      },
+      "Console": {
+        "added": "2022-05-24",
+        "removed": "2023-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Strategy"
+    ],
+    "publisher": "Rose City Games, wiip",
+    "developer": "Rose City Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 130182,
+      "name": "Floppy Knights",
+      "url": "https://www.igdb.com/games/floppy-knights",
+      "publishers": [
+        "Rose City Games"
+      ],
+      "developers": [
+        "Rose City Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

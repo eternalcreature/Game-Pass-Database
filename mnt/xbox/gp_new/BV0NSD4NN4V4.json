@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 28204,
+    "specific_id": 28204,
+    "title": "Call of Duty: WWII",
+    "store_title": "Call of Duty\u00ae: WWII",
+    "pid": "BV0NSD4NN4V4",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P3QS4LX8BM9"
+    ],
+    "sku_groups": [
+      [
+        "9P3QS4LX8BM9"
+      ],
+      [
+        "BV0NSD4NN4V4"
+      ]
+    ],
+    "original_release_date": "2017-11-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-30",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-18)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision",
+    "developer": "Sledgehammer Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28204,
+      "name": "Call of Duty: WWII",
+      "url": "https://www.igdb.com/games/call-of-duty-wwii",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Sledgehammer Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 140427,
+    "specific_id": 140427,
+    "title": "My Time at Sandrock",
+    "store_title": "My Time at Sandrock",
+    "pid": "9N15RZTXDNPG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N15RZTXDNPG"
+      ]
+    ],
+    "original_release_date": "2023-11-02",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-19",
+        "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2024-06-19",
+        "removed": "2025-06-16"
+      },
+      "PC": {
+        "added": "2024-06-19",
+        "removed": "2025-06-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Role playing"
+    ],
+    "publisher": "PM-Studios, Inc.",
+    "developer": "PM-Studios, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 140427,
+      "name": "My Time at Sandrock",
+      "url": "https://www.igdb.com/games/my-time-at-sandrock",
+      "publishers": [
+        "PM Studios",
+        "Pathea Games"
+      ],
+      "developers": [
+        "Pathea Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Sandbox",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

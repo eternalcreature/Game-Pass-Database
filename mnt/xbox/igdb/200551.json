@@ -1,0 +1,74 @@
+{
+  "id": 200551,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 315566,
+      "company": {
+        "id": 15932,
+        "name": "miHoYo"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 315567,
+      "company": {
+        "id": 41907,
+        "name": "HoYoverse"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 315568,
+      "company": {
+        "id": 40242,
+        "name": "Cognosphere"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Zenless Zone Zero",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/zenless-zone-zero"
+}

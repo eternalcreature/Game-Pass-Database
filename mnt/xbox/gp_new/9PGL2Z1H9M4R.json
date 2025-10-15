@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 987,
+    "specific_id": 987,
+    "title": "Halo 3",
+    "store_title": "Halo 3",
+    "pid": "9PGL2Z1H9M4R",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGL2Z1H9M4R"
+      ]
+    ],
+    "original_release_date": "2007-09-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-07-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-07-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries, Bungie, Saber Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 987,
+      "name": "Halo 3",
+      "url": "https://www.igdb.com/games/halo-3",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Bungie"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Sandbox",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 58036,
+    "specific_id": 58036,
+    "title": "Risk Urban Assault",
+    "store_title": "Risk: Urban Assault",
+    "pid": "BTDRTXBKDBRR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BTDRTXBKDBRR"
+      ]
+    ],
+    "original_release_date": "2016-08-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-5)"
+    },
+    "categories": [
+      "Card & board"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Zo\u00eb Mode"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 58036,
+      "name": "Risk Urban Assault",
+      "url": "https://www.igdb.com/games/risk-urban-assault",
+      "publishers": [],
+      "developers": [
+        "Zoe Mode"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

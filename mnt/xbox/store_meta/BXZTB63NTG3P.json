@@ -1,0 +1,121 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+  },
+  "categories": [
+    "Strategy",
+    "Simulation"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Space Hulk: Tactics is a faithful adaptation of the board game Space Hulk, set in the Warhammer 40,000 universe, bringing a unique twist to the cult classic formula. Engage in bloody battles as either a squad of Terminator Space Marines or the deadly alien Genestealers. \r\n\r\nBattle through two distinct, narrative-driven campaigns: lead, customise, and upgrade a Blood Angels squad or, for the first time in a Space Hulk game, control a swarm of Genestealers! \r\n\r\n• Engage in bloody tactical battles aboard a gigantic Space Hulk\r\n• Play through two campaigns from the point of view of the Blood Angels, and for the first time the Genestealers!\r\n• Customize your units of Dark Angels, Ultramarines, Blood Angels, Space Wolves, and even Genestealers with hundreds of cosmetic items, cards, and equipment.\r\n• Test your skills against other players in the online competitive multiplayer. \r\n• Create and share your own missions with an intuitive map creation tool",
+  "developerName": "Cyanide Studio",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 5138919424,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BXZTB63NTG3P",
+  "productKind": "Game",
+  "publisherName": "Focus Entertainment",
+  "ratingCount": 141,
+  "releaseDate": "2018-10-09T00:00:00.0000000Z",
+  "shortDescription": "Space Hulk: Tactics is a faithful adaptation of the board game Space Hulk, set in the Warhammer 40,000 universe, bringing a unique twist to the cult classic formula. Engage in bloody battles through an immense Space Hulk - a twisted mass of asteroids, wrecked star ships, and debris – as either a squad of Terminator Space Marines or the deadly alien Genestealers. Which side will you choose?",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9N91J5M3FMTK",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9S9H89DRRRT4",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Space Hulk: Tactics",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

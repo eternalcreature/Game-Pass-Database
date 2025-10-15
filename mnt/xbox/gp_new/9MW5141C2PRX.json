@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 26597,
+    "specific_id": 26597,
+    "title": "Pathway",
+    "store_title": "Pathway",
+    "pid": "9MW5141C2PRX",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MW5141C2PRX"
+      ]
+    ],
+    "original_release_date": "2019-04-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-04-15",
+        "removed": "2022-04-16"
+      },
+      "Ultimate": {
+        "added": "2021-04-15",
+        "removed": "2022-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "Chucklefish",
+    "developer": "Robotality"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26597,
+      "name": "Pathway",
+      "url": "https://www.igdb.com/games/pathway",
+      "publishers": [
+        "Chucklefish Games"
+      ],
+      "developers": [
+        "Robotality"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

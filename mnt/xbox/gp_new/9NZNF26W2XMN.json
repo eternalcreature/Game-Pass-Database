@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 115851,
+    "specific_id": 115851,
+    "title": "F.I.S.T.: Forged In Shadow Torch",
+    "store_title": "F.I.S.T.: Forged In Shadow Torch",
+    "pid": "9NZNF26W2XMN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NZNF26W2XMN"
+      ]
+    ],
+    "original_release_date": "2021-09-07",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-06-27",
+        "removed": "2024-07-01"
+      },
+      "Ultimate": {
+        "added": "2023-06-27",
+        "removed": "2024-07-01"
+      },
+      "Console": {
+        "added": "2023-06-27",
+        "removed": "2024-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "bilibili",
+    "developer": "TiGames"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115851,
+      "name": "F.I.S.T.: Forged In Shadow Torch",
+      "url": "https://www.igdb.com/games/f-dot-i-s-dot-t-forged-in-shadow-torch",
+      "publishers": [
+        "bilibili"
+      ],
+      "developers": [
+        "TiGames"
+      ],
+      "genres": [
+        "Platform",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

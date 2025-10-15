@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 152480,
+    "specific_id": 152480,
+    "title": "Madden NFL 22",
+    "store_title": "Madden NFL 22 Xbox One",
+    "pid": "9NFT6MRTH9KV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NVHLDZNKH94",
+      "9PLWQJ9VZL34"
+    ],
+    "sku_groups": [
+      [
+        "9NFT6MRTH9KV"
+      ],
+      [
+        "9NVHLDZNKH94"
+      ],
+      [
+        "9PLWQJ9VZL34"
+      ]
+    ],
+    "original_release_date": "2021-08-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-19",
+        "removed": "2024-03-01"
+      },
+      "Ultimate": {
+        "added": "2021-08-19",
+        "removed": "2024-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Tiburon"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 152480,
+      "name": "Madden NFL 22",
+      "url": "https://www.igdb.com/games/madden-nfl-22",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Orlando"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

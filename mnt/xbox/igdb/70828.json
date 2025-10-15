@@ -1,0 +1,78 @@
+{
+  "id": 70828,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 106874,
+      "company": {
+        "id": 21089,
+        "name": "SUPERGG.COM"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 106875,
+      "company": {
+        "id": 21088,
+        "name": "Nodding Heads Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 261038,
+      "company": {
+        "id": 27224,
+        "name": "Netflix"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Raji: An Ancient Epic",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/raji-an-ancient-epic"
+}

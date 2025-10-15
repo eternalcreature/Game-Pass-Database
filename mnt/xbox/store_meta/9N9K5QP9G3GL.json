@@ -1,0 +1,173 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Basic input remapping"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 4.6,
+  "badges": [
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Shooter",
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game.\n\nYou are trapped in an endless sequence by the all-seeing, hostile AI. \nYou are its prisoner - forced to fight, die, and repeat.\nThe machines think you'll never escape. The system is designed to keep you here.\n\nBUT ESCAPE IS POSSIBLE\n\nLightning-Fast Gunplay & Flawless Movement\n\nThis isn’t just shooting - it’s pure velocity.\nRun through relentless gunfights with fluid movement designed for high-paced action. \nOutmaneuver your enemies and dominate every firefight with agility and speed.\n\nInfinite Weapons. Infinite Possibilities \n\nDiscover limitless weapon combinations using the ultimate gun-modding system. \nStrategically combine mods to create devastating loadouts. \nUnlock wild synergies that turn you into an unstoppable force.\n\nDestruction is your Advantage.\n\nWhy just shoot your enemies when you can tear down the world around them? \nEnvironmental destruction isn't just for show - it's a core gameplay mechanic.\nBlast through walls, collapse structures, and stagger enemies to survive.\n\nNew Run. New Choices. New Paths\nEvery run presents decisions. Which fights do you take?\nWhich paths push your limits?\nDo you take the dangerous route for bigger rewards or play it safe? \nThe choice is yours\n\nA Passion Project by a Solo Developer\nVOID/BREAKER is a solo project from developer Daniel Stubbington, known as Stubby Games.\nFollowing his acclaimed Portal-inspired puzzle game, The Entropy Centre (2022), \nDaniel now pursues his passion for dynamic FPS gameplay and roguelites.",
+  "developerName": "Stubby Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 10085875712,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N9K5QP9G3GL",
+  "productKind": "Game",
+  "publisherName": "Playstack",
+  "ratingCount": 9,
+  "releaseDate": "9998-12-30T00:00:00.0000000Z",
+  "shortDescription": "Adrenaline-Fueled Roguelite FPS",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B2WGVZ6QKQX3",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "11/17/2025 17:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "B2TG18X89WTH",
+        "discountPercentage": 10.005003,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9X7TGM4ZVX94",
+        "discountPercentage": 10.005003,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 17.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9QJHR55WVK5D",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "11/17/2025 17:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "VOID/BREAKER (Game Preview)",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-08-19T18:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-08-19T18:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "base_id": 100413,
+    "specific_id": 100413,
+    "title": "Watch Dogs: Legion",
+    "store_title": "Watch Dogs\u00ae: Legion",
+    "pid": "C1WRX8ZD77M9",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C1WRX8ZD77M9"
+      ]
+    ],
+    "original_release_date": "2020-10-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-02-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-02-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-02-25",
+        "removed": null
+      },
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-8)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "RayTracing": "Ray Tracing",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT TORONTO"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 100413,
+      "name": "Watch Dogs: Legion",
+      "url": "https://www.igdb.com/games/watch-dogs-legion",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Toronto"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

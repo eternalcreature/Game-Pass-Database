@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 249477,
+    "specific_id": 249477,
+    "title": "Return to Grace",
+    "store_title": "Return to Grace",
+    "pid": "9MWZF0Q94B8L",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MWZF0Q94B8L"
+      ]
+    ],
+    "original_release_date": "2023-05-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-02-20",
+        "removed": "2025-02-16"
+      },
+      "Ultimate": {
+        "added": "2024-02-20",
+        "removed": "2025-02-16"
+      },
+      "Console": {
+        "added": "2024-02-20",
+        "removed": "2025-02-16"
+      },
+      "Premium": {
+        "added": "2024-09-04",
+        "removed": "2025-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Creative Bytes Studios",
+    "developer": "Creative Bytes Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 249477,
+      "name": "Return to Grace",
+      "url": "https://www.igdb.com/games/return-to-grace",
+      "publishers": [
+        "Creative Bytes Studios"
+      ],
+      "developers": [
+        "Creative Bytes Studios"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

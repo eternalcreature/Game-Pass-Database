@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 7081,
+    "specific_id": 7081,
+    "title": "Battlefield Hardline",
+    "store_title": "Battlefield\u2122 Hardline",
+    "pid": "BZKZFMQG2K2K",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N40901WDQJD"
+    ],
+    "sku_groups": [
+      [
+        "9N40901WDQJD"
+      ],
+      [
+        "BZKZFMQG2K2K"
+      ]
+    ],
+    "original_release_date": "2015-03-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (4-66)"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Visceral"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7081,
+      "name": "Battlefield Hardline",
+      "url": "https://www.igdb.com/games/battlefield-hardline",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE",
+        "Visceral Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 55322,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 53882,
+      "company": {
+        "id": 5040,
+        "name": "tinyBuild"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 53881,
+      "company": {
+        "id": 1701,
+        "name": "Ice-Pick Lodge"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 232073,
+      "company": {
+        "id": 38591,
+        "name": "Pingle Game Studio"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Pathologic 2",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/pathologic-2"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 296843,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 341473,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 341474,
+      "company": {
+        "id": 39329,
+        "name": "Evil Empire"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "The Rogue Prince of Persia",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-rogue-prince-of-persia"
+}

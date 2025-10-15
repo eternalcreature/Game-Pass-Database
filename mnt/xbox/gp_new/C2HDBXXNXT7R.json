@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 106235,
+    "specific_id": 106235,
+    "title": "Killer Instinct 2 Classic",
+    "store_title": "Killer Instinct 2 Classic",
+    "pid": "C2HDBXXNXT7R",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2HDBXXNXT7R"
+      ]
+    ],
+    "original_release_date": "2013-11-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Code Mystics"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106235,
+      "name": "Killer Instinct 2 Classic",
+      "url": "https://www.igdb.com/games/killer-instinct-2-classic",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Code Mystics"
+      ],
+      "genres": [
+        "Fighting",
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

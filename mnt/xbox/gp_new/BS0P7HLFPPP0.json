@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 20329,
+    "specific_id": 20329,
+    "title": "Figment",
+    "store_title": "Figment: Journey Into the Mind",
+    "pid": "BS0P7HLFPPP0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS0P7HLFPPP0"
+      ]
+    ],
+    "original_release_date": "2017-09-22",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-01-09",
+        "removed": "2025-01-16"
+      },
+      "Ultimate": {
+        "added": "2024-01-09",
+        "removed": "2025-01-16"
+      },
+      "Console": {
+        "added": "2024-01-09",
+        "removed": "2025-01-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-01-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Music"
+    ],
+    "publisher": "Bedtime Digital Games",
+    "developer": "Bedtime Digital Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20329,
+      "name": "Figment",
+      "url": "https://www.igdb.com/games/figment",
+      "publishers": [
+        "Bedtime Digital Games"
+      ],
+      "developers": [
+        "Bedtime Digital Games"
+      ],
+      "genres": [
+        "Music",
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

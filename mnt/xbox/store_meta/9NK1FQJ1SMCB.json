@@ -1,0 +1,177 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.3,
+  "badges": [
+    {
+      "type": 10
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "60fps": "60 fps+"
+  },
+  "categories": [
+    "Action & adventure",
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Drug Reference",
+      "Strong Language",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact",
+      "In-Game Purchases"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "For decades, Team Rainbow has been the shield against the worst global threats imaginable. Now, we face the greatest terror yet: a lethal, mutating alien parasite. \n•\tIncludes Buddy Pass: Invite 2 friends to play with you for FREE for 14 days.\n•\tPlay alone or with friends from any platform in this 1- to 3-player co-op PvE FPS.\n•\t69 guns, 25 gadgets, 18 operators with progression levels, 12 large dynamic maps, 13 mutating enemies, and free post-launch content\n•\tTest your skills with 4 adjustable difficulty levels and a thrilling Endgame ranked mode.\n•\tTom Clancy's Rainbow Six® Siege Players: Get 4 EXCLUSIVE Epic gearsets across both games and instantly unlock all 18 Tom Clancy's Rainbow® Six Extraction operators in Rainbow Six Siege.\n\nOffer and dates subject to change. Restrictions apply, including availability, technical, and content restrictions. Buddy Pass features may differ. Void where prohibited. More info here: https://ubi.li/BuddyPass.",
+  "developerName": "UBISOFT MONTREAL",
+  "editions": [],
+  "franchiseId": "TOMCLANCY",
+  "franchiseName": "Tom Clancy",
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0KGQ8",
+    "nakupcgce"
+  ],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "UbisoftPCVersion"
+  ],
+  "maxInstallSize": 91268055040,
+  "optimalSatisfyingPassId": "CFQ7TTC0KGQ8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NK1FQJ1SMCB",
+  "productKind": "Game",
+  "publisherName": "UBISOFT",
+  "ratingCount": 161,
+  "releaseDate": "2022-01-20T00:00:00.0000000Z",
+  "shortDescription": "For decades, Team Rainbow has been the shield against the worst global threats imaginable. Now, we face the greatest terror yet: a lethal, mutating alien parasite. \n•\tIncludes Buddy Pass: Invite 2 friends to play with you for FREE for 14 days\n•\tPlay alone or with friends from any platform\n•\t69 guns, 25 gadgets, 18 operators with progression levels, 12 maps, 13 mutating enemies, & free post-launch",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Q85HD0QKF6Q",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9VLK6RR07V1F",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B287PQ8WFGDT",
+        "discountPercentage": 20.005005,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 31.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0010",
+        "availabilityId": "9X98ZN3P1K3Q",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 2
+  },
+  "title": "Tom Clancy’s Rainbow Six® Extraction",
+  "passMetadataByPassProductId": {
+    "nakupcgce": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-01T16:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": true
+}

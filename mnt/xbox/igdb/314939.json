@@ -1,0 +1,57 @@
+{
+  "id": 314939,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 284124,
+      "company": {
+        "id": 13466,
+        "name": "PHL Collective"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 284123,
+      "company": {
+        "id": 13848,
+        "name": "Outright Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "SpongeBob SquarePants: The Patrick Star Game",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/spongebob-squarepants-the-patrick-star-game"
+}

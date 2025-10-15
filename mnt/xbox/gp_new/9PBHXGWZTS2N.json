@@ -1,0 +1,101 @@
+{
+  "basic_info": {
+    "base_id": 105049,
+    "specific_id": 105049,
+    "title": "Remnant: From the Ashes",
+    "store_title": "Remnant: From the Ashes",
+    "pid": "9PBHXGWZTS2N",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PBHXGWZTS2N"
+      ]
+    ],
+    "original_release_date": "2019-08-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-30",
+        "removed": "2024-12-01"
+      },
+      "Ultimate": {
+        "added": "2023-11-30",
+        "removed": "2024-12-01"
+      },
+      "Console": {
+        "added": "2023-11-30",
+        "removed": "2024-12-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "Arc Games",
+    "developer": "Gunfire Games, LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 105049,
+      "name": "Remnant: From the Ashes",
+      "url": "https://www.igdb.com/games/remnant-from-the-ashes",
+      "publishers": [
+        "Intragames",
+        "Perfect World Entertainment"
+      ],
+      "developers": [
+        "Gunfire Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

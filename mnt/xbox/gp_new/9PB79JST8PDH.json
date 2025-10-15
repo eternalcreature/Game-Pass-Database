@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 27092,
+    "specific_id": 27092,
+    "title": "GreedFall",
+    "store_title": "GreedFall - Windows 10",
+    "pid": "9PB79JST8PDH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NVR6HDTQZT9"
+    ],
+    "sku_groups": [
+      [
+        "9NVR6HDTQZT9"
+      ],
+      [
+        "9PB79JST8PDH"
+      ]
+    ],
+    "original_release_date": "2019-09-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-12-10",
+        "removed": "2022-06-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-10",
+        "removed": "2022-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Spiders"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27092,
+      "name": "GreedFall",
+      "url": "https://www.igdb.com/games/greedfall",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Spiders"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

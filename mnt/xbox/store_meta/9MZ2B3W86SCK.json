@@ -1,0 +1,138 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls",
+      "Surround sound"
+    ],
+    "gameplay": [
+      "On-demand tutorials",
+      "Save anytime"
+    ],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Chat speech-to-text & text-to-speech",
+      "Playable with mouse only",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N21BHFW7ZQW",
+    "9N14WVLTXS19"
+  ],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-8)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Simulation",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Blood",
+      "Suggestive Themes",
+      "Mild Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Build your empire with one of six unique factions, ranging from the militant Vanguard to the dinosaur-riding Amazons and the cyborg-zombies of the Assembly. Progress through each faction’s missions using your wits, military strength and diplomacy, exploring planetary ruins and encountering other survivors as you unravel the history of a shattered civilization. Fight, build, negotiate and technologically advance your way to utopia in a deep single player campaign, on random skirmish maps, and against friends in multiplayer.\r\n\r\nKey Features\r\nTactical Turn-Based Sci-Fi Combat - Perfect your combat strategy in intense turn-based battles featuring a large cast of factions, customizable units, and destructible environments.\r\nDiscover a Rich Science-Fiction World - What secrets will unfold when you uncover the history of the fallen galactic empire? Discover the fate of the Star Union by exploring lush landscapes, wild wastelands and overgrown megacities. Encounter rival factions and discover hidden technologies long forgotten in abandoned places.\r\nPlanetary Empire Building - Steer the future of your colony with a mix of technological advances and social development. Will you create an environmental paradise or a perfect military order?\r\nMultiple Paths to Victory - Achieve your end goals through conquest, diplomacy or doomsday technologies.\r\nA Multitude of Game Modes - A deep single-player story campaign alongside random map generation makes for endless replayability. Try new play styles in skirmish mode, and play multiplayer your way - online, hotseat, and asynchronous!\r\n",
+  "developerName": "Triumph Studios",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 16896573440,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MZ2B3W86SCK",
+  "productKind": "Game",
+  "publisherName": "Paradox Interactive",
+  "ratingCount": 132,
+  "releaseDate": "2019-12-11T15:00:00.0000000Z",
+  "shortDescription": "Emerge from the cosmic dark age of a fallen galactic empire to build a new future for your people. Age of Wonders: Planetfall is the new strategy game from Triumph Studios, creators of the critically acclaimed Age of Wonders series, bringing all the exciting tactical turn-based combat and in-depth empire building of its predecessors to space in an all-new, sci-fi setting.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TF81X1PSCB2",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VCHR2GTHLC3",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 29.99,
+        "msrp": 29.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Age of Wonders: Planetfall",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

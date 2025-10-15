@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 135999,
+    "specific_id": 135999,
+    "title": "Tetris Effect: Connected",
+    "store_title": "Tetris\u00ae Effect: Connected",
+    "pid": "9PPBVK3TK83M",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PPBVK3TK83M"
+      ]
+    ],
+    "original_release_date": "2020-11-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-16",
+        "removed": "2023-05-01"
+      },
+      "Ultimate": {
+        "added": "2021-11-16",
+        "removed": "2023-05-01"
+      },
+      "Console": {
+        "added": "2021-11-16",
+        "removed": "2023-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Enhance",
+    "developer": "Monstars Inc., Resonair and Stage Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135999,
+      "name": "Tetris Effect: Connected",
+      "url": "https://www.igdb.com/games/tetris-effect-connected",
+      "publishers": [
+        "Enhance"
+      ],
+      "developers": [
+        "Monstars"
+      ],
+      "genres": [
+        "Music",
+        "Puzzle",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 4784,
+    "specific_id": 4784,
+    "title": "EA Sports UFC",
+    "store_title": "EA SPORTS\u2122 UFC\u00ae",
+    "pid": "BXLW311NX101",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXLW311NX101"
+      ]
+    ],
+    "original_release_date": "2014-06-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2021-07-14"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2021-07-14"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Fighting",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 4784,
+      "name": "EA Sports UFC",
+      "url": "https://www.igdb.com/games/ea-sports-ufc",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Canada"
+      ],
+      "genres": [
+        "Fighting",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

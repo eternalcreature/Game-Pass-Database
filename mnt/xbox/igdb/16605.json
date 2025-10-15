@@ -1,0 +1,88 @@
+{
+  "id": 16605,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 52143,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 54441,
+      "company": {
+        "id": 221,
+        "name": "Splash Damage"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 103492,
+      "company": {
+        "id": 17463,
+        "name": "Epic Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 103491,
+      "company": {
+        "id": 5961,
+        "name": "The Coalition"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Gears of War: Ultimate Edition",
+  "parent_game": 318793,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/gears-of-war-ultimate-edition--1"
+}

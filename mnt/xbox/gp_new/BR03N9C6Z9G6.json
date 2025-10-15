@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 11491,
+    "specific_id": 11491,
+    "title": "Zombi",
+    "store_title": "ZOMBI",
+    "pid": "BR03N9C6Z9G6",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NLZH0VNVSKR"
+    ],
+    "sku_groups": [
+      [
+        "9NLZH0VNVSKR"
+      ],
+      [
+        "BR03N9C6Z9G6"
+      ]
+    ],
+    "original_release_date": "2015-08-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "STRAIGHT RIGHT"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11491,
+      "name": "Zombi",
+      "url": "https://www.igdb.com/games/zombi--1",
+      "publishers": [],
+      "developers": [
+        "Straight Right",
+        "Ubisoft Montpellier"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

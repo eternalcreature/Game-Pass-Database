@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 130216,
+    "specific_id": 130216,
+    "title": "Hardspace: Shipbreaker",
+    "store_title": "Hardspace: Shipbreaker",
+    "pid": "9ND8C4314ZZG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MW8RMSBB5QH"
+    ],
+    "sku_groups": [
+      [
+        "9MW8RMSBB5QH"
+      ],
+      [
+        "9ND8C4314ZZG"
+      ]
+    ],
+    "original_release_date": "2020-06-16",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-09-20",
+        "removed": "2024-03-16"
+      },
+      "Ultimate": {
+        "added": "2022-09-20",
+        "removed": "2024-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Blackbird Interactive",
+    "developer": "Blackbird Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 130216,
+      "name": "Hardspace: Shipbreaker",
+      "url": "https://www.igdb.com/games/hardspace-shipbreaker",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Blackbird Interactive"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

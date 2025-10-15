@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 109458,
+    "specific_id": 109458,
+    "title": "Katamari Damacy Reroll",
+    "store_title": "Katamari Damacy REROLL",
+    "pid": "9N8X6BC9P0CX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PFWPNP19F1B"
+    ],
+    "sku_groups": [
+      [
+        "9N8X6BC9P0CX"
+      ],
+      [
+        "9PFWPNP19F1B"
+      ]
+    ],
+    "original_release_date": "2018-12-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-08-05",
+        "removed": "2022-08-01"
+      },
+      "Ultimate": {
+        "added": "2021-08-05",
+        "removed": "2022-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": "BANDAI NAMCO Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 109458,
+      "name": "Katamari Damacy Reroll",
+      "url": "https://www.igdb.com/games/katamari-damacy-reroll",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "MONKEYCRAFT Co. Ltd"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

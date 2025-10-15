@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 139684,
+    "specific_id": 139684,
+    "title": "Rubber Bandits",
+    "store_title": "Rubber Bandits",
+    "pid": "9PL36RW9ZTPW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PL36RW9ZTPW"
+      ]
+    ],
+    "original_release_date": "2021-12-02",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2023-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2023-12-16"
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": "2023-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Flashbulb",
+    "developer": "Flashbulb"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139684,
+      "name": "Rubber Bandits",
+      "url": "https://www.igdb.com/games/rubber-bandits",
+      "publishers": [
+        "Flashbulb Games"
+      ],
+      "developers": [
+        "Flashbulb Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

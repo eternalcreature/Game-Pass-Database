@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 104971,
+    "specific_id": 104971,
+    "title": "AI: The Somnium Files",
+    "store_title": "AI: THE SOMNIUM FILES",
+    "pid": "9P3RMG6MSCFB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P3RMG6MSCFB"
+      ]
+    ],
+    "original_release_date": "2019-09-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-30",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2021-09-30",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2021-09-30",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Spike Chunsoft",
+    "developer": "Spike Chunsoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 104971,
+      "name": "AI: The Somnium Files",
+      "url": "https://www.igdb.com/games/ai-the-somnium-files",
+      "publishers": [
+        "Numskull Games",
+        "Spike Chunsoft"
+      ],
+      "developers": [
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Visual Novel"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Thriller",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

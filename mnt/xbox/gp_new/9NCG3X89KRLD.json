@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 143619,
+    "specific_id": 143619,
+    "title": "Ninja Gaiden: Master Collection",
+    "store_title": "NINJA GAIDEN: Master Collection",
+    "pid": "9NCG3X89KRLD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCG3X89KRLD"
+      ]
+    ],
+    "original_release_date": "2021-06-10",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Ultimate": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "PC": {
+        "added": "2022-06-02",
+        "removed": "2025-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "PcGamePad": "PC Game Pad",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": "KOEI TECMO GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143619,
+      "name": "Ninja Gaiden: Master Collection",
+      "url": "https://www.igdb.com/games/ninja-gaiden-master-collection",
+      "publishers": [
+        "Koei Tecmo"
+      ],
+      "developers": [
+        "Team NINJA"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

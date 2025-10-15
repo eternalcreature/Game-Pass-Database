@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 126459,
+    "specific_id": 126459,
+    "title": "Valorant",
+    "store_title": "VALORANT",
+    "pid": "9N1NLJK9SKRN",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NKCCHCFTHV2"
+    ],
+    "sku_groups": [
+      [
+        "9N1NLJK9SKRN"
+      ],
+      [
+        "9NKCCHCFTHV2"
+      ]
+    ],
+    "original_release_date": "2020-06-02",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-07-26",
+        "removed": null
+      },
+      "Console": {
+        "added": "2024-07-26",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (10-10)",
+      "Capability4k": "4K Ultra HD",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Shooter",
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "Riot Games",
+    "developer": "Riot Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 126459,
+      "name": "Valorant",
+      "url": "https://www.igdb.com/games/valorant",
+      "publishers": [
+        "Riot Games"
+      ],
+      "developers": [
+        "Riot Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

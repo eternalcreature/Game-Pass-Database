@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 121758,
+    "specific_id": 121758,
+    "title": "Comanche",
+    "store_title": "Comanche",
+    "pid": "9N2H2GRB4D0K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N2H2GRB4D0K"
+      ]
+    ],
+    "original_release_date": "2020-03-12",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-11-05",
+        "removed": "2021-11-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-05",
+        "removed": "2021-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting",
+      "Racing & flying",
+      "Shooter",
+      "Simulation"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Nukklear & Ashborne Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 121758,
+      "name": "Comanche",
+      "url": "https://www.igdb.com/games/comanche",
+      "publishers": [],
+      "developers": [
+        "NUKKLEAR"
+      ],
+      "genres": [
+        "Fighting",
+        "Shooter",
+        "Simulator"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

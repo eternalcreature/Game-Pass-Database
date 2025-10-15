@@ -1,0 +1,100 @@
+{
+  "id": 6032,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 18662,
+      "company": {
+        "id": 2492,
+        "name": "2K Australia"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 18661,
+      "company": {
+        "id": 148,
+        "name": "Gearbox Software"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 241981,
+      "company": {
+        "id": 139,
+        "name": "Take-Two Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 241982,
+      "company": {
+        "id": 8,
+        "name": "2K Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 241983,
+      "company": {
+        "id": 73,
+        "name": "Aspyr Media"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Borderlands: The Pre-Sequel",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/borderlands-the-pre-sequel"
+}

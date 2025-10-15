@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 352,
+    "specific_id": 352,
+    "title": "Battlefield: Bad Company 2",
+    "store_title": "Battlefield Bad Company 2",
+    "pid": "C0JN2J76L7C9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4HS2872GR7"
+    ],
+    "sku_groups": [
+      [
+        "9N4HS2872GR7"
+      ],
+      [
+        "C0JN2J76L7C9"
+      ]
+    ],
+    "original_release_date": "2010-03-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2023-12-01"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2023-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Digital Illusions CE AB"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 352,
+      "name": "Battlefield: Bad Company 2",
+      "url": "https://www.igdb.com/games/battlefield-bad-company-2",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE"
+      ],
+      "genres": [
+        "Shooter",
+        "Strategy",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

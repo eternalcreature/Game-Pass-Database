@@ -1,0 +1,126 @@
+{
+  "basic_info": {
+    "base_id": 10239,
+    "specific_id": 10239,
+    "title": "Ark: Survival Evolved",
+    "store_title": "ARK: Survival Evolved",
+    "pid": "BNBLC4ZGFNKB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLGGH52XC6",
+      "9N5JRWWGMS1R"
+    ],
+    "sku_groups": [
+      [
+        "9N5JRWWGMS1R",
+        "BNBLC4ZGFNKB"
+      ],
+      [
+        "9NBLGGH52XC6"
+      ]
+    ],
+    "original_release_date": "2016-12-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-70)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "Studio Wildcard",
+    "developer": "Studio Wildcard"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10239,
+      "name": "Ark: Survival Evolved",
+      "url": "https://www.igdb.com/games/ark-survival-evolved",
+      "publishers": [
+        "Snail Games",
+        "Snail Games USA",
+        "Studio Wildcard"
+      ],
+      "developers": [
+        "Studio Wildcard"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

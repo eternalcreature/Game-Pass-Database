@@ -1,0 +1,121 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer ",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Action & adventure",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Mild Language",
+      "Mild Suggestive Themes"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "Dungeon of the Endless is a Rogue-Like Dungeon-Defense game, in which the player and their team of heroes must protect the generator of their crashed ship while exploring an ever-expanding dungeon, all while facing waves of monsters and special events as they try to find their way out...",
+  "developerName": "Amplitude",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 830128128,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N46K0X6TBZK",
+  "productKind": "Game",
+  "publisherName": "Sega Europe Ltd",
+  "ratingCount": 202,
+  "releaseDate": "2020-06-11T00:00:00.0000000Z",
+  "shortDescription": "A few hundred condemned criminals were being shipped to the Auriga system on board the prison hulk “Success”. While this was presented as a chance to earn back their place in society by working hard for the common good, they understood that in fact they would be slave labour, sent to colonize an unexplored planet. All they knew about Auriga Prime was what the probes told them: it had water, temperate zones, plant life, and plenty of metals in the crust.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9XT732VJXX3H",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 11.99,
+        "msrp": 11.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TQ9JBDVMB21",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 11.99,
+        "msrp": 11.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dungeon of the Endless™",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-06-17T00:00:00Z",
+      "exitDateUTC": "2021-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-06-17T00:00:00Z",
+      "exitDateUTC": "2021-05-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

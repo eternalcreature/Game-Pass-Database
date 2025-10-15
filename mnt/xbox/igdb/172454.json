@@ -1,0 +1,77 @@
+{
+  "id": 172454,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 16,
+      "name": "Turn-based strategy (TBS)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 219527,
+      "company": {
+        "id": 5040,
+        "name": "tinyBuild"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 219528,
+      "company": {
+        "id": 12490,
+        "name": "Do My Best"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "The Bookwalker: Thief of Tales",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-bookwalker-thief-of-tales"
+}

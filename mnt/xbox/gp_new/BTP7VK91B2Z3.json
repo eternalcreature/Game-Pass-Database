@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 80006,
+    "specific_id": 80006,
+    "title": "Felix the Reaper",
+    "store_title": "Felix The Reaper",
+    "pid": "BTP7VK91B2Z3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BTP7VK91B2Z3"
+      ]
+    ],
+    "original_release_date": "2019-10-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Daedalic Entertainment",
+    "developer": "Kong Orange"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 80006,
+      "name": "Felix the Reaper",
+      "url": "https://www.igdb.com/games/felix-the-reaper",
+      "publishers": [
+        "Daedalic Entertainment",
+        "Daedalic Studio West"
+      ],
+      "developers": [
+        "Kong Orange"
+      ],
+      "genres": [
+        "Music",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

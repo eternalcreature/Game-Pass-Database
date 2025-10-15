@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 314939,
+    "specific_id": 314939,
+    "title": "SpongeBob SquarePants: The Patrick Star Game",
+    "store_title": "SpongeBob SquarePants\u2122: The Patrick Star Game",
+    "pid": "9NMF3KXT4P4G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NMF3KXT4P4G"
+      ]
+    ],
+    "original_release_date": "2024-10-04",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-16",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-16",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-16",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-04-16",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Family & kids",
+      "Other",
+      "Simulation"
+    ],
+    "publisher": "Outright Games Ltd.",
+    "developer": "PHL Collective"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 314939,
+      "name": "SpongeBob SquarePants: The Patrick Star Game",
+      "url": "https://www.igdb.com/games/spongebob-squarepants-the-patrick-star-game",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "PHL Collective"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

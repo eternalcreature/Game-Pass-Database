@@ -1,0 +1,78 @@
+{
+  "id": 2602,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 22875,
+      "company": {
+        "id": 1010,
+        "name": "Microsoft Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 22874,
+      "company": {
+        "id": 753,
+        "name": "Nordic Games Publishing"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 292110,
+      "company": {
+        "id": 305,
+        "name": "Remedy Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Alan Wake's American Nightmare",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 31,
+      "name": "Drama"
+    }
+  ],
+  "url": "https://www.igdb.com/games/alan-wake-s-american-nightmare"
+}

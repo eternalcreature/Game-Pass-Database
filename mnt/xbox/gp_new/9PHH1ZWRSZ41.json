@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "base_id": 55029,
+    "specific_id": 221950,
+    "title": "Age of Empires IV",
+    "store_title": "Age of Empires IV: Anniversary Edition",
+    "pid": "9PHH1ZWRSZ41",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N94NCGM1Q2N"
+    ],
+    "sku_groups": [
+      [
+        "9N94NCGM1Q2N"
+      ],
+      [
+        "9PHH1ZWRSZ41"
+      ]
+    ],
+    "original_release_date": "2021-10-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-08-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-08-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-09-04",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "World's Edge, Relic Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55029,
+      "name": "Age of Empires IV",
+      "url": "https://www.igdb.com/games/age-of-empires-iv",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Relic Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 55029,
+      "name": "Age of Empires IV",
+      "url": "https://www.igdb.com/games/age-of-empires-iv",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Relic Entertainment"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

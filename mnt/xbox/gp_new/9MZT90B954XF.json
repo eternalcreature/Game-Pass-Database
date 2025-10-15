@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 225426,
+    "specific_id": 225426,
+    "title": "Botany Manor",
+    "store_title": "Botany Manor",
+    "pid": "9MZT90B954XF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PLP9LSKB6WV"
+    ],
+    "sku_groups": [
+      [
+        "9MZT90B954XF"
+      ],
+      [
+        "9PLP9LSKB6WV"
+      ]
+    ],
+    "original_release_date": "2024-04-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-09",
+        "removed": "2025-04-16"
+      },
+      "Ultimate": {
+        "added": "2024-04-09",
+        "removed": "2025-04-16"
+      },
+      "Premium": {
+        "added": "2024-10-16",
+        "removed": "2025-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Whitethorn Games",
+    "developer": "Balloon Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 225426,
+      "name": "Botany Manor",
+      "url": "https://www.igdb.com/games/botany-manor",
+      "publishers": [
+        "Whitethorn Games"
+      ],
+      "developers": [
+        "Balloon Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

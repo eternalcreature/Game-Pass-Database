@@ -1,0 +1,62 @@
+{
+  "id": 41623,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 271806,
+      "company": {
+        "id": 294,
+        "name": "Telltale Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 271807,
+      "company": {
+        "id": 294,
+        "name": "Telltale Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 271808,
+      "company": {
+        "id": 16242,
+        "name": "Skybound Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "The Walking Dead: The Complete First Season",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    }
+  ],
+  "url": "https://www.igdb.com/games/the-walking-dead-the-complete-first-season"
+}

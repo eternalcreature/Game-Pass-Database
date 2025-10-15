@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 203366,
+    "specific_id": 203366,
+    "title": "Rollerdrome",
+    "store_title": "Rollerdrome",
+    "pid": "9PLTZHF1J8BM",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLTZHF1J8BM"
+      ]
+    ],
+    "original_release_date": "2022-08-16",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter",
+      "Sports"
+    ],
+    "publisher": "2K",
+    "developer": "Roll7"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 203366,
+      "name": "Rollerdrome",
+      "url": "https://www.igdb.com/games/rollerdrome",
+      "publishers": [
+        "Private Division"
+      ],
+      "developers": [
+        "Roll7"
+      ],
+      "genres": [
+        "Shooter",
+        "Sport",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

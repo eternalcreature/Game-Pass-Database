@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 7658,
+    "specific_id": 7658,
+    "title": "Fable Anniversary",
+    "store_title": "Fable Anniversary",
+    "pid": "C2Q32JM0BPZL",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2Q32JM0BPZL"
+      ]
+    ],
+    "original_release_date": "2014-02-04",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-01-31",
+        "removed": null
+      },
+      "Console": {
+        "added": "2018-01-31",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Lionhead Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7658,
+      "name": "Fable Anniversary",
+      "url": "https://www.igdb.com/games/fable-anniversary",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Lionhead Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

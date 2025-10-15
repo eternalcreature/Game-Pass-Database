@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 7236,
+    "specific_id": 7236,
+    "title": "Viva Pi\u00f1ata",
+    "store_title": "Viva Pi\u00f1ata",
+    "pid": "BSXSL6WBJ0V7",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BSXSL6WBJ0V7"
+      ]
+    ],
+    "original_release_date": "2006-11-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Family & kids"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Rare Ltd."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7236,
+      "name": "Viva Pi\u00f1ata",
+      "url": "https://www.igdb.com/games/viva-pinata",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Climax Group",
+        "Rare"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Comedy",
+        "Sandbox",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

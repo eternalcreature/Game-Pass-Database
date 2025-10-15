@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 26972,
+    "specific_id": 26972,
+    "title": "Death Squared",
+    "store_title": "Death Squared",
+    "pid": "BS32QFXVPWBC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BS32QFXVPWBC"
+      ]
+    ],
+    "original_release_date": "2017-03-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Puzzle & trivia"
+    ],
+    "publisher": "SMG Studio",
+    "developer": "SMG Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26972,
+      "name": "Death Squared",
+      "url": "https://www.igdb.com/games/death-squared",
+      "publishers": [
+        "CIRCLE Entertainment",
+        "Halfbrick Studios",
+        "SMG Studio"
+      ],
+      "developers": [
+        "SMG Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Strategy",
+        "Tactical",
+        "Indie"
+      ],
+      "themes": [
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

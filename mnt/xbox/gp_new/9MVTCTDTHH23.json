@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 72813,
+    "specific_id": 72813,
+    "title": "Untitled Goose Game",
+    "store_title": "Untitled Goose Game",
+    "pid": "9MVTCTDTHH23",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVTCTDTHH23"
+      ]
+    ],
+    "original_release_date": "2019-09-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Panic",
+    "developer": "House House"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 72813,
+      "name": "Untitled Goose Game",
+      "url": "https://www.igdb.com/games/untitled-goose-game",
+      "publishers": [
+        "Panic"
+      ],
+      "developers": [
+        "House House"
+      ],
+      "genres": [
+        "Puzzle",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Comedy",
+        "Sandbox",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

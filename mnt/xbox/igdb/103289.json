@@ -1,0 +1,74 @@
+{
+  "id": 103289,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 71479,
+      "company": {
+        "id": 10625,
+        "name": "Dlala Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 71478,
+      "company": {
+        "id": 771,
+        "name": "Rare"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 245241,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Battletoads",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/battletoads--2"
+}

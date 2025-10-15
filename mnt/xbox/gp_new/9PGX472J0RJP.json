@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 146917,
+    "specific_id": 146917,
+    "title": "Dungeons of Hinterberg",
+    "store_title": "Dungeons Of Hinterberg",
+    "pid": "9PGX472J0RJP",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PGX472J0RJP"
+      ]
+    ],
+    "original_release_date": "2024-07-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-07-18",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-07-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-07",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Curve Games",
+    "developer": "Microbird Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146917,
+      "name": "Dungeons of Hinterberg",
+      "url": "https://www.igdb.com/games/dungeons-of-hinterberg",
+      "publishers": [
+        "Curve Games"
+      ],
+      "developers": [
+        "Microbird"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 127842,
+    "specific_id": 127842,
+    "title": "Skul: The Hero Slayer",
+    "store_title": "Skul: The Hero Slayer",
+    "pid": "9NW4Z3HPJVKW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NW4Z3HPJVKW"
+      ]
+    ],
+    "original_release_date": "2020-02-19",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      },
+      "Ultimate": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      },
+      "Console": {
+        "added": "2022-02-10",
+        "removed": "2023-02-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "NEOWIZ",
+    "developer": "SOUTHPAW GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 127842,
+      "name": "Skul: The Hero Slayer",
+      "url": "https://www.igdb.com/games/skul-the-hero-slayer",
+      "publishers": [
+        "Neowiz",
+        "Playdigious"
+      ],
+      "developers": [
+        "SouthPaw Games"
+      ],
+      "genres": [
+        "Platform",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

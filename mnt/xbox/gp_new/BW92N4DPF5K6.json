@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "base_id": 673,
+    "specific_id": 673,
+    "title": "Doom",
+    "store_title": "DOOM",
+    "pid": "BW92N4DPF5K6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BW92N4DPF5K6"
+      ]
+    ],
+    "original_release_date": "1993-12-10",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Classics",
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 673,
+      "name": "Doom",
+      "url": "https://www.igdb.com/games/doom",
+      "publishers": [
+        "Imagineer",
+        "id Software"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

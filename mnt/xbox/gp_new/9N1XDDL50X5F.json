@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 138766,
+    "specific_id": 138766,
+    "title": "Riders Republic",
+    "store_title": "Riders Republic\u2122",
+    "pid": "9N1XDDL50X5F",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P1RPXHWZ1C7",
+      "9NG8S82N9F4D"
+    ],
+    "sku_groups": [
+      [
+        "9N1XDDL50X5F"
+      ],
+      [
+        "9NG8S82N9F4D"
+      ],
+      [
+        "9P1RPXHWZ1C7"
+      ]
+    ],
+    "original_release_date": "2021-10-28",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-09-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-11",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT ANNECY"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 138766,
+      "name": "Riders Republic",
+      "url": "https://www.igdb.com/games/riders-republic",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Annecy"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

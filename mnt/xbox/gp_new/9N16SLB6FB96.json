@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 125,
+    "specific_id": 125,
+    "title": "Diablo",
+    "store_title": "Diablo\u00ae",
+    "pid": "9N16SLB6FB96",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N16SLB6FB96"
+      ]
+    ],
+    "original_release_date": "1996-12-31",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-01-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-01-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125,
+      "name": "Diablo",
+      "url": "https://www.igdb.com/games/diablo",
+      "publishers": [
+        "Blizzard Entertainment",
+        "Electronic Arts",
+        "Sourcenext",
+        "Square Electronic Arts"
+      ],
+      "developers": [
+        "Blizzard North"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

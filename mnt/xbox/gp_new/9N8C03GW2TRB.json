@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 145092,
+    "specific_id": 145092,
+    "title": "Loot River",
+    "store_title": "Loot River",
+    "pid": "9N8C03GW2TRB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N8C03GW2TRB"
+      ]
+    ],
+    "original_release_date": "2022-05-03",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-05-03",
+        "removed": "2024-05-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-03",
+        "removed": "2024-05-01"
+      },
+      "Console": {
+        "added": "2022-05-03",
+        "removed": "2024-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "straka.studio s.r.o.",
+    "developer": "straka.studio s.r.o."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145092,
+      "name": "Loot River",
+      "url": "https://www.igdb.com/games/loot-river",
+      "publishers": [
+        "straka.studio"
+      ],
+      "developers": [
+        "straka.studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 1338,
+    "specific_id": 1338,
+    "title": "Prison Architect",
+    "store_title": "Prison Architect PC",
+    "pid": "9P5S2J2VLLPR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BSWF567PL81W"
+    ],
+    "sku_groups": [
+      [
+        "9P5S2J2VLLPR"
+      ],
+      [
+        "BSWF567PL81W"
+      ]
+    ],
+    "original_release_date": "2015-10-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-01-28",
+        "removed": "2022-02-01"
+      },
+      "Ultimate": {
+        "added": "2021-01-28",
+        "removed": "2022-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Double Eleven"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1338,
+      "name": "Prison Architect",
+      "url": "https://www.igdb.com/games/prison-architect",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Introversion Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Business",
+        "Non-fiction",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 54,
+    "specific_id": 54,
+    "title": "An Elder Scrolls Legend: Battlespire",
+    "store_title": "An Elder Scrolls Legend: Battlespire",
+    "pid": "9MVSRJWZBG9G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MVSRJWZBG9G"
+      ]
+    ],
+    "original_release_date": "1997-11-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-08-18",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 54,
+      "name": "An Elder Scrolls Legend: Battlespire",
+      "url": "https://www.igdb.com/games/an-elder-scrolls-legend-battlespire",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Softworks"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 8682,
+    "specific_id": 8682,
+    "title": "Grim Fandango Remastered",
+    "store_title": "Grim Fandango Remastered",
+    "pid": "9PC288TN7R8K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PC288TN7R8K"
+      ]
+    ],
+    "original_release_date": "2015-01-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-10-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Double Fine Productions & Shiny Shoe"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8682,
+      "name": "Grim Fandango Remastered",
+      "url": "https://www.igdb.com/games/grim-fandango-remastered",
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Comedy",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

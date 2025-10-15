@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 19130,
+    "specific_id": 19130,
+    "title": "Sid Meier's Civilization VI",
+    "store_title": "Sid Meier's Civilization VI",
+    "pid": "9N4RSG99KV1X",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N1WK3HZG0J6"
+    ],
+    "sku_groups": [
+      [
+        "9N1WK3HZG0J6"
+      ],
+      [
+        "9N4RSG99KV1X"
+      ]
+    ],
+    "original_release_date": "2016-10-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-03-16",
+        "removed": "2023-09-16"
+      },
+      "Ultimate": {
+        "added": "2023-03-16",
+        "removed": "2023-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "2K",
+    "developer": "Firaxis Games / Aspyr Media, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19130,
+      "name": "Sid Meier's Civilization VI",
+      "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
+      "publishers": [
+        "2K Games",
+        "Aspyr Media"
+      ],
+      "developers": [
+        "Firaxis Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

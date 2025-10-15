@@ -1,0 +1,74 @@
+{
+  "id": 26196,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 63307,
+      "company": {
+        "id": 741,
+        "name": "Toys for Bob"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 63305,
+      "company": {
+        "id": 66,
+        "name": "Activision"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 261187,
+      "company": {
+        "id": 72,
+        "name": "Vicarious Visions"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Crash Bandicoot N. Sane Trilogy",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 22,
+      "name": "Historical"
+    }
+  ],
+  "url": "https://www.igdb.com/games/crash-bandicoot-n-sane-trilogy"
+}

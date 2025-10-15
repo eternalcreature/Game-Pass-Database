@@ -1,0 +1,110 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Simulation",
+    "Sports"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Fishing Sim World: Pro Tour features an authentic career mode where you work your way up to an elite angler. Compete against over 100 of the best anglers on the planet including Scott Martin and Ali Hamidi across Bass, Carp and Predator fishing. Unlock sponsorship offers, gain career earnings and social media followers. \r\n\r\nCustom multiplayer allows you to set the rules as you take on friends online. Choose different options such as number of rounds, length of match and catch species. Participate in online tournaments which form the Dovetail Fishing League to try and earn the coveted title of ‘Angler of the Month’. \r\n\r\nUse all your skills and tactics to master the variety of the 10 venues including tour destinations Lake Guntersville and Lake Travis. \r\n\r\nTry hundreds of items of equipment from over 50 licensed partners including 13 Fishing, Booyah and Evinrude when targeting the 29 different species of fish, each with their own behavioral systems and affected by issues such as weather conditions and time of day. ",
+  "developerName": "Dovetail Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 61094539264,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NM7LC8MJXKS",
+  "productKind": "Game",
+  "publisherName": "Dovetail Games",
+  "ratingCount": 98,
+  "releaseDate": "2020-01-30T14:00:00.0000000Z",
+  "shortDescription": "Compete in career mode against over 100 pro anglers to become the best in the world. Play your way in custom multiplayer and online tournaments whilst using equipment from over 50 partners on real world venues targeting 29 different species of fish. ",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B054ZX72CMX7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 23.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B47RKC23KNVC",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 23.99,
+        "msrp": 23.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Fishing Sim World®: Pro Tour",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 28204,
+    "specific_id": 28204,
+    "title": "Call of Duty: WWII",
+    "store_title": "Call of Duty\u00ae: WWII (Windows)",
+    "pid": "9P3QS4LX8BM9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BV0NSD4NN4V4"
+    ],
+    "sku_groups": [
+      [
+        "9P3QS4LX8BM9"
+      ],
+      [
+        "BV0NSD4NN4V4"
+      ]
+    ],
+    "original_release_date": "2017-11-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-08-27",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-08-27",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28204,
+      "name": "Call of Duty: WWII",
+      "url": "https://www.igdb.com/games/call-of-duty-wwii",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Sledgehammer Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

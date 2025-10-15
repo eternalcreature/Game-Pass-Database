@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 305234,
+    "specific_id": 305234,
+    "title": "Monopoly",
+    "store_title": "MONOPOLY 2024",
+    "pid": "9NTJMT7D8VVV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P8H220G3S4P"
+    ],
+    "sku_groups": [
+      [
+        "9NTJMT7D8VVV"
+      ],
+      [
+        "9P8H220G3S4P"
+      ]
+    ],
+    "original_release_date": "2024-09-09",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer"
+    },
+    "categories": [
+      "Classics",
+      "Family & kids",
+      "Card & board"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 305234,
+      "name": "Monopoly",
+      "url": "https://www.igdb.com/games/monopoly--19",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Engine Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Business",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

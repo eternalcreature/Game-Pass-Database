@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 18866,
+    "specific_id": 18866,
+    "title": "Dead by Daylight",
+    "store_title": "Dead by Daylight Windows",
+    "pid": "9NMS4SFNBGBH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C0N22P73QZ60"
+    ],
+    "sku_groups": [
+      [
+        "9NMS4SFNBGBH"
+      ],
+      [
+        "C0N22P73QZ60"
+      ]
+    ],
+    "original_release_date": "2016-06-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-10-31",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-10-31",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-5)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Behaviour Interactive Inc.",
+    "developer": "Behaviour Interactive Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18866,
+      "name": "Dead by Daylight",
+      "url": "https://www.igdb.com/games/dead-by-daylight",
+      "publishers": [
+        "Behaviour Interactive",
+        "Starbreeze Publishing"
+      ],
+      "developers": [
+        "Behaviour Interactive"
+      ],
+      "genres": [
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

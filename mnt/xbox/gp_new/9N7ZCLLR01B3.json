@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 118193,
+    "specific_id": 118193,
+    "title": "Toem",
+    "store_title": "TOEM",
+    "pid": "9N7ZCLLR01B3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N7ZCLLR01B3"
+      ]
+    ],
+    "original_release_date": "2021-09-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-07-18",
+        "removed": "2024-07-16"
+      },
+      "Ultimate": {
+        "added": "2023-07-18",
+        "removed": "2024-07-16"
+      },
+      "Console": {
+        "added": "2023-07-18",
+        "removed": "2024-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Something We Made",
+    "developer": "Something We Made"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 118193,
+      "name": "Toem",
+      "url": "https://www.igdb.com/games/toem",
+      "publishers": [
+        "Popagenda",
+        "Snapbreak",
+        "Snapbreak Games",
+        "Something We Made"
+      ],
+      "developers": [
+        "Something We Made"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

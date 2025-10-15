@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 122565,
+    "specific_id": 122565,
+    "title": "Humanity",
+    "store_title": "Humanity",
+    "pid": "9PNW4CC69T4B",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PNW4CC69T4B"
+      ]
+    ],
+    "original_release_date": "2023-05-16",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-05-30",
+        "removed": "2025-06-01"
+      },
+      "Ultimate": {
+        "added": "2024-05-30",
+        "removed": "2025-06-01"
+      },
+      "PC": {
+        "added": "2024-05-30",
+        "removed": "2025-06-01"
+      },
+      "Premium": {
+        "added": "2024-12-04",
+        "removed": "2025-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Puzzle & trivia",
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Enhance",
+    "developer": "tha ltd., Enhance"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 122565,
+      "name": "Humanity",
+      "url": "https://www.igdb.com/games/humanity",
+      "publishers": [
+        "Enhance"
+      ],
+      "developers": [
+        "tha ltd."
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

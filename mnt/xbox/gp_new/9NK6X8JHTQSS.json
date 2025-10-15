@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "base_id": 19164,
+    "specific_id": 140899,
+    "title": "Borderlands 3",
+    "store_title": "Borderlands 3: Ultimate Edition",
+    "pid": "9NK6X8JHTQSS",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NR3P7V543DK"
+    ],
+    "sku_groups": [
+      [
+        "9NK6X8JHTQSS"
+      ],
+      [
+        "9NR3P7V543DK"
+      ]
+    ],
+    "original_release_date": "2020-11-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-03",
+        "removed": "2025-09-01"
+      },
+      "Ultimate": {
+        "added": "2025-04-03",
+        "removed": "2025-09-01"
+      },
+      "Premium": {
+        "added": "2025-04-03",
+        "removed": "2025-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "2K",
+    "developer": "Gearbox Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19164,
+      "name": "Borderlands 3",
+      "url": "https://www.igdb.com/games/borderlands-3",
+      "publishers": [
+        "2K Games"
+      ],
+      "developers": [
+        "Gearbox Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 19164,
+      "name": "Borderlands 3",
+      "url": "https://www.igdb.com/games/borderlands-3",
+      "publishers": [
+        "2K Games"
+      ],
+      "developers": [
+        "Gearbox Software"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

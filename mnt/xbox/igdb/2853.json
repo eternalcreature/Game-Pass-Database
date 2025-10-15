@@ -1,0 +1,92 @@
+{
+  "id": 2853,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 59566,
+      "company": {
+        "id": 1335,
+        "name": "Number None Inc."
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 59569,
+      "company": {
+        "id": 4132,
+        "name": "icculus.org"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 109400,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 243479,
+      "company": {
+        "id": 1051,
+        "name": "Hothead Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 243480,
+      "company": {
+        "id": 1335,
+        "name": "Number None Inc."
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Braid",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/braid"
+}

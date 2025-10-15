@@ -1,0 +1,90 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "On-demand tutorials"
+    ],
+    "input": [],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 3.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Platformer",
+    "Racing & flying"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [
+      "Mild Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Take Joe Danger on a death-defying thrill ride across the set of the greatest blockbuster movie ever made.Chase crooks on your police bike, destroy laser firing robots with a stolen jetpack, escape giant boulders in a minecart, time-travel to punch dinosaurs and divert the nuclear missiles on your unicycle!Beat your friends in fun 4 player multiplayer! Download endless new scenes from around the world, or create your own in the Movie Maker!",
+  "developerName": "Hello Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 1397587968,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BVKX6B5FS9C1",
+  "productKind": "Game",
+  "publisherName": "Microsoft Studios",
+  "ratingCount": 32,
+  "releaseDate": "2012-09-14T00:00:00.0000000Z",
+  "shortDescription": "Take Joe Danger on a death-defying thrill ride across the set of the greatest blockbuster movie ever made.Chase crooks on your police bike, destroy laser firing robots with a stolen jetpack, escape giant boulders in a minecart, time-travel to punch dinosaurs and divert the nuclear missiles on your unicycle!Beat your friends in fun 4 player multiplayer! Download endless new scenes from around the world, or create your own in the Movie Maker!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9QFSJ2DG2K9K",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 14.99,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Joe Danger 2: The Movie",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

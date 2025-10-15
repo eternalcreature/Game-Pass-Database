@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 135254,
+    "specific_id": 135254,
+    "title": "Crash Bandicoot 4: It's About Time",
+    "store_title": "Crash Bandicoot\u2122 4: It\u2019s About Time",
+    "pid": "9PMXPQ307Z5P",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PL64T7LZDN9",
+      "9NMW7RJ8FP94"
+    ],
+    "sku_groups": [
+      [
+        "9NMW7RJ8FP94"
+      ],
+      [
+        "9PL64T7LZDN9",
+        "9PMXPQ307Z5P"
+      ]
+    ],
+    "original_release_date": "2020-10-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-17",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135254,
+      "name": "Crash Bandicoot 4: It's About Time",
+      "url": "https://www.igdb.com/games/crash-bandicoot-4-its-about-time",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Toys for Bob"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 8263,
+    "specific_id": 8263,
+    "title": "Assassin's Creed Syndicate",
+    "store_title": "Assassin's Creed Syndicate",
+    "pid": "BXVQ8M4J9HNM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PHPDGTRVGGL"
+    ],
+    "sku_groups": [
+      [
+        "9PHPDGTRVGGL"
+      ],
+      [
+        "BXVQ8M4J9HNM"
+      ]
+    ],
+    "original_release_date": "2015-10-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8263,
+      "name": "Assassin's Creed Syndicate",
+      "url": "https://www.igdb.com/games/assassins-creed-syndicate",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Qu\u00e9bec"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

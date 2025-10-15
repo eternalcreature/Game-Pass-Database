@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 12527,
+    "specific_id": 12527,
+    "title": "Yakuza 6: The Song of Life",
+    "store_title": "Yakuza 6: The Song of Life",
+    "pid": "9NK3ZFC5R579",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N9WWM5JXCBZ"
+    ],
+    "sku_groups": [
+      [
+        "9N9WWM5JXCBZ"
+      ],
+      [
+        "9NK3ZFC5R579"
+      ]
+    ],
+    "original_release_date": "2016-12-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-25",
+        "removed": "2025-03-16"
+      },
+      "Ultimate": {
+        "added": "2021-03-25",
+        "removed": "2025-03-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA of America, Inc.",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 12527,
+      "name": "Yakuza 6: The Song of Life",
+      "url": "https://www.igdb.com/games/yakuza-6-the-song-of-life",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

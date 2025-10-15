@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 7348,
+    "specific_id": 7348,
+    "title": "Halo: The Master Chief Collection",
+    "store_title": "Halo: The Master Chief Collection",
+    "pid": "9NTM9HXNLSZX",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MT8PTGVHX2P"
+    ],
+    "sku_groups": [
+      [
+        "9MT8PTGVHX2P"
+      ],
+      [
+        "9NTM9HXNLSZX"
+      ]
+    ],
+    "original_release_date": "2014-11-11",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2019-11-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-11-14",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7348,
+      "name": "Halo: The Master Chief Collection",
+      "url": "https://www.igdb.com/games/halo-the-master-chief-collection",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "343 Industries"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

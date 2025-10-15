@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 90055,
+    "specific_id": 90055,
+    "title": "Carrion",
+    "store_title": "Carrion",
+    "pid": "9NPKKNBJ258V",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MSMJH3C6TKR"
+    ],
+    "sku_groups": [
+      [
+        "9MSMJH3C6TKR"
+      ],
+      [
+        "9NPKKNBJ258V"
+      ]
+    ],
+    "original_release_date": "2020-07-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-01-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-01-02",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-01-02",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2020-07-23",
+        "removed": "2022-07-15"
+      },
+      "Ultimate": {
+        "added": "2020-07-23",
+        "removed": "2022-07-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Platformer"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Phobia Game Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 90055,
+      "name": "Carrion",
+      "url": "https://www.igdb.com/games/carrion",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Phobia Game Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

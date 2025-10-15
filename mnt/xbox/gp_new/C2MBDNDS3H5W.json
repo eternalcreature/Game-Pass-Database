@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 26948,
+    "specific_id": 26948,
+    "title": "Dirt 4",
+    "store_title": "DiRT 4",
+    "pid": "C2MBDNDS3H5W",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2MBDNDS3H5W"
+      ]
+    ],
+    "original_release_date": "2017-06-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-10",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "FPSBoostEnabledX": "FPS Boost Series X"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Codemasters",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 26948,
+      "name": "Dirt 4",
+      "url": "https://www.igdb.com/games/dirt-4",
+      "publishers": [
+        "Codemasters",
+        "Feral Interactive"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

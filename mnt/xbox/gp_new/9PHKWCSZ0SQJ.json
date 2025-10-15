@@ -1,0 +1,127 @@
+{
+  "basic_info": {
+    "base_id": 55036,
+    "specific_id": 231778,
+    "title": "Anno 1800",
+    "store_title": "Anno 1800\u2122 Console Edition",
+    "pid": "9PHKWCSZ0SQJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N1C10CLPF0N",
+      "9P2KNSPZ9292"
+    ],
+    "sku_groups": [
+      [
+        "9N1C10CLPF0N",
+        "9PHKWCSZ0SQJ"
+      ],
+      [
+        "9P2KNSPZ9292"
+      ]
+    ],
+    "original_release_date": "2019-04-16",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-05-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-05-01",
+        "removed": null
+      },
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "BLUE BYTE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 55036,
+      "name": "Anno 1800",
+      "url": "https://www.igdb.com/games/anno-1800",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Blue Byte"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 55036,
+      "name": "Anno 1800",
+      "url": "https://www.igdb.com/games/anno-1800",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Blue Byte"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

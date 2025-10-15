@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 134101,
+    "specific_id": 134101,
+    "title": "FIFA 21",
+    "store_title": "FIFA 21 Xbox Series X|S",
+    "pid": "9PLLM41KB8T2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PNT8QW5292D",
+      "9N4DNRXMJ381"
+    ],
+    "sku_groups": [
+      [
+        "9N4DNRXMJ381"
+      ],
+      [
+        "9PLLM41KB8T2"
+      ],
+      [
+        "9PNT8QW5292D"
+      ]
+    ],
+    "original_release_date": "2020-10-06",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-05-06",
+        "removed": "2023-06-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-06",
+        "removed": "2023-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-22)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134101,
+      "name": "FIFA 21",
+      "url": "https://www.igdb.com/games/fifa-21",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

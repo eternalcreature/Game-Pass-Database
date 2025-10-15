@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 134324,
+    "specific_id": 134324,
+    "title": "Tchia",
+    "store_title": "Tchia",
+    "pid": "9NK4WRQX5ZC5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NK4WRQX5ZC5"
+      ]
+    ],
+    "original_release_date": "2023-03-21",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-11",
+        "removed": "2025-07-16"
+      },
+      "Ultimate": {
+        "added": "2024-07-11",
+        "removed": "2025-07-16"
+      },
+      "PC": {
+        "added": "2024-07-11",
+        "removed": "2025-07-16"
+      },
+      "Premium": {
+        "added": "2025-01-22",
+        "removed": "2025-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Kepler Interactive",
+    "developer": "Awaceb"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134324,
+      "name": "Tchia",
+      "url": "https://www.igdb.com/games/tchia--1",
+      "publishers": [
+        "Awaceb",
+        "Kepler Interactive"
+      ],
+      "developers": [
+        "Awaceb"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

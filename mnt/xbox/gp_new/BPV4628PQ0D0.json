@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 24905,
+    "specific_id": 82372,
+    "title": "Beholder",
+    "store_title": "Beholder Complete Edition",
+    "pid": "BPV4628PQ0D0",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPV4628PQ0D0"
+      ]
+    ],
+    "original_release_date": "2018-01-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      },
+      "Ultimate": {
+        "added": "2020-12-17",
+        "removed": "2021-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Curve Digital",
+    "developer": "Alawar Premium"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 24905,
+      "name": "Beholder",
+      "url": "https://www.igdb.com/games/beholder",
+      "publishers": [
+        "Alawar Entertainment"
+      ],
+      "developers": [
+        "Warm Lamp Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Stealth",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 24905,
+      "name": "Beholder",
+      "url": "https://www.igdb.com/games/beholder",
+      "publishers": [
+        "Alawar Entertainment"
+      ],
+      "developers": [
+        "Warm Lamp Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Stealth",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 19531,
+    "specific_id": 19531,
+    "title": "Prey",
+    "store_title": "Prey",
+    "pid": "BQMVWCMB8P59",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PBC1QFBW563"
+    ],
+    "sku_groups": [
+      [
+        "9PBC1QFBW563"
+      ],
+      [
+        "BQMVWCMB8P59"
+      ]
+    ],
+    "original_release_date": "2017-05-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Arkane Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 19531,
+      "name": "Prey",
+      "url": "https://www.igdb.com/games/prey--1",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Arkane Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror",
+        "Survival",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

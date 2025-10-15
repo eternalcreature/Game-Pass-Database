@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 82117,
+    "specific_id": 82117,
+    "title": "Two Point Hospital",
+    "store_title": "Two Point Hospital\u2122",
+    "pid": "9PKM0HK8HKFL",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N08S5VPC4SX"
+    ],
+    "sku_groups": [
+      [
+        "9N08S5VPC4SX"
+      ],
+      [
+        "9PKM0HK8HKFL"
+      ]
+    ],
+    "original_release_date": "2018-04-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-03-01",
+        "removed": "2022-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-01",
+        "removed": "2022-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "Two Point Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 82117,
+      "name": "Two Point Hospital",
+      "url": "https://www.igdb.com/games/two-point-hospital",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Two Point Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

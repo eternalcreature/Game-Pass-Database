@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 20392,
+    "specific_id": 20392,
+    "title": "Portal Knights",
+    "store_title": "Portal Knights",
+    "pid": "BNWM9F3C08B6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNWM9F3C08B6"
+      ]
+    ],
+    "original_release_date": "2016-02-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "505 Games",
+    "developer": "Keen Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20392,
+      "name": "Portal Knights",
+      "url": "https://www.igdb.com/games/portal-knights",
+      "publishers": [
+        "505 Games",
+        "Digital Bros"
+      ],
+      "developers": [
+        "Keen Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Historical",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

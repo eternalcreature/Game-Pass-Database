@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 9683,
+    "specific_id": 9683,
+    "title": "Dungeon of the Endless",
+    "store_title": "Dungeon of the Endless\u2122",
+    "pid": "9N46K0X6TBZK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N46K0X6TBZK"
+      ]
+    ],
+    "original_release_date": "2014-10-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-06-17",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-17",
+        "removed": "2021-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer ",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "Sega Europe Ltd",
+    "developer": "Amplitude"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9683,
+      "name": "Dungeon of the Endless",
+      "url": "https://www.igdb.com/games/dungeon-of-the-endless",
+      "publishers": [
+        "Playdigious"
+      ],
+      "developers": [
+        "Amplitude Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Real Time Strategy (RTS)",
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

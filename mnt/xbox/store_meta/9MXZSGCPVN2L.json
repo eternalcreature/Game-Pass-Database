@@ -1,0 +1,121 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "CapabilityHDR": "HDR10",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "SpatialSound": "Spatial Sound",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs"
+  },
+  "categories": [
+    "Strategy",
+    "Simulation",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Mild Blood",
+      "Crude Humor"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "In a world of myth and magic, those who aspire to immortality devote their lives to the sacred path of cultivation. They gather around sects, institutions which train their bodies, minds and souls to be worth eternal life. But in return for such great power, you must be willing to guard the balance between good and evil -- no matter the cost.\r\n\r\nUnfortunately, greed is inherent to human nature, so it also blinds cultivators. Your master didn’t realize until it was too late, and the Taiyi Sect burnt to the ground for his mistake. Your brothers and sisters will never come back, but the Taiyi Sect can still be reborn from its ashes. Its seeds are scattered around Tiancang, waiting for you to find them. This is what your grandmaster would have wanted. You must do it for him ─ and for all those we sworn to protect.\r\n\r\nSet in the fictional Tiancang era, Amazing Cultivation Simulator brings to you the magic of Asian mythology through a strategy game with strong xianxia nuances, a Chinese literary genre which is deeply influenced by Taoist and Buddhist concepts, as well as folklore and traditional knowledge on medicine and martial arts. Its gameplay is inspired by famous games like Rimworld and Dwarf Fortress, as well as The Legend of Shushan Swordsman and Martial Kingdoms.\r\n\r\nAs a grandmaster, you’ll bring the Taiyi Sect back to its glory days by training new apprentices, gathering knowledge and expanding your domain through commerce and political alliances to gain influence over other sects. Also, you must protect people from supernatural dangers such as bad spirits, monsters and enchanted artifacts.",
+  "developerName": "GSQ Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 2203873280,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MXZSGCPVN2L",
+  "productKind": "Game",
+  "publisherName": "Gamera Games",
+  "ratingCount": 50,
+  "releaseDate": "2022-09-14T15:00:00.0000000Z",
+  "shortDescription": "Rise up in a search for immortality in this strategy sim and management game based on Chinese mythology. Rebuild your sect and train new disciples through the path of cultivation. Research magic and gather mystical artifacts, face ancient dangers and other sects in your path to spiritual ascension.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4B7R8CKBZ55",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NHZKDMG1V9B",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Amazing Cultivation Simulator",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-09-14T15:00:00Z",
+      "exitDateUTC": "2023-09-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-09-14T15:00:00Z",
+      "exitDateUTC": "2023-09-16T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 51524,
+    "specific_id": 51524,
+    "title": "The Walking Dead: The Final Season",
+    "store_title": "The Walking Dead: The Final Season",
+    "pid": "BSQF6B6PKB44",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NL9XP529G4Q",
+      "C0VQBXFNZ1Q0"
+    ],
+    "sku_groups": [
+      [
+        "9NL9XP529G4Q"
+      ],
+      [
+        "BSQF6B6PKB44",
+        "C0VQBXFNZ1Q0"
+      ]
+    ],
+    "original_release_date": "2018-08-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-12-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-12-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Skybound Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 51524,
+      "name": "The Walking Dead: The Final Season",
+      "url": "https://www.igdb.com/games/the-walking-dead-the-final-season",
+      "publishers": [
+        "Skybound Games",
+        "Telltale Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

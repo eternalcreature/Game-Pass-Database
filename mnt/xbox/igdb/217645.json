@@ -1,0 +1,82 @@
+{
+  "id": 217645,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 243041,
+      "company": {
+        "id": 33065,
+        "name": "Snoozy Kazoo"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 243042,
+      "company": {
+        "id": 15257,
+        "name": "Graffiti Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 292475,
+      "company": {
+        "id": 1460,
+        "name": "Plug In Digital"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Turnip Boy Robs a Bank",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/turnip-boy-robs-a-bank"
+}

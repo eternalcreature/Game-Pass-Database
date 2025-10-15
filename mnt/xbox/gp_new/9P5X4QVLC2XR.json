@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 135400,
+    "specific_id": 135400,
+    "title": "Minecraft",
+    "store_title": "Minecraft Preview for Windows",
+    "pid": "9P5X4QVLC2XR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVXMVT8ZKWC",
+      "9NXP44L49SHJ",
+      "9P1DP2NGFB93",
+      "9NQ19C36R0VD"
+    ],
+    "sku_groups": [
+      [
+        "9MVXMVT8ZKWC",
+        "9NQ19C36R0VD"
+      ],
+      [
+        "9NXP44L49SHJ",
+        "9P1DP2NGFB93",
+        "9P5X4QVLC2XR"
+      ]
+    ],
+    "original_release_date": "2011-11-18",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-03-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Simulation"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Mojang/Microsoft Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 135400,
+      "name": "Minecraft",
+      "url": "https://www.igdb.com/games/minecraft--1",
+      "publishers": [
+        "Mojang Studios"
+      ],
+      "developers": [
+        "Mojang Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Sandbox",
+        "Kids",
+        "Open world",
+        "4X (explore, expand, exploit, and exterminate)"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

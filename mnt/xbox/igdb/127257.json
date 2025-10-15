@@ -1,0 +1,66 @@
+{
+  "id": 127257,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 123462,
+      "company": {
+        "id": 2450,
+        "name": "Versus Evil"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 123463,
+      "company": {
+        "id": 47,
+        "name": "Obsidian Entertainment"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 123464,
+      "company": {
+        "id": 14784,
+        "name": "Red Cerberus"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Pillars of Eternity II: Deadfire - Ultimate Edition",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/pillars-of-eternity-ii-deadfire-ultimate-edition"
+}

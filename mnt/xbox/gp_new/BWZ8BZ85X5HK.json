@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 138538,
+    "specific_id": 138538,
+    "title": "NHL 21",
+    "store_title": "NHL\u00ae 21",
+    "pid": "BWZ8BZ85X5HK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BWZ8BZ85X5HK"
+      ]
+    ],
+    "original_release_date": "2020-10-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-04-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-04-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-6)",
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Vancouver"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 138538,
+      "name": "NHL 21",
+      "url": "https://www.igdb.com/games/nhl-21",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

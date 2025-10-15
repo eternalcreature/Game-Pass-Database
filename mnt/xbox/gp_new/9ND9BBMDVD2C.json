@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 215915,
+    "specific_id": 215915,
+    "title": "Dungeons 4",
+    "store_title": "Dungeons 4 (Win)",
+    "pid": "9ND9BBMDVD2C",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MX2LLS736B3"
+    ],
+    "sku_groups": [
+      [
+        "9MX2LLS736B3"
+      ],
+      [
+        "9ND9BBMDVD2C"
+      ]
+    ],
+    "original_release_date": "2023-11-09",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-11-09",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2023-11-09",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Kalypso Media",
+    "developer": "Realmforge Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 215915,
+      "name": "Dungeons 4",
+      "url": "https://www.igdb.com/games/dungeons-4",
+      "publishers": [
+        "Kalypso Media"
+      ],
+      "developers": [
+        "Realmforge Studios"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

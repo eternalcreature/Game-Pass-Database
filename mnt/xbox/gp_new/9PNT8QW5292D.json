@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 134101,
+    "specific_id": 134101,
+    "title": "FIFA 21",
+    "store_title": "FIFA 21",
+    "pid": "9PNT8QW5292D",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PLLM41KB8T2",
+      "9N4DNRXMJ381"
+    ],
+    "sku_groups": [
+      [
+        "9N4DNRXMJ381"
+      ],
+      [
+        "9PLLM41KB8T2"
+      ],
+      [
+        "9PNT8QW5292D"
+      ]
+    ],
+    "original_release_date": "2020-10-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134101,
+      "name": "FIFA 21",
+      "url": "https://www.igdb.com/games/fifa-21",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

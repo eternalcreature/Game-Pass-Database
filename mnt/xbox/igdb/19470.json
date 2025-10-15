@@ -1,0 +1,62 @@
+{
+  "id": 19470,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 35919,
+      "company": {
+        "id": 48,
+        "name": "NetherRealm Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 56148,
+      "company": {
+        "id": 774,
+        "name": "QLOC"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 56147,
+      "company": {
+        "id": 50,
+        "name": "WB Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Injustice 2",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/injustice-2"
+}

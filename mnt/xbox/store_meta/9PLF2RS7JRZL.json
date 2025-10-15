@@ -1,0 +1,139 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.8,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Searching for dreams inside of a nightmare\r\n\t\r\nAwaken from slumber and explore a surreal retrotech world as Elster, a technician Replika searching for her lost partner and her lost dreams. Discover terrifying secrets, challenging puzzles, and nightmarish creatures in a tense and melancholic experience of cosmic dread and classic psychological survival horror.\r\n\r\nFatal exception\r\nSIGNALIS is set in a dystopian future where humanity has colonized the solar system, and the totalitarian regime of Eusan maintains an iron grip through aggressive surveillance and propaganda. Humanoid androids known as Replikas live among the populace, acting as workers, civil servants, and Protektors alongside the citizens they are designed to resemble.\r\n\r\nThe story of SIGNALIS begins as a Replika named Elster awakens from cryostasis in a wrecked vessel. Now stranded on a cold planet, she sets out on a journey into depths unknown.\r\n\r\nClassic survival horror gameplay\r\nExperience fear and apprehension as you encounter strange horrors, carefully manage scarce resources, and seek solutions to challenging riddles.\r\n\r\nCold and distant places\r\nExplore the dim corners of a derelict spaceship, delve into the mysterious fate of the inhabitants of a doomed facility, and seek what lies beneath.\r\n\r\nA dream about dreaming\r\nDiscover an atmospheric science-fiction tale of identity, memory, and the terror of the unknown and unknowable, inspired by classic cosmic horror and the works of Stanley Kubrick, Hideaki Anno, and David Lynch.\r\n\r\nA striking vision\r\nWander a brutalist nightmare driven by fluid 3D character animations, dynamic lights and shadows, and complex transparency effects, complemented by cinematic sci-fi anime storytelling.",
+  "developerName": "rose-engine",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3034296320,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PLF2RS7JRZL",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 363,
+  "releaseDate": "2022-10-27T14:00:00.0000000Z",
+  "shortDescription": "A classic survival horror experience set in a dystopian future where humanity has uncovered a dark secret. Unravel a cosmic mystery, escape terrifying creatures, and scavenge an off-world government facility as Elster, a technician Replika searching for her lost dreams.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B41JLN693V3M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9Z8SXXKKLM12",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "SIGNALIS",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-10-27T14:00:00Z",
+      "exitDateUTC": "2023-11-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-10-27T14:00:00Z",
+      "exitDateUTC": "2023-11-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2022-10-27T14:00:00Z",
+      "exitDateUTC": "2023-11-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "SIGNALIS",
+    "xboxTitleId": 1916393313,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

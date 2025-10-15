@@ -1,0 +1,149 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "CapabilityHDR": "HDR10",
+    "SinglePlayer": "Single player",
+    "CapabilityVRR": "Variable Refresh Rate",
+    "60fps": "60 fps+",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Embark on an enchanting journey in Ravenlok, an action-packed fairytale adventure about a young heroine destined to fulfill a perilous prophecy.\r\n\r\nUpon encountering a mystical mirror, Ravenlok is whisked away to a whimsical world plagued by the sinister darkness of a tyrannical queen. Destiny awaits all in an unforgettable and heartfelt adventure.\r\n\r\nTHRILLING ACTION ADVENTURE\r\nBattles against fearsome beasts and formidable monsters using real-time combat. Wield your sword and shield, and use the magical skills bestowed to you, along with an arsenal of bombs, to vanquish foes in epic boss encounters!\r\n\r\nENCHANTED WORLD\r\nMeet curious creatures and help them with their troubles to fight back against the encroaching darkness. Discover the whimsical Mushroom Forest, tackle puzzles in the Mask Mansion and unravel the mysteries of the Labyrinth in a wonderful world turned upside down!\r\n\r\nGRAND FINALE\r\nBy the creators of critically-acclaimed adventure “Echo Generation'', this enchanting fairytale marks the grand finale of the Cococucumber Voxel Trilogy. Immerse in a delightful and captivating indie game filled with heart.",
+  "developerName": "Cococucumber",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 4822994944,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NH88HNTGNDZ",
+  "productKind": "Game",
+  "publisherName": "Cococucumber",
+  "ratingCount": 357,
+  "releaseDate": "2023-05-04T00:00:00.0000000Z",
+  "shortDescription": "Embark on an enchanting journey in Ravenlok, an action-packed fairytale adventure about a young heroine destined to fulfill a perilous prophecy.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9S5SX61ZZVHD",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B3KD6ZL3P2FJ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Ravenlok",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2023-05-04T00:00:00Z",
+      "exitDateUTC": "2024-05-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-05-04T00:00:00Z",
+      "exitDateUTC": "2024-05-01T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-05-04T00:00:00Z",
+      "exitDateUTC": "2024-05-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "RAVENLOK",
+    "xboxTitleId": 2071320447,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

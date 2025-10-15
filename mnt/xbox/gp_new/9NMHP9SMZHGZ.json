@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 133004,
+    "specific_id": 133004,
+    "title": "Assassin's Creed Valhalla",
+    "store_title": "Assassin's Creed\u00ae Valhalla",
+    "pid": "9NMHP9SMZHGZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P4NJFH17MRT"
+    ],
+    "sku_groups": [
+      [
+        "9NMHP9SMZHGZ"
+      ],
+      [
+        "9P4NJFH17MRT"
+      ]
+    ],
+    "original_release_date": "2020-11-10",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-01-09",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-09",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "UBISOFT MONTREAL"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133004,
+      "name": "Assassin's Creed Valhalla",
+      "url": "https://www.igdb.com/games/assassins-creed-valhalla",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

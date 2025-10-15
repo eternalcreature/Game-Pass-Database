@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 134070,
+    "specific_id": 134070,
+    "title": "Mafia: Definitive Edition",
+    "store_title": "Mafia: Definitive Edition",
+    "pid": "9NZC09NNR93L",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N24WGZTP92S"
+    ],
+    "sku_groups": [
+      [
+        "9N24WGZTP92S"
+      ],
+      [
+        "9NZC09NNR93L"
+      ]
+    ],
+    "original_release_date": "2020-09-25",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-08-13",
+        "removed": "2025-07-16"
+      },
+      "Ultimate": {
+        "added": "2024-08-13",
+        "removed": "2025-07-16"
+      },
+      "Premium": {
+        "added": "2024-08-13",
+        "removed": "2025-07-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "2K",
+    "developer": "Hangar 13"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 134070,
+      "name": "Mafia: Definitive Edition",
+      "url": "https://www.igdb.com/games/mafia-definitive-edition",
+      "publishers": [
+        "2K"
+      ],
+      "developers": [
+        "Hangar 13"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 7327,
+    "specific_id": 7327,
+    "title": "Valiant Hearts: The Great War",
+    "store_title": "Valiant Hearts: The Great War",
+    "pid": "9N9GCWL14F1N",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C0X15TR4NP0B"
+    ],
+    "sku_groups": [
+      [
+        "9N9GCWL14F1N"
+      ],
+      [
+        "C0X15TR4NP0B"
+      ]
+    ],
+    "original_release_date": "2014-06-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montpellier"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7327,
+      "name": "Valiant Hearts: The Great War",
+      "url": "https://www.igdb.com/games/valiant-hearts-the-great-war",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montpellier"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Historical",
+        "Educational",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

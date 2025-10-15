@@ -1,0 +1,109 @@
+{
+  "basic_info": {
+    "base_id": 10239,
+    "specific_id": 10239,
+    "title": "Ark: Survival Evolved",
+    "store_title": "ARK: Survival Evolved",
+    "pid": "9NBLGGH52XC6",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BNBLC4ZGFNKB",
+      "9N5JRWWGMS1R"
+    ],
+    "sku_groups": [
+      [
+        "9N5JRWWGMS1R",
+        "BNBLC4ZGFNKB"
+      ],
+      [
+        "9NBLGGH52XC6"
+      ]
+    ],
+    "original_release_date": "2016-12-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-04-30",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-70)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Shooter"
+    ],
+    "publisher": "Studio Wildcard",
+    "developer": "Studio Wildcard"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10239,
+      "name": "Ark: Survival Evolved",
+      "url": "https://www.igdb.com/games/ark-survival-evolved",
+      "publishers": [
+        "Snail Games",
+        "Snail Games USA",
+        "Studio Wildcard"
+      ],
+      "developers": [
+        "Studio Wildcard"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen",
+        "Massively Multiplayer Online (MMO)",
+        "Battle Royale"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

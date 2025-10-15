@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 27716,
+    "specific_id": 27716,
+    "title": "Panzer Corps 2",
+    "store_title": "Panzer Corps 2",
+    "pid": "9PLZ7HZR7JGT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLZ7HZR7JGT"
+      ]
+    ],
+    "original_release_date": "2020-03-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      },
+      "Ultimate": {
+        "added": "2022-04-12",
+        "removed": "2023-04-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Slitherine Ltd.",
+    "developer": "Flashback Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27716,
+      "name": "Panzer Corps 2",
+      "url": "https://www.igdb.com/games/panzer-corps-2",
+      "publishers": [
+        "Slitherine"
+      ],
+      "developers": [
+        "Flashback Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

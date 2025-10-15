@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 145796,
+    "specific_id": 145796,
+    "title": "Lil Gator Game",
+    "store_title": "Lil Gator Game",
+    "pid": "9N4FHWK9HWDK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4FHWK9HWDK"
+      ]
+    ],
+    "original_release_date": "2022-04-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-04-04",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2024-04-04",
+        "removed": "2025-04-01"
+      },
+      "Console": {
+        "added": "2024-04-04",
+        "removed": "2025-04-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids"
+    ],
+    "publisher": "Playtonic Friends",
+    "developer": "Mega Wobble"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 145796,
+      "name": "Lil Gator Game",
+      "url": "https://www.igdb.com/games/lil-gator-game",
+      "publishers": [
+        "Playtonic Friends"
+      ],
+      "developers": [
+        "MegaWobble"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Kids",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

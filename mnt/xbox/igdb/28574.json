@@ -1,0 +1,57 @@
+{
+  "id": 28574,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 96416,
+      "company": {
+        "id": 175,
+        "name": "Haemimont Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 96415,
+      "company": {
+        "id": 517,
+        "name": "Paradox Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Surviving Mars",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/surviving-mars"
+}

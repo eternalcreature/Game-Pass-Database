@@ -1,0 +1,54 @@
+{
+  "id": 165127,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 252183,
+      "company": {
+        "id": 249,
+        "name": "Crytek"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 252184,
+      "company": {
+        "id": 946,
+        "name": "Saber Interactive"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Crysis 3 Remastered",
+  "parent_game": 1268,
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/crysis-3-remastered"
+}

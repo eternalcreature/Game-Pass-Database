@@ -1,0 +1,131 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound",
+      "Mono sound",
+      "Stereo sound"
+    ],
+    "gameplay": [
+      "Difficulty levels",
+      "On-demand tutorials"
+    ],
+    "input": [
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 2.9,
+  "badges": [],
+  "bundledProductIds": [
+    "9N647K4PK0KV",
+    "9N3VRS25KFRK"
+  ],
+  "bundlesBySeed": [],
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood",
+      "Drug Reference",
+      "Strong Language",
+      "Intense Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-Game Purchases"
+    ],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.\n\nYou are required to sign up for a free IOI Account and receive updates from IO Interactive to access some content.",
+  "developerName": "IO Interactive A/S",
+  "editions": [
+    "9NT2824TW8VR",
+    "9N9RV75RKSL5",
+    "9NN82NH949D5",
+    "9NVJWR50KRXX"
+  ],
+  "franchiseId": "HITMAN",
+  "franchiseName": "Hitman",
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 93344305152,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NVJWR50KRXX",
+  "productKind": "Game",
+  "publisherName": "IO Interactive A/S",
+  "ratingCount": 880,
+  "releaseDate": "2021-03-30T13:00:00.0000000Z",
+  "shortDescription": "Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.\n",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W9T48SB873S",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 0,
+        "msrp": 0,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "HITMAN World of Assassination - Free Starter Pack",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "HITMAN3",
+    "xboxTitleId": 1701108859,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "FERDINAND",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

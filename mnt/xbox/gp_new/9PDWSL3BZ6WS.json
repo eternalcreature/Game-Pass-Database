@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 11162,
+    "specific_id": 11162,
+    "title": "For Honor",
+    "store_title": "FOR HONOR - Standard Edition",
+    "pid": "9PDWSL3BZ6WS",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N3DWR830CVN",
+      "C4CBF3FHHCND"
+    ],
+    "sku_groups": [
+      [
+        "9N3DWR830CVN",
+        "C4CBF3FHHCND"
+      ],
+      [
+        "9PDWSL3BZ6WS"
+      ]
+    ],
+    "original_release_date": "2017-12-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-06-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-01",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11162,
+      "name": "For Honor",
+      "url": "https://www.igdb.com/games/for-honor",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

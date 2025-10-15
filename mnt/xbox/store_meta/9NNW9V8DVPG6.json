@@ -1,0 +1,115 @@
+{
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 3.6,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player"
+  },
+  "categories": [
+    "Simulation",
+    "Sports",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "In-App Purchases"
+    ],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "The 21st version of the award-winning sports strategy franchise comes to Game Pass, delivering the most new features and improvements in series history. Unprecedented depth and customization, brand-new Game Flow for newcomers and veterans, unmatched authenticity licensed by MLB and the MLBPA, and a bounty of offline and online experiences found nowhere else headline OOTP 21. \r\n\r\nFrom long-requested features such as the all-new 3D Ballpark Construction Kit to a completely overhauled scouting system, improved 3D animations, real 2020 teams & rules for MLB and a dozen international pro baseball leagues, plus a completely refreshed Perfect Team online multiplayer mode, OOTP 21 has more than something for every kind of player. It is the Infinite Baseball Sandbox - now on Game Pass!",
+  "developerName": "Out of the Park Developments",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 2264993792,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NNW9V8DVPG6",
+  "productKind": "Game",
+  "publisherName": "Out of the Park Developments",
+  "ratingCount": 86,
+  "releaseDate": "2020-06-25T04:26:27.1725397Z",
+  "shortDescription": "Out of the Park Baseball 21 is a baseball fan’s dream come true - and is now on Game Pass! Step into the shoes of a General Manager or Manager and transform your favorite MLB franchise into a champion. It’s all there for you - trading, drafting, scouting, free agency, finances,managing, and more - at your fingertips. Do you have what it takes to win the World Series? Whether playing solo or battling fans across the world, Out of the Park Baseball 21 is the Infinite Baseball Sandbox. Play ball!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W72DT6VGWPW",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B0X6H16T596D",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Out of the Park Baseball 21",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-07-01T00:00:00Z",
+      "exitDateUTC": "2021-07-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-07-01T00:00:00Z",
+      "exitDateUTC": "2021-07-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

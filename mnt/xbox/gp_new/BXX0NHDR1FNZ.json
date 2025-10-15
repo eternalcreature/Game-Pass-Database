@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 114909,
+    "specific_id": 114909,
+    "title": "Fractured Minds",
+    "store_title": "Fractured Minds",
+    "pid": "BXX0NHDR1FNZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXX0NHDR1FNZ"
+      ]
+    ],
+    "original_release_date": "2019-11-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-05-19",
+        "removed": "2021-05-01"
+      },
+      "Ultimate": {
+        "added": "2020-05-19",
+        "removed": "2021-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Wired Productions",
+    "developer": "Emily M Games, Le Cortex, Epiphany Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 114909,
+      "name": "Fractured Minds",
+      "url": "https://www.igdb.com/games/fractured-minds",
+      "publishers": [
+        "Wired Productions"
+      ],
+      "developers": [
+        "Emily M Games"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Horror",
+        "Educational"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 19554,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 64681,
+      "company": {
+        "id": 3655,
+        "name": "Ubisoft Pune"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 64680,
+      "company": {
+        "id": 15463,
+        "name": "Ubisoft Belgrade"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 36396,
+      "company": {
+        "id": 39,
+        "name": "Ubisoft Annecy"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 64679,
+      "company": {
+        "id": 2921,
+        "name": "Ubisoft Kyiv"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Steep",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/steep"
+}

@@ -1,0 +1,73 @@
+{
+  "basic_info": {
+    "base_id": 75244,
+    "specific_id": 75244,
+    "title": "Onrush",
+    "store_title": "ONRUSH\u2122",
+    "pid": "BPT02H7D9BLJ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPT02H7D9BLJ"
+      ]
+    ],
+    "original_release_date": "2018-06-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-6)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure",
+      "Racing & flying",
+      "Sports",
+      "Other"
+    ],
+    "publisher": "Codemasters",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 75244,
+      "name": "Onrush",
+      "url": "https://www.igdb.com/games/onrush",
+      "publishers": [
+        "Codemasters"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

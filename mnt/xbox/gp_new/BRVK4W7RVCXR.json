@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 37777,
+    "specific_id": 37777,
+    "title": "Shadow of the Tomb Raider",
+    "store_title": "Shadow of the Tomb Raider",
+    "pid": "BRVK4W7RVCXR",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BNQQ3WVBNZCQ"
+    ],
+    "sku_groups": [
+      [
+        "BRVK4W7RVCXR",
+        "BNQQ3WVBNZCQ"
+      ]
+    ],
+    "original_release_date": "2018-09-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-04-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-04-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-04-11",
+        "removed": null
+      }
+    },
+    {
+      "Ultimate": {
+        "added": "2019-02-07",
+        "removed": "2020-02-15"
+      },
+      "Console": {
+        "added": "2019-02-07",
+        "removed": "2020-02-15"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Eidos Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37777,
+      "name": "Shadow of the Tomb Raider",
+      "url": "https://www.igdb.com/games/shadow-of-the-tomb-raider",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics",
+        "Eidos Montréal"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Historical",
+        "Stealth",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

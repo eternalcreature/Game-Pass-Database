@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 217597,
+    "specific_id": 217597,
+    "title": "Like a Dragon: Ishin!",
+    "store_title": "Like a Dragon: Ishin!",
+    "pid": "9N4BH9FLLMWD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4BH9FLLMWD"
+      ]
+    ],
+    "original_release_date": "2023-02-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-10-17",
+        "removed": "2024-11-16"
+      },
+      "Ultimate": {
+        "added": "2023-10-17",
+        "removed": "2024-11-16"
+      },
+      "Console": {
+        "added": "2023-10-17",
+        "removed": "2024-11-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "SEGA",
+    "developer": "Ryu Ga Gotoku Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217597,
+      "name": "Like a Dragon: Ishin!",
+      "url": "https://www.igdb.com/games/like-a-dragon-ishin",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Ryu Ga Gotoku Studios"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

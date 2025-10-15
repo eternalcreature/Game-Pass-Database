@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 14758,
+    "specific_id": 14758,
+    "title": "Ace Combat 7: Skies Unknown",
+    "store_title": "ACE COMBAT\u2122 7: SKIES UNKNOWN",
+    "pid": "BRVM8RNWLXH1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRVM8RNWLXH1"
+      ]
+    ],
+    "original_release_date": "2019-01-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-03-19",
+        "removed": "2021-06-16"
+      },
+      "Ultimate": {
+        "added": "2020-03-19",
+        "removed": "2021-06-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
+    "developer": "BANDAI NAMCO Studios Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 14758,
+      "name": "Ace Combat 7: Skies Unknown",
+      "url": "https://www.igdb.com/games/ace-combat-7-skies-unknown",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Project Aces"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Drama",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 19965,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 265407,
+      "company": {
+        "id": 823,
+        "name": "United Front Games"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 265408,
+      "company": {
+        "id": 552,
+        "name": "Crystal Dynamics"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 265409,
+      "company": {
+        "id": 291,
+        "name": "Nixxes Software"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 265410,
+      "company": {
+        "id": 26,
+        "name": "Square Enix"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 265411,
+      "company": {
+        "id": 27,
+        "name": "Eidos Montréal"
+      },
+      "developer": false,
+      "publisher": false
+    }
+  ],
+  "name": "Tomb Raider: Definitive Edition",
+  "parent_game": 1164,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/tomb-raider-definitive-edition"
+}

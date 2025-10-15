@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 37030,
+    "specific_id": 37030,
+    "title": "Dishonored: Death of the Outsider",
+    "store_title": "Dishonored\u00ae: Death of the Outsider\u2122",
+    "pid": "C5F2XDQPPJKZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MVF0PGV94F7"
+    ],
+    "sku_groups": [
+      [
+        "9MVF0PGV94F7"
+      ],
+      [
+        "C5F2XDQPPJKZ"
+      ]
+    ],
+    "original_release_date": "2017-09-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Arkane Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37030,
+      "name": "Dishonored: Death of the Outsider",
+      "url": "https://www.igdb.com/games/dishonored-death-of-the-outsider",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Arkane Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

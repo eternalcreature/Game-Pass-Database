@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 20331,
+    "specific_id": 20331,
+    "title": "For the King",
+    "store_title": "For The King",
+    "pid": "BP2BW45WZ45Z",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BP2BW45WZ45Z"
+      ]
+    ],
+    "original_release_date": "2018-02-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-05-15",
+        "removed": "2021-05-01"
+      },
+      "Ultimate": {
+        "added": "2020-05-15",
+        "removed": "2021-05-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-3)",
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Curve Games",
+    "developer": "IronOak Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 20331,
+      "name": "For the King",
+      "url": "https://www.igdb.com/games/for-the-king",
+      "publishers": [
+        "Curve Digital"
+      ],
+      "developers": [
+        "IronOak Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

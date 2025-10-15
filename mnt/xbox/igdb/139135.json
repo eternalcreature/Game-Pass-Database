@@ -1,0 +1,74 @@
+{
+  "id": 139135,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 109160,
+      "company": {
+        "id": 28243,
+        "name": "Blastmode"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 109161,
+      "company": {
+        "id": 15320,
+        "name": "MP2 Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 109162,
+      "company": {
+        "id": 23125,
+        "name": "PLAYISM"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Mighty Goose",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mighty-goose"
+}

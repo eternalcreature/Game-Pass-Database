@@ -1,0 +1,97 @@
+{
+  "id": 1339,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 262641,
+      "company": {
+        "id": 197,
+        "name": "THQ"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 262642,
+      "company": {
+        "id": 85,
+        "name": "Double Fine Productions"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 262643,
+      "company": {
+        "id": 684,
+        "name": "Budcat Creations"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 262644,
+      "company": {
+        "id": 700,
+        "name": "Majesco Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 262645,
+      "company": {
+        "id": 85,
+        "name": "Double Fine Productions"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 262646,
+      "company": {
+        "id": 17966,
+        "name": "Xbox Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Psychonauts",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/psychonauts"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 7385,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 17481,
+      "company": {
+        "id": 769,
+        "name": "Team NINJA"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 17480,
+      "company": {
+        "id": 858,
+        "name": "Koei Tecmo Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Ninja Gaiden Sigma 2",
+  "parent_game": 6782,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/ninja-gaiden-sigma-2"
+}

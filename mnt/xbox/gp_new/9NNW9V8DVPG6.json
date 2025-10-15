@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 130326,
+    "specific_id": 130326,
+    "title": "Out of the Park Baseball 21",
+    "store_title": "Out of the Park Baseball 21",
+    "pid": "9NNW9V8DVPG6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NNW9V8DVPG6"
+      ]
+    ],
+    "original_release_date": "2020-03-20",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-07-01",
+        "removed": "2021-07-01"
+      },
+      "Ultimate": {
+        "added": "2020-07-01",
+        "removed": "2021-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "publisher": "Out of the Park Developments",
+    "developer": "Out of the Park Developments"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 130326,
+      "name": "Out of the Park Baseball 21",
+      "url": "https://www.igdb.com/games/out-of-the-park-baseball-21",
+      "publishers": [
+        "Out Of The Park Developments"
+      ],
+      "developers": [
+        "Out Of The Park Developments"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 202858,
+    "specific_id": 202858,
+    "title": "Super Mega Baseball 4",
+    "store_title": "Super Mega Baseball\u2122 4",
+    "pid": "9N93V5M3TG4N",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P96HK15H8W8"
+    ],
+    "sku_groups": [
+      [
+        "9N93V5M3TG4N"
+      ],
+      [
+        "9P96HK15H8W8"
+      ]
+    ],
+    "original_release_date": "2023-06-02",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2024-01-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-01-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Sports",
+      "Family & kids",
+      "Simulation"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Metalhead Software Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 202858,
+      "name": "Super Mega Baseball 4",
+      "url": "https://www.igdb.com/games/super-mega-baseball-4",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Metalhead Software"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

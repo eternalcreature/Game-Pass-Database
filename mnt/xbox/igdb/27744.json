@@ -1,0 +1,84 @@
+{
+  "id": 27744,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 93647,
+      "company": {
+        "id": 16099,
+        "name": "Frozen District"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 93646,
+      "company": {
+        "id": 16099,
+        "name": "Frozen District"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 81990,
+      "company": {
+        "id": 15207,
+        "name": "Empyrean"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 133352,
+      "company": {
+        "id": 17947,
+        "name": "Ultimate Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 197116,
+      "company": {
+        "id": 24060,
+        "name": "PlayWay"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "House Flipper",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 28,
+      "name": "Business"
+    },
+    {
+      "id": 32,
+      "name": "Non-fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/house-flipper"
+}

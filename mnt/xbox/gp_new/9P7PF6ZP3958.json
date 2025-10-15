@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "base_id": 144022,
+    "specific_id": 144022,
+    "title": "Sifu",
+    "store_title": "Sifu",
+    "pid": "9P7PF6ZP3958",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7PF6ZP3958"
+      ]
+    ],
+    "original_release_date": "2022-02-08",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-10-02",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-10-02",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-10-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-10-02",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting"
+    ],
+    "publisher": "Sloclap, Kepler Interactive",
+    "developer": "Sloclap"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 144022,
+      "name": "Sifu",
+      "url": "https://www.igdb.com/games/sifu",
+      "publishers": [
+        "Kepler Interactive",
+        "Sloclap"
+      ],
+      "developers": [
+        "Sloclap"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

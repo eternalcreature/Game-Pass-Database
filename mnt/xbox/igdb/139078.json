@@ -1,0 +1,65 @@
+{
+  "id": 139078,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 187245,
+      "company": {
+        "id": 28165,
+        "name": "Youthcat Studio"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 187246,
+      "company": {
+        "id": 18288,
+        "name": "Gamera Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Dyson Sphere Program",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dyson-sphere-program"
+}

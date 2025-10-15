@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 7854,
+    "specific_id": 7854,
+    "title": "Jetpac Refuelled",
+    "store_title": "Jetpac Refuelled",
+    "pid": "BRRVN5198461",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRRVN5198461"
+      ]
+    ],
+    "original_release_date": "2007-03-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Classics",
+      "Platformer"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Rare Limited"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7854,
+      "name": "Jetpac Refuelled",
+      "url": "https://www.igdb.com/games/jetpac-refuelled",
+      "publishers": [
+        "Microsoft Game Studios"
+      ],
+      "developers": [
+        "Rare"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

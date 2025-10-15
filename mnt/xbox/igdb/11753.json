@@ -1,0 +1,61 @@
+{
+  "id": 11753,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 38665,
+      "company": {
+        "id": 10626,
+        "name": "Unicube"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 133942,
+      "company": {
+        "id": 16437,
+        "name": "Team17"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Sheltered",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 21,
+      "name": "Survival"
+    }
+  ],
+  "url": "https://www.igdb.com/games/sheltered"
+}

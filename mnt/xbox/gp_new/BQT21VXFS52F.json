@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 16605,
+    "specific_id": 16605,
+    "title": "Gears of War: Ultimate Edition",
+    "store_title": "Gears of War: Ultimate Edition",
+    "pid": "BQT21VXFS52F",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLGGH3SHM5"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH3SHM5"
+      ],
+      [
+        "BQT21VXFS52F"
+      ]
+    ],
+    "original_release_date": "2006-11-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-05-24",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SharedSplitScreen": "Shared/split screen",
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "The Coalition"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 16605,
+      "name": "Gears of War: Ultimate Edition",
+      "url": "https://www.igdb.com/games/gears-of-war-ultimate-edition--1",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Epic Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 143113,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 185558,
+      "company": {
+        "id": 12874,
+        "name": "Hiding Spot Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 188909,
+      "company": {
+        "id": 18629,
+        "name": "Fellow Traveller"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Beacon Pines",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    },
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/beacon-pines"
+}

@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 1062,
+    "specific_id": 1062,
+    "title": "Alan Wake",
+    "store_title": "Alan Wake",
+    "pid": "C493V31WXV80",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C493V31WXV80"
+      ]
+    ],
+    "original_release_date": "2010-05-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-05-21",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2020-05-21",
+        "removed": "2021-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Microsoft",
+    "developer": "Remedy Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1062,
+      "name": "Alan Wake",
+      "url": "https://www.igdb.com/games/alan-wake",
+      "publishers": [
+        "E-Frontier",
+        "Legacy Interactive",
+        "Microsoft Game Studios",
+        "Namco Bandai Partners",
+        "Nordic Games Publishing",
+        "Remedy Entertainment"
+      ],
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

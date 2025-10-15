@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "base_id": 54787,
+    "specific_id": 11131,
+    "title": "ReCore: Definitive Edition",
+    "store_title": "ReCore",
+    "pid": "9NBLGGH1Z6FQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLGGH1Z6FQ"
+      ]
+    ],
+    "original_release_date": "2016-09-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2017-09-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2017-09-01",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Comcept Inc., Armature Studio LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 54787,
+      "name": "ReCore: Definitive Edition",
+      "url": "https://www.igdb.com/games/recore-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Armature Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 54787,
+      "name": "ReCore: Definitive Edition",
+      "url": "https://www.igdb.com/games/recore-definitive-edition",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Armature Studio"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

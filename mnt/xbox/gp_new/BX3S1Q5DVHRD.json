@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 9254,
+    "specific_id": 9254,
+    "title": "Subnautica",
+    "store_title": "Subnautica",
+    "pid": "BX3S1Q5DVHRD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BX3S1Q5DVHRD"
+      ]
+    ],
+    "original_release_date": "2018-01-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-05-01",
+        "removed": "2022-11-16"
+      },
+      "Ultimate": {
+        "added": "2021-05-01",
+        "removed": "2022-11-16"
+      },
+      "Console": {
+        "added": "2021-05-01",
+        "removed": "2022-11-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Unknown Worlds Entertainment",
+    "developer": "Unknown Worlds, Grip Games, and Panic Button"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 9254,
+      "name": "Subnautica",
+      "url": "https://www.igdb.com/games/subnautica",
+      "publishers": [
+        "Gearbox Publishing",
+        "Unknown Worlds"
+      ],
+      "developers": [
+        "Unknown Worlds"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

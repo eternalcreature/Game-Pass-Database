@@ -1,0 +1,133 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Surround sound"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [
+    {
+      "type": 11
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "FPSBoostEnabledXS": "FPS Boost Series X | S"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Sexual Content",
+      "Violence",
+      "Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Experience the epic sequel to the 2009 Game of the Year from the critically acclaimed makers of Dragon Age: Origins and Mass Effect 2. You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever. The legend of your Rise to Power begins now.  \n\nKey Features:\n• Embark upon an all-new adventure that takes place across an entire decade and shapes itself around every decision you make.\n• Determine your rise to power from a destitute refugee to the revered champion of the land.\n• Think like a general and fight like a Spartan with dynamic new combat mechanics that put you right in the heart of battle whether you are a mage, rogue, or warrior.\n• Go deeper into the world of Dragon Age with an entirely new cinematic experience that grabs hold of you from the beginning and never lets go.\n• Discover a whole realm rendered in stunning detail with updated graphics and a new visual style.",
+  "developerName": "BioWare",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K5DH"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallisto",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 8078503936,
+  "optimalSatisfyingPassId": "CFQ7TTC0K5DH",
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "C4G76555T4QN",
+  "productKind": "Game",
+  "publisherName": "Electronic Arts",
+  "ratingCount": 260,
+  "releaseDate": "2011-03-08T00:00:00.0000000Z",
+  "shortDescription": "You are one of the few who escaped the destruction of your home. Now, forced to fight for survival in an ever-changing world, you must gather the deadliest of allies, amass fame and fortune, and seal your place in history. This is the story of how the world changed forever.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B4M0CR7L0P6C",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/06/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dragon Age™ 2",
+  "xCloudProperties": {
+    "xCloudId": "DRAGONAGE2",
+    "xboxTitleId": 526928451,
+    "supportsTouch": true
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K5DH": {
+      "entryDateUTC": "2020-11-06T09:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DRAGONAGE2",
+    "xboxTitleId": 526928451,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

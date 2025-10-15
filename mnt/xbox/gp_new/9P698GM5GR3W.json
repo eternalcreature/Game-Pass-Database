@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 36897,
+    "specific_id": 36897,
+    "title": "A Way Out",
+    "store_title": "A Way Out",
+    "pid": "9P698GM5GR3W",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BWVBNCMF22ZK"
+    ],
+    "sku_groups": [
+      [
+        "9P698GM5GR3W"
+      ],
+      [
+        "BWVBNCMF22ZK"
+      ]
+    ],
+    "original_release_date": "2018-03-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Hazelight"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36897,
+      "name": "A Way Out",
+      "url": "https://www.igdb.com/games/a-way-out",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Hazelight Studios"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 119239,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 189599,
+      "company": {
+        "id": 6987,
+        "name": "HandyGames"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 311077,
+      "company": {
+        "id": 20455,
+        "name": "Purple Lamp Studios"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 311078,
+      "company": {
+        "id": 10075,
+        "name": "THQ Nordic"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "parent_game": 2765,
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Kids"
+    }
+  ],
+  "url": "https://www.igdb.com/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
+}

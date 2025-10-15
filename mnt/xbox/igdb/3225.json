@@ -1,0 +1,106 @@
+{
+  "id": 3225,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 33,
+      "name": "Arcade"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 64873,
+      "company": {
+        "id": 445,
+        "name": "505 Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 64874,
+      "company": {
+        "id": 10100,
+        "name": "Sony Interactive Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 218336,
+      "company": {
+        "id": 1641,
+        "name": "Hello Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "No Man's Sky",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 21,
+      "name": "Survival"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/no-man-s-sky"
+}

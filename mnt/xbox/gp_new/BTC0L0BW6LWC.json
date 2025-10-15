@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 112916,
+    "specific_id": 112916,
+    "title": "Mortal Kombat 11",
+    "store_title": "Mortal Kombat 11",
+    "pid": "BTC0L0BW6LWC",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BTC0L0BW6LWC"
+      ]
+    ],
+    "original_release_date": "2019-04-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-12-16",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-12-16",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "NetherRealm Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 112916,
+      "name": "Mortal Kombat 11",
+      "url": "https://www.igdb.com/games/mortal-kombat-11",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "NetherRealm Studios"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

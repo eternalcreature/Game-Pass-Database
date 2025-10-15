@@ -1,0 +1,75 @@
+{
+  "id": 3751,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 193269,
+      "company": {
+        "id": 44184,
+        "name": "Magmic"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 193271,
+      "company": {
+        "id": 22044,
+        "name": "Vega Mobile"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 193270,
+      "company": {
+        "id": 243,
+        "name": "Sony Online Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 193279,
+      "company": {
+        "id": 1893,
+        "name": "PopCap Games"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Peggle",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/peggle"
+}

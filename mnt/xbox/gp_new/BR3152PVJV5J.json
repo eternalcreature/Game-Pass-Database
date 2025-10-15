@@ -1,0 +1,72 @@
+{
+  "basic_info": {
+    "base_id": 6732,
+    "specific_id": 6732,
+    "title": "Rise & Shine",
+    "store_title": "Rise & Shine",
+    "pid": "BR3152PVJV5J",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BR3152PVJV5J"
+      ]
+    ],
+    "original_release_date": "2017-05-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Adult Swim Games",
+    "developer": "Super Awesome Hyper Dimensional Mega Team"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 6732,
+      "name": "Rise & Shine",
+      "url": "https://www.igdb.com/games/rise-and-shine",
+      "publishers": [
+        "Adult Swim Games"
+      ],
+      "developers": [
+        "Super Awesome Hyper Dimensional Mega Team"
+      ],
+      "genres": [
+        "Shooter",
+        "Platform",
+        "Puzzle",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

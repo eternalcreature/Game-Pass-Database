@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 3753,
+    "specific_id": 3753,
+    "title": "Zuma",
+    "store_title": "Zuma",
+    "pid": "C4SG06H48738",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C4SG06H48738"
+      ]
+    ],
+    "original_release_date": "2003-12-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "PopCap"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 3753,
+      "name": "Zuma",
+      "url": "https://www.igdb.com/games/zuma",
+      "publishers": [
+        "Glu Mobile",
+        "PopCap Games",
+        "Sony Online Entertainment"
+      ],
+      "developers": [
+        "Oberon Media",
+        "PopCap Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

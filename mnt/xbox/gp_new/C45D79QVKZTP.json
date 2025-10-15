@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 359,
+    "specific_id": 359,
+    "title": "Final Fantasy XV",
+    "store_title": "FINAL FANTASY XV",
+    "pid": "C45D79QVKZTP",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NR0N2LZ6TC5"
+    ],
+    "sku_groups": [
+      [
+        "9NR0N2LZ6TC5"
+      ],
+      [
+        "C45D79QVKZTP"
+      ]
+    ],
+    "original_release_date": "2016-11-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "SQUARE ENIX CO., LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 359,
+      "name": "Final Fantasy XV",
+      "url": "https://www.igdb.com/games/final-fantasy-xv",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Luminous Productions",
+        "Square Enix Business Division 2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 130508,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 99165,
+      "company": {
+        "id": 25576,
+        "name": "Casey Donnellan Games LLC"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 99166,
+      "company": {
+        "id": 5040,
+        "name": "tinyBuild"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Kill It With Fire",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kill-it-with-fire"
+}

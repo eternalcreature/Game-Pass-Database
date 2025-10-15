@@ -1,0 +1,59 @@
+{
+  "id": 118603,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    },
+    {
+      "id": 34,
+      "name": "Visual Novel"
+    },
+    {
+      "id": 35,
+      "name": "Card & Board Game"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 120418,
+      "company": {
+        "id": 26549,
+        "name": "Echodog Games"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 131893,
+      "company": {
+        "id": 5257,
+        "name": "Digerati Distribution"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Signs of the Sojourner",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "url": "https://www.igdb.com/games/signs-of-the-sojourner"
+}

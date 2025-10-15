@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 137073,
+    "specific_id": 137073,
+    "title": "SpiderHeck",
+    "store_title": "SpiderHeck",
+    "pid": "9N0TRF57SMQH",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N0TRF57SMQH"
+      ]
+    ],
+    "original_release_date": "2022-09-22",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-22",
+        "removed": "2024-09-16"
+      },
+      "Ultimate": {
+        "added": "2022-09-22",
+        "removed": "2024-09-16"
+      },
+      "Console": {
+        "added": "2022-09-22",
+        "removed": "2024-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Platformer"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Neverjam"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 137073,
+      "name": "SpiderHeck",
+      "url": "https://www.igdb.com/games/spiderheck",
+      "publishers": [
+        "Neverjam",
+        "tinyBuild"
+      ],
+      "developers": [
+        "Neverjam"
+      ],
+      "genres": [
+        "Fighting",
+        "Platform",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

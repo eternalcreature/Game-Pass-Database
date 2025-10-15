@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 199168,
+    "specific_id": 199168,
+    "title": "This War of Mine: Final Cut",
+    "store_title": "This War of Mine: Final Cut",
+    "pid": "9MT6TG9CXR2H",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MT6TG9CXR2H"
+      ]
+    ],
+    "original_release_date": "2014-11-14",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-05-10",
+        "removed": "2025-09-01"
+      },
+      "Ultimate": {
+        "added": "2022-05-10",
+        "removed": "2025-09-01"
+      },
+      "PC": {
+        "added": "2022-05-10",
+        "removed": "2025-09-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "11 bit studios",
+    "developer": "11 bit studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 199168,
+      "name": "This War of Mine: Final Cut",
+      "url": "https://www.igdb.com/games/this-war-of-mine-final-cut",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "11 bit studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Stealth",
+        "Drama",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 119308,
+    "specific_id": 119308,
+    "title": "Ghostwire: Tokyo",
+    "store_title": "Ghostwire: Tokyo",
+    "pid": "9PKP39CL0C8D",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PKP39CL0C8D"
+      ]
+    ],
+    "original_release_date": "2022-03-25",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-04-12",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-04-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-04-12",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Tango Gameworks"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119308,
+      "name": "Ghostwire: Tokyo",
+      "url": "https://www.igdb.com/games/ghostwire-tokyo",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Tango Gameworks"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

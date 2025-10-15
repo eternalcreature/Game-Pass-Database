@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 204620,
+    "specific_id": 204620,
+    "title": "Ara: History Untold",
+    "store_title": "Ara: History Untold Standard Edition",
+    "pid": "9P855VF80MMD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P855VF80MMD"
+      ]
+    ],
+    "original_release_date": "2024-09-24",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-09-24",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-24",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Xbox Game Studios ",
+    "developer": "Oxide Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204620,
+      "name": "Ara: History Untold",
+      "url": "https://www.igdb.com/games/ara-history-untold",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Oxide Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure"
+      ],
+      "themes": [
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 25935,
+    "specific_id": 25935,
+    "title": "The Artful Escape",
+    "store_title": "The Artful Escape",
+    "pid": "9NGH2MTP0T44",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGH2MTP0T44"
+      ]
+    ],
+    "original_release_date": "2021-09-09",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-09",
+        "removed": "2022-09-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-09",
+        "removed": "2022-09-16"
+      },
+      "Console": {
+        "added": "2021-09-09",
+        "removed": "2022-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Music"
+    ],
+    "publisher": "Annapurna Interactive",
+    "developer": "Beethoven & Dinosaur"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25935,
+      "name": "The Artful Escape",
+      "url": "https://www.igdb.com/games/the-artful-escape",
+      "publishers": [
+        "Annapurna Interactive"
+      ],
+      "developers": [
+        "Beethoven & Dinosaur"
+      ],
+      "genres": [
+        "Music",
+        "Platform",
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

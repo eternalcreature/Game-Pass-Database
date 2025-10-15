@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 1887,
+    "specific_id": 1887,
+    "title": "Dragon Age: Inquisition",
+    "store_title": "Dragon Age\u2122: Inquisition",
+    "pid": "C47GZZBMR5WG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MWLS68W1P7Q"
+    ],
+    "sku_groups": [
+      [
+        "9MWLS68W1P7Q"
+      ],
+      [
+        "C47GZZBMR5WG"
+      ]
+    ],
+    "original_release_date": "2014-11-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1887,
+      "name": "Dragon Age: Inquisition",
+      "url": "https://www.igdb.com/games/dragon-age-inquisition",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare Edmonton"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 122042,
+    "specific_id": 122042,
+    "title": "Race With Ryan",
+    "store_title": "Race with Ryan",
+    "pid": "9N1JLJR48FBG",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N1JLJR48FBG"
+      ]
+    ],
+    "original_release_date": "2019-11-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Ultimate": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      },
+      "Console": {
+        "added": "2021-12-16",
+        "removed": "2022-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Family & kids",
+      "Racing & flying"
+    ],
+    "publisher": "Outright Games ",
+    "developer": "3D Clouds"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 122042,
+      "name": "Race With Ryan",
+      "url": "https://www.igdb.com/games/race-with-ryan",
+      "publishers": [
+        "Outright Games"
+      ],
+      "developers": [
+        "3D Clouds"
+      ],
+      "genres": [
+        "Racing",
+        "Sport",
+        "Arcade"
+      ],
+      "themes": [
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

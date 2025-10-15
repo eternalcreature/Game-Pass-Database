@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 18366,
+    "specific_id": 18366,
+    "title": "Sniper Elite 4",
+    "store_title": "Sniper Elite 4",
+    "pid": "BZ5VLVX84STW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BZ5VLVX84STW"
+      ]
+    ],
+    "original_release_date": "2017-02-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-05-01",
+        "removed": "2022-11-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-01",
+        "removed": "2022-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Rebellion Developments Ltd",
+    "developer": "Rebellion Developments Ltd"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 18366,
+      "name": "Sniper Elite 4",
+      "url": "https://www.igdb.com/games/sniper-elite-4",
+      "publishers": [
+        "Rebellion Developments"
+      ],
+      "developers": [
+        "Rebellion Developments"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

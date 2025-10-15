@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 205775,
+    "specific_id": 205775,
+    "title": "Call of the Wild: The Angler",
+    "store_title": "Call of the Wild: The Angler\u2122",
+    "pid": "9NDC5LJS839S",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDC5LJS839S"
+      ]
+    ],
+    "original_release_date": "2022-08-31",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-08-30",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-08-30",
+        "removed": null
+      },
+      "PC": {
+        "added": "2023-08-30",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Avalanche Studios",
+    "developer": "Expansive Worlds"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 205775,
+      "name": "Call of the Wild: The Angler",
+      "url": "https://www.igdb.com/games/call-of-the-wild-the-angler",
+      "publishers": [
+        "Expansive Worlds"
+      ],
+      "developers": [
+        "Expansive Worlds"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

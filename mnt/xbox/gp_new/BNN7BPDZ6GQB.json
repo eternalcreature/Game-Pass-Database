@@ -1,0 +1,83 @@
+{
+  "basic_info": {
+    "base_id": 296,
+    "specific_id": 296,
+    "title": "Crysis",
+    "store_title": "Crysis",
+    "pid": "BNN7BPDZ6GQB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NB993S1TWSH"
+    ],
+    "sku_groups": [
+      [
+        "9NB993S1TWSH"
+      ],
+      [
+        "BNN7BPDZ6GQB"
+      ]
+    ],
+    "original_release_date": "2007-11-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Crytek"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 296,
+      "name": "Crysis",
+      "url": "https://www.igdb.com/games/crysis",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Crytek Frankfurt"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

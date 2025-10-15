@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 11204,
+    "specific_id": 11204,
+    "title": "The Walking Dead: Michonne",
+    "store_title": "The Walking Dead: Michonne - The Complete Season",
+    "pid": "C2XNJC9WK15X",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLGGH5SP5V"
+    ],
+    "sku_groups": [
+      [
+        "9NBLGGH5SP5V"
+      ],
+      [
+        "C2XNJC9WK15X"
+      ]
+    ],
+    "original_release_date": "2016-02-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-03-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-03-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Skybound Games",
+    "developer": "Telltale Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11204,
+      "name": "The Walking Dead: Michonne",
+      "url": "https://www.igdb.com/games/the-walking-dead-michonne",
+      "publishers": [
+        "Telltale Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

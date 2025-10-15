@@ -1,0 +1,128 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.3,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Shooter"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Blood and Gore",
+      "Strong Language",
+      "Suggestive Themes",
+      "Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "RUINER is a brutal action shooter set in the year 2091 in the cyber metropolis Rengkok. A wired sociopath lashes out against a corrupt system to retrieve his kidnapped brother and uncover the truth under the guidance of a secretive Hacker friend. \r\n\r\nSophisticated & Brutal Combat: Become the boss of the battlefield acquiring deadly supplies, enhancing your tactical senses and mastering other mind-breaking skills and gadgets that will leave your foes confused and powerless.\r\n\r\nCyberpunk Inspired Arsenal: Employ state of the art gadgets and abilities like energy shield, kinetic barrier or grid converter. Dash augmentations, reflex booster or overload will make you uncatchable while with ghost break you can hack your opposition onto your side of the fight.\r\n\r\nStory-Driven Action: Violent confrontation is a means to an end and trust is a devalued currency in Rengkok as you navigate a senseless world and dismantle the corporate titans of virtuality dealers at HEAVEN.",
+  "developerName": "Reikon Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 10782720000,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NLQTDKD0PMT",
+  "productKind": "Game",
+  "publisherName": "Devolver Digital",
+  "ratingCount": 236,
+  "releaseDate": "2017-09-26T00:00:00.0000000Z",
+  "shortDescription": "RUINER is a brutal action shooter set in the year 2091 in the cyber metropolis Rengkok. A wired sociopath lashes out against a corrupt system to retrieve his kidnapped brother and uncover the truth under the guidance of a secretive Hacker friend. Experience a dark adventure in the shadiest back alleys of Rengkok City and dismantle the corporate titans of virtuality dealers at HEAVEN.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9V1LH9JMRG8T",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9NZVX3P3KF2N",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Ruiner",
+  "passMetadataByPassProductId": {},
+  "xCloudPropertiesV2": {
+    "xCloudId": "RUINER",
+    "xboxTitleId": 93901068,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

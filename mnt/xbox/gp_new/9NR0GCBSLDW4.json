@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 274920,
+    "specific_id": 274920,
+    "title": "Supermarket Simulator",
+    "store_title": "Supermarket Simulator",
+    "pid": "9NR0GCBSLDW4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NR0GCBSLDW4"
+      ]
+    ],
+    "original_release_date": "2025-06-19",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-10-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-08",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-08",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "NAISU",
+    "developer": "Nokta Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 274920,
+      "name": "Supermarket Simulator",
+      "url": "https://www.igdb.com/games/supermarket-simulator--3",
+      "publishers": [
+        "Nokta Games"
+      ],
+      "developers": [
+        "Nokta Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

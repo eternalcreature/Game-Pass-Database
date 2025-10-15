@@ -1,0 +1,78 @@
+{
+  "id": 28952,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 118977,
+      "company": {
+        "id": 14002,
+        "name": "DANGEN Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 116680,
+      "company": {
+        "id": 12736,
+        "name": "Lunar Ray Games"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 116681,
+      "company": {
+        "id": 1418,
+        "name": "Chucklefish Games"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Timespinner",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/timespinner"
+}

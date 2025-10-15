@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 159116,
+    "specific_id": 159116,
+    "title": "Grid Legends",
+    "store_title": "GRID Legends",
+    "pid": "9N0ZHH9GPLGZ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NCT9L7NFHX7"
+    ],
+    "sku_groups": [
+      [
+        "9N0ZHH9GPLGZ"
+      ],
+      [
+        "9NCT9L7NFHX7"
+      ]
+    ],
+    "original_release_date": "2022-02-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-09-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-09-01",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2022-09-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "CrossPlatformMultiPlayer": "Cross-platform multiplayer",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Racing & flying",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 159116,
+      "name": "Grid Legends",
+      "url": "https://www.igdb.com/games/grid-legends",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

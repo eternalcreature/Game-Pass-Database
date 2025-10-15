@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 75,
+    "specific_id": 75,
+    "title": "Mass Effect 3",
+    "store_title": "Mass Effect\u2122 3",
+    "pid": "C040H652PD98",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NQJCGMK9VVD",
+      "9MZP241SM6DH"
+    ],
+    "sku_groups": [
+      [
+        "9MZP241SM6DH",
+        "9NQJCGMK9VVD"
+      ],
+      [
+        "C040H652PD98"
+      ]
+    ],
+    "original_release_date": "2012-03-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts Inc.",
+    "developer": "BioWare\u2122"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 75,
+      "name": "Mass Effect 3",
+      "url": "https://www.igdb.com/games/mass-effect-3",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare",
+        "BioWare Edmonton"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

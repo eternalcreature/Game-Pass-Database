@@ -1,0 +1,148 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 4.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "GameStreaming": "Cloud enabled",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Family & kids",
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Language",
+      "Comic Mischief"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Wield an ever-growing herd of quirky creatures to rebuild broken paths, battle perilous beasts, and solve peculiar puzzles in a rich, interconnected world. Join two young runaways as they unravel the mysteries of a lost realm in this nostalgic storybook fantasy!\r\n\r\nAmass your Horde\r\nCollect and deploy a swarm of quirky Spritelings; small magical creatures for you to command. Break stuff, collect loot, fight enemies, build new paths, and more!\r\n\r\nExplore\r\nA unique and sequestered world rich with centuries full of lore. Woods, caves, coastline, ancient shrines... The Deep Woods is full of puzzles to be solved and secrets waiting to be uncovered.\r\n\r\nCollect & Craft\r\nGather rare resources like magical crystals, scrap, electrical components and more to build new structures, items, and upgrades!\r\n\r\nBattle\r\nTake on precarious wildlife and supernatural foes with the unique abilities of your Spriteling swarm and your trusty vacuum, the Gustbuster!\r\n\r\nNightfall\r\n\"The dark is bad!\" - A common saying among the denizens of the Deep Woods, and for good reason. Malevolent beings lurk in the shadows here and you may just find yourself wanting to stay near a campfire light until sunrise.",
+  "developerName": "Moonlight Kids",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3092480000,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NR8ZBSJQ4FD",
+  "productKind": "Game",
+  "publisherName": "Humble Games",
+  "ratingCount": 214,
+  "releaseDate": "2021-05-20T00:00:00.0000000Z",
+  "shortDescription": "Wield an ever-growing herd of quirky creatures to rebuild broken paths, battle perilous beasts, and solve peculiar puzzles in a rich, interconnected world. Join two young runaways as they unravel the mysteries of a lost realm in this nostalgic storybook fantasy!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9R3BFCHJRFJ6",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B4H450163P4K",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 24.99,
+        "msrp": 24.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Wild at Heart",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    },
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-05-20T00:00:00Z",
+      "exitDateUTC": "2022-05-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEWILDATHEART",
+    "xboxTitleId": 2092946250,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

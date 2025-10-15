@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 2074,
+    "specific_id": 2074,
+    "title": "Need for Speed: Rivals",
+    "store_title": "Need for Speed Rivals",
+    "pid": "C3VM0TMWNZ5M",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P1CWNG8F7B5"
+    ],
+    "sku_groups": [
+      [
+        "9P1CWNG8F7B5"
+      ],
+      [
+        "C3VM0TMWNZ5M"
+      ]
+    ],
+    "original_release_date": "2013-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-6)"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Ghost Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2074,
+      "name": "Need for Speed: Rivals",
+      "url": "https://www.igdb.com/games/need-for-speed-rivals",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Criterion Games",
+        "Ghost Games"
+      ],
+      "genres": [
+        "Racing",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

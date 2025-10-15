@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 124954,
+    "specific_id": 124954,
+    "title": "Crusader Kings III",
+    "store_title": "Crusader Kings III",
+    "pid": "9N7GG222GTTH",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MZ8RZSD0NFQ"
+    ],
+    "sku_groups": [
+      [
+        "9MZ8RZSD0NFQ"
+      ],
+      [
+        "9N7GG222GTTH"
+      ]
+    ],
+    "original_release_date": "2020-09-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-09-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-09-01",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer ",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Paradox Development Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 124954,
+      "name": "Crusader Kings III",
+      "url": "https://www.igdb.com/games/crusader-kings-iii",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Sandbox",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

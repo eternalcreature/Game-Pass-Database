@@ -1,0 +1,144 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.2,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Music"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Suggestive Themes",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Double Kick Heroes mixes a shoot'em up with a rhythm game!\r\n\r\nStory mode\r\nYou must survive on the highway to hell by killing monsters with your gundillac! \r\nStruggle through the 30 levels of total madness and escape from this nightmare! Only the power of Metal can save your band! \r\n\r\nArcade mode\r\nJump right into the action and play your favorite tracks from the game.\r\n\r\n\r\nFeatures\r\n- Double Kick zombies in the face with insane Metal music! \r\n- 30 tremendously awesome quality Metal songs by a legendary video game AND Metal composer. \r\n- Unlock new gear and pimp your Gundillac. \r\n- Rodriguez infused background story about being weird guys and gals who live for Sex, Drugs and Heavy Metal. \r\n- Explosions, rebels, militias, undeads, road-rage, madness, apocalypse. Ready to hit the fury road? \r\n- The only awesome rock and metal rhythm game, what more!?",
+  "developerName": "Headbang Club",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2739093504,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9NJPT63K27W8",
+  "productKind": "Game",
+  "publisherName": "Plug In Digital",
+  "ratingCount": 217,
+  "releaseDate": "2020-08-28T00:00:00.0000000Z",
+  "shortDescription": "Double Kick Heroes mixes a shoot'em up with a rhythm game. \r\nYou must survive on the highway to hell by killing monsters with your gundillac. \r\nOnly the power of Metal can save your band!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TFGS3N5LZ03",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 21.99,
+        "msrp": 21.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9S54ZHLTGTTL",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 21.99,
+        "msrp": 21.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Double Kick Heroes",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2020-08-28T00:00:00Z",
+      "exitDateUTC": "2021-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2020-08-28T00:00:00Z",
+      "exitDateUTC": "2021-09-01T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2020-08-28T00:00:00Z",
+      "exitDateUTC": "2021-09-01T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DOUBLEKICKHEROES",
+    "xboxTitleId": 1646140981,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

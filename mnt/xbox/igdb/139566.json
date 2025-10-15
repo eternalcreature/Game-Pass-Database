@@ -1,0 +1,65 @@
+{
+  "id": 139566,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 2,
+      "name": "Point-and-click"
+    },
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 135588,
+      "company": {
+        "id": 28613,
+        "name": "The Outer Zone"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 135589,
+      "company": {
+        "id": 23956,
+        "name": "Brave At Night"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Mind Scanners",
+  "player_perspectives": [
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/mind-scanners"
+}

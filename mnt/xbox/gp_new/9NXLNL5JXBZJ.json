@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 10965,
+    "specific_id": 53410,
+    "title": "Need for Speed",
+    "store_title": "Need for Speed\u2122 Deluxe Edition",
+    "pid": "9NXLNL5JXBZJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BXWJNW4170RM"
+    ],
+    "sku_groups": [
+      [
+        "9NXLNL5JXBZJ"
+      ],
+      [
+        "BXWJNW4170RM"
+      ]
+    ],
+    "original_release_date": "2015-11-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Ghost Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10965,
+      "name": "Need for Speed",
+      "url": "https://www.igdb.com/games/need-for-speed",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Ghost Games"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 10965,
+      "name": "Need for Speed",
+      "url": "https://www.igdb.com/games/need-for-speed",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "Ghost Games"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

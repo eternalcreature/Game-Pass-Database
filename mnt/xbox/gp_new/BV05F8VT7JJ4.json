@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 28856,
+    "specific_id": 28856,
+    "title": "The Crew 2",
+    "store_title": "The Crew\u00ae 2",
+    "pid": "BV05F8VT7JJ4",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NXTFRQJGZ43"
+    ],
+    "sku_groups": [
+      [
+        "9NXTFRQJGZ43"
+      ],
+      [
+        "BV05F8VT7JJ4"
+      ]
+    ],
+    "original_release_date": "2018-06-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "UBISOFT",
+    "developer": "IVORY"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28856,
+      "name": "The Crew 2",
+      "url": "https://www.igdb.com/games/the-crew-2",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ivory Tower"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

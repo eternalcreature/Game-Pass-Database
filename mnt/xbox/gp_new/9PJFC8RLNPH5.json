@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 10,
+    "specific_id": 10,
+    "title": "Jade Empire: Special Edition",
+    "store_title": "Jade Empire\u2122: Special Edition",
+    "pid": "9PJFC8RLNPH5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJFC8RLNPH5"
+      ]
+    ],
+    "original_release_date": "2005-04-12",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 10,
+      "name": "Jade Empire: Special Edition",
+      "url": "https://www.igdb.com/games/jade-empire-special-edition",
+      "publishers": [
+        "2K Games",
+        "Aspyr Media",
+        "BioWare",
+        "Buka Entertainment",
+        "Electronic Arts",
+        "Mastertronic",
+        "ak tronic"
+      ],
+      "developers": [
+        "BioWare"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

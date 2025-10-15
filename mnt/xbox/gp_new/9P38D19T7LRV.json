@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 252830,
+    "specific_id": 252830,
+    "title": "Microsoft Flight Simulator 2024",
+    "store_title": "Microsoft Flight Simulator 2024",
+    "pid": "9P38D19T7LRV",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P2VGCTBMM52"
+    ],
+    "sku_groups": [
+      [
+        "9P2VGCTBMM52",
+        "9P38D19T7LRV"
+      ]
+    ],
+    "original_release_date": "2024-11-19",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-11-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-11-19",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-11-19",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Asobo Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252830,
+      "name": "Microsoft Flight Simulator 2024",
+      "url": "https://www.igdb.com/games/microsoft-flight-simulator-2024",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Asobo Studio"
+      ],
+      "genres": [
+        "Simulator"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,130 @@
+{
+  "basic_info": {
+    "base_id": 113108,
+    "specific_id": 143481,
+    "title": "Journey to the Savage Planet",
+    "store_title": "Journey To The Savage Planet: Employee Of The Month",
+    "pid": "9NFPSRZ4CH1H",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NXBGSSKG538"
+    ],
+    "sku_groups": [
+      [
+        "9NFPSRZ4CH1H"
+      ],
+      [
+        "9NXBGSSKG538"
+      ]
+    ],
+    "original_release_date": "2020-01-28",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-07-03",
+        "removed": "2025-07-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-07-01"
+      },
+      "Ultimate": {
+        "added": "2024-07-03",
+        "removed": "2025-07-01"
+      }
+    },
+    {
+      "Console": {
+        "added": "2020-04-09",
+        "removed": "2021-03-31"
+      },
+      "Ultimate": {
+        "added": "2020-04-09",
+        "removed": "2021-03-31"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "505 Games",
+    "developer": "Raccoon Logic"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113108,
+      "name": "Journey to the Savage Planet",
+      "url": "https://www.igdb.com/games/journey-to-the-savage-planet",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Typhoon Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 113108,
+      "name": "Journey to the Savage Planet",
+      "url": "https://www.igdb.com/games/journey-to-the-savage-planet",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Typhoon Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

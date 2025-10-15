@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 143424,
+    "specific_id": 143424,
+    "title": "Warhammer 40,000: Battlesector",
+    "store_title": "Warhammer 40,000: Battlesector",
+    "pid": "9PFLW6WZVJC7",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P4FCZR21QQK"
+    ],
+    "sku_groups": [
+      [
+        "9P4FCZR21QQK"
+      ],
+      [
+        "9PFLW6WZVJC7"
+      ]
+    ],
+    "original_release_date": "2021-07-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": "2022-12-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Slitherine Ltd.",
+    "developer": "Black Lab Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 143424,
+      "name": "Warhammer 40,000: Battlesector",
+      "url": "https://www.igdb.com/games/warhammer-40000-battlesector",
+      "publishers": [
+        "The Slitherine Group"
+      ],
+      "developers": [
+        "Black Lab Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

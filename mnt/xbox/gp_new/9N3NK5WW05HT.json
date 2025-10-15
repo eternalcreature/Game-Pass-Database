@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 36872,
+    "specific_id": 36872,
+    "title": "Forza Motorsport 7",
+    "store_title": "Forza Motorsport 7 Standard Edition",
+    "pid": "9N3NK5WW05HT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3NK5WW05HT"
+      ]
+    ],
+    "original_release_date": "2017-10-13",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-08",
+        "removed": "2021-09-16"
+      },
+      "Ultimate": {
+        "added": "2020-10-08",
+        "removed": "2021-09-16"
+      },
+      "PC": {
+        "added": "2020-10-08",
+        "removed": "2021-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-24)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying"
+    ],
+    "publisher": "Microsoft Studios",
+    "developer": "Turn 10 Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36872,
+      "name": "Forza Motorsport 7",
+      "url": "https://www.igdb.com/games/forza-motorsport-7",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Turn 10 Studios"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

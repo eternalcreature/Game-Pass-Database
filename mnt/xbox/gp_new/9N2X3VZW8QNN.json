@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 217554,
+    "specific_id": 217554,
+    "title": "Octopath Traveler II",
+    "store_title": "OCTOPATH TRAVELER II",
+    "pid": "9N2X3VZW8QNN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N2X3VZW8QNN"
+      ]
+    ],
+    "original_release_date": "2023-02-24",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-06-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-06-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-03-20",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": " SQUARE ENIX",
+    "developer": "Square Enix, ACQUIRE Corp."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 217554,
+      "name": "Octopath Traveler II",
+      "url": "https://www.igdb.com/games/octopath-traveler-ii",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "ACQUIRE Corp."
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

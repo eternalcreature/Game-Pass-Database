@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 17000,
+    "specific_id": 17000,
+    "title": "Stardew Valley",
+    "store_title": "Stardew Valley",
+    "pid": "C3D891Z6TNQM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MWR1NC6VQ6L"
+    ],
+    "sku_groups": [
+      [
+        "9MWR1NC6VQ6L"
+      ],
+      [
+        "C3D891Z6TNQM"
+      ]
+    ],
+    "original_release_date": "2016-02-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-12-02",
+        "removed": null
+      },
+      "Console": {
+        "added": "2021-12-02",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation",
+      "Action & adventure"
+    ],
+    "publisher": "ConcernedApe",
+    "developer": "ConcernedApe"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 17000,
+      "name": "Stardew Valley",
+      "url": "https://www.igdb.com/games/stardew-valley",
+      "publishers": [
+        "Chucklefish Games",
+        "ConcernedApe"
+      ],
+      "developers": [
+        "ConcernedApe"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Business",
+        "Sandbox",
+        "Romance"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,115 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX"
+  ],
+  "averageRating": 2.4,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblLocalCoop": "Xbox local co-op (2-2)",
+    "XblOnlineCoop": "Online co-op (2-2)",
+    "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+    "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "SinglePlayer": "Single player",
+    "SharedSplitScreen": "Shared/split screen",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves"
+  },
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 10 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.56093.image.e3da543f-ed61-47ce-bc12-683dab90c502.5e57d206-3b82-4a7b-9b98-d1548cd450a8",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "EVERYONE 10+",
+    "ratingAge": 10,
+    "ratingDescription": "For ages 10 and up"
+  },
+  "description": "Fight. Die. Win! (And probably die some more.) \r\n\r\nNext Up Hero is a dungeon crawler featuring hand-drawn heroes that hack, slash, bongo-drum, boomerang, and jet their way through Ventures. Choose your Hero and start rolling dungeons, gearing out, and maxing your stats. If you're feeling especially heroic, invite a friend for co-op. You're going to need all the help you can get. \r\n\r\nDungeon Maker Mode: Craft a savage dungeon and challenge the community to beat it. If they beat the dungeon, they get to keep a rare piece of loot. If they fail, the treasure is yours. \r\n\r\nPerma-Permadeath: Death is so permanent in Next Up Hero that your “echo” remains for the next player to raise. People die a lot in Next Up Hero, so you can resurrect up to 20 AI followers!\r\n\r\nMixer Interactive Enabled: It’s Hero vs. Dirge powered by Mixer Interactive. Spectators can control the echo army, helping the hero survive the floor, or buff the Dirge enemies, slowing and freezing the player.",
+  "developerName": "Digital Continue",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 3237199872,
+  "optimalSkuId": "0001",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BQS7GXV4PSDT",
+  "productKind": "Game",
+  "publisherName": "Aspyr",
+  "ratingCount": 129,
+  "releaseDate": "2018-06-28T00:00:00.0000000Z",
+  "shortDescription": "Next Up Hero is a dungeon crawler featuring hand-drawn heroes that hack, slash, bongo-drum, boomerang, and jet their way through Ventures. Choose your Hero and start rolling dungeons, gearing out, and maxing your stats. Invite a friend for co-op -- you’re going to need all the help you can get.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "9T3VR9XS8TB7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0001",
+        "availabilityId": "B3261MTJVXR4",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Next Up Hero",
+  "passMetadataByPassProductId": {},
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

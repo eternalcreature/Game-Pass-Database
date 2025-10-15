@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 36911,
+    "specific_id": 85144,
+    "title": "Dragon Ball FighterZ",
+    "store_title": "DRAGON BALL FIGHTERZ - FighterZ Edition (Windows)",
+    "pid": "9N22XXKKV3XF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P1BKCL3NVVG",
+      "BZRK5C951KK7"
+    ],
+    "sku_groups": [
+      [
+        "9N22XXKKV3XF"
+      ],
+      [
+        "9P1BKCL3NVVG"
+      ],
+      [
+        "BZRK5C951KK7"
+      ]
+    ],
+    "original_release_date": "2018-01-26",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad"
+    },
+    "categories": [
+      "Fighting"
+    ],
+    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "developer": "ARC SYSTEM WORKS CO.,LTD."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 36911,
+      "name": "Dragon Ball FighterZ",
+      "url": "https://www.igdb.com/games/dragon-ball-fighterz",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Arc System Works"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    },
+    "specific": {
+      "id": 36911,
+      "name": "Dragon Ball FighterZ",
+      "url": "https://www.igdb.com/games/dragon-ball-fighterz",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Arc System Works"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

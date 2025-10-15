@@ -1,0 +1,80 @@
+{
+  "basic_info": {
+    "base_id": 240426,
+    "specific_id": 240426,
+    "title": "FIFA 15",
+    "store_title": "FIFA 15",
+    "pid": "BXSVW5X9S0G3",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BXSVW5X9S0G3"
+      ]
+    ],
+    "original_release_date": "2014-09-23",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": "2021-05-07"
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": "2021-05-07"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-22)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-22)"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240426,
+      "name": "FIFA 15",
+      "url": "https://www.igdb.com/games/fifa-15--4",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Canada"
+      ],
+      "genres": [
+        "Sport"
+      ],
+      "themes": [
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

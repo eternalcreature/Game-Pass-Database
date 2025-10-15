@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 28540,
+    "specific_id": 28540,
+    "title": "Assassin's Creed Origins",
+    "store_title": "Assassin's Creed Origins",
+    "pid": "9NC2HVPRQQ9F",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZGJRJC1FGF3"
+    ],
+    "sku_groups": [
+      [
+        "9NC2HVPRQQ9F"
+      ],
+      [
+        "BZGJRJC1FGF3"
+      ]
+    ],
+    "original_release_date": "2017-10-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-06-07",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-06-07",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28540,
+      "name": "Assassin's Creed Origins",
+      "url": "https://www.igdb.com/games/assassins-creed-origins",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

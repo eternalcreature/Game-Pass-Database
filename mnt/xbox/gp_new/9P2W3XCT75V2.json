@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 187112,
+    "specific_id": 187112,
+    "title": "Serious Sam: Siberian Mayhem",
+    "store_title": "Serious Sam: Siberian Mayhem",
+    "pid": "9P2W3XCT75V2",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9P8X7236WM5P"
+    ],
+    "sku_groups": [
+      [
+        "9P2W3XCT75V2"
+      ],
+      [
+        "9P8X7236WM5P"
+      ]
+    ],
+    "original_release_date": "2022-01-25",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-07-25",
+        "removed": "2025-02-01"
+      },
+      "Ultimate": {
+        "added": "2023-07-25",
+        "removed": "2025-02-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-02-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "Capability4k": "4K Ultra HD",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Croteam"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 187112,
+      "name": "Serious Sam: Siberian Mayhem",
+      "url": "https://www.igdb.com/games/serious-sam-siberian-mayhem",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Croteam",
+        "Timelock Studio"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

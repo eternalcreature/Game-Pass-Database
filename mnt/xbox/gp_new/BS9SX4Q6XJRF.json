@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 76,
+    "specific_id": 76,
+    "title": "Dragon Age: Origins",
+    "store_title": "Dragon Age: Origins",
+    "pid": "BS9SX4Q6XJRF",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9MWQ083Z7L4F"
+    ],
+    "sku_groups": [
+      [
+        "9MWQ083Z7L4F"
+      ],
+      [
+        "BS9SX4Q6XJRF"
+      ]
+    ],
+    "original_release_date": "2009-11-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2020-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "GameStreaming": "Cloud enabled",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "BioWare"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 76,
+      "name": "Dragon Age: Origins",
+      "url": "https://www.igdb.com/games/dragon-age-origins",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "BioWare Edmonton"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

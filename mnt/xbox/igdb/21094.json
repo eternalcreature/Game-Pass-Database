@@ -1,0 +1,61 @@
+{
+  "id": 21094,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    },
+    {
+      "id": 8,
+      "name": "Platform"
+    },
+    {
+      "id": 25,
+      "name": "Hack and slash/Beat 'em up"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 79537,
+      "company": {
+        "id": 53,
+        "name": "Microsoft Game Studios"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 79538,
+      "company": {
+        "id": 1973,
+        "name": "Twisted Pixel"
+      },
+      "developer": true,
+      "publisher": true
+    }
+  ],
+  "name": "Comic Jumper: The Adventures of Captain Smiley",
+  "player_perspectives": [
+    {
+      "id": 4,
+      "name": "Side view"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Comedy"
+    }
+  ],
+  "url": "https://www.igdb.com/games/comic-jumper-the-adventures-of-captain-smiley"
+}

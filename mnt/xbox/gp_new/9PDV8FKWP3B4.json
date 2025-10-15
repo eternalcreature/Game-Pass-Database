@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 27421,
+    "specific_id": 27421,
+    "title": "Middle-earth: Shadow of War",
+    "store_title": "Middle-earth\u2122: Shadow of War\u2122",
+    "pid": "9PDV8FKWP3B4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDV8FKWP3B4"
+      ]
+    ],
+    "original_release_date": "2017-10-10",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-07-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2019-07-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-07-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Warner Bros. Games",
+    "developer": "Monolith Productions"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27421,
+      "name": "Middle-earth: Shadow of War",
+      "url": "https://www.igdb.com/games/middle-earth-shadow-of-war",
+      "publishers": [
+        "WB Games"
+      ],
+      "developers": [
+        "Monolith Productions"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

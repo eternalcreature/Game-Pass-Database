@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 68447,
+    "specific_id": 68447,
+    "title": "Superliminal",
+    "store_title": "Superliminal",
+    "pid": "9NVR4ZQKNBSB",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NVR4ZQKNBSB"
+      ]
+    ],
+    "original_release_date": "2019-11-12",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-09-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-09-16",
+        "removed": null
+      },
+      "Console": {
+        "added": "2021-09-16",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-09-16",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia",
+      "Shooter"
+    ],
+    "publisher": "Pillow Castle",
+    "developer": "Pillow Castle"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 68447,
+      "name": "Superliminal",
+      "url": "https://www.igdb.com/games/superliminal",
+      "publishers": [
+        "Noodlecake Studios",
+        "Pillow Castle Games"
+      ],
+      "developers": [
+        "Pillow Castle Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

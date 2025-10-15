@@ -1,0 +1,113 @@
+{
+  "basic_info": {
+    "base_id": 125009,
+    "specific_id": 2640,
+    "title": "Halo 2: Anniversary",
+    "store_title": "Halo: Combat Evolved Anniversary",
+    "pid": "9NWQMVSB63N4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NWQMVSB63N4"
+      ]
+    ],
+    "original_release_date": "2004-11-09",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-03-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-03-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-16)",
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "343 Industries, Bungie"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 125009,
+      "name": "Halo 2: Anniversary",
+      "url": "https://www.igdb.com/games/halo-2-anniversary",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "343 Industries",
+        "Bungie"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 125009,
+      "name": "Halo 2: Anniversary",
+      "url": "https://www.igdb.com/games/halo-2-anniversary",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "343 Industries",
+        "Bungie"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

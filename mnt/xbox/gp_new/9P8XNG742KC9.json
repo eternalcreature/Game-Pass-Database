@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 119387,
+    "specific_id": 119387,
+    "title": "No More Heroes III",
+    "store_title": "No More Heroes 3 Windows",
+    "pid": "9P8XNG742KC9",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NSLHCTRDWGC"
+    ],
+    "sku_groups": [
+      [
+        "9NSLHCTRDWGC"
+      ],
+      [
+        "9P8XNG742KC9"
+      ]
+    ],
+    "original_release_date": "2021-08-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-03-14",
+        "removed": "2025-03-16"
+      },
+      "Ultimate": {
+        "added": "2024-03-14",
+        "removed": "2025-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Marvelous Inc.",
+    "developer": "Grasshopper Manufacture Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119387,
+      "name": "No More Heroes III",
+      "url": "https://www.igdb.com/games/no-more-heroes-iii",
+      "publishers": [
+        "Grasshopper Manufacture"
+      ],
+      "developers": [
+        "Grasshopper Manufacture"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 115830,
+    "specific_id": 115830,
+    "title": "Crime Scene Cleaner",
+    "store_title": "Crime Scene Cleaner",
+    "pid": "9NGZ1M3N98P2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGZ1M3N98P2"
+      ]
+    ],
+    "original_release_date": "2024-08-14",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-04-17",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-17",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-04-17",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation"
+    ],
+    "publisher": "PlayWay S.A.",
+    "developer": "President Studio S.A. "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 115830,
+      "name": "Crime Scene Cleaner",
+      "url": "https://www.igdb.com/games/crime-scene-cleaner",
+      "publishers": [
+        "PlayWay S.A.",
+        "President Studio"
+      ],
+      "developers": [
+        "President Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

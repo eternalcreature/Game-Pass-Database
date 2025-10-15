@@ -1,0 +1,79 @@
+{
+  "basic_info": {
+    "base_id": 77348,
+    "specific_id": 77348,
+    "title": "Mirror's Edge",
+    "store_title": "Mirror's Edge",
+    "pid": "9PJPZ1DQD0WM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BP96WRTVD7C1"
+    ],
+    "sku_groups": [
+      [
+        "9PJPZ1DQD0WM"
+      ],
+      [
+        "BP96WRTVD7C1"
+      ]
+    ],
+    "original_release_date": "2010-04-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Electronic Arts ",
+    "developer": "DICE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 77348,
+      "name": "Mirror's Edge",
+      "url": "https://www.igdb.com/games/mirrors-edge",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "IronMonkey Studios"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "base_id": 110411,
+    "specific_id": 110411,
+    "title": "Dirt Rally 2.0",
+    "store_title": "DiRT Rally 2.0",
+    "pid": "BRPGP6H8P26F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BRPGP6H8P26F"
+      ]
+    ],
+    "original_release_date": "2019-02-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-10",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Racing & flying",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "publisher": "Codemasters",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 110411,
+      "name": "Dirt Rally 2.0",
+      "url": "https://www.igdb.com/games/dirt-rally-2-dot-0",
+      "publishers": [
+        "Codemasters"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport",
+        "Strategy"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

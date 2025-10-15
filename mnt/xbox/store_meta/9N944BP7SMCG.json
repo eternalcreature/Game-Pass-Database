@@ -1,0 +1,152 @@
+{
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "PC",
+    "XCloud"
+  ],
+  "averageRating": 2.5,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "XblOnlineCoop": "Online co-op (2-4)",
+    "XblOnlineMultiPlayer": "Online multiplayer ",
+    "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+    "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+    "PcGamePad": "PC Game Pad",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblClubs": "Xbox clubs",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [
+      "Users Interact"
+    ],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "It’s been a century since the events of Torchlight II, and the Ember Empire is in decline. In Torchlight III, Novastraia is again under threat of invasion and it’s up to you to defend against the Netherim and its allies. Gather your wits and brave the frontier to find fame, glory, and new adventures!\r\n\r\nTravel the Frontier - Brave the vast wilderness of Novastraia and all of its dangers either alone or with a group of friends! \r\n\r\nCollect Epic Gear - Whether it’s armor, weapons, or even new pets...there’s always more to find as you battle through dungeons and take on dangerous foes. \r\n\r\nBuild Your Hero - With four unique classes to choose from and five available Relic subclasses, there are many different ways to build your hero and maximize your damage. You’ll also gather epic gear along your journey that you can customize to work with your hero’s unique make-up.\r\n\r\nBuild & Upgrade Your Fort - It’s time to rebuild – and that includes you! Enjoy your very own fort, where you can upgrade gear and renovate your fort to show off to your friends and the world.\r\n\r\nPets Are Back - Fight your way to fame and glory with your loyal companion! Add skills and equip them with gear to make them stronger. Each species comes in a myriad of colors and styles, so make sure to collect them all!",
+  "developerName": "Echtra Inc.",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "LegalNoticePurchase",
+    "DataSharingDisclaimer",
+    "XboxLiveGoldRequiredForOnline"
+  ],
+  "maxInstallSize": 7561584640,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9N944BP7SMCG",
+  "productKind": "Game",
+  "publisherName": "Arc Games",
+  "ratingCount": 252,
+  "releaseDate": "2020-10-13T14:00:00.0000000Z",
+  "shortDescription": "In Torchlight III, Novastraia is again under threat of invasion and it’s up to you to defend against the Netherim and its allies. Gather your wits and brave the frontier to find fame, glory, and a new adventure!",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9T147XNC4749",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9W47VZMR64QD",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "10/08/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Torchlight III",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2021-01-14T00:00:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2021-01-14T00:00:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2021-03-18T00:02:00Z",
+      "exitDateUTC": "2022-03-16T10:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "TORCHLIGHTIII",
+    "xboxTitleId": 1610985256,
+    "programs": [
+      "BYOG",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

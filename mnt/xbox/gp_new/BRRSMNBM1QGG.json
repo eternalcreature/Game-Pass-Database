@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 2449,
+    "specific_id": 2449,
+    "title": "Lightning Returns: Final Fantasy XIII",
+    "store_title": "LIGHTNING RETURNS FFXIII",
+    "pid": "BRRSMNBM1QGG",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PLF9MR720SJ"
+    ],
+    "sku_groups": [
+      [
+        "9PLF9MR720SJ"
+      ],
+      [
+        "BRRSMNBM1QGG"
+      ]
+    ],
+    "original_release_date": "2013-11-21",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-03-03",
+        "removed": "2023-03-01"
+      },
+      "Ultimate": {
+        "added": "2022-03-03",
+        "removed": "2023-03-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Square Enix",
+    "developer": "Square Enix"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 2449,
+      "name": "Lightning Returns: Final Fantasy XIII",
+      "url": "https://www.igdb.com/games/lightning-returns-final-fantasy-xiii",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "Square Enix",
+        "Square Enix 1st Production Department",
+        "Square Enix Business Division 1"
+      ],
+      "genres": [
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

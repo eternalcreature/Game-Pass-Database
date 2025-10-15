@@ -1,0 +1,104 @@
+{
+  "basic_info": {
+    "base_id": 198506,
+    "specific_id": 198506,
+    "title": "Disney Dreamlight Valley",
+    "store_title": "Disney Dreamlight Valley",
+    "pid": "9NSF0BGH8D86",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NSF0BGH8D86"
+      ]
+    ],
+    "original_release_date": "2022-09-06",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-09-06",
+        "removed": null
+      },
+      "Console": {
+        "added": "2022-09-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-09-06",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Gameloft SE",
+    "developer": "Gameloft SE"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 198506,
+      "name": "Disney Dreamlight Valley",
+      "url": "https://www.igdb.com/games/disney-dreamlight-valley",
+      "publishers": [
+        "Gameloft"
+      ],
+      "developers": [
+        "Gameloft"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

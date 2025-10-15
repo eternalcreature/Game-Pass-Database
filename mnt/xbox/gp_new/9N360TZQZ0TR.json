@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 120878,
+    "specific_id": 120878,
+    "title": "Before We Leave",
+    "store_title": "Before We Leave",
+    "pid": "9N360TZQZ0TR",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N360TZQZ0TR"
+      ]
+    ],
+    "original_release_date": "2021-05-13",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-11-23",
+        "removed": "2023-05-16"
+      },
+      "Ultimate": {
+        "added": "2021-11-23",
+        "removed": "2023-05-16"
+      },
+      "Console": {
+        "added": "2021-11-23",
+        "removed": "2023-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Team17",
+    "developer": "Balancing Monkey Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120878,
+      "name": "Before We Leave",
+      "url": "https://www.igdb.com/games/before-we-leave",
+      "publishers": [
+        "Balancing Monkey Games",
+        "Team17"
+      ],
+      "developers": [
+        "Balancing Monkey Games"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

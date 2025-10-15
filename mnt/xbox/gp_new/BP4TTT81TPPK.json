@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 475,
+    "specific_id": 475,
+    "title": "Star Wars: The Force Unleashed",
+    "store_title": "Star Wars: The Force Unleashed",
+    "pid": "BP4TTT81TPPK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BP4TTT81TPPK"
+      ]
+    ],
+    "original_release_date": "2008-09-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Disney Interactive Studios",
+    "developer": "LucasArts"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 475,
+      "name": "Star Wars: The Force Unleashed",
+      "url": "https://www.igdb.com/games/star-wars-the-force-unleashed",
+      "publishers": [
+        "Aspyr Media",
+        "LucasArts",
+        "THQ Wireless"
+      ],
+      "developers": [
+        "Aspyr Media",
+        "LucasArts"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

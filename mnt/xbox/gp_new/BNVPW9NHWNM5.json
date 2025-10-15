@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 12511,
+    "specific_id": 12511,
+    "title": "Battle Chasers: Nightwar",
+    "store_title": "Battle Chasers: Nightwar",
+    "pid": "BNVPW9NHWNM5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BNVPW9NHWNM5"
+      ]
+    ],
+    "original_release_date": "2017-10-03",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-06-11",
+        "removed": "2021-07-01"
+      },
+      "Ultimate": {
+        "added": "2020-06-11",
+        "removed": "2021-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "THQ Nordic",
+    "developer": "Airship Syndicate"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 12511,
+      "name": "Battle Chasers: Nightwar",
+      "url": "https://www.igdb.com/games/battle-chasers-nightwar",
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "developers": [
+        "Airship Syndicate"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

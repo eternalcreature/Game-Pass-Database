@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 110957,
+    "specific_id": 110957,
+    "title": "Inkulinati",
+    "store_title": "Inkulinati",
+    "pid": "9P5D8B393ZZ4",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P5D8B393ZZ4"
+      ]
+    ],
+    "original_release_date": "2023-01-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-01-31",
+        "removed": "2024-11-01"
+      },
+      "Ultimate": {
+        "added": "2023-01-31",
+        "removed": "2024-11-01"
+      },
+      "Console": {
+        "added": "2023-01-31",
+        "removed": "2024-11-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Daedalic Entertainment",
+    "developer": "Yaza Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 110957,
+      "name": "Inkulinati",
+      "url": "https://www.igdb.com/games/inkulinati",
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "developers": [
+        "Yaza Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

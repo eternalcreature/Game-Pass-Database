@@ -1,0 +1,59 @@
+{
+  "id": 4784,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 4,
+      "name": "Split screen"
+    }
+  ],
+  "genres": [
+    {
+      "id": 4,
+      "name": "Fighting"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 14,
+      "name": "Sport"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 11512,
+      "company": {
+        "id": 277,
+        "name": "EA Canada"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 11511,
+      "company": {
+        "id": 454,
+        "name": "EA Sports"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "EA Sports UFC",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    }
+  ],
+  "url": "https://www.igdb.com/games/ea-sports-ufc"
+}

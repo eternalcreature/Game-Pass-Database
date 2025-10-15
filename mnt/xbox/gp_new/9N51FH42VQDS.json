@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 329132,
+    "specific_id": 329132,
+    "title": "Ninja Gaiden II Black",
+    "store_title": "NINJA GAIDEN 2 Black",
+    "pid": "9N51FH42VQDS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N51FH42VQDS"
+      ]
+    ],
+    "original_release_date": "2025-01-23",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-01-23",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-01-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-01-23",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": "KOEI TECMO GAMES"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 329132,
+      "name": "Ninja Gaiden II Black",
+      "url": "https://www.igdb.com/games/ninja-gaiden-ii-black",
+      "publishers": [
+        "Koei Tecmo"
+      ],
+      "developers": [
+        "Koei Tecmo",
+        "Team NINJA"
+      ],
+      "genres": [
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 225426,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 295022,
+      "company": {
+        "id": 41364,
+        "name": "Whitethorn Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 295023,
+      "company": {
+        "id": 44232,
+        "name": "Balloon Studios"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Botany Manor",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 43,
+      "name": "Mystery"
+    }
+  ],
+  "url": "https://www.igdb.com/games/botany-manor"
+}

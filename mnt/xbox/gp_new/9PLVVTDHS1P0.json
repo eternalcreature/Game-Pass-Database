@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 287578,
+    "specific_id": 287578,
+    "title": "F1 24",
+    "store_title": "F1\u00ae 24",
+    "pid": "9PLVVTDHS1P0",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N123ZCCL33B"
+    ],
+    "sku_groups": [
+      [
+        "9N123ZCCL33B"
+      ],
+      [
+        "9PLVVTDHS1P0"
+      ]
+    ],
+    "original_release_date": "2024-05-31",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2025-02-20",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-02-20",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-22)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "DTSX": "DTS:X",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Racing & flying",
+      "Family & kids",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters "
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 287578,
+      "name": "F1 24",
+      "url": "https://www.igdb.com/games/f1-24",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "Codemasters"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Virtual Reality"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

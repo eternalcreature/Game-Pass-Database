@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 263008,
+    "specific_id": 263008,
+    "title": "Symphonia",
+    "store_title": "Symphonia \ud834\udd1e",
+    "pid": "9NBLHDB0WLHZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NBLHDB0WLHZ"
+      ]
+    ],
+    "original_release_date": "2024-12-05",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-03",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer",
+      "Action & adventure"
+    ],
+    "publisher": "Headup",
+    "developer": "Sunny Peak"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 263008,
+      "name": "Symphonia",
+      "url": "https://www.igdb.com/games/symphonia",
+      "publishers": [
+        "Headup"
+      ],
+      "developers": [
+        "Sunny Peak"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

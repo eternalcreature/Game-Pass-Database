@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "base_id": 124954,
+    "specific_id": 124954,
+    "title": "Crusader Kings III",
+    "store_title": "Crusader Kings III",
+    "pid": "9MZ8RZSD0NFQ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N7GG222GTTH"
+    ],
+    "sku_groups": [
+      [
+        "9MZ8RZSD0NFQ"
+      ],
+      [
+        "9N7GG222GTTH"
+      ]
+    ],
+    "original_release_date": "2020-09-01",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-03-29",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-03-29",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer ",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Paradox Development Studio, Room8 Group"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 124954,
+      "name": "Crusader Kings III",
+      "url": "https://www.igdb.com/games/crusader-kings-iii",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Paradox Development Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [
+        "Historical",
+        "Sandbox",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Text"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,44 @@
+{
+  "id": 237966,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 204046,
+      "company": {
+        "id": 517,
+        "name": "Paradox Interactive"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 204047,
+      "company": {
+        "id": 1304,
+        "name": "Tantalus Media"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Cities: Skylines - Remastered",
+  "parent_game": 9066,
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "url": "https://www.igdb.com/games/cities-skylines-remastered"
+}

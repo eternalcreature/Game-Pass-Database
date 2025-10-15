@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 325588,
+    "specific_id": 325588,
+    "title": "Rematch",
+    "store_title": "REMATCH",
+    "pid": "9N5K7HWXL4Q6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N5K7HWXL4Q6"
+      ]
+    ],
+    "original_release_date": "2025-06-19",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-06-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-06-19",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-06-19",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (5-5)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (5-5)",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Sports",
+      "Action & adventure",
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Sloclap, Kepler Interactive",
+    "developer": "Sloclap"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 325588,
+      "name": "Rematch",
+      "url": "https://www.igdb.com/games/rematch--1",
+      "publishers": [
+        "Kepler Interactive",
+        "Sloclap"
+      ],
+      "developers": [
+        "Sloclap"
+      ],
+      "genres": [
+        "Sport",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

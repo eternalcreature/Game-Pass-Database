@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "base_id": 119342,
+    "specific_id": 119342,
+    "title": "Chivalry 2",
+    "store_title": "Chivalry 2",
+    "pid": "9N7CJX93ZGWN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N7CJX93ZGWN"
+      ]
+    ],
+    "original_release_date": "2021-06-08",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2023-12-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-10-04",
+        "removed": null
+      },
+      "Console": {
+        "added": "2022-10-04",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-10-04",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-64)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Fighting",
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Tripwire Interactive LLC",
+    "developer": "Tripwire Interactive LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119342,
+      "name": "Chivalry 2",
+      "url": "https://www.igdb.com/games/chivalry-2",
+      "publishers": [
+        "Tripwire Interactive"
+      ],
+      "developers": [
+        "Torn Banner Studios"
+      ],
+      "genres": [
+        "Fighting",
+        "Tactical",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Historical",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

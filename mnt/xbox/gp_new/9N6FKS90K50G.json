@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "base_id": 5508,
+    "specific_id": 5508,
+    "title": "The Banner Saga",
+    "store_title": "The Banner Saga",
+    "pid": "9N6FKS90K50G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N6FKS90K50G"
+      ]
+    ],
+    "original_release_date": "2014-01-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Simulation",
+      "Strategy"
+    ],
+    "publisher": "Versus Evil",
+    "developer": "Stoic"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 5508,
+      "name": "The Banner Saga",
+      "url": "https://www.igdb.com/games/the-banner-saga",
+      "publishers": [
+        "Versus Evil"
+      ],
+      "developers": [
+        "Stoic"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Strategy",
+        "Tactical",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

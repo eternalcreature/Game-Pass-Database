@@ -1,0 +1,90 @@
+{
+  "basic_info": {
+    "base_id": 122662,
+    "specific_id": 122662,
+    "title": "Going Under",
+    "store_title": "Going Under",
+    "pid": "9NX3G3Z38CV2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NX3G3Z38CV2"
+      ]
+    ],
+    "original_release_date": "2020-09-24",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-29",
+        "removed": "2022-10-01"
+      },
+      "Ultimate": {
+        "added": "2021-06-29",
+        "removed": "2022-10-01"
+      },
+      "Console": {
+        "added": "2021-06-29",
+        "removed": "2022-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Team17 Digital Ltd.",
+    "developer": "Aggro Crab Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 122662,
+      "name": "Going Under",
+      "url": "https://www.igdb.com/games/going-under",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Aggro Crab Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Hack and slash/Beat 'em up",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

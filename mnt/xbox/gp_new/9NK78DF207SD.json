@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 116753,
+    "specific_id": 116753,
+    "title": "A Short Hike",
+    "store_title": "A Short Hike",
+    "pid": "9NK78DF207SD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NK78DF207SD"
+      ]
+    ],
+    "original_release_date": "2019-07-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-08-03",
+        "removed": "2024-08-01"
+      },
+      "Ultimate": {
+        "added": "2023-08-03",
+        "removed": "2024-08-01"
+      },
+      "Console": {
+        "added": "2023-08-03",
+        "removed": "2024-08-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Platformer"
+    ],
+    "publisher": "Whippoorwill Limited",
+    "developer": "Adam Robinson-Yu"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 116753,
+      "name": "A Short Hike",
+      "url": "https://www.igdb.com/games/a-short-hike",
+      "publishers": [
+        "Adam Gryu",
+        "Whippoorwill"
+      ],
+      "developers": [
+        "Adam Gryu"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

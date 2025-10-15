@@ -1,0 +1,132 @@
+{
+  "basic_info": {
+    "base_id": 334243,
+    "specific_id": 334422,
+    "title": "Tony Hawk's Pro Skater 3+4",
+    "store_title": "Tony Hawk's\u2122 Pro Skater\u2122 3 + 4",
+    "pid": "9N1WK33QNSRJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N9J9NXPZR5C",
+      "9N926481VT1Z",
+      "9NBVJHPX2FKK"
+    ],
+    "sku_groups": [
+      [
+        "9N1WK33QNSRJ",
+        "9N926481VT1Z",
+        "9N9J9NXPZR5C",
+        "9NBVJHPX2FKK"
+      ]
+    ],
+    "original_release_date": "2025-07-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-07-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-07-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-07-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 334243,
+      "name": "Tony Hawk's Pro Skater 3+4",
+      "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Iron Galaxy Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 334243,
+      "name": "Tony Hawk's Pro Skater 3+4",
+      "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Iron Galaxy Studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

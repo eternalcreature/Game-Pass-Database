@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "base_id": 15861,
+    "specific_id": 15861,
+    "title": "Massive Chalice",
+    "store_title": "MASSIVE CHALICE",
+    "pid": "C2484ZR2BWNQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C2484ZR2BWNQ"
+      ]
+    ],
+    "original_release_date": "2015-06-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-05-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-05-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Double Fine Productions, Inc.",
+    "developer": "Double Fine Productions, Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 15861,
+      "name": "Massive Chalice",
+      "url": "https://www.igdb.com/games/massive-chalice",
+      "publishers": [
+        "Double Fine Productions"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

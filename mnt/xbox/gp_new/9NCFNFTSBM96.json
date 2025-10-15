@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 165318,
+    "specific_id": 165318,
+    "title": "Into the Pit",
+    "store_title": "Into the Pit",
+    "pid": "9NCFNFTSBM96",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NCFNFTSBM96"
+      ]
+    ],
+    "original_release_date": "2021-10-19",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-10-19",
+        "removed": "2022-10-16"
+      },
+      "Ultimate": {
+        "added": "2021-10-19",
+        "removed": "2022-10-16"
+      },
+      "Console": {
+        "added": "2021-10-19",
+        "removed": "2022-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Shooter"
+    ],
+    "publisher": "Humble Games",
+    "developer": " Nullpointer Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 165318,
+      "name": "Into the Pit",
+      "url": "https://www.igdb.com/games/into-the-pit",
+      "publishers": [
+        "Nullpointer Games"
+      ],
+      "developers": [
+        "Nullpointer Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

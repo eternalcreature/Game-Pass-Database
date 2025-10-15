@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 7081,
+    "specific_id": 52638,
+    "title": "Battlefield Hardline",
+    "store_title": "Battlefield\u2122 Hardline Ultimate Edition",
+    "pid": "9N40901WDQJD",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BZKZFMQG2K2K"
+    ],
+    "sku_groups": [
+      [
+        "9N40901WDQJD"
+      ],
+      [
+        "BZKZFMQG2K2K"
+      ]
+    ],
+    "original_release_date": "2015-03-17",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "OnlineMultiplayerWithGold": "Online multiplayer"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Visceral"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7081,
+      "name": "Battlefield Hardline",
+      "url": "https://www.igdb.com/games/battlefield-hardline",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE",
+        "Visceral Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 7081,
+      "name": "Battlefield Hardline",
+      "url": "https://www.igdb.com/games/battlefield-hardline",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "EA Digital Illusions CE",
+        "Visceral Games"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Stealth",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

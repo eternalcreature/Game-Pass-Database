@@ -1,0 +1,70 @@
+{
+  "id": 76,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 4148,
+      "company": {
+        "id": 1,
+        "name": "Electronic Arts"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 42805,
+      "company": {
+        "id": 223,
+        "name": "Edge of Reality"
+      },
+      "developer": false,
+      "publisher": false
+    },
+    {
+      "id": 192449,
+      "company": {
+        "id": 222,
+        "name": "BioWare Edmonton"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Dragon Age: Origins",
+  "player_perspectives": [
+    {
+      "id": 2,
+      "name": "Third person"
+    },
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Open world"
+    }
+  ],
+  "url": "https://www.igdb.com/games/dragon-age-origins"
+}

@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "base_id": 240893,
+    "specific_id": 255468,
+    "title": "The Lamplighters League",
+    "store_title": "The Lamplighters League - PC Edition",
+    "pid": "9PG4M7W805RB",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N4CPQ4R2180"
+    ],
+    "sku_groups": [
+      [
+        "9N4CPQ4R2180"
+      ],
+      [
+        "9PG4M7W805RB"
+      ]
+    ],
+    "original_release_date": "2023-10-03",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-10-03",
+        "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2023-10-03",
+        "removed": "2025-04-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Paradox Interactive",
+    "developer": "Harebrained Schemes"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 240893,
+      "name": "The Lamplighters League",
+      "url": "https://www.igdb.com/games/the-lamplighters-league",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Harebrained Schemes"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 240893,
+      "name": "The Lamplighters League",
+      "url": "https://www.igdb.com/games/the-lamplighters-league",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "developers": [
+        "Harebrained Schemes"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Stealth"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

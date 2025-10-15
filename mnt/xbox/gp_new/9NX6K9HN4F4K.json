@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 204623,
+    "specific_id": 204623,
+    "title": "Pentiment",
+    "store_title": "Pentiment",
+    "pid": "9NX6K9HN4F4K",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NX6K9HN4F4K"
+      ]
+    ],
+    "original_release_date": "2022-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-11-15",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-11-15",
+        "removed": null
+      },
+      "PC": {
+        "added": "2022-11-15",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Obsidian Entertainment"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 204623,
+      "name": "Pentiment",
+      "url": "https://www.igdb.com/games/pentiment",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Historical",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

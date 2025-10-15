@@ -1,0 +1,77 @@
+{
+  "basic_info": {
+    "base_id": 7386,
+    "specific_id": 7386,
+    "title": "The Talos Principle",
+    "store_title": "The Talos Principle",
+    "pid": "C1TJ5KT8LT9J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N02KMVCRSRM"
+    ],
+    "sku_groups": [
+      [
+        "9N02KMVCRSRM"
+      ],
+      [
+        "C1TJ5KT8LT9J"
+      ]
+    ],
+    "original_release_date": "2014-12-11",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Puzzle & trivia"
+    ],
+    "publisher": "Devolver Digital",
+    "developer": "Croteam"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7386,
+      "name": "The Talos Principle",
+      "url": "https://www.igdb.com/games/the-talos-principle",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Croteam"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

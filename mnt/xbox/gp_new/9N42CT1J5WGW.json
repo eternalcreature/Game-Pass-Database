@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "base_id": 13,
+    "specific_id": 14,
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "store_title": "Fallout",
+    "pid": "9N42CT1J5WGW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N42CT1J5WGW"
+      ]
+    ],
+    "original_release_date": "1997-09-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-06-13",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Interplay"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 13,
+      "name": "Fallout: A Post Nuclear Role Playing Game",
+      "url": "https://www.igdb.com/games/fallout-a-post-nuclear-role-playing-game",
+      "publishers": [
+        "Bethesda Softworks",
+        "Edusoft",
+        "Interplay Entertainment",
+        "MacPlay"
+      ],
+      "developers": [
+        "Black Isle Studios",
+        "Interplay Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    },
+    "specific": {
+      "id": 13,
+      "name": "Fallout: A Post Nuclear Role Playing Game",
+      "url": "https://www.igdb.com/games/fallout-a-post-nuclear-role-playing-game",
+      "publishers": [
+        "Bethesda Softworks",
+        "Edusoft",
+        "Interplay Entertainment",
+        "MacPlay"
+      ],
+      "developers": [
+        "Black Isle Studios",
+        "Interplay Entertainment"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)"
+      ],
+      "themes": [
+        "Science fiction",
+        "Survival",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 252837,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 229812,
+      "company": {
+        "id": 1364,
+        "name": "The Chinese Room"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 229813,
+      "company": {
+        "id": 36610,
+        "name": "Secret Mode"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Still Wakes the Deep",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    },
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "Stealth"
+    }
+  ],
+  "url": "https://www.igdb.com/games/still-wakes-the-deep"
+}

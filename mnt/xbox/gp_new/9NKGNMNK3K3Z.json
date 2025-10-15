@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 103020,
+    "specific_id": 103020,
+    "title": "Fallout 76",
+    "store_title": "Fallout 76 (PC)",
+    "pid": "9NKGNMNK3K3Z",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BS6WJ2L56B10"
+    ],
+    "sku_groups": [
+      [
+        "9NKGNMNK3K3Z"
+      ],
+      [
+        "BS6WJ2L56B10"
+      ]
+    ],
+    "original_release_date": "2018-11-14",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2020-07-09",
+        "removed": null
+      },
+      "PC": {
+        "added": "2020-07-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103020,
+      "name": "Fallout 76",
+      "url": "https://www.igdb.com/games/fallout-76",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,95 @@
+{
+  "basic_info": {
+    "base_id": 37024,
+    "specific_id": 37024,
+    "title": "Super Lucky's Tale",
+    "store_title": "Super Lucky's Tale",
+    "pid": "9PLMGFWCFZ9G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLMGFWCFZ9G"
+      ]
+    ],
+    "original_release_date": "2017-11-07",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2018-02-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2018-02-28",
+        "removed": null
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Xbox Game Studios",
+    "developer": "Playful Corp."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 37024,
+      "name": "Super Lucky's Tale",
+      "url": "https://www.igdb.com/games/super-luckys-tale",
+      "publishers": [
+        "Microsoft Studios"
+      ],
+      "developers": [
+        "Playful Corporation"
+      ],
+      "genres": [
+        "Platform",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

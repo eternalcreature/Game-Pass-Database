@@ -1,0 +1,76 @@
+{
+  "basic_info": {
+    "base_id": 96204,
+    "specific_id": 96204,
+    "title": "Sea Salt",
+    "store_title": "Sea Salt",
+    "pid": "9NXQ4PX4TZJZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NXQ4PX4TZJZ"
+      ]
+    ],
+    "original_release_date": "2019-10-17",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Strategy"
+    ],
+    "publisher": "YCJY Games",
+    "developer": "YCJY Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 96204,
+      "name": "Sea Salt",
+      "url": "https://www.igdb.com/games/sea-salt",
+      "publishers": [
+        "YCJY Games"
+      ],
+      "developers": [],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

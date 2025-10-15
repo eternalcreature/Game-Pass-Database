@@ -1,0 +1,135 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [
+      "Multiple volume controls"
+    ],
+    "gameplay": [],
+    "input": [
+      "Playable without button holds",
+      "Playable without rapid button presses",
+      "Playable without motion controls",
+      "Playable without touch controls"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC"
+  ],
+  "averageRating": 2.7,
+  "badges": [],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9N5N0TMPFXSL",
+    "9N7TL0X4VJP0"
+  ],
+  "capabilities": {
+    "SinglePlayer": "Single player",
+    "XblAchievements": "Xbox achievements"
+  },
+  "categories": [
+    "Strategy"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Intense Violence",
+      "Blood",
+      "Suggestive Themes",
+      "Use of Alcohol",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Empire of Sin is a new strategy game brought to you by Romero Games and Paradox Interactive that puts you at the heart of the ruthless criminal underworld of 1920s Prohibition-era Chicago. Slip into the shoes of one of the fourteen real and historically inspired mob bosses such as Al Capone, Stephanie St. Clair or Goldie Garneau and assemble a rag-tag gang, build and manage your criminal empire, and defend your turf from rival gangs.  It’s up to you to hustle, charm and intimidate your way to the top and do whatever it takes to stay there - break a leg!\n\nParadox Account required for certain features of the game. You have to be 16 years or older to create a Paradox Account. See https://legal.paradoxplaza.com/eula for details.",
+  "developerName": "Romero Games",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [],
+  "legalNotices": [
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 11413864448,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PPSH9GQKLCB",
+  "productKind": "Game",
+  "publisherName": "Paradox Interactive",
+  "ratingCount": 226,
+  "releaseDate": "2021-03-18T00:00:00.0000000Z",
+  "shortDescription": "Empire of Sin is a new strategy game brought to you by Romero Games and Paradox Interactive that puts you at the heart of the ruthless criminal underworld of 1920s Prohibition-era Chicago.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9VZ7T2P15WP7",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B0RMRTSJVBGZ",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/30/9998 00:00:00",
+        "hasXPriceOffer": false,
+        "listPrice": 39.99,
+        "msrp": 39.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Empire of Sin",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2022-03-16T10:00:00Z",
+      "exitDateUTC": "2023-07-01T10:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2022-03-16T10:00:00Z",
+      "exitDateUTC": "2023-07-01T10:00:00Z"
+    }
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

@@ -1,0 +1,109 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [
+      "Pausable"
+    ],
+    "input": [
+      "Playable without rapid button presses"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 4.2,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 9
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "categories": [
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 13 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Fantasy Violence",
+      "Blood"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
+  },
+  "description": "\"The Cave is a new adventure game from Monkey Island and Maniac Mansion creator Ron Gilbert, and Double Fine Productions, the award-winning studio behind Psychonauts and Brütal Legend.Assemble your team of three from seven unlikely adventurers, each with their own unique personalities and stories, then descend into the mysterious depths to explore locations including a subterranean amusement park and a medieval castle, not to mention a fully armed and ready-to-launch nuclear tipped ICBM. The Cave awaits.\"",
+  "developerName": "Double Fine",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0P85B"
+  ],
+  "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 1698996224,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
+  "preferredSkuId": "0001",
+  "productFamily": "Games",
+  "productId": "BTBWBGKPKS97",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 211,
+  "shortDescription": "Assemble your team of three from seven unlikely adventurers and descend into the mysterious depths. The Cave awaits.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [],
+    "giftable": [],
+    "totalPurchaseablePricesCount": 0
+  },
+  "title": "The Cave",
+  "xCloudProperties": {
+    "xCloudId": "THECAVE",
+    "xboxTitleId": 619718041,
+    "supportsTouch": false
+  },
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2023-07-18T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2023-07-18T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2024-08-12T14:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THECAVE",
+    "xboxTitleId": 619718041,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": false,
+  "hasUbisoftCrossEntitlementProduct": false
+}

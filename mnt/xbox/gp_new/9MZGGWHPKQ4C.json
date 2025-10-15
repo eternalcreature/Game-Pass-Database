@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 146424,
+    "specific_id": 146424,
+    "title": "Tainted Grail: Conquest",
+    "store_title": "Tainted Grail: Conquest",
+    "pid": "9MZGGWHPKQ4C",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZGGWHPKQ4C"
+      ]
+    ],
+    "original_release_date": "2020-06-18",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-09-23",
+        "removed": "2023-09-16"
+      },
+      "Ultimate": {
+        "added": "2021-09-23",
+        "removed": "2023-09-16"
+      },
+      "Console": {
+        "added": "2022-03-22",
+        "removed": "2023-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "SpatialSound": "Spatial Sound",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Card & board",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "Awaken Realms Digital",
+    "developer": "Awaken Realms Digital"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 146424,
+      "name": "Tainted Grail: Conquest",
+      "url": "https://www.igdb.com/games/tainted-grail-conquest",
+      "publishers": [
+        "Awaken Realms Digital"
+      ],
+      "developers": [
+        "Awaken Realms Digital"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Indie",
+        "Card & Board Game"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric",
+        "Text",
+        "Auditory"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

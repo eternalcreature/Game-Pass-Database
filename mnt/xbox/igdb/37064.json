@@ -1,0 +1,74 @@
+{
+  "id": 37064,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 9,
+      "name": "Puzzle"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 152232,
+      "company": {
+        "id": 38,
+        "name": "Ubisoft Montreal"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 152234,
+      "company": {
+        "id": 12937,
+        "name": "SpectreVision"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 306221,
+      "company": {
+        "id": 104,
+        "name": "Ubisoft Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Transference",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    },
+    {
+      "id": 7,
+      "name": "Virtual Reality"
+    }
+  ],
+  "themes": [
+    {
+      "id": 19,
+      "name": "Horror"
+    },
+    {
+      "id": 20,
+      "name": "Thriller"
+    }
+  ],
+  "url": "https://www.igdb.com/games/transference"
+}

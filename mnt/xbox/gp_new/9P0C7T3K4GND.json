@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "base_id": 103298,
+    "specific_id": 293919,
+    "title": "Doom Eternal",
+    "store_title": "DOOM Eternal: Year One Pass",
+    "pid": "9P0C7T3K4GND",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PK09BL31FK1",
+      "9P5S26314HWQ"
+    ],
+    "sku_groups": [
+      [
+        "9P0C7T3K4GND",
+        "9P5S26314HWQ"
+      ],
+      [
+        "9PK09BL31FK1"
+      ]
+    ],
+    "original_release_date": "2020-03-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-3)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "RayTracing": "Ray Tracing",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Bethesda Softworks",
+    "developer": "id Software"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 103298,
+      "name": "Doom Eternal",
+      "url": "https://www.igdb.com/games/doom-eternal",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    },
+    "specific": {
+      "id": 103298,
+      "name": "Doom Eternal",
+      "url": "https://www.igdb.com/games/doom-eternal",
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "developers": [
+        "id Software"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

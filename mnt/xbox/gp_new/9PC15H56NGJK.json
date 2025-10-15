@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "base_id": 228258,
+    "specific_id": 228258,
+    "title": "Amnesia: The Bunker",
+    "store_title": "Amnesia: The Bunker",
+    "pid": "9PC15H56NGJK",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PC15H56NGJK"
+      ]
+    ],
+    "original_release_date": "2023-06-06",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2023-06-06",
+        "removed": "2024-12-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-06",
+        "removed": "2024-12-16"
+      },
+      "Console": {
+        "added": "2023-06-06",
+        "removed": "2024-12-16"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-12-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 228258,
+      "name": "Amnesia: The Bunker",
+      "url": "https://www.igdb.com/games/amnesia-the-bunker",
+      "publishers": [
+        "Frictional Games"
+      ],
+      "developers": [
+        "Frictional Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Stealth",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

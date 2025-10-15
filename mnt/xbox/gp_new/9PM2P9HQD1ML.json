@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 11208,
+    "specific_id": 11208,
+    "title": "NieR: Automata",
+    "store_title": "NieR:Automata BECOME AS GODS Edition",
+    "pid": "9PM2P9HQD1ML",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BPPZVT8BZ15N"
+    ],
+    "sku_groups": [
+      [
+        "9PM2P9HQD1ML"
+      ],
+      [
+        "BPPZVT8BZ15N"
+      ]
+    ],
+    "original_release_date": "2017-02-23",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": "2022-03-16"
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": "2022-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "PcGamePad": "PC Game Pad"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "SQUARE ENIX",
+    "developer": "PlatinumGames Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11208,
+      "name": "NieR: Automata",
+      "url": "https://www.igdb.com/games/nier-automata",
+      "publishers": [
+        "Square Enix"
+      ],
+      "developers": [
+        "PlatinumGames",
+        "Square Enix Business Division 6"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

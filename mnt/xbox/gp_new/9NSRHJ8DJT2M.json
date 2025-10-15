@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 113111,
+    "specific_id": 113111,
+    "title": "Far Cry New Dawn",
+    "store_title": "Far Cry New Dawn",
+    "pid": "9NSRHJ8DJT2M",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C1DDW4PRF6K5"
+    ],
+    "sku_groups": [
+      [
+        "9NSRHJ8DJT2M"
+      ],
+      [
+        "C1DDW4PRF6K5"
+      ]
+    ],
+    "original_release_date": "2019-02-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-02-04",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-02-04",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montr\u00e9al"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 113111,
+      "name": "Far Cry New Dawn",
+      "url": "https://www.igdb.com/games/far-cry-new-dawn",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

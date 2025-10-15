@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 154986,
+    "specific_id": 154986,
+    "title": "FIFA 22",
+    "store_title": "FIFA 22",
+    "pid": "9P6088C05PFJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9N1CS194W1Q6",
+      "9N9J38LPVSM3"
+    ],
+    "sku_groups": [
+      [
+        "9N1CS194W1Q6"
+      ],
+      [
+        "9N9J38LPVSM3"
+      ],
+      [
+        "9P6088C05PFJ"
+      ]
+    ],
+    "original_release_date": "2021-10-01",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CoopSupportLocal": "Local co-op",
+      "CoopSupportOnline": "Online co-op",
+      "LocalMultiplayer": "Local multiplayer",
+      "OnlineMultiplayerWithGold": "Online multiplayer",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen"
+    },
+    "categories": [
+      "Sports"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 154986,
+      "name": "FIFA 22",
+      "url": "https://www.igdb.com/games/fifa-22",
+      "publishers": [
+        "EA Sports"
+      ],
+      "developers": [
+        "EA Vancouver"
+      ],
+      "genres": [
+        "Simulator",
+        "Sport"
+      ],
+      "themes": [
+        "Action",
+        "Non-fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

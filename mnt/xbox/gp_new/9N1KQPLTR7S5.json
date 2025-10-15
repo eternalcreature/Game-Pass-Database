@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 120170,
+    "specific_id": 120170,
+    "title": "Solasta: Crown of the Magister",
+    "store_title": "Solasta: Crown of the Magister",
+    "pid": "9N1KQPLTR7S5",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N1KQPLTR7S5"
+      ]
+    ],
+    "original_release_date": "2020-10-20",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-05-27",
+        "removed": "2023-11-01"
+      },
+      "Ultimate": {
+        "added": "2021-05-27",
+        "removed": "2023-11-01"
+      },
+      "Console": {
+        "added": "2022-07-05",
+        "removed": "2023-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Strategy"
+    ],
+    "publisher": "Tactical Adventures",
+    "developer": "Tactical Adventures"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 120170,
+      "name": "Solasta: Crown of the Magister",
+      "url": "https://www.igdb.com/games/solasta-crown-of-the-magister",
+      "publishers": [
+        "Tactical Adventures"
+      ],
+      "developers": [
+        "Tactical Adventures"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

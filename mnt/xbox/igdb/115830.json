@@ -1,0 +1,53 @@
+{
+  "id": 115830,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 32,
+      "name": "Indie"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 283637,
+      "company": {
+        "id": 24018,
+        "name": "President Studio"
+      },
+      "developer": true,
+      "publisher": true
+    },
+    {
+      "id": 283638,
+      "company": {
+        "id": 9005,
+        "name": "PlayWay S.A."
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Crime Scene Cleaner",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "url": "https://www.igdb.com/games/crime-scene-cleaner"
+}

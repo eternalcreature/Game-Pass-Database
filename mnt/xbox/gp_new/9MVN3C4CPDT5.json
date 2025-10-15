@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 311747,
+    "specific_id": 311747,
+    "title": "Atlas Fallen: Reign of Sand",
+    "store_title": "Atlas Fallen: Reign of Sand",
+    "pid": "9MVN3C4CPDT5",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NCGTG3KR2W9"
+    ],
+    "sku_groups": [
+      [
+        "9MVN3C4CPDT5"
+      ],
+      [
+        "9NCGTG3KR2W9"
+      ]
+    ],
+    "original_release_date": "2023-08-10",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-08-22",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-08-22",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-22",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Deck13"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 311747,
+      "name": "Atlas Fallen: Reign of Sand",
+      "url": "https://www.igdb.com/games/atlas-fallen-reign-of-sand",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Deck13 Interactive"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

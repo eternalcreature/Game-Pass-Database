@@ -1,0 +1,87 @@
+{
+  "basic_info": {
+    "base_id": 11170,
+    "specific_id": 11170,
+    "title": "Unravel",
+    "store_title": "Unravel",
+    "pid": "9NLNTDTW66CC",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C11KKHB5H7QJ"
+    ],
+    "sku_groups": [
+      [
+        "9NLNTDTW66CC"
+      ],
+      [
+        "C11KKHB5H7QJ"
+      ]
+    ],
+    "original_release_date": "2016-02-09",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": null
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Platformer"
+    ],
+    "publisher": "Electronic Arts",
+    "developer": "Coldwood Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 11170,
+      "name": "Unravel",
+      "url": "https://www.igdb.com/games/unravel",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "ColdWood Interactive"
+      ],
+      "genres": [
+        "Platform",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

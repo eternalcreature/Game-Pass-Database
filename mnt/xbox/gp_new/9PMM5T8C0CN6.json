@@ -1,0 +1,98 @@
+{
+  "basic_info": {
+    "base_id": 106857,
+    "specific_id": 106857,
+    "title": "Young Souls",
+    "store_title": "Young Souls",
+    "pid": "9PMM5T8C0CN6",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PMM5T8C0CN6"
+      ]
+    ],
+    "original_release_date": "2021-08-17",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      },
+      "Ultimate": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      },
+      "Console": {
+        "added": "2022-03-10",
+        "removed": "2023-03-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "SinglePlayer": "Single player",
+      "SpatialSound": "Spatial Sound",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Role playing"
+    ],
+    "publisher": "The Arcade Crew",
+    "developer": "1P2P Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 106857,
+      "name": "Young Souls",
+      "url": "https://www.igdb.com/games/young-souls",
+      "publishers": [
+        "The Arcade Crew"
+      ],
+      "developers": [
+        "1P2P Studio"
+      ],
+      "genres": [
+        "Fighting",
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

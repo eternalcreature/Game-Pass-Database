@@ -1,0 +1,61 @@
+{
+  "id": 260780,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    },
+    {
+      "id": 2,
+      "name": "Multiplayer"
+    },
+    {
+      "id": 3,
+      "name": "Co-operative"
+    }
+  ],
+  "genres": [
+    {
+      "id": 5,
+      "name": "Shooter"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 226964,
+      "company": {
+        "id": 66,
+        "name": "Activision"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 226963,
+      "company": {
+        "id": 659,
+        "name": "Sledgehammer Games"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Call of Duty: Modern Warfare III",
+  "player_perspectives": [
+    {
+      "id": 1,
+      "name": "First person"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Warfare"
+    }
+  ],
+  "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-iii"
+}

@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 27413,
+    "specific_id": 27413,
+    "title": "Genesis Noir",
+    "store_title": "Genesis Noir: Windows Edition",
+    "pid": "9MWGGC7JH35B",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PHK9D8CLQCG"
+    ],
+    "sku_groups": [
+      [
+        "9MWGGC7JH35B"
+      ],
+      [
+        "9PHK9D8CLQCG"
+      ]
+    ],
+    "original_release_date": "2021-03-25",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2021-03-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-03-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Fellow Traveller",
+    "developer": "Feral Cat Den"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27413,
+      "name": "Genesis Noir",
+      "url": "https://www.igdb.com/games/genesis-noir",
+      "publishers": [
+        "Fellow Traveller"
+      ],
+      "developers": [
+        "Feral Cat Den"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

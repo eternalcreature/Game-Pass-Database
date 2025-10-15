@@ -1,0 +1,69 @@
+{
+  "id": 27712,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 12,
+      "name": "Role-playing (RPG)"
+    },
+    {
+      "id": 13,
+      "name": "Simulator"
+    },
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 46922,
+      "company": {
+        "id": 4440,
+        "name": "Adult Swim Games"
+      },
+      "developer": false,
+      "publisher": true
+    },
+    {
+      "id": 49441,
+      "company": {
+        "id": 8139,
+        "name": "Andrew Morrish"
+      },
+      "developer": true,
+      "publisher": false
+    }
+  ],
+  "name": "Kingsway",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    },
+    {
+      "id": 5,
+      "name": "Text"
+    }
+  ],
+  "themes": [
+    {
+      "id": 17,
+      "name": "Fantasy"
+    },
+    {
+      "id": 33,
+      "name": "Sandbox"
+    }
+  ],
+  "url": "https://www.igdb.com/games/kingsway"
+}

@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 28552,
+    "specific_id": 28552,
+    "title": "Far Cry 5",
+    "store_title": "Far Cry\u00ae 5",
+    "pid": "9MVQXW1RJVCN",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BR7X7MVBBQKM"
+    ],
+    "sku_groups": [
+      [
+        "9MVQXW1RJVCN"
+      ],
+      [
+        "BR7X7MVBBQKM"
+      ]
+    ],
+    "original_release_date": "2018-03-27",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-07-01",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-07-01",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "60fps": "60 fps+"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 28552,
+      "name": "Far Cry 5",
+      "url": "https://www.igdb.com/games/far-cry-5",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Survival",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

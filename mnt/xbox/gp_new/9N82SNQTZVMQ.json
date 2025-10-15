@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 133866,
+    "specific_id": 133866,
+    "title": "Cassette Beasts",
+    "store_title": "Cassette Beasts",
+    "pid": "9N82SNQTZVMQ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N82SNQTZVMQ"
+      ]
+    ],
+    "original_release_date": "2023-04-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-05-25",
+        "removed": "2025-06-01"
+      },
+      "Ultimate": {
+        "added": "2023-04-26",
+        "removed": "2025-06-01"
+      },
+      "PC": {
+        "added": "2023-04-26",
+        "removed": "2025-06-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2025-06-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Action & adventure"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Bytten Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133866,
+      "name": "Cassette Beasts",
+      "url": "https://www.igdb.com/games/cassette-beasts",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Bytten Studio"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Science fiction",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person",
+        "Side view"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

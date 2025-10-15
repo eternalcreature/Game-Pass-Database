@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "base_id": 144072,
+    "specific_id": 146134,
+    "title": "Hot Wheels Unleashed",
+    "store_title": "HOT WHEELS UNLEASHED\u2122 - Windows Edition",
+    "pid": "9MZ211MXPWB5",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NGZ7PN3W8DX",
+      "9P825CZVX852"
+    ],
+    "sku_groups": [
+      [
+        "9MZ211MXPWB5"
+      ],
+      [
+        "9NGZ7PN3W8DX"
+      ],
+      [
+        "9P825CZVX852"
+      ]
+    ],
+    "original_release_date": "2021-09-30",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Family & kids",
+      "Racing & flying"
+    ],
+    "publisher": "Milestone S.r.l.",
+    "developer": "Milestone S.r.l."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 144072,
+      "name": "Hot Wheels Unleashed",
+      "url": "https://www.igdb.com/games/hot-wheels-unleashed",
+      "publishers": [
+        "Milestone"
+      ],
+      "developers": [
+        "Milestone"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    },
+    "specific": {
+      "id": 144072,
+      "name": "Hot Wheels Unleashed",
+      "url": "https://www.igdb.com/games/hot-wheels-unleashed",
+      "publishers": [
+        "Milestone"
+      ],
+      "developers": [
+        "Milestone"
+      ],
+      "genres": [
+        "Racing",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

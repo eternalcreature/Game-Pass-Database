@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 90099,
+    "specific_id": 90099,
+    "title": "Tom Clancy's The Division 2",
+    "store_title": "Tom Clancy's The Division 2",
+    "pid": "9NRXKRVCGRNM",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "BVQ3V30ZXVT5"
+    ],
+    "sku_groups": [
+      [
+        "9NRXKRVCGRNM"
+      ],
+      [
+        "BVQ3V30ZXVT5"
+      ]
+    ],
+    "original_release_date": "2019-03-15",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-05-27",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-05-27",
+        "removed": null
+      },
+      "Ubisoft+ Classics PC": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 90099,
+      "name": "Tom Clancy's The Division 2",
+      "url": "https://www.igdb.com/games/tom-clancys-the-division-2",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Massive Entertainment"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Tactical",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

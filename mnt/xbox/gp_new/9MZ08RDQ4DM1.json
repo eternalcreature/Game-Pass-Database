@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 180445,
+    "specific_id": 137989,
+    "title": "Party Animals",
+    "store_title": "Party Animals",
+    "pid": "9MZ08RDQ4DM1",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MZ08RDQ4DM1"
+      ]
+    ],
+    "original_release_date": "2023-09-20",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2023-09-20",
+        "removed": "2025-01-01"
+      },
+      "Ultimate": {
+        "added": "2023-09-20",
+        "removed": "2025-01-01"
+      },
+      "Premium": {
+        "added": "2024-08-13",
+        "removed": "2025-01-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SharedSplitScreen": "Shared/split screen",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Fighting"
+    ],
+    "publisher": "Source Technology",
+    "developer": "Recreate Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 180445,
+      "name": "Party Animals",
+      "url": "https://www.igdb.com/games/party-animals--1",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": []
+    },
+    "specific": {
+      "id": 180445,
+      "name": "Party Animals",
+      "url": "https://www.igdb.com/games/party-animals--1",
+      "publishers": [],
+      "developers": [],
+      "genres": [
+        "Puzzle"
+      ],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": []
+    }
+  },
+  "steam_store_meta": {}
+}

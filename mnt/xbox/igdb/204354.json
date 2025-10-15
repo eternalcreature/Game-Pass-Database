@@ -1,0 +1,57 @@
+{
+  "id": 204354,
+  "game_modes": [
+    {
+      "id": 1,
+      "name": "Single player"
+    }
+  ],
+  "genres": [
+    {
+      "id": 15,
+      "name": "Strategy"
+    },
+    {
+      "id": 31,
+      "name": "Adventure"
+    }
+  ],
+  "involved_companies": [
+    {
+      "id": 174531,
+      "company": {
+        "id": 5067,
+        "name": "Tindalos Interactive"
+      },
+      "developer": true,
+      "publisher": false
+    },
+    {
+      "id": 174532,
+      "company": {
+        "id": 110,
+        "name": "Focus Entertainment"
+      },
+      "developer": false,
+      "publisher": true
+    }
+  ],
+  "name": "Aliens: Dark Descent",
+  "player_perspectives": [
+    {
+      "id": 3,
+      "name": "Bird view / Isometric"
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Science fiction"
+    }
+  ],
+  "url": "https://www.igdb.com/games/aliens-dark-descent"
+}

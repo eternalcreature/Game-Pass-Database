@@ -1,0 +1,86 @@
+{
+  "basic_info": {
+    "base_id": 8713,
+    "specific_id": 8713,
+    "title": "Battlefleet Gothic: Armada",
+    "store_title": "Battlefleet Gothic: Armada 2 - Windows 10",
+    "pid": "9NGWKW55M85P",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NGWKW55M85P"
+      ]
+    ],
+    "original_release_date": "2016-04-21",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2020-06-17",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2020-06-17",
+        "removed": "2021-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-2)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
+    },
+    "categories": [
+      "Strategy"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Tindalos Interactive"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 8713,
+      "name": "Battlefleet Gothic: Armada",
+      "url": "https://www.igdb.com/games/battlefleet-gothic-armada",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Tindalos Interactive"
+      ],
+      "genres": [
+        "Real Time Strategy (RTS)",
+        "Strategy",
+        "Tactical"
+      ],
+      "themes": [
+        "Science fiction",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

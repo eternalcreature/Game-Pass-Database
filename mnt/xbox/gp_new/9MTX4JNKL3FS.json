@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "base_id": 139078,
+    "specific_id": 139078,
+    "title": "Dyson Sphere Program",
+    "store_title": "Dyson Sphere Program (Game Preview)",
+    "pid": "9MTX4JNKL3FS",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MTX4JNKL3FS"
+      ]
+    ],
+    "original_release_date": "2021-01-21",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2022-10-13",
+        "removed": "2024-10-16"
+      },
+      "Ultimate": {
+        "added": "2022-10-13",
+        "removed": "2024-10-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "CapabilityHDR": "HDR10",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "SpatialSound": "Spatial Sound"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Gamera Game",
+    "developer": "Youthcat Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 139078,
+      "name": "Dyson Sphere Program",
+      "url": "https://www.igdb.com/games/dyson-sphere-program",
+      "publishers": [
+        "Gamera Games"
+      ],
+      "developers": [
+        "Youthcat Studio"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

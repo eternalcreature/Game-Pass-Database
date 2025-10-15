@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "base_id": 1334,
+    "specific_id": 1334,
+    "title": "Brothers: A Tale of Two Sons",
+    "store_title": "Brothers: a Tale of Two Sons",
+    "pid": "9PJ42FRWTGH1",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "C4Q29CMJ31NX"
+    ],
+    "sku_groups": [
+      [
+        "9PJ42FRWTGH1"
+      ],
+      [
+        "C4Q29CMJ31NX"
+      ]
+    ],
+    "original_release_date": "2013-08-07",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2024-05-14",
+        "removed": "2025-05-16"
+      },
+      "Ultimate": {
+        "added": "2024-05-14",
+        "removed": "2025-05-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "505 Games",
+    "developer": "Starbreeze Studios/The Workshop"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 1334,
+      "name": "Brothers: A Tale of Two Sons",
+      "url": "https://www.igdb.com/games/brothers-a-tale-of-two-sons",
+      "publishers": [
+        "505 Games"
+      ],
+      "developers": [
+        "Starbreeze Studios"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Stealth",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

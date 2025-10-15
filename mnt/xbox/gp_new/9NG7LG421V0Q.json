@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "base_id": 119298,
+    "specific_id": 119298,
+    "title": "Blair Witch",
+    "store_title": "Blair Witch",
+    "pid": "9NG7LG421V0Q",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NG7LG421V0Q"
+      ]
+    ],
+    "original_release_date": "2019-08-30",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-09-01",
+        "removed": "2021-09-01"
+      },
+      "Ultimate": {
+        "added": "2020-09-01",
+        "removed": "2021-09-01"
+      },
+      "PC": {
+        "added": "2020-09-01",
+        "removed": "2021-09-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Other"
+    ],
+    "publisher": "Bloober Team NA",
+    "developer": "Bloober Team"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 119298,
+      "name": "Blair Witch",
+      "url": "https://www.igdb.com/games/blair-witch",
+      "publishers": [
+        "Bloober Team"
+      ],
+      "developers": [
+        "Bloober Team"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

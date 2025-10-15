@@ -1,0 +1,92 @@
+{
+  "basic_info": {
+    "base_id": 163038,
+    "specific_id": 163038,
+    "title": "Robin Hood: Sherwood Builders",
+    "store_title": "Robin Hood - Sherwood Builders",
+    "pid": "9P7LD2NMMMRN",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9P7LD2NMMMRN"
+      ]
+    ],
+    "original_release_date": "2024-02-29",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-06-27",
+        "removed": "2025-07-01"
+      },
+      "Ultimate": {
+        "added": "2024-06-27",
+        "removed": "2025-07-01"
+      },
+      "PC": {
+        "added": "2024-06-27",
+        "removed": "2025-07-01"
+      },
+      "Premium": {
+        "added": "2025-01-08",
+        "removed": "2025-07-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Role playing",
+      "Action & adventure"
+    ],
+    "publisher": "PlayWay S.A. ",
+    "developer": "MeanAstronauts / Console Labs S.A."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 163038,
+      "name": "Robin Hood: Sherwood Builders",
+      "url": "https://www.igdb.com/games/robin-hood-sherwood-builders",
+      "publishers": [
+        "PlayWay S.A."
+      ],
+      "developers": [
+        "MeanAstronauts"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

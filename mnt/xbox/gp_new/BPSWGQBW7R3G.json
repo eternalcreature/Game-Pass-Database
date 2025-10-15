@@ -1,0 +1,78 @@
+{
+  "basic_info": {
+    "base_id": 25076,
+    "specific_id": 25076,
+    "title": "Red Dead Redemption 2",
+    "store_title": "Red Dead Redemption 2",
+    "pid": "BPSWGQBW7R3G",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "BPSWGQBW7R3G"
+      ]
+    ],
+    "original_release_date": "2018-10-26",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25076,
+      "name": "Red Dead Redemption 2",
+      "url": "https://www.igdb.com/games/red-dead-redemption-2",
+      "publishers": [
+        "Rockstar Games",
+        "Take-Two Interactive"
+      ],
+      "developers": [
+        "Rockstar Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

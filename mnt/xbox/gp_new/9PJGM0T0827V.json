@@ -1,0 +1,107 @@
+{
+  "basic_info": {
+    "base_id": 133301,
+    "specific_id": 133301,
+    "title": "Dirt 5",
+    "store_title": "DIRT 5",
+    "pid": "9PJGM0T0827V",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PJGM0T0827V"
+      ]
+    ],
+    "original_release_date": "2020-10-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "EA Play": {
+        "added": "2021-08-10",
+        "removed": null
+      },
+      "PC": {
+        "added": "2021-02-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2021-02-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-12)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "SharedSplitScreen": "Shared/split screen",
+      "60fps": "60 fps+",
+      "120fps": "120 fps",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Racing & flying",
+      "Simulation",
+      "Sports"
+    ],
+    "publisher": "Codemasters",
+    "developer": "Codemasters"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 133301,
+      "name": "Dirt 5",
+      "url": "https://www.igdb.com/games/dirt-5",
+      "publishers": [
+        "Codemasters"
+      ],
+      "developers": [
+        "Codemasters Cheshire"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Sport",
+        "Adventure"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

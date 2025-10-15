@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "base_id": 252787,
+    "specific_id": 252787,
+    "title": "Star Trucker",
+    "store_title": "Star Trucker",
+    "pid": "9MT19Q3CRMQZ",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MT19Q3CRMQZ"
+      ]
+    ],
+    "original_release_date": "2024-09-03",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2024-09-03",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2024-09-03",
+        "removed": null
+      },
+      "PC": {
+        "added": "2024-09-03",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-06-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Simulation",
+      "Racing & flying"
+    ],
+    "publisher": "Raw Fury",
+    "developer": "Monster and Monster"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252787,
+      "name": "Star Trucker",
+      "url": "https://www.igdb.com/games/star-trucker",
+      "publishers": [
+        "Raw Fury"
+      ],
+      "developers": [
+        "Monster and Monster"
+      ],
+      "genres": [
+        "Racing",
+        "Simulator",
+        "Adventure",
+        "Arcade"
+      ],
+      "themes": [
+        "Science fiction",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

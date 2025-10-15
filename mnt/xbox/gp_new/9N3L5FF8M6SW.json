@@ -1,0 +1,82 @@
+{
+  "basic_info": {
+    "base_id": 141338,
+    "specific_id": 141338,
+    "title": "Red Dead Online",
+    "store_title": "Red Dead Online",
+    "pid": "9N3L5FF8M6SW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3L5FF8M6SW"
+      ]
+    ],
+    "original_release_date": "2018-11-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2021-05-13",
+        "removed": "2021-09-14"
+      },
+      "Ultimate": {
+        "added": "2021-05-13",
+        "removed": "2021-09-14"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 141338,
+      "name": "Red Dead Online",
+      "url": "https://www.igdb.com/games/red-dead-online",
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "developers": [
+        "Rockstar Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

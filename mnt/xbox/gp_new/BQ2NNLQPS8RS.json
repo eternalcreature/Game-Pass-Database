@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "base_id": 27316,
+    "specific_id": 27316,
+    "title": "A Plague Tale: Innocence",
+    "store_title": "A Plague Tale: Innocence",
+    "pid": "BQ2NNLQPS8RS",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9ND0CG3LM22K"
+    ],
+    "sku_groups": [
+      [
+        "9ND0CG3LM22K"
+      ],
+      [
+        "BQ2NNLQPS8RS"
+      ]
+    ],
+    "original_release_date": "2019-05-14",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-02-01",
+        "removed": "2022-09-16"
+      },
+      "Ultimate": {
+        "added": "2022-02-01",
+        "removed": "2022-09-16"
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Focus Entertainment",
+    "developer": "Asobo Studio"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 27316,
+      "name": "A Plague Tale: Innocence",
+      "url": "https://www.igdb.com/games/a-plague-tale-innocence",
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "developers": [
+        "Asobo Studio"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical",
+        "Stealth",
+        "Drama"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

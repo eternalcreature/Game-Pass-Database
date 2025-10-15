@@ -1,0 +1,106 @@
+{
+  "basic_info": {
+    "base_id": 7360,
+    "specific_id": 7360,
+    "title": "Tom Clancy's Rainbow Six Siege X",
+    "store_title": "Tom Clancy's Rainbow Six Siege X",
+    "pid": "C12T09DSVP8J",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PB3RHWXB9MR"
+    ],
+    "sku_groups": [
+      [
+        "9PB3RHWXB9MR",
+        "C12T09DSVP8J"
+      ]
+    ],
+    "original_release_date": "2015-12-01",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2022-03-08",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2022-03-08",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": null
+      },
+      "Ubisoft+ Classics": {
+        "added": "2025-10-01",
+        "removed": null
+      },
+      "Ubisoft+ Premium": {
+        "added": null,
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-5)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "Capability4k": "4K Ultra HD",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "GameStreaming": "Cloud enabled",
+      "CapabilityXboxEnhanced": "Xbox One X Enhanced",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7360,
+      "name": "Tom Clancy's Rainbow Six Siege X",
+      "url": "https://www.igdb.com/games/tom-clancys-rainbow-six-siege-x--1",
+      "publishers": [
+        "Ubisoft Entertainment"
+      ],
+      "developers": [
+        "Ubisoft Montreal"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}

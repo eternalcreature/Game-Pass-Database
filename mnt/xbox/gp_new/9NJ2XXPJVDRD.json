@@ -1,0 +1,89 @@
+{
+  "basic_info": {
+    "base_id": 101448,
+    "specific_id": 101448,
+    "title": "Carto",
+    "store_title": "Carto",
+    "pid": "9NJ2XXPJVDRD",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9PFS8Q01C2C4"
+    ],
+    "sku_groups": [
+      [
+        "9NJ2XXPJVDRD"
+      ],
+      [
+        "9PFS8Q01C2C4"
+      ]
+    ],
+    "original_release_date": "2020-10-27",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2020-10-27",
+        "removed": "2021-11-01"
+      },
+      "Ultimate": {
+        "added": "2020-10-27",
+        "removed": "2021-11-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Puzzle & trivia"
+    ],
+    "publisher": "Humble Games",
+    "developer": "Sunhead Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 101448,
+      "name": "Carto",
+      "url": "https://www.igdb.com/games/carto",
+      "publishers": [
+        "Humble Games",
+        "X.D. Network Inc."
+      ],
+      "developers": [
+        "Sunhead Games"
+      ],
+      "genres": [
+        "Puzzle",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Kids"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ]
+    }
+  },
+  "steam_store_meta": {}
+}
