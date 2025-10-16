@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 76253,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 178757,
+        "company": {
+          "id": 42265,
+          "name": "Capcom Development Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 178758,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 183975,
+        "company": {
+          "id": 8593,
+          "name": "K2"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Devil May Cry 5",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/devil-may-cry-5",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 161928,
+      "date": 1552003200,
+      "platform": 48
+    },
+    {
+      "id": 161929,
+      "date": 1552003200,
+      "platform": 49
+    },
+    {
+      "id": 421598,
+      "date": 1552003200,
+      "platform": 6
+    }
+  ]
+}

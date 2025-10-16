@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 19874,
+    "game_engines": [
+      {
+        "id": 1743,
+        "name": "Eclipse Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 102167,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 102168,
+        "company": {
+          "id": 888,
+          "name": "Digital Eclipse"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mega Man Legacy Collection",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mega-man-legacy-collection",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 54121,
+      "date": 1440460800,
+      "platform": 48
+    },
+    {
+      "id": 54122,
+      "date": 1440460800,
+      "platform": 49
+    },
+    {
+      "id": 54124,
+      "date": 1456185600,
+      "platform": 37
+    },
+    {
+      "id": 200642,
+      "date": 1526947200,
+      "platform": 130
+    },
+    {
+      "id": 419300,
+      "date": 1440374400,
+      "platform": 6
+    }
+  ]
+}

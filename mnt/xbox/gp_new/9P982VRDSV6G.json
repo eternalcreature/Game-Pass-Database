@@ -97,12 +97,33 @@
       "player_perspectives": [
         "Third person",
         "Text"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-11-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-11-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-11-09"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-11-09"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 168537,
-      "name": "Football Manager 2022",
-      "url": "https://www.igdb.com/games/football-manager-2022",
+      "id": 206868,
+      "name": "Football Manager 2022: Xbox Edition",
+      "url": "https://www.igdb.com/games/football-manager-2022-xbox-edition",
       "publishers": [
         "Sega"
       ],
@@ -111,22 +132,38 @@
       ],
       "genres": [
         "Simulator",
-        "Sport",
-        "Strategy"
+        "Sport"
       ],
       "themes": [
-        "Business",
-        "Non-fiction",
-        "Sandbox"
+        "Business"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person",
-        "Text"
-      ]
+        "Bird view / Isometric"
+      ],
+      "engine": [],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2021-11-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-11-08"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -17,8 +17,8 @@
         "9PB79JST8PDH"
       ]
     ],
-    "original_release_date": "2019-09-10",
-    "release_date": null,
+    "original_release_date": "2019-09-09",
+    "release_date": "2021-06-30",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -77,12 +77,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Silk Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-09-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-09-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-09-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-30"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 27092,
-      "name": "GreedFall",
-      "url": "https://www.igdb.com/games/greedfall",
+      "id": 145989,
+      "name": "GreedFall: Gold Edition",
+      "url": "https://www.igdb.com/games/greedfall-gold-edition",
       "publishers": [
         "Focus Entertainment"
       ],
@@ -97,6 +120,8 @@
       "themes": [
         "Action",
         "Fantasy",
+        "Historical",
+        "Open world",
         "Mystery"
       ],
       "game_modes": [
@@ -104,7 +129,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Silk Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-06-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-30"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,145 @@
+{
+  "general": {
+    "id": 14758,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 256275,
+        "company": {
+          "id": 4248,
+          "name": "Digital Works Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 248736,
+        "company": {
+          "id": 419,
+          "name": "Project Aces"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 248737,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 248738,
+        "company": {
+          "id": 4653,
+          "name": "ILCA"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Ace Combat 7: Skies Unknown",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ace-combat-7-skies-unknown",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 553671,
+      "date": 1547769600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 553670,
+      "date": 1548892800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 553673,
+      "date": 1547769600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 553672,
+      "date": 1547769600,
+      "platform": 165,
+      "status": 6
+    },
+    {
+      "id": 554872,
+      "date": 1720656000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 557752,
+      "date": 1547769600,
+      "platform": 49
+    }
+  ]
+}

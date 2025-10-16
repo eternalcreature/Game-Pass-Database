@@ -1,0 +1,89 @@
+{
+  "general": {
+    "id": 25532,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83542,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95359,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fallout: New Vegas - Ultimate Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fallout-new-vegas-ultimate-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 115444,
+      "date": 1328572800,
+      "platform": 12
+    },
+    {
+      "id": 115445,
+      "date": 1328572800,
+      "platform": 9
+    },
+    {
+      "id": 115446,
+      "date": 1328572800,
+      "platform": 6
+    }
+  ]
+}

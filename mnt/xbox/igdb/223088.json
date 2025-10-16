@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 223088,
+    "game_engines": [
+      {
+        "id": 156,
+        "name": "Clickteam Fusion"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 230613,
+        "company": {
+          "id": 8653,
+          "name": "Scottgames"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Five Nights at Freddy's",
+    "parent_game": 8499,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/five-nights-at-freddys--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 477464,
+      "date": 1408924800,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 477465,
+      "date": 1410393600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 477466,
+      "date": 1417478400,
+      "platform": 74,
+      "status": 6
+    }
+  ]
+}

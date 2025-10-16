@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 115843,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 242569,
+        "company": {
+          "id": 4616,
+          "name": "Witch Beam"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 242570,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Unpacking",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/unpacking",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 539839,
+      "date": 1652140800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 539841,
+      "date": 1635811200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 539840,
+      "date": 1635811200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 539712,
+      "date": 1692835200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 539711,
+      "date": 1692576000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 539835,
+      "date": 1635811200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 539834,
+      "date": 1635811200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 539837,
+      "date": 1635811200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 539836,
+      "date": 1635811200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 539838,
+      "date": 1652140800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

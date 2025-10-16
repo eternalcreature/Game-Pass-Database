@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 1216,
+    "game_engines": [
+      {
+        "id": 210,
+        "name": "Visceral Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4157,
+        "company": {
+          "id": 7,
+          "name": "Visceral Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 4158,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dead Space 3",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-space-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 102432,
+      "date": 1360022400,
+      "platform": 9
+    },
+    {
+      "id": 3740,
+      "date": 1360022400,
+      "platform": 12
+    },
+    {
+      "id": 3739,
+      "date": 1360022400,
+      "platform": 9
+    },
+    {
+      "id": 3738,
+      "date": 1360022400,
+      "platform": 6
+    },
+    {
+      "id": 102433,
+      "date": 1360281600,
+      "platform": 9
+    },
+    {
+      "id": 454870,
+      "date": 1360108800,
+      "platform": 49
+    }
+  ]
+}

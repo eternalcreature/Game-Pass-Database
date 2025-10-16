@@ -1,0 +1,145 @@
+{
+  "general": {
+    "id": 2552,
+    "game_engines": [
+      {
+        "id": 90,
+        "name": "Avalanche engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269048,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269049,
+        "company": {
+          "id": 437,
+          "name": "Avalanche Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 236063,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mad Max",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mad-max",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 718490,
+      "date": 1441152000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 718497,
+      "date": 1443657600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 718482,
+      "date": 1476921600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 718489,
+      "date": 1441065600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 718496,
+      "date": 1441238400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 718494,
+      "date": 1441324800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 718483,
+      "date": 1476921600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 718491,
+      "date": 1441238400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 718492,
+      "date": 1443657600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 718484,
+      "date": 1441152000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

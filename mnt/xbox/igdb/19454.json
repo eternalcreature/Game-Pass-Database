@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 19454,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65145,
+        "company": {
+          "id": 2345,
+          "name": "Abstraction Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 65146,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 108941,
+        "company": {
+          "id": 1113,
+          "name": "Tequila Works"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Deadlight: Director's Cut",
+    "parent_game": 2354,
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deadlight-directors-cut",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 153129,
+      "date": 1466467200,
+      "platform": 49
+    },
+    {
+      "id": 153130,
+      "date": 1466467200,
+      "platform": 6
+    },
+    {
+      "id": 171197,
+      "date": 1466467200,
+      "platform": 48
+    }
+  ]
+}

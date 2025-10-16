@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 8259,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96418,
+        "company": {
+          "id": 918,
+          "name": "Fullbright"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 241328,
+        "company": {
+          "id": 19676,
+          "name": "24 Bit Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Tacoma",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tacoma",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 113085,
+      "date": 1501632000,
+      "platform": 14
+    },
+    {
+      "id": 190303,
+      "date": 1501632000,
+      "platform": 3
+    },
+    {
+      "id": 460977,
+      "date": 1510876800,
+      "platform": 14
+    },
+    {
+      "id": 113086,
+      "date": 1501632000,
+      "platform": 6
+    },
+    {
+      "id": 151741,
+      "date": 1525737600,
+      "platform": 48
+    },
+    {
+      "id": 151743,
+      "date": 1501632000,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 4179,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 10854,
+        "company": {
+          "id": 277,
+          "name": "EA Canada"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 10853,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "SSX",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ssx--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 726984,
+      "date": 1330387200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 726985,
+      "date": 1330646400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 726988,
+      "date": 1330560000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 726990,
+      "date": 1330646400,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 726993,
+      "date": 1330560000,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 726994,
+      "date": 1464307200,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 726986,
+      "date": 1330387200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 726987,
+      "date": 1353542400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 726991,
+      "date": 1330387200,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 726989,
+      "date": 1330387200,
+      "platform": 12,
+      "status": 6
+    }
+  ]
+}

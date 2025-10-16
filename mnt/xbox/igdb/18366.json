@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 18366,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 88009,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sniper Elite 4",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sniper-elite-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 749521,
+      "date": 1626998400,
+      "platform": 167,
+      "status": 36
+    },
+    {
+      "id": 218526,
+      "date": 1605571200,
+      "platform": 130
+    },
+    {
+      "id": 693074,
+      "date": 1736294400,
+      "platform": 39
+    },
+    {
+      "id": 66613,
+      "date": 1487030400,
+      "platform": 6
+    },
+    {
+      "id": 66611,
+      "date": 1487030400,
+      "platform": 48
+    },
+    {
+      "id": 239671,
+      "date": 1604188800,
+      "platform": 170
+    },
+    {
+      "id": 105624,
+      "date": 1487030400,
+      "platform": 48
+    },
+    {
+      "id": 105625,
+      "date": 1487030400,
+      "platform": 48
+    },
+    {
+      "id": 313671,
+      "date": 1486944000,
+      "platform": 6
+    },
+    {
+      "id": 66612,
+      "date": 1487030400,
+      "platform": 49
+    }
+  ]
+}

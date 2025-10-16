@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 139575,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 110212,
+        "company": {
+          "id": 26831,
+          "name": "Brainwash Gang"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 137290,
+        "company": {
+          "id": 5257,
+          "name": "Digerati Distribution"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Nongunz: Doppelganger Edition",
+    "parent_game": 36499,
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nongunz-doppelganger-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 247978,
+      "date": 1620259200,
+      "platform": 130
+    },
+    {
+      "id": 247982,
+      "date": 1620345600,
+      "platform": 6
+    },
+    {
+      "id": 247984,
+      "date": 1620345600,
+      "platform": 169
+    },
+    {
+      "id": 247979,
+      "date": 1620259200,
+      "platform": 130
+    },
+    {
+      "id": 247981,
+      "date": 1620172800,
+      "platform": 48
+    },
+    {
+      "id": 247980,
+      "date": 1620172800,
+      "platform": 48
+    },
+    {
+      "id": 247983,
+      "date": 1620345600,
+      "platform": 49
+    }
+  ]
+}

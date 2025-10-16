@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2019-10-17",
-    "release_date": null,
+    "release_date": "2021-10-26",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -80,36 +80,60 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "remake",
+      "release_dates": {
+        "release_date": "2019-10-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-07-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-10-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 120300,
-      "name": "Story of Seasons: Friends of Mineral Town",
-      "url": "https://www.igdb.com/games/story-of-seasons-friends-of-mineral-town",
-      "publishers": [
-        "Marvelous",
-        "Marvelous Europe Ltd.",
-        "XSEED Games"
-      ],
-      "developers": [
-        "Bullets Co. Ltd.",
-        "Marvelous"
-      ],
-      "genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
-      ],
-      "themes": [
-        "Fantasy",
-        "Business"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
+      "id": 225473,
+      "name": "Story of Season: Friends of Mineral Town - Digital Edition",
+      "url": "https://www.igdb.com/games/story-of-season-friends-of-mineral-town-digital-edition",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": null,
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 152271,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168939,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 168940,
+        "company": {
+          "id": 18628,
+          "name": "Jump Over the Age"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Citizen Sleeper",
+    "player_perspectives": [
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/citizen-sleeper",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 351325,
+      "date": 1651708800,
+      "platform": 6
+    },
+    {
+      "id": 351327,
+      "date": 1651708800,
+      "platform": 130
+    },
+    {
+      "id": 351324,
+      "date": 1651708800,
+      "platform": 169
+    },
+    {
+      "id": 351326,
+      "date": 1651708800,
+      "platform": 49
+    },
+    {
+      "id": 447040,
+      "date": 1651708800,
+      "platform": 14
+    },
+    {
+      "id": 460183,
+      "date": 1680220800,
+      "platform": 167
+    },
+    {
+      "id": 460184,
+      "date": 1680220800,
+      "platform": 48
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 137,
+    "game_engines": [
+      {
+        "id": 515,
+        "name": "Ronin"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1193,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 42118,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 298219,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Wars: The Force Unleashed II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-the-force-unleashed-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 705032,
+      "date": 1288051200,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 705028,
+      "date": 1288051200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 705030,
+      "date": 1288051200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 705029,
+      "date": 1288051200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 705031,
+      "date": 1288310400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 705027,
+      "date": 1288051200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 705033,
+      "date": 1288310400,
+      "platform": 12,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 145107,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 122547,
+        "company": {
+          "id": 15382,
+          "name": "Artisan Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 122548,
+        "company": {
+          "id": 21313,
+          "name": "Dear Villagers"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Astria Ascending",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/astria-ascending",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 314519,
+      "date": 1633564800,
+      "platform": 167
+    },
+    {
+      "id": 290362,
+      "date": 1632960000,
+      "platform": 130
+    },
+    {
+      "id": 299471,
+      "date": 1632960000,
+      "platform": 48
+    },
+    {
+      "id": 299472,
+      "date": 1632960000,
+      "platform": 49
+    },
+    {
+      "id": 299473,
+      "date": 1632960000,
+      "platform": 169
+    },
+    {
+      "id": 299474,
+      "date": 1632960000,
+      "platform": 167
+    },
+    {
+      "id": 290365,
+      "date": 1632960000,
+      "platform": 6
+    },
+    {
+      "id": 337490,
+      "date": 1635811200,
+      "platform": 130
+    },
+    {
+      "id": 314518,
+      "date": 1633564800,
+      "platform": 48
+    }
+  ]
+}

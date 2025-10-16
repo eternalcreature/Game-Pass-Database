@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2019-11-08",
-    "release_date": null,
+    "release_date": "2019-11-08",
     "platforms": [
       "PC"
     ]
@@ -85,36 +85,70 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-11-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-08"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 119161,
-      "name": "Need for Speed: Heat",
-      "url": "https://www.igdb.com/games/need-for-speed-heat",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "developers": [
-        "Ghost Games"
-      ],
+      "id": 136012,
+      "name": "Need for Speed: Heat - Deluxe Edition",
+      "url": "https://www.igdb.com/games/need-for-speed-heat-deluxe-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
-        "Racing",
-        "Sport",
-        "Adventure"
+        "Racing"
       ],
       "themes": [
-        "Action",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "First person",
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-11-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-08"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

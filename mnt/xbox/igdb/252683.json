@@ -1,0 +1,59 @@
+{
+  "general": {
+    "id": 252683,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Escape Academy: Escape From the Past",
+    "parent_game": 194464,
+    "url": "https://www.igdb.com/games/escape-academy-escape-from-the-past",
+    "game_type": 2
+  },
+  "release_dates": [
+    {
+      "id": 513079,
+      "date": 1687132800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 554194,
+      "date": 1687132800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 554195,
+      "date": 1687132800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 554196,
+      "date": 1687132800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

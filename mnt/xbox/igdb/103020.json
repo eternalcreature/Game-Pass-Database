@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 103020,
+    "game_engines": [
+      {
+        "id": 95,
+        "name": "Creation Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65249,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95310,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fallout 76",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fallout-76",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 153711,
+      "date": 1542153600,
+      "platform": 48
+    },
+    {
+      "id": 153710,
+      "date": 1542153600,
+      "platform": 49
+    },
+    {
+      "id": 153712,
+      "date": 1542153600,
+      "platform": 6
+    },
+    {
+      "id": 303111,
+      "date": 1586822400,
+      "platform": 6
+    }
+  ]
+}

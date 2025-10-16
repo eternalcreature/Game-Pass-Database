@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 501,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 107008,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 107009,
+        "company": {
+          "id": 165,
+          "name": "DC Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 107007,
+        "company": {
+          "id": 164,
+          "name": "Rocksteady Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Batman: Arkham City",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/batman-arkham-city",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 21730,
+      "date": 1322006400,
+      "platform": 12
+    },
+    {
+      "id": 524077,
+      "date": 1701388800,
+      "platform": 130
+    },
+    {
+      "id": 21724,
+      "date": 1318982400,
+      "platform": 12
+    },
+    {
+      "id": 21723,
+      "date": 1318982400,
+      "platform": 9
+    },
+    {
+      "id": 21721,
+      "date": 1318896000,
+      "platform": 12
+    },
+    {
+      "id": 101786,
+      "date": 1322006400,
+      "platform": 9
+    },
+    {
+      "id": 21731,
+      "date": 1318896000,
+      "platform": 9
+    },
+    {
+      "id": 101784,
+      "date": 1318896000,
+      "platform": 9
+    },
+    {
+      "id": 101785,
+      "date": 1319155200,
+      "platform": 9
+    },
+    {
+      "id": 21726,
+      "date": 1319155200,
+      "platform": 12
+    }
+  ]
+}

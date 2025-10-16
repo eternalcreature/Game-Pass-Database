@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 146424,
+    "game_engines": [
+      {
+        "id": 1145,
+        "name": "Unity 2020"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 137153,
+        "company": {
+          "id": 34544,
+          "name": "Awaken Realms Digital"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Tainted Grail: Conquest",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      },
+      {
+        "id": 6,
+        "name": "Auditory"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tainted-grail-conquest",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 349679,
+      "date": 1632355200,
+      "platform": 49
+    },
+    {
+      "id": 349680,
+      "date": 1632355200,
+      "platform": 169
+    },
+    {
+      "id": 247734,
+      "date": 1622073600,
+      "platform": 6
+    }
+  ]
+}

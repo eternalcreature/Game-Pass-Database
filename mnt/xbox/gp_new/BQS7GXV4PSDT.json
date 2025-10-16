@@ -12,8 +12,8 @@
         "BQS7GXV4PSDT"
       ]
     ],
-    "original_release_date": "2017-07-07",
-    "release_date": null,
+    "original_release_date": "2018-03-16",
+    "release_date": "2018-06-28",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -68,30 +68,76 @@
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-03-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-03-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 90037,
-      "name": "Next Hero",
-      "url": "https://www.igdb.com/games/next-hero",
+      "id": 45026,
+      "name": "Next Up Hero",
+      "url": "https://www.igdb.com/games/next-up-hero",
       "publishers": [
-        "LINE Games Corporation"
+        "Aspyr Media"
       ],
       "developers": [
-        "LINE Games Corporation"
+        "Digital Continue"
       ],
       "genres": [
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
+        "Hack and slash/Beat 'em up",
+        "Adventure"
       ],
       "themes": [
         "Action"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
       ],
-      "player_perspectives": []
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-06-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

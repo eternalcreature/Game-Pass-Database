@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 116200,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168187,
+        "company": {
+          "id": 55,
+          "name": "Turtle Rock Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 168188,
+        "company": {
+          "id": 14055,
+          "name": "Warner Bros. Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Back 4 Blood",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/back-4-blood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 238452,
+      "date": 1633996800,
+      "platform": 167
+    },
+    {
+      "id": 238451,
+      "date": 1633996800,
+      "platform": 169
+    },
+    {
+      "id": 238454,
+      "date": 1633996800,
+      "platform": 49
+    },
+    {
+      "id": 238453,
+      "date": 1633996800,
+      "platform": 48
+    },
+    {
+      "id": 238455,
+      "date": 1633996800,
+      "platform": 6
+    }
+  ]
+}

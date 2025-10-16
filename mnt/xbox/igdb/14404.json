@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 14404,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44336,
+        "company": {
+          "id": 9043,
+          "name": "Ravenscourt"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 129744,
+        "company": {
+          "id": 7215,
+          "name": "Parabole"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 268632,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kona",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kona",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 239651,
+      "date": 1596326400,
+      "platform": 170
+    },
+    {
+      "id": 599450,
+      "date": 1638835200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 599446,
+      "date": 1489708800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 599447,
+      "date": 1520553600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 599448,
+      "date": 1489708800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 599449,
+      "date": 1489708800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 599451,
+      "date": 1489708800,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 599452,
+      "date": 1489708800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 599445,
+      "date": 1489708800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 599453,
+      "date": 1638835200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

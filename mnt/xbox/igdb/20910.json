@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 20910,
+    "game_engines": [
+      {
+        "id": 618,
+        "name": "Swarm Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 72112,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58871,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 269390,
+        "company": {
+          "id": 2195,
+          "name": "Paramount Digital Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "World War Z",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/world-war-z",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 309822,
+      "date": 1635811200,
+      "platform": 130
+    },
+    {
+      "id": 164999,
+      "date": 1555372800,
+      "platform": 6
+    },
+    {
+      "id": 165001,
+      "date": 1555372800,
+      "platform": 49
+    },
+    {
+      "id": 165000,
+      "date": 1555372800,
+      "platform": 48
+    },
+    {
+      "id": 337513,
+      "date": 1635811200,
+      "platform": 130
+    }
+  ]
+}

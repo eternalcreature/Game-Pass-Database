@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 152203,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165318,
+        "company": {
+          "id": 420,
+          "name": "Flying Wild Hog"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 165319,
+        "company": {
+          "id": 10303,
+          "name": "Leonard Menchiari"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 165320,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Trek to Yomi",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/trek-to-yomi",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 351609,
+      "date": 1651708800,
+      "platform": 169
+    },
+    {
+      "id": 351607,
+      "date": 1651708800,
+      "platform": 49
+    },
+    {
+      "id": 351608,
+      "date": 1651708800,
+      "platform": 48
+    },
+    {
+      "id": 351610,
+      "date": 1651708800,
+      "platform": 167
+    },
+    {
+      "id": 351611,
+      "date": 1651708800,
+      "platform": 6
+    },
+    {
+      "id": 440653,
+      "date": 1675036800,
+      "platform": 130
+    }
+  ]
+}

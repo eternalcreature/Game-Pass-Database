@@ -12,7 +12,7 @@
         "C2P43HVQX0XL"
       ]
     ],
-    "original_release_date": "2012-08-08",
+    "original_release_date": "2012-08-09",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -60,32 +60,69 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-08-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-08-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-01-30"
+        }
+      }
     },
     "specific": {
-      "id": 16368,
-      "name": "Unmechanical",
-      "url": "https://www.igdb.com/games/unmechanical",
+      "id": 20310,
+      "name": "Unmechanical: Extended Edition",
+      "url": "https://www.igdb.com/games/unmechanical-extended-edition",
       "publishers": [
-        "Teotl Studios"
+        "Grip Games"
       ],
-      "developers": [
-        "Talawa Games"
-      ],
+      "developers": [],
       "genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
+        "Platform",
+        "Puzzle"
       ],
-      "themes": [
-        "Science fiction"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": [
-        "Side view"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2015-01-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-24"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-01-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

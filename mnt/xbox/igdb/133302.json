@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 133302,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 191139,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 191140,
+        "company": {
+          "id": 321,
+          "name": "Tose"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 191141,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Scarlet Nexus",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/scarlet-nexus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 234895,
+      "date": 1624579200,
+      "platform": 167
+    },
+    {
+      "id": 234897,
+      "date": 1624579200,
+      "platform": 49
+    },
+    {
+      "id": 234894,
+      "date": 1624579200,
+      "platform": 169
+    },
+    {
+      "id": 234898,
+      "date": 1624579200,
+      "platform": 6
+    },
+    {
+      "id": 291933,
+      "date": 1624492800,
+      "platform": 6
+    },
+    {
+      "id": 234896,
+      "date": 1624579200,
+      "platform": 48
+    }
+  ]
+}

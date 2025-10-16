@@ -1,0 +1,74 @@
+{
+  "general": {
+    "id": 5749,
+    "game_engines": [
+      {
+        "id": 41,
+        "name": "RenderWare"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13815,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 13816,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Black",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/black",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 14070,
+      "date": 1140739200,
+      "platform": 8
+    },
+    {
+      "id": 14069,
+      "date": 1140739200,
+      "platform": 11
+    }
+  ]
+}

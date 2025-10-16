@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 21606,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 131870,
+        "company": {
+          "id": 1883,
+          "name": "Vector Unit"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Riptide GP: Renegade",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/riptide-gp-renegade",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 414007,
+      "date": 1469491200,
+      "platform": 6
+    },
+    {
+      "id": 54270,
+      "date": 1469491200,
+      "platform": 48
+    },
+    {
+      "id": 54269,
+      "date": 1469491200,
+      "platform": 49
+    },
+    {
+      "id": 130139,
+      "date": 1512604800,
+      "platform": 130
+    },
+    {
+      "id": 136249,
+      "date": 1487894400,
+      "platform": 49
+    },
+    {
+      "id": 149917,
+      "date": 1471564800,
+      "platform": 39
+    },
+    {
+      "id": 370947,
+      "date": 1470096000,
+      "platform": 34
+    },
+    {
+      "id": 120366,
+      "date": 1469491200,
+      "platform": 48
+    }
+  ]
+}

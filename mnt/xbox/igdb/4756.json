@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 4756,
+    "game_engines": [
+      {
+        "id": 22,
+        "name": "UbiArt Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 172644,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253591,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Child of Light",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/child-of-light",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 309548,
+      "date": 1409011200,
+      "platform": 49
+    },
+    {
+      "id": 309547,
+      "date": 1406851200,
+      "platform": 49
+    },
+    {
+      "id": 309544,
+      "date": 1398729600,
+      "platform": 48
+    },
+    {
+      "id": 309545,
+      "date": 1398729600,
+      "platform": 9
+    },
+    {
+      "id": 309550,
+      "date": 1411430400,
+      "platform": 49
+    },
+    {
+      "id": 309549,
+      "date": 1409788800,
+      "platform": 49
+    },
+    {
+      "id": 16202,
+      "date": 1398816000,
+      "platform": 12
+    },
+    {
+      "id": 309551,
+      "date": 1398816000,
+      "platform": 41
+    },
+    {
+      "id": 322898,
+      "date": 1634601600,
+      "platform": 170
+    },
+    {
+      "id": 309552,
+      "date": 1453334400,
+      "platform": 48
+    }
+  ]
+}

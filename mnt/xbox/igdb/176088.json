@@ -1,0 +1,142 @@
+{
+  "general": {
+    "id": 176088,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 196432,
+        "company": {
+          "id": 18487,
+          "name": "Konfa Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 196433,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Despot's Game: Dystopian Army Builder",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/despots-game-dystopian-army-builder",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 592807,
+      "date": 1664409600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 430951,
+      "date": 1663200000,
+      "platform": 48
+    },
+    {
+      "id": 430949,
+      "date": 1663200000,
+      "platform": 169
+    },
+    {
+      "id": 430952,
+      "date": 1663200000,
+      "platform": 167
+    },
+    {
+      "id": 430950,
+      "date": 1663200000,
+      "platform": 130
+    },
+    {
+      "id": 592809,
+      "date": 1664409600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 592811,
+      "date": 1664409600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 592810,
+      "date": 1634169600,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 592806,
+      "date": 1634169600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 592808,
+      "date": 1634169600,
+      "platform": 14,
+      "status": 3
+    }
+  ]
+}

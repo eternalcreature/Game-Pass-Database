@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 16287,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69052,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 348564,
+        "company": {
+          "id": 20212,
+          "name": "Monomi Park"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Slime Rancher",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/slime-rancher",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 130305,
+      "date": 1501545600,
+      "platform": 49
+    },
+    {
+      "id": 499811,
+      "date": 1452729600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 499810,
+      "date": 1452729600,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 499809,
+      "date": 1452729600,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 157445,
+      "date": 1534809600,
+      "platform": 48
+    },
+    {
+      "id": 550399,
+      "date": 1501545600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

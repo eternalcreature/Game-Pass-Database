@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2016-10-28",
-    "release_date": null,
+    "release_date": "2016-10-28",
     "platforms": [
       "PC"
     ]
@@ -80,12 +80,35 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Source"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-10-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-10-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-10-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 17447,
-      "name": "Titanfall 2",
-      "url": "https://www.igdb.com/games/titanfall-2",
+      "id": 28513,
+      "name": "Titanfall 2: Ultimate Edition",
+      "url": "https://www.igdb.com/games/titanfall-2-ultimate-edition",
       "publishers": [
         "Electronic Arts"
       ],
@@ -93,8 +116,7 @@
         "Respawn Entertainment"
       ],
       "genres": [
-        "Shooter",
-        "Adventure"
+        "Shooter"
       ],
       "themes": [
         "Action",
@@ -102,12 +124,32 @@
       ],
       "game_modes": [
         "Single player",
-        "Multiplayer",
-        "Co-operative"
+        "Multiplayer"
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-08-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-08-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-08-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

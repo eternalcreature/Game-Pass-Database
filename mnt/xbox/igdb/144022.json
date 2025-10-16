@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 144022,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 120003,
+        "company": {
+          "id": 11674,
+          "name": "Sloclap"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 205058,
+        "company": {
+          "id": 37893,
+          "name": "Kepler Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sifu",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sifu",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 389053,
+      "date": 1667865600,
+      "platform": 130
+    },
+    {
+      "id": 325754,
+      "date": 1644278400,
+      "platform": 48
+    },
+    {
+      "id": 325755,
+      "date": 1644278400,
+      "platform": 6
+    },
+    {
+      "id": 457241,
+      "date": 1679961600,
+      "platform": 49
+    },
+    {
+      "id": 457242,
+      "date": 1679961600,
+      "platform": 169
+    },
+    {
+      "id": 325753,
+      "date": 1644278400,
+      "platform": 167
+    }
+  ]
+}

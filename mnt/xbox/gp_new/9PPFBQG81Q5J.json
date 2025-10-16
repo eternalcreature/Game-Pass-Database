@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "base_id": 9047,
-    "specific_id": null,
+    "specific_id": 9047,
     "title": "Besiege",
     "store_title": "Besiege Console",
     "pid": "9PPFBQG81Q5J",
@@ -17,8 +17,8 @@
         "9PPFBQG81Q5J"
       ]
     ],
-    "original_release_date": "2022-02-10",
-    "release_date": null,
+    "original_release_date": "2020-02-18",
+    "release_date": "2023-05-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -33,6 +33,16 @@
       "Ultimate": {
         "added": "2023-05-01",
         "removed": "2024-05-01"
+      }
+    },
+    {
+      "Console": {
+        "added": "2022-02-10",
+        "removed": "2023-02-15"
+      },
+      "Ultimate": {
+        "added": "2022-02-10",
+        "removed": "2023-02-15"
       }
     }
   ],
@@ -89,7 +99,30 @@
       "player_perspectives": [
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-02-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-02-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-02-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-02-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
       "id": 9047,

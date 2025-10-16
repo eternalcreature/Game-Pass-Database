@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 24869,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 182769,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 182770,
+        "company": {
+          "id": 663,
+          "name": "Capcom Production Studio 4"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil",
+    "parent_game": 424,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil--1",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 379900,
+      "date": 1016755200,
+      "platform": 21
+    },
+    {
+      "id": 379901,
+      "date": 1020124800,
+      "platform": 21
+    },
+    {
+      "id": 379902,
+      "date": 1031875200,
+      "platform": 21
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 25076,
+    "game_engines": [
+      {
+        "id": 26,
+        "name": "RAGE"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190251,
+        "company": {
+          "id": 139,
+          "name": "Take-Two Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 190252,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Red Dead Redemption 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/red-dead-redemption-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 781215,
+      "date": 1540512000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 781213,
+      "date": 1574121600,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 781214,
+      "date": 1572912000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 781216,
+      "date": 1540512000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

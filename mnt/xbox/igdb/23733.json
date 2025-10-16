@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 23733,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290051,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 189380,
+        "company": {
+          "id": 5462,
+          "name": "Finji"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189379,
+        "company": {
+          "id": 12935,
+          "name": "Andrew Shouldice"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Tunic",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tunic",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 759088,
+      "date": 1647388800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 759090,
+      "date": 1647388800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 759092,
+      "date": 1664236800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 759094,
+      "date": 1647388800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 759089,
+      "date": 1664236800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 759091,
+      "date": 1664236800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 759093,
+      "date": 1647388800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

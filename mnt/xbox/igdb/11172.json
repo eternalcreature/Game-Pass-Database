@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 11172,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50893,
+        "company": {
+          "id": 394,
+          "name": "Nadeo"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 303765,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "TrackMania Turbo",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/trackmania-turbo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 148586,
+      "date": 1458777600,
+      "platform": 6
+    },
+    {
+      "id": 148584,
+      "date": 1458604800,
+      "platform": 48
+    },
+    {
+      "id": 504755,
+      "platform": 385
+    },
+    {
+      "id": 148585,
+      "date": 1458777600,
+      "platform": 48
+    },
+    {
+      "id": 148582,
+      "date": 1458604800,
+      "platform": 49
+    },
+    {
+      "id": 148583,
+      "date": 1458777600,
+      "platform": 49
+    },
+    {
+      "id": 504298,
+      "date": 1458604800,
+      "platform": 165
+    },
+    {
+      "id": 504299,
+      "date": 1458777600,
+      "platform": 165
+    }
+  ]
+}

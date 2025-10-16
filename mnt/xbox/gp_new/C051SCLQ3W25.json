@@ -65,36 +65,64 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Ego Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2009-10-06",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-10-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-10-06"
+        }
+      }
     },
     "specific": {
-      "id": 451,
-      "name": "Operation Flashpoint: Dragon Rising",
-      "url": "https://www.igdb.com/games/operation-flashpoint-dragon-rising",
-      "publishers": [
-        "Codemasters"
-      ],
-      "developers": [
-        "Codemasters Southam"
-      ],
+      "id": 149307,
+      "name": "Dragon Rising",
+      "url": "https://www.igdb.com/games/dragon-rising",
+      "publishers": [],
+      "developers": [],
       "genres": [
-        "Shooter",
-        "Puzzle",
-        "Simulator",
-        "Strategy",
-        "Tactical"
+        "Simulator"
       ],
-      "themes": [
-        "Action",
-        "Open world"
-      ],
-      "game_modes": [
-        "Single player",
-        "Multiplayer"
-      ],
-      "player_perspectives": [
-        "First person"
-      ]
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-06-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

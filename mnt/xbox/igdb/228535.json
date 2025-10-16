@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 228535,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 210968,
+        "company": {
+          "id": 10809,
+          "name": "Gunfire Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 210969,
+        "company": {
+          "id": 11262,
+          "name": "Gearbox Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Remnant II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/remnant-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 483357,
+      "date": 1690243200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 483356,
+      "date": 1690243200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 483355,
+      "date": 1690243200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

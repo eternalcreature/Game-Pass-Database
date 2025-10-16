@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 28513,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105134,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 105135,
+        "company": {
+          "id": 1002,
+          "name": "Respawn Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Titanfall 2: Ultimate Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/titanfall-2-ultimate-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 117783,
+      "date": 1501545600,
+      "platform": 49
+    },
+    {
+      "id": 117784,
+      "date": 1501545600,
+      "platform": 48
+    },
+    {
+      "id": 117782,
+      "date": 1501545600,
+      "platform": 6
+    }
+  ]
+}

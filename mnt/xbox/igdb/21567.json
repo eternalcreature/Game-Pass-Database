@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 21567,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 126237,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 126234,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dungeons & Dragons: Chronicles of Mystara",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dungeons-and-dragons-chronicles-of-mystara",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 242300,
+      "date": 1371600000,
+      "platform": 12
+    },
+    {
+      "id": 71890,
+      "date": 1371513600,
+      "platform": 6
+    },
+    {
+      "id": 220915,
+      "date": 1370390400,
+      "platform": 9
+    },
+    {
+      "id": 139051,
+      "date": 1378944000,
+      "platform": 41
+    },
+    {
+      "id": 122190,
+      "date": 1378339200,
+      "platform": 41
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 52190,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 66927,
+        "company": {
+          "id": 14055,
+          "name": "Warner Bros. Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 66925,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The LEGO Ninjago Movie Video Game",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-lego-ninjago-movie-video-game",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 418200,
+      "date": 1506038400,
+      "platform": 6
+    },
+    {
+      "id": 100762,
+      "date": 1506038400,
+      "platform": 49
+    },
+    {
+      "id": 248616,
+      "date": 1506038400,
+      "platform": 130
+    },
+    {
+      "id": 100761,
+      "date": 1506038400,
+      "platform": 48
+    },
+    {
+      "id": 119671,
+      "date": 1506038400,
+      "platform": 48
+    },
+    {
+      "id": 144267,
+      "date": 1508457600,
+      "platform": 130
+    }
+  ]
+}

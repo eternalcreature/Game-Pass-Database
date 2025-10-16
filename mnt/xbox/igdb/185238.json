@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 185238,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 166040,
+        "company": {
+          "id": 21449,
+          "name": "Sumo Nottingham"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 166039,
+        "company": {
+          "id": 10094,
+          "name": "Gun Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Texas Chain Saw Massacre",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-texas-chain-saw-massacre",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 503766,
+      "date": 1692316800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 503768,
+      "date": 1692316800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 503769,
+      "date": 1692316800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 503767,
+      "date": 1692316800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 503770,
+      "date": 1692316800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

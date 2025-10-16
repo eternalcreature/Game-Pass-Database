@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 19516,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43557,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 43555,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 220232,
+        "company": {
+          "id": 20228,
+          "name": "2K"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 220231,
+        "company": {
+          "id": 14321,
+          "name": "Yuke's"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "WWE 2K17",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wwe-2k17",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136462,
+      "date": 1476144000,
+      "platform": 49
+    },
+    {
+      "id": 53041,
+      "date": 1476144000,
+      "platform": 9
+    },
+    {
+      "id": 64159,
+      "date": 1486425600,
+      "platform": 6
+    },
+    {
+      "id": 106970,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 53039,
+      "date": 1476144000,
+      "platform": 12
+    },
+    {
+      "id": 120037,
+      "date": 1476144000,
+      "platform": 9
+    },
+    {
+      "id": 106969,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 53040,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 53038,
+      "date": 1476144000,
+      "platform": 49
+    }
+  ]
+}

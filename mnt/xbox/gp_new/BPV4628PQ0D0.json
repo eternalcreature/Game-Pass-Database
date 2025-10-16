@@ -12,8 +12,8 @@
         "BPV4628PQ0D0"
       ]
     ],
-    "original_release_date": "2018-01-16",
-    "release_date": null,
+    "original_release_date": "2016-11-09",
+    "release_date": "2018-02-02",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -77,14 +77,38 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-11-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-11-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 24905,
-      "name": "Beholder",
-      "url": "https://www.igdb.com/games/beholder",
+      "id": 82372,
+      "name": "Beholder: Complete Edition",
+      "url": "https://www.igdb.com/games/beholder-complete-edition",
       "publishers": [
-        "Alawar Entertainment"
+        "Alawar Entertainment",
+        "Curve Digital"
       ],
       "developers": [
         "Warm Lamp Games"
@@ -97,7 +121,7 @@
         "Indie"
       ],
       "themes": [
-        "Stealth",
+        "Action",
         "Drama"
       ],
       "game_modes": [
@@ -105,7 +129,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-01-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-01-19"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 191576,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290052,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 290053,
+        "company": {
+          "id": 20904,
+          "name": "Sos Sosowski"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 290054,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "McPixel 3",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mcpixel-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 426096,
+      "date": 1668384000,
+      "platform": 49
+    },
+    {
+      "id": 422392,
+      "date": 1668384000,
+      "platform": 130
+    },
+    {
+      "id": 422393,
+      "date": 1668384000,
+      "platform": 169
+    },
+    {
+      "id": 422430,
+      "date": 1668384000,
+      "platform": 3
+    },
+    {
+      "id": 422391,
+      "date": 1668384000,
+      "platform": 6
+    },
+    {
+      "id": 460875,
+      "date": 1678924800,
+      "platform": 48
+    },
+    {
+      "id": 460876,
+      "date": 1678924800,
+      "platform": 167
+    },
+    {
+      "id": 422431,
+      "date": 1668384000,
+      "platform": 14
+    }
+  ]
+}

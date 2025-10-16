@@ -1,0 +1,151 @@
+{
+  "general": {
+    "id": 496,
+    "game_engines": [
+      {
+        "id": 1292,
+        "name": "Forge"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 505,
+        "company": {
+          "id": 211,
+          "name": "Blue Castle Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 39365,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 325320,
+        "company": {
+          "id": 1099,
+          "name": "Mercenary Technology"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Dead Rising 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-rising-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 56477,
+      "date": 1473724800,
+      "platform": 49
+    },
+    {
+      "id": 102427,
+      "date": 1285804800,
+      "platform": 9
+    },
+    {
+      "id": 135953,
+      "date": 1473724800,
+      "platform": 49
+    },
+    {
+      "id": 375,
+      "date": 1285286400,
+      "platform": 12
+    },
+    {
+      "id": 102425,
+      "date": 1285632000,
+      "platform": 9
+    },
+    {
+      "id": 190333,
+      "date": 1285545600,
+      "platform": 3
+    },
+    {
+      "id": 376,
+      "date": 1285286400,
+      "platform": 9
+    },
+    {
+      "id": 56476,
+      "date": 1473724800,
+      "platform": 48
+    },
+    {
+      "id": 102426,
+      "date": 1285286400,
+      "platform": 9
+    },
+    {
+      "id": 134554,
+      "date": 1474934400,
+      "platform": 48
+    }
+  ]
+}

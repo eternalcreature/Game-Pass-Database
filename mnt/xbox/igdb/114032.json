@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 114032,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 77251,
+        "company": {
+          "id": 183,
+          "name": "Hasbro Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 77252,
+        "company": {
+          "id": 19106,
+          "name": "Lionsgate Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 73236,
+        "company": {
+          "id": 13675,
+          "name": "nWay"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129177,
+        "company": {
+          "id": 13675,
+          "name": "nWay"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Power Rangers: Battle for the Grid",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/power-rangers-battle-for-the-grid",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 185253,
+      "date": 1569283200,
+      "platform": 6
+    },
+    {
+      "id": 166833,
+      "date": 1553558400,
+      "platform": 49
+    },
+    {
+      "id": 166835,
+      "date": 1553731200,
+      "platform": 48
+    },
+    {
+      "id": 166836,
+      "date": 1554163200,
+      "platform": 48
+    },
+    {
+      "id": 166834,
+      "date": 1553558400,
+      "platform": 130
+    },
+    {
+      "id": 239635,
+      "date": 1590883200,
+      "platform": 170
+    }
+  ]
+}

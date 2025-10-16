@@ -1,0 +1,75 @@
+{
+  "general": {
+    "id": 308099,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 275816,
+        "company": {
+          "id": 208,
+          "name": "Frontier Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Planet Coaster 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/planet-coaster-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 641603,
+      "date": 1730851200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 641604,
+      "date": 1730851200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 641605,
+      "date": 1730851200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

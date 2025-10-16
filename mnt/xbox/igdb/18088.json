@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 18088,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33191,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 69991,
+        "company": {
+          "id": 3150,
+          "name": "New World Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 232098,
+        "company": {
+          "id": 38591,
+          "name": "Pingle Game Studio"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Insurgency: Sandstorm",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/insurgency-sandstorm",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 559913,
+      "date": 1706572800,
+      "platform": 169
+    },
+    {
+      "id": 559912,
+      "date": 1706572800,
+      "platform": 167
+    },
+    {
+      "id": 318128,
+      "date": 1632873600,
+      "platform": 49
+    },
+    {
+      "id": 185089,
+      "date": 1544572800,
+      "platform": 6
+    },
+    {
+      "id": 318126,
+      "date": 1630195200,
+      "platform": 49
+    },
+    {
+      "id": 318129,
+      "date": 1632873600,
+      "platform": 48
+    }
+  ]
+}

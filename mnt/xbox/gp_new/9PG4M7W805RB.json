@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2023-10-03",
-    "release_date": null,
+    "release_date": "2023-10-03",
     "platforms": [
       "PC"
     ]
@@ -81,12 +81,33 @@
       "player_perspectives": [
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-10-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-03"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 240893,
-      "name": "The Lamplighters League",
-      "url": "https://www.igdb.com/games/the-lamplighters-league",
+      "id": 255468,
+      "name": "The Lamplighters League: Deluxe Edition",
+      "url": "https://www.igdb.com/games/the-lamplighters-league-deluxe-edition",
       "publishers": [
         "Paradox Interactive"
       ],
@@ -95,23 +116,35 @@
       ],
       "genres": [
         "Role-playing (RPG)",
-        "Strategy",
-        "Turn-based strategy (TBS)",
         "Tactical",
         "Adventure"
       ],
-      "themes": [
-        "Action",
-        "Fantasy",
-        "Stealth"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": [
-        "Third person",
-        "Bird view / Isometric"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-10-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-03"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

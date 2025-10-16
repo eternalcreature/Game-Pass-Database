@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 120170,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 114464,
+        "company": {
+          "id": 20637,
+          "name": "Tactical Adventures"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Solasta: Crown of the Magister",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/solasta-crown-of-the-magister",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 372558,
+      "date": 1622073600,
+      "platform": 49
+    },
+    {
+      "id": 372559,
+      "date": 1622073600,
+      "platform": 169
+    },
+    {
+      "id": 407438,
+      "date": 1622073600,
+      "platform": 14
+    },
+    {
+      "id": 221418,
+      "date": 1603152000,
+      "platform": 6
+    },
+    {
+      "id": 575086,
+      "date": 1709683200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 246638,
+      "date": 1622073600,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 74,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5241,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 5240,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 18482,
+        "company": {
+          "id": 222,
+          "name": "BioWare Edmonton"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 52062,
+        "company": {
+          "id": 3903,
+          "name": "BioWare Montréal"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Mass Effect 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mass-effect-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 20912,
+      "date": 1264636800,
+      "platform": 12
+    },
+    {
+      "id": 20910,
+      "date": 1264464000,
+      "platform": 12
+    },
+    {
+      "id": 107956,
+      "date": 1295568000,
+      "platform": 9
+    },
+    {
+      "id": 107957,
+      "date": 1295308800,
+      "platform": 9
+    },
+    {
+      "id": 404975,
+      "date": 1264464000,
+      "platform": 6
+    },
+    {
+      "id": 20913,
+      "date": 1264723200,
+      "platform": 6
+    },
+    {
+      "id": 20914,
+      "date": 1264723200,
+      "platform": 12
+    },
+    {
+      "id": 20917,
+      "date": 1296086400,
+      "platform": 9
+    }
+  ]
+}

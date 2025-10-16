@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 15862,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 34334,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Day of the Tentacle Remastered",
+    "parent_game": 193,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/day-of-the-tentacle-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 150413,
+      "date": 1468195200,
+      "platform": 39
+    },
+    {
+      "id": 456391,
+      "date": 1458950400,
+      "platform": 14
+    },
+    {
+      "id": 166069,
+      "date": 1458604800,
+      "platform": 48
+    },
+    {
+      "id": 409105,
+      "date": 1458518400,
+      "platform": 6
+    },
+    {
+      "id": 409106,
+      "date": 1458518400,
+      "platform": 14
+    },
+    {
+      "id": 409107,
+      "date": 1458518400,
+      "platform": 3
+    },
+    {
+      "id": 214601,
+      "date": 1603929600,
+      "platform": 49
+    },
+    {
+      "id": 399751,
+      "date": 1458604800,
+      "platform": 46
+    }
+  ]
+}

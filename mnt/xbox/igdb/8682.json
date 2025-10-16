@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 8682,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 73540,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Grim Fandango Remastered",
+    "parent_game": 181,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grim-fandango-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 406212,
+      "date": 1422230400,
+      "platform": 14
+    },
+    {
+      "id": 25862,
+      "date": 1422316800,
+      "platform": 46
+    },
+    {
+      "id": 406211,
+      "date": 1422230400,
+      "platform": 6
+    },
+    {
+      "id": 406213,
+      "date": 1422230400,
+      "platform": 3
+    },
+    {
+      "id": 329218,
+      "date": 1430784000,
+      "platform": 34
+    },
+    {
+      "id": 329219,
+      "date": 1430784000,
+      "platform": 39
+    },
+    {
+      "id": 160689,
+      "date": 1541030400,
+      "platform": 130
+    },
+    {
+      "id": 25861,
+      "date": 1422316800,
+      "platform": 48
+    },
+    {
+      "id": 214603,
+      "date": 1603929600,
+      "platform": 49
+    },
+    {
+      "id": 456390,
+      "date": 1439424000,
+      "platform": 14
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 138598,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 125522,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 125521,
+        "company": {
+          "id": 28282,
+          "name": "Happy Broccoli Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Kraken Academy!!",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kraken-academy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 344721,
+      "date": 1647907200,
+      "platform": 49
+    },
+    {
+      "id": 344720,
+      "date": 1647907200,
+      "platform": 130
+    },
+    {
+      "id": 344719,
+      "date": 1647907200,
+      "platform": 130
+    },
+    {
+      "id": 305896,
+      "date": 1631232000,
+      "platform": 14
+    },
+    {
+      "id": 305895,
+      "date": 1631232000,
+      "platform": 6
+    },
+    {
+      "id": 344722,
+      "date": 1647907200,
+      "platform": 169
+    }
+  ]
+}

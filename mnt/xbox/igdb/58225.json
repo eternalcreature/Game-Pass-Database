@@ -1,0 +1,43 @@
+{
+  "general": {
+    "id": 58225,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130855,
+        "company": {
+          "id": 28040,
+          "name": "NextNinja"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Kyub",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kyub",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136100,
+      "date": 1468368000,
+      "platform": 49
+    },
+    {
+      "id": 251205,
+      "date": 1549497600,
+      "platform": 130
+    }
+  ]
+}

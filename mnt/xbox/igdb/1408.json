@@ -1,0 +1,156 @@
+{
+  "general": {
+    "id": 1408,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277730,
+        "company": {
+          "id": 2837,
+          "name": "D4 Enterprise"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 323961,
+        "company": {
+          "id": 16923,
+          "name": "SNK Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 323959,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 323960,
+        "company": {
+          "id": 4501,
+          "name": "DotEmu"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Metal Slug 3",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metal-slug-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 751832,
+      "date": 1449532800,
+      "platform": 82,
+      "status": 6
+    },
+    {
+      "id": 751833,
+      "date": 1337817600,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 751830,
+      "date": 1449532800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 751831,
+      "date": 1449532800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 751829,
+      "date": 1449532800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 751835,
+      "date": 1334620800,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 751836,
+      "date": 1338422400,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 751837,
+      "date": 1199232000,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 751834,
+      "date": 1337817600,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 751838,
+      "date": 1447286400,
+      "platform": 49,
+      "status": 35
+    }
+  ]
+}

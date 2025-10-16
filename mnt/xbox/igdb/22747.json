@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 22747,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38692,
+        "company": {
+          "id": 10635,
+          "name": "Thing Trunk"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 131745,
+        "company": {
+          "id": 15291,
+          "name": "SONKA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 131746,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Book of Demons",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/book-of-demons",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 162186,
+      "date": 1544659200,
+      "platform": 14
+    },
+    {
+      "id": 196086,
+      "date": 1588204800,
+      "platform": 48
+    },
+    {
+      "id": 196084,
+      "date": 1587686400,
+      "platform": 49
+    },
+    {
+      "id": 341948,
+      "date": 1588204800,
+      "platform": 130
+    },
+    {
+      "id": 196085,
+      "date": 1588204800,
+      "platform": 49
+    },
+    {
+      "id": 194233,
+      "date": 1588204800,
+      "platform": 130
+    },
+    {
+      "id": 309372,
+      "date": 1588204800,
+      "platform": 49
+    },
+    {
+      "id": 161629,
+      "date": 1544659200,
+      "platform": 6
+    }
+  ]
+}

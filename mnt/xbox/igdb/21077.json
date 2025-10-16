@@ -1,0 +1,80 @@
+{
+  "general": {
+    "id": 21077,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 323891,
+        "company": {
+          "id": 4754,
+          "name": "NinjaBee"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "A World of Keflings",
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/a-world-of-keflings",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 58771,
+      "date": 1415836800,
+      "platform": 41
+    },
+    {
+      "id": 145302,
+      "date": 1415836800,
+      "platform": 41
+    },
+    {
+      "id": 785016,
+      "date": 1753747200,
+      "platform": 6
+    },
+    {
+      "id": 231256,
+      "date": 1292976000,
+      "platform": 12
+    },
+    {
+      "id": 58770,
+      "date": 1363132800,
+      "platform": 6
+    }
+  ]
+}

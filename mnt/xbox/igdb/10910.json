@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 10910,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 131158,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189148,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "LEGO Worlds",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-worlds",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 66558,
+      "date": 1488844800,
+      "platform": 49
+    },
+    {
+      "id": 107755,
+      "date": 1488844800,
+      "platform": 48
+    },
+    {
+      "id": 66564,
+      "date": 1489536000,
+      "platform": 48
+    },
+    {
+      "id": 504965,
+      "date": 1511308800,
+      "platform": 130
+    },
+    {
+      "id": 140736,
+      "date": 1504828800,
+      "platform": 130
+    },
+    {
+      "id": 107756,
+      "date": 1489104000,
+      "platform": 48
+    },
+    {
+      "id": 66561,
+      "date": 1489104000,
+      "platform": 49
+    },
+    {
+      "id": 66563,
+      "date": 1489536000,
+      "platform": 49
+    },
+    {
+      "id": 66559,
+      "date": 1488844800,
+      "platform": 6
+    },
+    {
+      "id": 249369,
+      "date": 1504569600,
+      "platform": 130
+    }
+  ]
+}

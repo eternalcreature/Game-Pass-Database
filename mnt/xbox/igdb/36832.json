@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 36832,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 139194,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Strange Brigade",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/strange-brigade",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 151716,
+      "date": 1535414400,
+      "platform": 48
+    },
+    {
+      "id": 414652,
+      "date": 1535328000,
+      "platform": 6
+    },
+    {
+      "id": 239650,
+      "date": 1596240000,
+      "platform": 170
+    },
+    {
+      "id": 151717,
+      "date": 1535414400,
+      "platform": 49
+    },
+    {
+      "id": 290399,
+      "date": 1623715200,
+      "platform": 130
+    }
+  ]
+}

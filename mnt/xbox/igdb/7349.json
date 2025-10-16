@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 7349,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 52040,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 52041,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 52042,
+        "company": {
+          "id": 3903,
+          "name": "BioWare Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mass Effect: Andromeda",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mass-effect-andromeda--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 107960,
+      "date": 1490227200,
+      "platform": 48
+    },
+    {
+      "id": 63873,
+      "date": 1490227200,
+      "platform": 49
+    },
+    {
+      "id": 121286,
+      "date": 1490140800,
+      "platform": 6
+    },
+    {
+      "id": 63869,
+      "date": 1490054400,
+      "platform": 49
+    },
+    {
+      "id": 63871,
+      "date": 1490054400,
+      "platform": 6
+    },
+    {
+      "id": 107961,
+      "date": 1490054400,
+      "platform": 48
+    }
+  ]
+}

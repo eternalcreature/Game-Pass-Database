@@ -1,0 +1,153 @@
+{
+  "general": {
+    "id": 384,
+    "game_engines": [
+      {
+        "id": 114,
+        "name": "Crystal Tools"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19564,
+        "company": {
+          "id": 1983,
+          "name": "tri-Ace"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253355,
+        "company": {
+          "id": 93,
+          "name": "Square Enix 1st Production Department"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253236,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 253237,
+        "company": {
+          "id": 52915,
+          "name": "Square Enix Business Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253354,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Final Fantasy XIII-2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-xiii-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 22948,
+      "date": 1327968000,
+      "platform": 12
+    },
+    {
+      "id": 22945,
+      "date": 1323907200,
+      "platform": 9
+    },
+    {
+      "id": 22954,
+      "date": 1323907200,
+      "platform": 9
+    },
+    {
+      "id": 22955,
+      "date": 1323907200,
+      "platform": 12
+    },
+    {
+      "id": 303421,
+      "date": 1327968000,
+      "platform": 49
+    },
+    {
+      "id": 22953,
+      "date": 1418256000,
+      "platform": 6
+    },
+    {
+      "id": 22946,
+      "date": 1323907200,
+      "platform": 12
+    },
+    {
+      "id": 22950,
+      "date": 1328140800,
+      "platform": 12
+    },
+    {
+      "id": 22952,
+      "date": 1328227200,
+      "platform": 12
+    },
+    {
+      "id": 22947,
+      "date": 1327968000,
+      "platform": 9
+    }
+  ]
+}

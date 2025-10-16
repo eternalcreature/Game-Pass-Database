@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 134483,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175242,
+        "company": {
+          "id": 26091,
+          "name": "Duoyi (Hong Kong) Interactive Entertainment Limited"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 212402,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Gunfire Reborn",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gunfire-reborn",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 642233,
+      "date": 1685577600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 642235,
+      "date": 1666828800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 642228,
+      "date": 1652745600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 642229,
+      "date": 1666828800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 642234,
+      "date": 1666828800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 642232,
+      "date": 1685577600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 642227,
+      "date": 1652745600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 642231,
+      "date": 1588636800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 642230,
+      "date": 1637107200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

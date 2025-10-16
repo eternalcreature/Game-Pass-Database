@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 135995,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 174707,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 260684,
+        "company": {
+          "id": 27221,
+          "name": "INTERIOR/NIGHT"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "As Dusk Falls",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/as-dusk-falls",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 365230,
+      "date": 1658188800,
+      "platform": 169
+    },
+    {
+      "id": 543117,
+      "date": 1709769600,
+      "platform": 167
+    },
+    {
+      "id": 543118,
+      "date": 1709769600,
+      "platform": 48
+    },
+    {
+      "id": 365228,
+      "date": 1658188800,
+      "platform": 6
+    },
+    {
+      "id": 365229,
+      "date": 1658188800,
+      "platform": 49
+    }
+  ]
+}

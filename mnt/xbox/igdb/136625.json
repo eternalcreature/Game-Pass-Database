@@ -1,0 +1,159 @@
+{
+  "general": {
+    "id": 136625,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 110267,
+        "company": {
+          "id": 13854,
+          "name": "Portkey Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 110268,
+        "company": {
+          "id": 1309,
+          "name": "Avalanche Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 185309,
+        "company": {
+          "id": 21449,
+          "name": "Sumo Nottingham"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 110269,
+        "company": {
+          "id": 28639,
+          "name": "Wizarding World"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 267175,
+        "company": {
+          "id": 25265,
+          "name": "Shiver Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Hogwarts Legacy",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hogwarts-legacy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652239,
+      "date": 1675728000,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 722823,
+      "date": 1749081600,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 652235,
+      "date": 1675728000,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652237,
+      "date": 1675728000,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 652233,
+      "date": 1683244800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 652236,
+      "date": 1675987200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652238,
+      "date": 1675987200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652240,
+      "date": 1675987200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652234,
+      "date": 1683244800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 652232,
+      "date": 1699920000,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

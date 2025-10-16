@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 203433,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 173726,
+        "company": {
+          "id": 164,
+          "name": "Rocksteady Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 173725,
+        "company": {
+          "id": 30651,
+          "name": "Warner Bros. Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 301742,
+        "company": {
+          "id": 2283,
+          "name": "Virtuous"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Batman: Return to Arkham - Arkham Asylum",
+    "parent_game": 500,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/batman-return-to-arkham-arkham-asylum",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 362819,
+      "date": 1476662400,
+      "platform": 49
+    },
+    {
+      "id": 362820,
+      "date": 1476662400,
+      "platform": 48
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 364,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19118,
+        "company": {
+          "id": 97,
+          "name": "New World Computing"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 19116,
+        "company": {
+          "id": 106,
+          "name": "Loki Software"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 19117,
+        "company": {
+          "id": 99,
+          "name": "The 3DO Company"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 155,
+      "date": 920160000,
+      "platform": 6
+    },
+    {
+      "id": 22082,
+      "date": 946598400,
+      "platform": 3
+    },
+    {
+      "id": 22083,
+      "date": 945734400,
+      "platform": 14
+    }
+  ]
+}

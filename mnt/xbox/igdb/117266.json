@@ -1,0 +1,143 @@
+{
+  "general": {
+    "id": 117266,
+    "game_engines": [
+      {
+        "id": 532,
+        "name": "GameMaker Studio 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290042,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 218895,
+        "company": {
+          "id": 5462,
+          "name": "Finji"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 218896,
+        "company": {
+          "id": 47927,
+          "name": "Wishes Ultd."
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Chicory: A Colorful Tale",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/chicory-a-colorful-tale",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 539846,
+      "date": 1623283200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 539842,
+      "date": 1623283200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 539843,
+      "date": 1639526400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 539844,
+      "date": 1623283200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 539845,
+      "date": 1623283200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 475766,
+      "date": 1685404800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 475767,
+      "date": 1685404800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

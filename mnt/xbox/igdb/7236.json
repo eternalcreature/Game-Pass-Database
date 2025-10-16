@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 7236,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17123,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 17122,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 17124,
+        "company": {
+          "id": 60,
+          "name": "Climax Group"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Viva Piñata",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/viva-pinata",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 18548,
+      "date": 1195084800,
+      "platform": 6
+    },
+    {
+      "id": 18546,
+      "date": 1168473600,
+      "platform": 12
+    },
+    {
+      "id": 18547,
+      "date": 1194307200,
+      "platform": 6
+    },
+    {
+      "id": 18550,
+      "date": 1201219200,
+      "platform": 6
+    },
+    {
+      "id": 18543,
+      "date": 1163030400,
+      "platform": 12
+    },
+    {
+      "id": 18545,
+      "date": 1164931200,
+      "platform": 12
+    },
+    {
+      "id": 18549,
+      "date": 1195171200,
+      "platform": 6
+    },
+    {
+      "id": 18544,
+      "date": 1164758400,
+      "platform": 12
+    }
+  ]
+}

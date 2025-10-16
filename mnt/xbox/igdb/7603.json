@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 7603,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128332,
+        "company": {
+          "id": 795,
+          "name": "Ninja Theory"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hellblade: Senua's Sacrifice",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hellblade-senuas-sacrifice",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 798325,
+      "date": 1502064000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 798324,
+      "date": 1554940800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 798326,
+      "date": 1502150400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 798327,
+      "date": 1523318400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 302864,
+      "date": 1628467200,
+      "platform": 169
+    },
+    {
+      "id": 761205,
+      "date": 1754956800,
+      "platform": 167
+    }
+  ]
+}

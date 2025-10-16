@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 323947,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 297695,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 297696,
+        "company": {
+          "id": 747,
+          "name": "Tarsier Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 297697,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Little Nightmares II: Enhanced Edition",
+    "parent_game": 121760,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/little-nightmares-ii-enhanced-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 671767,
+      "date": 1629849600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 671768,
+      "date": 1629849600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 671769,
+      "date": 1629849600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

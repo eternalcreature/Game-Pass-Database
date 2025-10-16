@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 200915,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 182225,
+        "company": {
+          "id": 15108,
+          "name": "SIGONO INC."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Opus: Echo of Starsong - Full Bloom Edition",
+    "url": "https://www.igdb.com/games/opus-echo-of-starsong-full-bloom-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 378377,
+      "date": 1661990400,
+      "platform": 6
+    },
+    {
+      "id": 358631,
+      "date": 1652227200,
+      "platform": 130
+    },
+    {
+      "id": 383682,
+      "date": 1661385600,
+      "platform": 49
+    }
+  ]
+}

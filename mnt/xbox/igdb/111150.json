@@ -1,0 +1,80 @@
+{
+  "general": {
+    "id": 111150,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 73672,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 73671,
+        "company": {
+          "id": 1304,
+          "name": "Tantalus Media"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 73670,
+        "company": {
+          "id": 7466,
+          "name": "Paradox Development Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Stellaris: Console Edition",
+    "parent_game": 11582,
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/stellaris-console-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 164173,
+      "date": 1551139200,
+      "platform": 49
+    },
+    {
+      "id": 164174,
+      "date": 1551139200,
+      "platform": 48
+    }
+  ]
+}

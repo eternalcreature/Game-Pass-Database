@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 24775,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 95351,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 78353,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Elder Scrolls III: Morrowind - Game of the Year Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-iii-morrowind-game-of-the-year-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 748484,
+      "date": 1068163200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 748485,
+      "date": 1067558400,
+      "platform": 11,
+      "status": 6
+    },
+    {
+      "id": 748483,
+      "date": 1067558400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 748486,
+      "date": 1077235200,
+      "platform": 11,
+      "status": 6
+    },
+    {
+      "id": 169097,
+      "date": 1245110400,
+      "platform": 6
+    }
+  ]
+}

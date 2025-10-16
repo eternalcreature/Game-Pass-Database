@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 15909,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29967,
+        "company": {
+          "id": 7908,
+          "name": "Awfully Nice Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133211,
+        "company": {
+          "id": 13976,
+          "name": "2Awesome Studio"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Bug Butcher",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-bug-butcher",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 44706,
+      "date": 1453161600,
+      "platform": 3
+    },
+    {
+      "id": 248870,
+      "date": 1541635200,
+      "platform": 130
+    },
+    {
+      "id": 367512,
+      "date": 1476835200,
+      "platform": 34
+    },
+    {
+      "id": 478853,
+      "date": 1476748800,
+      "platform": 39
+    },
+    {
+      "id": 44707,
+      "date": 1453161600,
+      "platform": 14
+    },
+    {
+      "id": 44708,
+      "date": 1453161600,
+      "platform": 6
+    },
+    {
+      "id": 409789,
+      "date": 1453161600,
+      "platform": 6
+    },
+    {
+      "id": 409790,
+      "date": 1453161600,
+      "platform": 14
+    },
+    {
+      "id": 409791,
+      "date": 1453161600,
+      "platform": 3
+    },
+    {
+      "id": 118864,
+      "date": 1476748800,
+      "platform": 48
+    }
+  ]
+}

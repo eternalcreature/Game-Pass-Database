@@ -12,8 +12,8 @@
         "9N5344N0TFR7"
       ]
     ],
-    "original_release_date": "2019-01-22",
-    "release_date": null,
+    "original_release_date": "2019-01-21",
+    "release_date": "2019-12-06",
     "platforms": [
       "PC",
       "XboxOne",
@@ -76,7 +76,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-01-21",
+        "PC": {
+          "release_date_ea": "2019-01-21",
+          "release_date_1_0": "2019-12-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-12-06"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 55090,
+    "game_engines": [
+      {
+        "id": 391,
+        "name": "Dragon Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78907,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 77486,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 239391,
+        "company": {
+          "id": 15878,
+          "name": "Sega Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 278052,
+        "company": {
+          "id": 19080,
+          "name": "Ryu Ga Gotoku Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Yakuza Kiwami 2",
+    "parent_game": 2060,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yakuza-kiwami-2",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 303816,
+      "date": 1595980800,
+      "platform": 49
+    },
+    {
+      "id": 778541,
+      "date": 1762992000,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 809946,
+      "date": 1765152000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 809945,
+      "date": 1765152000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 110434,
+      "date": 1512604800,
+      "platform": 48
+    },
+    {
+      "id": 149233,
+      "date": 1535414400,
+      "platform": 48
+    },
+    {
+      "id": 168114,
+      "date": 1557360000,
+      "platform": 6
+    },
+    {
+      "id": 156236,
+      "date": 1535414400,
+      "platform": 48
+    },
+    {
+      "id": 204250,
+      "date": 1596067200,
+      "platform": 49
+    }
+  ]
+}

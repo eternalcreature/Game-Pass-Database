@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 349562,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 343543,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 343544,
+        "company": {
+          "id": 1990,
+          "name": "Ubisoft Barcelona"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 343545,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Tom Clancy's Rainbow Six Siege X: Elite Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tom-clancys-rainbow-six-siege-x-elite-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 796952,
+      "date": 1749513600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 796951,
+      "date": 1749513600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 796953,
+      "date": 1749513600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

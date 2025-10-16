@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 151766,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 170433,
+        "company": {
+          "id": 24536,
+          "name": "ORIGAME DIGITAL"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 170432,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Umurangi Generation: Special Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/umurangi-generation-special-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 359853,
+      "date": 1652745600,
+      "platform": 169
+    },
+    {
+      "id": 252038,
+      "date": 1622851200,
+      "platform": 130
+    },
+    {
+      "id": 357732,
+      "date": 1652745600,
+      "platform": 49
+    },
+    {
+      "id": 370037,
+      "date": 1652745600,
+      "platform": 6
+    },
+    {
+      "id": 592248,
+      "date": 1713398400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 592249,
+      "date": 1713398400,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

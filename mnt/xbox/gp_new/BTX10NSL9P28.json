@@ -12,8 +12,8 @@
         "BTX10NSL9P28"
       ]
     ],
-    "original_release_date": "2014-07-02",
-    "release_date": null,
+    "original_release_date": "2013-04-09",
+    "release_date": "2014-07-02",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -68,22 +68,43 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-04-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-08-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 4838,
-      "name": "Guacamelee!",
-      "url": "https://www.igdb.com/games/guacamelee",
+      "id": 8862,
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "url": "https://www.igdb.com/games/guacamelee-super-turbo-championship-edition",
       "publishers": [
-        "Drinkbox Studios",
-        "Spike Chunsoft"
+        "Activision",
+        "Drinkbox Studios"
       ],
       "developers": [
         "Drinkbox Studios"
       ],
       "genres": [
+        "Fighting",
         "Platform",
-        "Puzzle",
         "Hack and slash/Beat 'em up",
         "Adventure",
         "Indie"
@@ -95,11 +116,33 @@
       ],
       "game_modes": [
         "Single player",
+        "Multiplayer",
         "Co-operative"
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2014-07-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-08-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-07-02"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-07-02"
+        }
+      }
     }
   },
   "steam_store_meta": {}

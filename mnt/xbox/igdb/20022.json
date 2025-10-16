@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 20022,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 178739,
+        "company": {
+          "id": 660,
+          "name": "Capcom Production Studio 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 178740,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Devil May Cry 4: Special Edition",
+    "parent_game": 112,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/devil-may-cry-4-special-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 758125,
+      "date": 1434585600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 758128,
+      "date": 1435017600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 758131,
+      "date": 1435104000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 758132,
+      "date": 1434585600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 758126,
+      "date": 1435017600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 758127,
+      "date": 1434585600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 758129,
+      "date": 1435104000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 758130,
+      "date": 1435017600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

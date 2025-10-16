@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 11177,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 266719,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 266720,
+        "company": {
+          "id": 5957,
+          "name": "Boneloaf"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Gang Beasts",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gang-beasts",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 131211,
+      "date": 1513036800,
+      "platform": 3
+    },
+    {
+      "id": 131209,
+      "date": 1513036800,
+      "platform": 6
+    },
+    {
+      "id": 358634,
+      "date": 1652227200,
+      "platform": 130
+    },
+    {
+      "id": 129996,
+      "date": 1513036800,
+      "platform": 48
+    },
+    {
+      "id": 504327,
+      "date": 1513036800,
+      "platform": 165
+    },
+    {
+      "id": 314333,
+      "date": 1633564800,
+      "platform": 130
+    },
+    {
+      "id": 594789,
+      "date": 1553644800,
+      "platform": 49
+    },
+    {
+      "id": 131210,
+      "date": 1513036800,
+      "platform": 14
+    },
+    {
+      "id": 337622,
+      "date": 1633564800,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "general": {
+    "id": 18158,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 340844,
+        "company": {
+          "id": 9312,
+          "name": "Clever Endeavour Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 340845,
+        "company": {
+          "id": 4697,
+          "name": "Noodlecake Studios"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Ultimate Chicken Horse",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ultimate-chicken-horse",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 792524,
+      "date": 1750204800,
+      "platform": 34
+    },
+    {
+      "id": 792523,
+      "date": 1750204800,
+      "platform": 39
+    },
+    {
+      "id": 65402,
+      "date": 1457049600,
+      "platform": 3
+    },
+    {
+      "id": 213292,
+      "date": 1513036800,
+      "platform": 48
+    },
+    {
+      "id": 65401,
+      "date": 1457049600,
+      "platform": 14
+    },
+    {
+      "id": 47628,
+      "date": 1457049600,
+      "platform": 6
+    },
+    {
+      "id": 172801,
+      "date": 1537833600,
+      "platform": 130
+    },
+    {
+      "id": 213293,
+      "date": 1513296000,
+      "platform": 49
+    }
+  ]
+}

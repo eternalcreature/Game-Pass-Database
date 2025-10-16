@@ -17,7 +17,7 @@
         "C2R5R5P2DF3C"
       ]
     ],
-    "original_release_date": "2014-08-19",
+    "original_release_date": "2014-03-25",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -91,21 +91,42 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "expansion",
+      "release_dates": {
+        "release_date": "2014-03-25",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-03-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-08-19"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-08-19"
+        }
+      }
     },
     "specific": {
-      "id": 3182,
-      "name": "Diablo III: Reaper of Souls",
-      "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls",
+      "id": 47452,
+      "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+      "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls-ultimate-evil-edition",
       "publishers": [
-        "Blizzard Entertainment",
-        "Square Enix"
+        "Blizzard Entertainment"
       ],
       "developers": [
         "Blizzard Entertainment"
       ],
       "genres": [
         "Role-playing (RPG)",
+        "Strategy",
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
@@ -117,11 +138,33 @@
       "game_modes": [
         "Single player",
         "Multiplayer",
-        "Co-operative"
+        "Co-operative",
+        "Split screen"
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2014-08-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": "2014-08-19",
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-08-19"
+        }
+      }
     }
   },
   "steam_store_meta": {}

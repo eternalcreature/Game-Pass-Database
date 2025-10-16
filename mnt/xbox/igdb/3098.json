@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 3098,
+    "game_engines": [
+      {
+        "id": 45,
+        "name": "Vision"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 340170,
+        "company": {
+          "id": 1463,
+          "name": "Black Forest Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Giana Sisters: Twisted Dreams",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/giana-sisters-twisted-dreams",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 139837,
+      "date": 1378339200,
+      "platform": 41
+    },
+    {
+      "id": 6904,
+      "date": 1350950400,
+      "platform": 6
+    },
+    {
+      "id": 288998,
+      "date": 1350864000,
+      "platform": 6
+    },
+    {
+      "id": 6907,
+      "date": 1378339200,
+      "platform": 41
+    },
+    {
+      "id": 203139,
+      "date": 1371513600,
+      "platform": 9
+    },
+    {
+      "id": 392420,
+      "date": 1363737600,
+      "platform": 12
+    },
+    {
+      "id": 392421,
+      "date": 1363824000,
+      "platform": 12
+    },
+    {
+      "id": 139838,
+      "date": 1377129600,
+      "platform": 41
+    }
+  ]
+}

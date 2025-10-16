@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 30208,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 281690,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 281689,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dragon Age: The Veilguard",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dragon-age-the-veilguard",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 629820,
+      "date": 1730332800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 629821,
+      "date": 1730332800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 629822,
+      "date": 1730332800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 19409,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35820,
+        "company": {
+          "id": 1527,
+          "name": "Giants Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 35821,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Farming Simulator 17",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/farming-simulator-17",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 103009,
+      "date": 1477353600,
+      "platform": 48
+    },
+    {
+      "id": 147105,
+      "date": 1481155200,
+      "platform": 14
+    },
+    {
+      "id": 55856,
+      "date": 1477353600,
+      "platform": 49
+    },
+    {
+      "id": 55854,
+      "date": 1477353600,
+      "platform": 48
+    },
+    {
+      "id": 103008,
+      "date": 1477353600,
+      "platform": 48
+    },
+    {
+      "id": 117240,
+      "date": 1477353600,
+      "platform": 49
+    },
+    {
+      "id": 55855,
+      "date": 1477353600,
+      "platform": 6
+    }
+  ]
+}

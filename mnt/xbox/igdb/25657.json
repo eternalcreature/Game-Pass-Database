@@ -1,0 +1,163 @@
+{
+  "general": {
+    "id": 25657,
+    "game_engines": [
+      {
+        "id": 1331,
+        "name": "Tiger"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 45633,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 51598,
+        "company": {
+          "id": 434,
+          "name": "High Moon Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 47222,
+        "company": {
+          "id": 72,
+          "name": "Vicarious Visions"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 329742,
+        "company": {
+          "id": 620,
+          "name": "Bungie"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Destiny 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/destiny-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 134571,
+      "date": 1504656000,
+      "platform": 48
+    },
+    {
+      "id": 220978,
+      "date": 1607385600,
+      "platform": 169
+    },
+    {
+      "id": 134570,
+      "date": 1504656000,
+      "platform": 48
+    },
+    {
+      "id": 163954,
+      "date": 1508803200,
+      "platform": 6
+    },
+    {
+      "id": 84577,
+      "date": 1504656000,
+      "platform": 49
+    },
+    {
+      "id": 220977,
+      "date": 1607385600,
+      "platform": 167
+    },
+    {
+      "id": 239435,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 84576,
+      "date": 1504656000,
+      "platform": 48
+    },
+    {
+      "id": 149141,
+      "date": 1504656000,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 332273,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 308443,
+        "company": {
+          "id": 19592,
+          "name": "Shiny Shoe"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 308522,
+        "company": {
+          "id": 61765,
+          "name": "Big Fan Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Monster Train 2",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/monster-train-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 732659,
+      "date": 1747785600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 732656,
+      "date": 1747785600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 732658,
+      "date": 1747785600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 732657,
+      "date": 1747785600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

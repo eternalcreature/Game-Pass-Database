@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 143076,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 118279,
+        "company": {
+          "id": 377,
+          "name": "Firaxis Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 118280,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "XCOM: Enemy Within",
+    "parent_game": 1318,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/xcom-enemy-within--1",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 363497,
+      "date": 1415750400,
+      "platform": 34
+    },
+    {
+      "id": 227131,
+      "date": 1384214400,
+      "platform": 9
+    },
+    {
+      "id": 227133,
+      "date": 1384473600,
+      "platform": 9
+    },
+    {
+      "id": 227132,
+      "date": 1384473600,
+      "platform": 12
+    },
+    {
+      "id": 227130,
+      "date": 1384214400,
+      "platform": 12
+    },
+    {
+      "id": 227134,
+      "date": 1384473600,
+      "platform": 12
+    },
+    {
+      "id": 227135,
+      "date": 1384473600,
+      "platform": 9
+    },
+    {
+      "id": 349761,
+      "date": 1415836800,
+      "platform": 39
+    }
+  ]
+}

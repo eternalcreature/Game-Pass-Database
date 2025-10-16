@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 153697,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 245368,
+        "company": {
+          "id": 1225,
+          "name": "Ubisoft San Francisco"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 245369,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 245370,
+        "company": {
+          "id": 809,
+          "name": "South Park Digital Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 245371,
+        "company": {
+          "id": 8264,
+          "name": "Ubisoft Osaka"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 245372,
+        "company": {
+          "id": 537,
+          "name": "Massive Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "South Park: The Fractured But Whole - Danger Deck",
+    "parent_game": 11161,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/south-park-the-fractured-but-whole-danger-deck",
+    "game_type": 1
+  },
+  "release_dates": [
+    {
+      "id": 452011,
+      "date": 1524528000,
+      "platform": 130
+    },
+    {
+      "id": 546401,
+      "date": 1524528000,
+      "platform": 6
+    },
+    {
+      "id": 546402,
+      "date": 1524528000,
+      "platform": 48
+    },
+    {
+      "id": 546403,
+      "date": 1524528000,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "general": {
+    "id": 346951,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 323664,
+        "company": {
+          "id": 1290,
+          "name": "TT Fusion"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 323665,
+        "company": {
+          "id": 14055,
+          "name": "Warner Bros. Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "LEGO Batman 3: Beyond Gotham",
+    "parent_game": 7685,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-batman-3-beyond-gotham--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 750037,
+      "date": 1439510400,
+      "platform": 34
+    },
+    {
+      "id": 750036,
+      "date": 1435190400,
+      "platform": 39
+    },
+    {
+      "id": 750247,
+      "date": 1415664000,
+      "platform": 46
+    },
+    {
+      "id": 750248,
+      "date": 1415664000,
+      "platform": 37
+    }
+  ]
+}

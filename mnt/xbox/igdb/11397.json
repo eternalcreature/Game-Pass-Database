@@ -1,0 +1,162 @@
+{
+  "general": {
+    "id": 11397,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78776,
+        "company": {
+          "id": 19967,
+          "name": "Lab42 Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 239246,
+        "company": {
+          "id": 14087,
+          "name": "Sega Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 239244,
+        "company": {
+          "id": 15878,
+          "name": "Sega Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 239245,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 278046,
+        "company": {
+          "id": 19080,
+          "name": "Ryu Ga Gotoku Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 278047,
+        "company": {
+          "id": 15878,
+          "name": "Sega Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Yakuza 0",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yakuza-0",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 711819,
+      "date": 1426118400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 711818,
+      "date": 1533081600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 711820,
+      "date": 1431561600,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 711821,
+      "date": 1426118400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 711822,
+      "date": 1485216000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 711823,
+      "date": 1431561600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 711824,
+      "date": 1485216000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 738978,
+      "date": 1582675200,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

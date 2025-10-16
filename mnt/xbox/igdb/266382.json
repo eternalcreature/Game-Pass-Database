@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 266382,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 287069,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 287070,
+        "company": {
+          "id": 486,
+          "name": "Sports Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Football Manager 2024",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/football-manager-2024",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 533879,
+      "date": 1699228800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 533881,
+      "date": 1699228800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 642187,
+      "date": 1699228800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 533880,
+      "date": 1699228800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 535058,
+      "date": 1699228800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

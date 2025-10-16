@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 7208,
+    "game_engines": [
+      {
+        "id": 318,
+        "name": "Silk Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17055,
+        "company": {
+          "id": 405,
+          "name": "Spiders"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 17056,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Bound By Flame",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bound-by-flame",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 18360,
+      "date": 1399593600,
+      "platform": 9
+    },
+    {
+      "id": 18361,
+      "date": 1399593600,
+      "platform": 48
+    },
+    {
+      "id": 134493,
+      "date": 1399334400,
+      "platform": 48
+    },
+    {
+      "id": 134494,
+      "date": 1399420800,
+      "platform": 48
+    },
+    {
+      "id": 101986,
+      "date": 1399334400,
+      "platform": 9
+    },
+    {
+      "id": 101987,
+      "date": 1399420800,
+      "platform": 9
+    },
+    {
+      "id": 307945,
+      "date": 1399507200,
+      "platform": 49
+    },
+    {
+      "id": 18362,
+      "date": 1399593600,
+      "platform": 12
+    },
+    {
+      "id": 18359,
+      "date": 1399593600,
+      "platform": 6
+    }
+  ]
+}

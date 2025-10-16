@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 152242,
+    "game_engines": [
+      {
+        "id": 1456,
+        "name": "Zouna"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 174708,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 174709,
+        "company": {
+          "id": 442,
+          "name": "Asobo Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "A Plague Tale: Requiem",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/a-plague-tale-requiem",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 395486,
+      "date": 1666051200,
+      "platform": 6
+    },
+    {
+      "id": 395485,
+      "date": 1666051200,
+      "platform": 167
+    },
+    {
+      "id": 368109,
+      "date": 1666051200,
+      "platform": 169
+    }
+  ]
+}

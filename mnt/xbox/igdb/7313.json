@@ -1,0 +1,73 @@
+{
+  "general": {
+    "id": 7313,
+    "game_engines": [
+      {
+        "id": 433,
+        "name": "In House Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17292,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Heroes of the Storm",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/heroes-of-the-storm",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 29364,
+      "date": 1433203200,
+      "platform": 14
+    },
+    {
+      "id": 29363,
+      "date": 1433203200,
+      "platform": 6
+    }
+  ]
+}

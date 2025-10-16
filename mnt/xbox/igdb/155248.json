@@ -1,0 +1,41 @@
+{
+  "general": {
+    "id": 155248,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Sid Meier's Alpha Centauri Planetary Pack",
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sid-meiers-alpha-centauri-planetary-pack",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 475793,
+      "date": 917740800,
+      "platform": 6
+    }
+  ]
+}

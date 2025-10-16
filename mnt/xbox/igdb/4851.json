@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 4851,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33358,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Stacking",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/stacking",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 47605,
+      "date": 1297209600,
+      "platform": 12
+    },
+    {
+      "id": 105792,
+      "date": 1297123200,
+      "platform": 9
+    },
+    {
+      "id": 47604,
+      "date": 1362614400,
+      "platform": 3
+    },
+    {
+      "id": 105793,
+      "date": 1297209600,
+      "platform": 9
+    },
+    {
+      "id": 47603,
+      "date": 1362614400,
+      "platform": 14
+    },
+    {
+      "id": 47602,
+      "date": 1330992000,
+      "platform": 6
+    }
+  ]
+}

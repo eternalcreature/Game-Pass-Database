@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 27789,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 55299,
+        "company": {
+          "id": 3115,
+          "name": "Bluehole Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58862,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58863,
+        "company": {
+          "id": 5961,
+          "name": "The Coalition"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 163990,
+        "company": {
+          "id": 13579,
+          "name": "PUBG Corp"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "PUBG: Battlegrounds",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pubg-battlegrounds",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 785340,
+      "date": 1536019200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 785332,
+      "date": 1762992000,
+      "platform": 48,
+      "status": 4
+    },
+    {
+      "id": 785333,
+      "date": 1762992000,
+      "platform": 49,
+      "status": 4
+    },
+    {
+      "id": 785337,
+      "date": 1513728000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 785334,
+      "date": 1762992000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 785336,
+      "date": 1588032000,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 785335,
+      "date": 1762992000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 785339,
+      "date": 1544140800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 785338,
+      "date": 1490227200,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

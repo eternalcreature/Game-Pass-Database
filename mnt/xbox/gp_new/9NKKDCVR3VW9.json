@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2021-08-31",
-    "release_date": null,
+    "release_date": "2022-08-25",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -82,31 +82,74 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-08-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-08-31"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 151795,
-      "name": "Opus: Echo of Starsong",
-      "url": "https://www.igdb.com/games/opus-echo-of-starsong",
-      "publishers": [],
+      "id": 200915,
+      "name": "Opus: Echo of Starsong - Full Bloom Edition",
+      "url": "https://www.igdb.com/games/opus-echo-of-starsong-full-bloom-edition",
+      "publishers": [
+        "SIGONO INC."
+      ],
       "developers": [
         "SIGONO INC."
       ],
       "genres": [
         "Role-playing (RPG)",
+        "Simulator",
         "Adventure",
         "Indie",
         "Visual Novel"
       ],
-      "themes": [
-        "Science fiction"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-05-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-09-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-08-25"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2016-03-22",
-    "release_date": null,
+    "release_date": "2016-03-22",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -93,7 +93,28 @@
         "First person",
         "Third person",
         "Virtual Reality"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-03-22",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-03-24"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-03-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

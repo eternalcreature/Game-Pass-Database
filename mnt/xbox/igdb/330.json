@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 330,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1147,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1149,
+        "company": {
+          "id": 355,
+          "name": "Zoo Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1148,
+        "company": {
+          "id": 354,
+          "name": "DSI Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 82862,
+        "company": {
+          "id": 379,
+          "name": "Full Fat"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 343387,
+        "company": {
+          "id": 284,
+          "name": "Maxis"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SimCity 2000",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/simcity-2000",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 19529,
+      "date": 1230681600,
+      "platform": 7
+    },
+    {
+      "id": 1021,
+      "date": 788918400,
+      "platform": 19
+    },
+    {
+      "id": 1020,
+      "date": 757382400,
+      "platform": 16
+    },
+    {
+      "id": 796980,
+      "platform": 24
+    },
+    {
+      "id": 1025,
+      "date": 1104537600,
+      "platform": 6
+    },
+    {
+      "id": 180150,
+      "date": 757296000,
+      "platform": 14
+    },
+    {
+      "id": 1018,
+      "date": 757382400,
+      "platform": 13
+    },
+    {
+      "id": 1022,
+      "date": 788918400,
+      "platform": 32
+    },
+    {
+      "id": 214742,
+      "date": 801446400,
+      "platform": 58
+    },
+    {
+      "id": 1023,
+      "date": 820454400,
+      "platform": 7
+    }
+  ]
+}

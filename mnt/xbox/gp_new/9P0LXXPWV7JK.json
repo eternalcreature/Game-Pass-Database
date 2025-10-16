@@ -20,7 +20,7 @@
       ]
     ],
     "original_release_date": "2010-01-26",
-    "release_date": null,
+    "release_date": "2010-01-26",
     "platforms": [
       "PC"
     ]
@@ -67,34 +67,74 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2010-01-26",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-01-26"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-01-26"
+        }
+      }
     },
     "specific": {
-      "id": 74,
-      "name": "Mass Effect 2",
-      "url": "https://www.igdb.com/games/mass-effect-2",
+      "id": 202309,
+      "name": "Mass Effect 2: Digital Deluxe Edition",
+      "url": "https://www.igdb.com/games/mass-effect-2-digital-deluxe-edition",
       "publishers": [
-        "Electronic Arts"
+        "Electronic Arts, Inc."
       ],
       "developers": [
-        "BioWare",
-        "BioWare Edmonton"
+        "BioWare"
       ],
       "genres": [
-        "Shooter",
-        "Role-playing (RPG)",
-        "Adventure"
+        "Role-playing (RPG)"
       ],
-      "themes": [
-        "Action",
-        "Science fiction"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2010-01-26",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-01-26"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

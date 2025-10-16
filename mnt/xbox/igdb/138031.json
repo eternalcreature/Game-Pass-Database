@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 138031,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138640,
+        "company": {
+          "id": 26201,
+          "name": "Yooreka Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 290643,
+        "company": {
+          "id": 9579,
+          "name": "Lince Works"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 290644,
+        "company": {
+          "id": 4726,
+          "name": "Merge Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Aragami 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/aragami-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 437847,
+      "date": 1668038400,
+      "platform": 130
+    },
+    {
+      "id": 246814,
+      "date": 1631836800,
+      "platform": 48
+    },
+    {
+      "id": 246815,
+      "date": 1631836800,
+      "platform": 6
+    },
+    {
+      "id": 246811,
+      "date": 1631836800,
+      "platform": 167
+    },
+    {
+      "id": 246812,
+      "date": 1631836800,
+      "platform": 49
+    },
+    {
+      "id": 246813,
+      "date": 1631836800,
+      "platform": 169
+    }
+  ]
+}

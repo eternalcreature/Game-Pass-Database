@@ -1,0 +1,146 @@
+{
+  "general": {
+    "id": 7323,
+    "game_engines": [
+      {
+        "id": 362,
+        "name": "Foundation Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22397,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 37679,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 184710,
+        "company": {
+          "id": 4940,
+          "name": "Square Enix Europe"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rise of the Tomb Raider",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rise-of-the-tomb-raider",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179287,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 53910,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 105282,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 40427,
+      "date": 1447113600,
+      "platform": 12
+    },
+    {
+      "id": 501491,
+      "platform": 165
+    },
+    {
+      "id": 40424,
+      "date": 1447113600,
+      "platform": 49
+    },
+    {
+      "id": 43354,
+      "date": 1453939200,
+      "platform": 6
+    },
+    {
+      "id": 105283,
+      "date": 1476144000,
+      "platform": 48
+    },
+    {
+      "id": 136252,
+      "date": 1447113600,
+      "platform": 49
+    },
+    {
+      "id": 300952,
+      "date": 1454976000,
+      "platform": 6
+    }
+  ]
+}

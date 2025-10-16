@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2012-04-13",
-    "release_date": null,
+    "release_date": "2019-06-09",
     "platforms": [
       "PC"
     ]
@@ -66,7 +66,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-04-13",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-05-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-04-13"
+        }
+      }
     }
   },
   "steam_store_meta": {}

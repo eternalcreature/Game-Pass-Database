@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 87683,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 79922,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 79921,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 79920,
+        "company": {
+          "id": 741,
+          "name": "Toys for Bob"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Spyro Reignited Trilogy",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spyro-reignited-trilogy",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 339004,
+      "date": 1567382400,
+      "platform": 130
+    },
+    {
+      "id": 157095,
+      "date": 1542067200,
+      "platform": 48
+    },
+    {
+      "id": 171165,
+      "date": 1567468800,
+      "platform": 130
+    },
+    {
+      "id": 171164,
+      "date": 1567468800,
+      "platform": 6
+    },
+    {
+      "id": 157096,
+      "date": 1542067200,
+      "platform": 49
+    }
+  ]
+}

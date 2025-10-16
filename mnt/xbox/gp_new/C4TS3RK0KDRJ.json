@@ -12,8 +12,8 @@
         "C4TS3RK0KDRJ"
       ]
     ],
-    "original_release_date": "2015-05-18",
-    "release_date": null,
+    "original_release_date": "2015-10-01",
+    "release_date": "2016-04-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -66,12 +66,35 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-10-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-10-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-04-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 14146,
-      "name": "Steredenn",
-      "url": "https://www.igdb.com/games/steredenn",
+      "id": 87197,
+      "name": "Steredenn: Binary Stars",
+      "url": "https://www.igdb.com/games/steredenn-binary-stars",
       "publishers": [
         "Plug In Digital"
       ],
@@ -79,13 +102,15 @@
         "Pixelnest Studio"
       ],
       "genres": [
+        "Fighting",
         "Shooter",
         "Indie",
         "Arcade"
       ],
       "themes": [
         "Action",
-        "Science fiction"
+        "Science fiction",
+        "Party"
       ],
       "game_modes": [
         "Single player",
@@ -94,7 +119,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-03-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-04-10"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

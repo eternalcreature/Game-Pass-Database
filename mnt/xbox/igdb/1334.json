@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 1334,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 55847,
+        "company": {
+          "id": 3980,
+          "name": "The Workshop Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 189853,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189854,
+        "company": {
+          "id": 280,
+          "name": "Starbreeze Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 296508,
+        "company": {
+          "id": 59778,
+          "name": "Turn Me Up Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Brothers: A Tale of Two Sons",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/brothers-a-tale-of-two-sons",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 110308,
+      "date": 1445472000,
+      "platform": 39
+    },
+    {
+      "id": 394646,
+      "date": 1464220800,
+      "platform": 74
+    },
+    {
+      "id": 164704,
+      "date": 1378252800,
+      "platform": 9
+    },
+    {
+      "id": 394644,
+      "date": 1439337600,
+      "platform": 48
+    },
+    {
+      "id": 164705,
+      "date": 1378166400,
+      "platform": 9
+    },
+    {
+      "id": 169943,
+      "date": 1559001600,
+      "platform": 130
+    },
+    {
+      "id": 394645,
+      "date": 1439337600,
+      "platform": 49
+    },
+    {
+      "id": 21758,
+      "date": 1378166400,
+      "platform": 6
+    },
+    {
+      "id": 164702,
+      "date": 1390867200,
+      "platform": 9
+    },
+    {
+      "id": 236054,
+      "date": 1375833600,
+      "platform": 12
+    }
+  ]
+}

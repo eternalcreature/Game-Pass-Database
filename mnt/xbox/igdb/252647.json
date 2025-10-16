@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 252647,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 272045,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 272046,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 272047,
+        "company": {
+          "id": 9969,
+          "name": "P Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Persona 3 Reload",
+    "parent_game": 9577,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/persona-3-reload",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 778521,
+      "date": 1761177600,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 506374,
+      "date": 1706832000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 506375,
+      "date": 1706832000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 506373,
+      "date": 1706832000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 506372,
+      "date": 1706832000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 506376,
+      "date": 1706832000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 28706,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50623,
+        "company": {
+          "id": 555,
+          "name": "EA Orlando"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 50622,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Madden NFL 18",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/madden-nfl-18",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 133854,
+      "date": 1503619200,
+      "platform": 48
+    },
+    {
+      "id": 110618,
+      "date": 1503619200,
+      "platform": 49
+    },
+    {
+      "id": 110617,
+      "date": 1503619200,
+      "platform": 48
+    },
+    {
+      "id": 115955,
+      "date": 1503619200,
+      "platform": 48
+    },
+    {
+      "id": 119728,
+      "date": 1503619200,
+      "platform": 49
+    }
+  ]
+}

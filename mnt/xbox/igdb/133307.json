@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 133307,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 256295,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 256296,
+        "company": {
+          "id": 25396,
+          "name": "Neon Giant"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 214384,
+        "company": {
+          "id": 47197,
+          "name": "Wushu Studios"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "The Ascent",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-ascent",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 245087,
+      "date": 1627516800,
+      "platform": 169
+    },
+    {
+      "id": 345195,
+      "date": 1648080000,
+      "platform": 48
+    },
+    {
+      "id": 345196,
+      "date": 1648080000,
+      "platform": 167
+    },
+    {
+      "id": 245088,
+      "date": 1627516800,
+      "platform": 49
+    },
+    {
+      "id": 245089,
+      "date": 1627516800,
+      "platform": 6
+    }
+  ]
+}

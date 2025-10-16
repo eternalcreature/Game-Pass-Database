@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 9630,
+    "game_engines": [
+      {
+        "id": 95,
+        "name": "Creation Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 248492,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 248493,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fallout 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fallout-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 407411,
+      "date": 1447027200,
+      "platform": 6
+    },
+    {
+      "id": 30674,
+      "date": 1447113600,
+      "platform": 49
+    },
+    {
+      "id": 587118,
+      "date": 1714003200,
+      "platform": 167
+    },
+    {
+      "id": 587117,
+      "date": 1714003200,
+      "platform": 169
+    },
+    {
+      "id": 30673,
+      "date": 1447113600,
+      "platform": 48
+    }
+  ]
+}

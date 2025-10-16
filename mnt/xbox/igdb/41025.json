@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 41025,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 225563,
+        "company": {
+          "id": 13027,
+          "name": "Jumpship"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Somerville",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/somerville",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 538245,
+      "date": 1668470400,
+      "platform": 49
+    },
+    {
+      "id": 538246,
+      "date": 1668470400,
+      "platform": 169
+    },
+    {
+      "id": 537653,
+      "date": 1668470400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 537654,
+      "date": 1693440000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 537655,
+      "date": 1693440000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 537656,
+      "date": 1668470400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 537657,
+      "date": 1668470400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

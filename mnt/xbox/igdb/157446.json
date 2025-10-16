@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 157446,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 141579,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 141580,
+        "company": {
+          "id": 20228,
+          "name": "2K"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "NBA 2K22",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nba-2k22",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 309867,
+      "date": 1631145600,
+      "platform": 6
+    },
+    {
+      "id": 298254,
+      "date": 1631232000,
+      "platform": 48
+    },
+    {
+      "id": 298255,
+      "date": 1631232000,
+      "platform": 167
+    },
+    {
+      "id": 298256,
+      "date": 1631232000,
+      "platform": 49
+    },
+    {
+      "id": 298257,
+      "date": 1631232000,
+      "platform": 169
+    },
+    {
+      "id": 298258,
+      "date": 1631232000,
+      "platform": 6
+    },
+    {
+      "id": 298259,
+      "date": 1631232000,
+      "platform": 130
+    },
+    {
+      "id": 339213,
+      "date": 1631145600,
+      "platform": 130
+    }
+  ]
+}

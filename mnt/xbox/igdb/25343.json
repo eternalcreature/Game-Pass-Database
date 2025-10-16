@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 25343,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 41280,
+        "company": {
+          "id": 2103,
+          "name": "Aksys Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 41294,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Zero Escape: The Nonary Games",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/zero-escape-the-nonary-games",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 107045,
+      "date": 1490313600,
+      "platform": 48
+    },
+    {
+      "id": 64701,
+      "date": 1492041600,
+      "platform": 48
+    },
+    {
+      "id": 127659,
+      "date": 1513296000,
+      "platform": 46
+    },
+    {
+      "id": 67331,
+      "date": 1490313600,
+      "platform": 46
+    },
+    {
+      "id": 64700,
+      "date": 1492041600,
+      "platform": 46
+    },
+    {
+      "id": 351189,
+      "date": 1647820800,
+      "platform": 49
+    },
+    {
+      "id": 351853,
+      "date": 1647907200,
+      "platform": 49
+    },
+    {
+      "id": 123320,
+      "date": 1490313600,
+      "platform": 48
+    },
+    {
+      "id": 67330,
+      "date": 1490313600,
+      "platform": 6
+    }
+  ]
+}

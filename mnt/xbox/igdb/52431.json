@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 52431,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 199478,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed IV: Black Flag - Gold Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-iv-black-flag-gold-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 152133,
+      "date": 1384819200,
+      "platform": 6
+    },
+    {
+      "id": 224038,
+      "date": 1388448000,
+      "platform": 9
+    },
+    {
+      "id": 224039,
+      "date": 1388448000,
+      "platform": 48
+    },
+    {
+      "id": 224040,
+      "date": 1388448000,
+      "platform": 49
+    },
+    {
+      "id": 224041,
+      "date": 1388448000,
+      "platform": 12
+    }
+  ]
+}

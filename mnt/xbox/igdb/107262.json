@@ -1,0 +1,165 @@
+{
+  "general": {
+    "id": 107262,
+    "game_engines": [
+      {
+        "id": 1800,
+        "name": "Guard Crush Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 327617,
+        "company": {
+          "id": 4501,
+          "name": "DotEmu"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 327619,
+        "company": {
+          "id": 10315,
+          "name": "Lizardcube"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 327621,
+        "company": {
+          "id": 11360,
+          "name": "Playdigious"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 327618,
+        "company": {
+          "id": 10322,
+          "name": "Guard Crush Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 327620,
+        "company": {
+          "id": 26201,
+          "name": "Yooreka Studio"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Streets of Rage 4",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/streets-of-rage-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 417137,
+      "date": 1605139200,
+      "platform": 14
+    },
+    {
+      "id": 235433,
+      "date": 1593043200,
+      "platform": 49
+    },
+    {
+      "id": 235435,
+      "date": 1595548800,
+      "platform": 6
+    },
+    {
+      "id": 193370,
+      "date": 1588204800,
+      "platform": 130
+    },
+    {
+      "id": 235432,
+      "date": 1593043200,
+      "platform": 48
+    },
+    {
+      "id": 417138,
+      "date": 1605139200,
+      "platform": 3
+    },
+    {
+      "id": 363876,
+      "date": 1653350400,
+      "platform": 39
+    },
+    {
+      "id": 235431,
+      "date": 1588204800,
+      "platform": 3
+    },
+    {
+      "id": 235434,
+      "date": 1593043200,
+      "platform": 130
+    },
+    {
+      "id": 299971,
+      "date": 1626307200,
+      "platform": 170
+    }
+  ]
+}

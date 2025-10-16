@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 145319,
+    "game_engines": [
+      {
+        "id": 750,
+        "name": "Unity 2019"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 177435,
+        "company": {
+          "id": 13971,
+          "name": "Nosebleed Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 177436,
+        "company": {
+          "id": 13699,
+          "name": "Wired Productions"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Arcade Paradise",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/arcade-paradise",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 369811,
+      "date": 1660176000,
+      "platform": 167
+    },
+    {
+      "id": 369807,
+      "date": 1660176000,
+      "platform": 6
+    },
+    {
+      "id": 369808,
+      "date": 1660176000,
+      "platform": 169
+    },
+    {
+      "id": 369809,
+      "date": 1660176000,
+      "platform": 49
+    },
+    {
+      "id": 369806,
+      "date": 1660176000,
+      "platform": 48
+    },
+    {
+      "id": 369810,
+      "date": 1660176000,
+      "platform": 130
+    },
+    {
+      "id": 774702,
+      "platform": 170
+    }
+  ]
+}

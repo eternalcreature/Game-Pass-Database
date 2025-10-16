@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 76770,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97068,
+        "company": {
+          "id": 3010,
+          "name": "Headup Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 97069,
+        "company": {
+          "id": 5254,
+          "name": "ClockStone Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Bridge Constructor Portal",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bridge-constructor-portal",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 146810,
+      "date": 1519776000,
+      "platform": 130
+    },
+    {
+      "id": 131673,
+      "date": 1513728000,
+      "platform": 6
+    },
+    {
+      "id": 131670,
+      "date": 1513728000,
+      "platform": 34
+    },
+    {
+      "id": 131669,
+      "date": 1513728000,
+      "platform": 39
+    },
+    {
+      "id": 146809,
+      "date": 1519862400,
+      "platform": 48
+    },
+    {
+      "id": 131671,
+      "date": 1513728000,
+      "platform": 3
+    },
+    {
+      "id": 146808,
+      "date": 1519776000,
+      "platform": 49
+    },
+    {
+      "id": 460865,
+      "date": 1517443200,
+      "platform": 14
+    },
+    {
+      "id": 131672,
+      "date": 1513728000,
+      "platform": 14
+    },
+    {
+      "id": 341721,
+      "date": 1579132800,
+      "platform": 130
+    }
+  ]
+}

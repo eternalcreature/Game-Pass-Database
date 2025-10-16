@@ -1,0 +1,89 @@
+{
+  "general": {
+    "id": 130517,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104659,
+        "company": {
+          "id": 27259,
+          "name": "Craftshop Arts"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Mad Streets",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mad-streets",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 306147,
+      "date": 1630022400,
+      "platform": 49
+    },
+    {
+      "id": 306146,
+      "date": 1630022400,
+      "platform": 169
+    },
+    {
+      "id": 425719,
+      "date": 1647302400,
+      "platform": 6
+    },
+    {
+      "id": 346454,
+      "date": 1647302400,
+      "platform": 170
+    }
+  ]
+}

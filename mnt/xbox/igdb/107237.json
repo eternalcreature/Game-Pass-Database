@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 107237,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128678,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 246927,
+        "company": {
+          "id": 9364,
+          "name": "Nerial"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 290018,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Reigns: Game of Thrones",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/reigns-game-of-thrones",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 411150,
+      "date": 1539820800,
+      "platform": 3
+    },
+    {
+      "id": 411149,
+      "date": 1539820800,
+      "platform": 14
+    },
+    {
+      "id": 173881,
+      "date": 1554854400,
+      "platform": 130
+    },
+    {
+      "id": 157527,
+      "date": 1539820800,
+      "platform": 6
+    },
+    {
+      "id": 249830,
+      "date": 1554940800,
+      "platform": 130
+    },
+    {
+      "id": 157526,
+      "date": 1539820800,
+      "platform": 39
+    },
+    {
+      "id": 157528,
+      "date": 1539820800,
+      "platform": 34
+    }
+  ]
+}

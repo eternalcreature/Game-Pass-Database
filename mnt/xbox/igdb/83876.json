@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 83876,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 103649,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 103650,
+        "company": {
+          "id": 1002,
+          "name": "Respawn Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Titanfall: Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/titanfall-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 203641,
+      "date": 1419984000,
+      "platform": 49
+    },
+    {
+      "id": 203639,
+      "date": 1419984000,
+      "platform": 6
+    },
+    {
+      "id": 203640,
+      "date": 1419984000,
+      "platform": 12
+    }
+  ]
+}

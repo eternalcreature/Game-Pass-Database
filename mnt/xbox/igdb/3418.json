@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 3418,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171461,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 171462,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 225583,
+        "company": {
+          "id": 812,
+          "name": "Gradiente"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Banjo-Tooie",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/banjo-tooie",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 500303,
+      "date": 987033600,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 500306,
+      "date": 975283200,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 500304,
+      "date": 978220800,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 500305,
+      "date": 974678400,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 549126,
+      "date": 1041292800,
+      "platform": 4,
+      "status": 6
+    }
+  ]
+}

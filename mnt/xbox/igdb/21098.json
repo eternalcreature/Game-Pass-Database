@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 21098,
+    "game_engines": [
+      {
+        "id": 976,
+        "name": "CP System II (CPS-2)"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 110519,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 110520,
+        "company": {
+          "id": 7465,
+          "name": "Proper Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Final Fight: Double Impact",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fight-double-impact",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 103123,
+      "date": 1271289600,
+      "platform": 9
+    },
+    {
+      "id": 214197,
+      "date": 1271289600,
+      "platform": 12
+    },
+    {
+      "id": 214198,
+      "date": 1271289600,
+      "platform": 12
+    },
+    {
+      "id": 103124,
+      "date": 1271289600,
+      "platform": 9
+    }
+  ]
+}

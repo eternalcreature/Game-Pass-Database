@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 140878,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 112712,
+        "company": {
+          "id": 29370,
+          "name": "Skunkape"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sam & Max: Save the World",
+    "parent_game": 862,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sam-and-max-save-the-world",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 481059,
+      "date": 1606867200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 481061,
+      "date": 1664409600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 481062,
+      "date": 1628553600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 481060,
+      "date": 1606867200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 195517,
+    "game_engines": [
+      {
+        "id": 149,
+        "name": "Proprietary Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167005,
+        "company": {
+          "id": 5529,
+          "name": "Terrible Toybox"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 186472,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Return to Monkey Island",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/return-to-monkey-island",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 499204,
+      "date": 1690416000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 499201,
+      "date": 1667865600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 499199,
+      "date": 1663545600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 499198,
+      "date": 1663545600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 499200,
+      "date": 1663545600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 499202,
+      "date": 1667865600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 499197,
+      "date": 1663545600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 499203,
+      "date": 1690416000,
+      "platform": 39,
+      "status": 6
+    }
+  ]
+}

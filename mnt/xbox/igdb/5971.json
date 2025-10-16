@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 5971,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 14354,
+        "company": {
+          "id": 845,
+          "name": "Grasshopper Manufacture"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 14353,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shadows of the Damned",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadows-of-the-damned",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 14658,
+      "date": 1308614400,
+      "platform": 12
+    },
+    {
+      "id": 105475,
+      "date": 1308873600,
+      "platform": 9
+    },
+    {
+      "id": 105476,
+      "date": 1316649600,
+      "platform": 9
+    },
+    {
+      "id": 14659,
+      "date": 1308614400,
+      "platform": 9
+    },
+    {
+      "id": 105474,
+      "date": 1308614400,
+      "platform": 9
+    }
+  ]
+}

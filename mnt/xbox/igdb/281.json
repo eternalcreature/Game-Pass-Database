@@ -1,0 +1,197 @@
+{
+  "general": {
+    "id": 281,
+    "game_engines": [
+      {
+        "id": 56,
+        "name": "id Tech 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19726,
+        "company": {
+          "id": 367,
+          "name": "Gray Matter Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 19732,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 19730,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 19731,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 19733,
+        "company": {
+          "id": 378,
+          "name": "Westlake Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 19728,
+        "company": {
+          "id": 358,
+          "name": "Raster Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 19727,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 19734,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 19729,
+        "company": {
+          "id": 187,
+          "name": "Nerve Software, LLC"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Return to Castle Wolfenstein",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/return-to-castle-wolfenstein",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 23198,
+      "date": 1017619200,
+      "platform": 14
+    },
+    {
+      "id": 23202,
+      "date": 1052956800,
+      "platform": 11
+    },
+    {
+      "id": 23200,
+      "date": 1053993600,
+      "platform": 8
+    },
+    {
+      "id": 23197,
+      "date": 1016236800,
+      "platform": 3
+    },
+    {
+      "id": 23199,
+      "date": 1052179200,
+      "platform": 11
+    },
+    {
+      "id": 23201,
+      "date": 1007078400,
+      "platform": 6
+    },
+    {
+      "id": 23196,
+      "date": 1006128000,
+      "platform": 6
+    },
+    {
+      "id": 23204,
+      "date": 1054857600,
+      "platform": 8
+    },
+    {
+      "id": 23203,
+      "date": 1072310400,
+      "platform": 11
+    },
+    {
+      "id": 23205,
+      "date": 1186099200,
+      "platform": 6
+    }
+  ]
+}

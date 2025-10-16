@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 145134,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 122611,
+        "company": {
+          "id": 8478,
+          "name": "Skyhook Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 122612,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 232082,
+        "company": {
+          "id": 38591,
+          "name": "Pingle Game Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 256294,
+        "company": {
+          "id": 1552,
+          "name": "Astragon"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Lawn Mowing Simulator",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lawn-mowing-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 713029,
+      "date": 1628553600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 713025,
+      "date": 1628553600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 713027,
+      "date": 1648684800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 713028,
+      "date": 1628553600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 713024,
+      "date": 1710374400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 713026,
+      "date": 1648684800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

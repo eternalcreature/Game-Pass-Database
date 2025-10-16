@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 119260,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 124563,
+        "company": {
+          "id": 795,
+          "name": "Ninja Theory"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 124564,
+        "company": {
+          "id": 795,
+          "name": "Ninja Theory"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 124565,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Bleeding Edge",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bleeding-edge",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179585,
+      "date": 1585008000,
+      "platform": 49
+    },
+    {
+      "id": 180307,
+      "date": 1585008000,
+      "platform": 6
+    }
+  ]
+}

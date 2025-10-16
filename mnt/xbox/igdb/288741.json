@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 288741,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 317623,
+        "company": {
+          "id": 51838,
+          "name": "Sad Socket"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 317624,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 317625,
+        "company": {
+          "id": 56964,
+          "name": "INSTINCT3"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "9 Kings",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/9-kings",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 740720,
+      "date": 1747958400,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 740722,
+      "date": 1747958400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 740721,
+      "date": 1747958400,
+      "platform": 14,
+      "status": 3
+    }
+  ]
+}

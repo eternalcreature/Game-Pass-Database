@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 145796,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 230417,
+        "company": {
+          "id": 38269,
+          "name": "Playtonic Friends"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 230418,
+        "company": {
+          "id": 42949,
+          "name": "MegaWobble"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Lil Gator Game",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lil-gator-game",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 525706,
+      "date": 1696896000,
+      "platform": 49
+    },
+    {
+      "id": 512769,
+      "date": 1670976000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 512770,
+      "date": 1670976000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 516109,
+      "date": 1697241600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 516110,
+      "date": 1697241600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 516111,
+      "date": 1697241600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 516112,
+      "date": 1697241600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 516257,
+      "date": 1696896000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 516258,
+      "date": 1696896000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 516259,
+      "date": 1696896000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

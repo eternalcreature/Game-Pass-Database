@@ -1,0 +1,75 @@
+{
+  "general": {
+    "id": 120645,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83907,
+        "company": {
+          "id": 393,
+          "name": "inXile Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Bard's Tale IV: Director's Cut",
+    "parent_game": 26986,
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-bards-tale-iv-directors-cut",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 174997,
+      "date": 1566864000,
+      "platform": 14
+    },
+    {
+      "id": 174995,
+      "date": 1566864000,
+      "platform": 49
+    },
+    {
+      "id": 174998,
+      "date": 1566864000,
+      "platform": 3
+    },
+    {
+      "id": 174994,
+      "date": 1566864000,
+      "platform": 6
+    },
+    {
+      "id": 174996,
+      "date": 1566864000,
+      "platform": 48
+    }
+  ]
+}

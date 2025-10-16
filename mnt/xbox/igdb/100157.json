@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 100157,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 113301,
+        "company": {
+          "id": 10980,
+          "name": "Hyper Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 113295,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Morkredd",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/morkredd",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 237063,
+      "date": 1607644800,
+      "platform": 49
+    },
+    {
+      "id": 237064,
+      "date": 1607644800,
+      "platform": 6
+    },
+    {
+      "id": 237065,
+      "date": 1607644800,
+      "platform": 169
+    }
+  ]
+}

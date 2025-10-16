@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 27448,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 106640,
+        "company": {
+          "id": 6072,
+          "name": "SUPERHOT Team"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SuperHot: Mind Control Delete",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/superhot-mind-control-delete",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 627937,
+      "date": 1512604800,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 627935,
+      "date": 1597708800,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 627944,
+      "date": 1594857600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 627938,
+      "date": 1594857600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 627942,
+      "date": 1594857600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 627940,
+      "date": 1594857600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 627936,
+      "date": 1594857600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 627939,
+      "date": 1512604800,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 627941,
+      "date": 1512604800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 627943,
+      "date": 1594857600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

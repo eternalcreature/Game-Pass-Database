@@ -1,0 +1,46 @@
+{
+  "general": {
+    "id": 248571,
+    "involved_companies": [
+      {
+        "id": 213154,
+        "company": {
+          "id": 1304,
+          "name": "Tantalus Media"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 213155,
+        "company": {
+          "id": 197,
+          "name": "THQ"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "MX vs. ATV: Reflex",
+    "parent_game": 7091,
+    "url": "https://www.igdb.com/games/mx-vs-atv-reflex--2",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 472984,
+      "date": 1260403200,
+      "platform": 38
+    },
+    {
+      "id": 472985,
+      "date": 1265328000,
+      "platform": 38
+    },
+    {
+      "id": 472986,
+      "date": 1259625600,
+      "platform": 38
+    }
+  ]
+}

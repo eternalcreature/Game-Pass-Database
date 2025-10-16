@@ -1,0 +1,168 @@
+{
+  "general": {
+    "id": 135400,
+    "game_engines": [
+      {
+        "id": 490,
+        "name": "Bedrock Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 276859,
+        "company": {
+          "id": 58,
+          "name": "Mojang Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Minecraft",
+    "parent_game": 121,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/minecraft--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 619124,
+      "date": 1347494400,
+      "platform": 132,
+      "status": 3
+    },
+    {
+      "id": 619126,
+      "date": 1409875200,
+      "platform": 74,
+      "status": 3
+    },
+    {
+      "id": 619122,
+      "date": 1437782400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 619125,
+      "date": 1313452800,
+      "platform": 34,
+      "status": 3
+    },
+    {
+      "id": 606165,
+      "date": 1482105600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 606162,
+      "date": 1505865600,
+      "platform": 132,
+      "status": 6
+    },
+    {
+      "id": 606170,
+      "date": 1505865600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 606163,
+      "date": 1482105600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 606049,
+      "date": 1718841600,
+      "platform": 167,
+      "status": 3
+    },
+    {
+      "id": 606167,
+      "date": 1529539200,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

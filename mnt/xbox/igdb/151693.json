@@ -1,0 +1,146 @@
+{
+  "general": {
+    "id": 151693,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 203023,
+        "company": {
+          "id": 9834,
+          "name": "CGCG Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 203024,
+        "company": {
+          "id": 34656,
+          "name": "Neon Doctrine"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Legend of Tianding",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-legend-of-tianding",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 396394,
+      "date": 1667174400,
+      "platform": 49
+    },
+    {
+      "id": 416065,
+      "date": 1667260800,
+      "platform": 169
+    },
+    {
+      "id": 318568,
+      "date": 1635724800,
+      "platform": 6
+    },
+    {
+      "id": 453712,
+      "date": 1677715200,
+      "platform": 39
+    },
+    {
+      "id": 396395,
+      "date": 1667174400,
+      "platform": 169
+    },
+    {
+      "id": 321366,
+      "date": 1635724800,
+      "platform": 130
+    },
+    {
+      "id": 337491,
+      "date": 1635811200,
+      "platform": 130
+    },
+    {
+      "id": 416064,
+      "date": 1667260800,
+      "platform": 49
+    },
+    {
+      "id": 439587,
+      "date": 1674000000,
+      "platform": 48
+    },
+    {
+      "id": 439588,
+      "date": 1674000000,
+      "platform": 167
+    }
+  ]
+}

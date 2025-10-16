@@ -1,0 +1,84 @@
+{
+  "general": {
+    "id": 970,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 275438,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 275439,
+        "company": {
+          "id": 655,
+          "name": "Capcom Production Studio 3"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil Zero",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-zero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 510769,
+      "date": 1037059200,
+      "platform": 21,
+      "status": 6
+    },
+    {
+      "id": 510768,
+      "date": 1046995200,
+      "platform": 21,
+      "status": 6
+    },
+    {
+      "id": 510770,
+      "date": 1037836800,
+      "platform": 21,
+      "status": 6
+    }
+  ]
+}

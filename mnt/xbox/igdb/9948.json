@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 9948,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29925,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 29924,
+        "company": {
+          "id": 57,
+          "name": "Certain Affinity"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Age of Booty",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/age-of-booty",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 226540,
+      "date": 1227744000,
+      "platform": 9
+    },
+    {
+      "id": 226541,
+      "date": 1224028800,
+      "platform": 12
+    },
+    {
+      "id": 402857,
+      "date": 1236556800,
+      "platform": 6
+    },
+    {
+      "id": 43547,
+      "date": 1236211200,
+      "platform": 6
+    },
+    {
+      "id": 107188,
+      "date": 1226534400,
+      "platform": 9
+    }
+  ]
+}

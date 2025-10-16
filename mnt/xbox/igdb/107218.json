@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 107218,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69023,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 201415,
+        "company": {
+          "id": 32841,
+          "name": "Mimimi Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Desperados III",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/desperados-iii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 407454,
+      "date": 1592265600,
+      "platform": 3
+    },
+    {
+      "id": 193468,
+      "date": 1592265600,
+      "platform": 49
+    },
+    {
+      "id": 312334,
+      "date": 1592265600,
+      "platform": 14
+    },
+    {
+      "id": 193466,
+      "date": 1592265600,
+      "platform": 6
+    },
+    {
+      "id": 193467,
+      "date": 1592265600,
+      "platform": 48
+    }
+  ]
+}

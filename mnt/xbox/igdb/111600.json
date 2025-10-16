@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 111600,
+    "game_engines": [
+      {
+        "id": 603,
+        "name": "Unity3D"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 155093,
+        "company": {
+          "id": 30467,
+          "name": "Plethora Project"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Common'hood",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/commonhood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 416627,
+      "date": 1668038400,
+      "platform": 6
+    },
+    {
+      "id": 489782,
+      "date": 1689033600,
+      "platform": 49
+    },
+    {
+      "id": 489783,
+      "date": 1689033600,
+      "platform": 169
+    }
+  ]
+}

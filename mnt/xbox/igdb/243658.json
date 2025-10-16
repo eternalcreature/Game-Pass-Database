@@ -1,0 +1,69 @@
+{
+  "general": {
+    "id": 243658,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 209537,
+        "company": {
+          "id": 555,
+          "name": "EA Orlando"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 209536,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Madden NFL 17",
+    "parent_game": 19463,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/madden-nfl-17--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 464925,
+      "date": 1471910400,
+      "platform": 12
+    },
+    {
+      "id": 464924,
+      "date": 1471910400,
+      "platform": 9
+    }
+  ]
+}

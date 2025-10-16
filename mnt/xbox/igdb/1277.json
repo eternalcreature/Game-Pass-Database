@@ -1,0 +1,151 @@
+{
+  "general": {
+    "id": 1277,
+    "game_engines": [
+      {
+        "id": 136,
+        "name": "Popcap Games Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 264642,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 264640,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 264641,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Plants vs. Zombies",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/plants-vs-zombies",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 3402,
+      "date": 1306800000,
+      "platform": 34
+    },
+    {
+      "id": 133983,
+      "date": 1329868800,
+      "platform": 46
+    },
+    {
+      "id": 3396,
+      "date": 1241481600,
+      "platform": 6
+    },
+    {
+      "id": 104944,
+      "date": 1297209600,
+      "platform": 9
+    },
+    {
+      "id": 146437,
+      "date": 1304640000,
+      "platform": 159
+    },
+    {
+      "id": 186842,
+      "date": 1308700800,
+      "platform": 74
+    },
+    {
+      "id": 3397,
+      "date": 1241481600,
+      "platform": 14
+    },
+    {
+      "id": 133982,
+      "date": 1329868800,
+      "platform": 46
+    },
+    {
+      "id": 104943,
+      "date": 1297123200,
+      "platform": 9
+    },
+    {
+      "id": 186840,
+      "date": 1266192000,
+      "platform": 39
+    }
+  ]
+}

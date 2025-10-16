@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 9919,
+    "game_engines": [
+      {
+        "id": 318,
+        "name": "Silk Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 23545,
+        "company": {
+          "id": 405,
+          "name": "Spiders"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 23544,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Technomancer",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-technomancer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 51125,
+      "date": 1467072000,
+      "platform": 48
+    },
+    {
+      "id": 51123,
+      "date": 1467072000,
+      "platform": 6
+    },
+    {
+      "id": 51124,
+      "date": 1467072000,
+      "platform": 49
+    },
+    {
+      "id": 136383,
+      "date": 1467072000,
+      "platform": 49
+    },
+    {
+      "id": 106320,
+      "date": 1467072000,
+      "platform": 48
+    },
+    {
+      "id": 106321,
+      "date": 1467072000,
+      "platform": 48
+    }
+  ]
+}

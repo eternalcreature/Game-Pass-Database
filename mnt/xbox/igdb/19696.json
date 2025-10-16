@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 19696,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129438,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Worms W.M.D",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/worms-wmd",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 131543,
+      "date": 1471910400,
+      "platform": 14
+    },
+    {
+      "id": 131538,
+      "date": 1511395200,
+      "platform": 130
+    },
+    {
+      "id": 774670,
+      "date": 1656633600,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 131544,
+      "date": 1471910400,
+      "platform": 6
+    },
+    {
+      "id": 131542,
+      "date": 1471910400,
+      "platform": 3
+    },
+    {
+      "id": 131539,
+      "date": 1471910400,
+      "platform": 49
+    },
+    {
+      "id": 131540,
+      "date": 1471910400,
+      "platform": 48
+    },
+    {
+      "id": 136659,
+      "date": 1471910400,
+      "platform": 49
+    }
+  ]
+}

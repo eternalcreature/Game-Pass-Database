@@ -1,0 +1,60 @@
+{
+  "general": {
+    "id": 77354,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 116037,
+        "company": {
+          "id": 1633,
+          "name": "Warner Bros. Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Injustice: Gods Among Us",
+    "parent_game": 1918,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/injustice-gods-among-us--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 180476,
+      "date": 1384992000,
+      "platform": 34
+    },
+    {
+      "id": 180477,
+      "date": 1364947200,
+      "platform": 39
+    }
+  ]
+}

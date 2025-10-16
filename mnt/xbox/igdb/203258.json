@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 203258,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 173283,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 173284,
+        "company": {
+          "id": 8212,
+          "name": "Auroch Digital"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Warhammer 40,000: Boltgun",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/warhammer-40000-boltgun",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 491186,
+      "date": 1684800000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 491187,
+      "date": 1684800000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 491188,
+      "date": 1684800000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 491189,
+      "date": 1684800000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 491190,
+      "date": 1684800000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 491191,
+      "date": 1684800000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

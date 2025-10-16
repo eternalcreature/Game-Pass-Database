@@ -1,0 +1,135 @@
+{
+  "general": {
+    "id": 1020,
+    "game_engines": [
+      {
+        "id": 26,
+        "name": "RAGE"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 20018,
+        "company": {
+          "id": 139,
+          "name": "Take-Two Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18071,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18070,
+        "company": {
+          "id": 365,
+          "name": "Rockstar North"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 246057,
+        "company": {
+          "id": 306,
+          "name": "Rockstar Toronto"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Grand Theft Auto V",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grand-theft-auto-v",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 403430,
+      "date": 1428883200,
+      "platform": 6
+    },
+    {
+      "id": 20290,
+      "date": 1416268800,
+      "platform": 49
+    },
+    {
+      "id": 20294,
+      "date": 1379376000,
+      "platform": 9
+    },
+    {
+      "id": 20291,
+      "date": 1416268800,
+      "platform": 48
+    },
+    {
+      "id": 20293,
+      "date": 1379376000,
+      "platform": 12
+    }
+  ]
+}

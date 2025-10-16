@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 2025,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4316,
+        "company": {
+          "id": 947,
+          "name": "Taleworlds"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 4315,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mount & Blade: Warband",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mount-blade-warband",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 402973,
+      "date": 1269993600,
+      "platform": 14
+    },
+    {
+      "id": 402974,
+      "date": 1269993600,
+      "platform": 3
+    },
+    {
+      "id": 402972,
+      "date": 1269993600,
+      "platform": 6
+    },
+    {
+      "id": 55036,
+      "date": 1473984000,
+      "platform": 48
+    },
+    {
+      "id": 130308,
+      "date": 1473984000,
+      "platform": 49
+    },
+    {
+      "id": 136160,
+      "date": 1473984000,
+      "platform": 49
+    }
+  ]
+}

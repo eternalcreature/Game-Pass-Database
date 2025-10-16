@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 7342,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 113422,
+        "company": {
+          "id": 854,
+          "name": "Playdead"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Inside",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/inside",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 154373,
+      "date": 1479945600,
+      "platform": 48
+    },
+    {
+      "id": 218742,
+      "date": 1593129600,
+      "platform": 14
+    },
+    {
+      "id": 113873,
+      "date": 1471910400,
+      "platform": 48
+    },
+    {
+      "id": 113872,
+      "date": 1467849600,
+      "platform": 6
+    },
+    {
+      "id": 460982,
+      "date": 1592870400,
+      "platform": 14
+    },
+    {
+      "id": 147713,
+      "date": 1513209600,
+      "platform": 39
+    },
+    {
+      "id": 113871,
+      "date": 1467158400,
+      "platform": 49
+    },
+    {
+      "id": 154372,
+      "date": 1530144000,
+      "platform": 130
+    }
+  ]
+}

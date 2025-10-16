@@ -1,0 +1,143 @@
+{
+  "general": {
+    "id": 7842,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 68751,
+        "company": {
+          "id": 2345,
+          "name": "Abstraction Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 288106,
+        "company": {
+          "id": 2262,
+          "name": "NIS America"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 280021,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Danganronpa: Trigger Happy Havoc",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 625673,
+      "date": 1458259200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 625669,
+      "date": 1592870400,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 644730,
+      "date": 1392508800,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 625670,
+      "date": 1592870400,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 625668,
+      "date": 1290643200,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 644732,
+      "date": 1381363200,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 644729,
+      "date": 1392076800,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 625671,
+      "date": 1290643200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 625672,
+      "date": 1458259200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 625675,
+      "date": 1290643200,
+      "platform": 38,
+      "status": 6
+    }
+  ]
+}

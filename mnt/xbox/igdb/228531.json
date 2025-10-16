@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 228531,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 218754,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 218755,
+        "company": {
+          "id": 44616,
+          "name": "Ascendant Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Immortals of Aveum",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/immortals-of-aveum",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 503809,
+      "date": 1692662400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 503810,
+      "date": 1692662400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 505236,
+      "date": 1692662400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

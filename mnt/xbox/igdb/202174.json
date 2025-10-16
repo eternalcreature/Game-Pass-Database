@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 202174,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171809,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 171810,
+        "company": {
+          "id": 28050,
+          "name": "Electronic Arts, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mass Effect 3: N7 Digital Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mass-effect-3-n7-digital-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 360146,
+      "date": 1330992000,
+      "platform": 6
+    },
+    {
+      "id": 360147,
+      "date": 1331164800,
+      "platform": 6
+    },
+    {
+      "id": 360148,
+      "date": 1331251200,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 213113,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186362,
+        "company": {
+          "id": 7701,
+          "name": "Dovetail Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Train Sim World 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/train-sim-world-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 380972,
+      "date": 1662422400,
+      "platform": 6
+    },
+    {
+      "id": 387237,
+      "date": 1662422400,
+      "platform": 49
+    },
+    {
+      "id": 387238,
+      "date": 1662422400,
+      "platform": 169
+    },
+    {
+      "id": 382197,
+      "platform": 48
+    },
+    {
+      "id": 382198,
+      "platform": 167
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 2150,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4479,
+        "company": {
+          "id": 1011,
+          "name": "Black Rock Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 83146,
+        "company": {
+          "id": 426,
+          "name": "Disney Interactive Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 83147,
+        "company": {
+          "id": 439,
+          "name": "Sumo Digital"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Split/Second",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/split-second",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 19383,
+      "date": 1290124800,
+      "platform": 38
+    },
+    {
+      "id": 19384,
+      "date": 1283990400,
+      "platform": 9
+    },
+    {
+      "id": 19374,
+      "date": 1274140800,
+      "platform": 12
+    },
+    {
+      "id": 19382,
+      "date": 1274400000,
+      "platform": 6
+    },
+    {
+      "id": 19379,
+      "date": 1274400000,
+      "platform": 12
+    },
+    {
+      "id": 105779,
+      "date": 1274400000,
+      "platform": 9
+    },
+    {
+      "id": 19376,
+      "date": 1274140800,
+      "platform": 39
+    },
+    {
+      "id": 19378,
+      "date": 1289952000,
+      "platform": 38
+    },
+    {
+      "id": 19377,
+      "date": 1274140800,
+      "platform": 6
+    },
+    {
+      "id": 19381,
+      "date": 1274400000,
+      "platform": 39
+    }
+  ]
+}

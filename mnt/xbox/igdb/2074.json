@@ -1,0 +1,135 @@
+{
+  "general": {
+    "id": 2074,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 8374,
+        "company": {
+          "id": 965,
+          "name": "Ghost Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 8375,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 8373,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Need for Speed: Rivals",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/need-for-speed-rivals",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 44628,
+      "date": 1385078400,
+      "platform": 6
+    },
+    {
+      "id": 44626,
+      "date": 1384819200,
+      "platform": 6
+    },
+    {
+      "id": 108337,
+      "date": 1384819200,
+      "platform": 9
+    },
+    {
+      "id": 44634,
+      "date": 1385078400,
+      "platform": 12
+    },
+    {
+      "id": 44635,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 44636,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 44627,
+      "date": 1384992000,
+      "platform": 6
+    },
+    {
+      "id": 44623,
+      "date": 1384473600,
+      "platform": 48
+    },
+    {
+      "id": 60664,
+      "date": 1409788800,
+      "platform": 49
+    },
+    {
+      "id": 44633,
+      "date": 1384992000,
+      "platform": 12
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 4845,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 305584,
+        "company": {
+          "id": 1290,
+          "name": "TT Fusion"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 305585,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 305603,
+        "company": {
+          "id": 1290,
+          "name": "TT Fusion"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 305604,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The LEGO Movie Videogame",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-lego-movie-videogame",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 696911,
+      "date": 1392336000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 696920,
+      "date": 1396483200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 696929,
+      "date": 1391731200,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 696934,
+      "date": 1415232000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 696924,
+      "date": 1396483200,
+      "platform": 41,
+      "status": 6
+    },
+    {
+      "id": 696926,
+      "date": 1415232000,
+      "platform": 41,
+      "status": 6
+    },
+    {
+      "id": 696919,
+      "date": 1392336000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 696933,
+      "date": 1391731200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 696910,
+      "date": 1413417600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 696915,
+      "date": 1392336000,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

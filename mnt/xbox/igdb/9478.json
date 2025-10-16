@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 9478,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33972,
+        "company": {
+          "id": 2742,
+          "name": "ORiGO GAMES"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 49015,
+        "company": {
+          "id": 1405,
+          "name": "Nippon Ichi Software"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 49014,
+        "company": {
+          "id": 6023,
+          "name": "Extend Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "So Many Me",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/so-many-me",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 31672,
+      "date": 1405555200,
+      "platform": 6
+    },
+    {
+      "id": 77335,
+      "date": 1487030400,
+      "platform": 48
+    },
+    {
+      "id": 48560,
+      "date": 1405555200,
+      "platform": 14
+    },
+    {
+      "id": 77336,
+      "date": 1501459200,
+      "platform": 48
+    },
+    {
+      "id": 119269,
+      "date": 1437004800,
+      "platform": 49
+    },
+    {
+      "id": 77333,
+      "date": 1405555200,
+      "platform": 72
+    },
+    {
+      "id": 31380,
+      "date": 1437004800,
+      "platform": 49
+    },
+    {
+      "id": 402490,
+      "date": 1405555200,
+      "platform": 3
+    },
+    {
+      "id": 77334,
+      "date": 1486339200,
+      "platform": 48
+    }
+  ]
+}

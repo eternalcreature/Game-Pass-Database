@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 44541,
+    "game_engines": [
+      {
+        "id": 45,
+        "name": "Vision"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 303772,
+        "company": {
+          "id": 1463,
+          "name": "Black Forest Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Giana Sisters: Twisted Dreams - Director's Cut",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/giana-sisters-twisted-dreams-directors-cut",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136041,
+      "date": 1418342400,
+      "platform": 49
+    },
+    {
+      "id": 229845,
+      "date": 1418169600,
+      "platform": 48
+    },
+    {
+      "id": 97803,
+      "date": 1380931200,
+      "platform": 41
+    },
+    {
+      "id": 154504,
+      "date": 1457049600,
+      "platform": 48
+    }
+  ]
+}

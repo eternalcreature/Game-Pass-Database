@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 144072,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 150375,
+        "company": {
+          "id": 592,
+          "name": "Milestone"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hot Wheels Unleashed",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hot-wheels-unleashed",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 230909,
+      "date": 1632960000,
+      "platform": 130
+    },
+    {
+      "id": 230908,
+      "date": 1632960000,
+      "platform": 169
+    },
+    {
+      "id": 230910,
+      "date": 1632960000,
+      "platform": 6
+    },
+    {
+      "id": 241814,
+      "date": 1632960000,
+      "platform": 48
+    },
+    {
+      "id": 230907,
+      "date": 1632960000,
+      "platform": 49
+    },
+    {
+      "id": 230906,
+      "date": 1632960000,
+      "platform": 167
+    }
+  ]
+}

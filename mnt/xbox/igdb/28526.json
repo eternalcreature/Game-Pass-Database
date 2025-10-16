@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 28526,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69039,
+        "company": {
+          "id": 12404,
+          "name": "Playdius"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 69038,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 69040,
+        "company": {
+          "id": 6337,
+          "name": "Midgar Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Edge of Eternity",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/edge-of-eternity",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179179,
+      "platform": 14
+    },
+    {
+      "id": 179180,
+      "platform": 3
+    },
+    {
+      "id": 329919,
+      "date": 1644451200,
+      "platform": 49
+    },
+    {
+      "id": 329920,
+      "date": 1644451200,
+      "platform": 48
+    },
+    {
+      "id": 329921,
+      "date": 1644451200,
+      "platform": 169
+    },
+    {
+      "id": 329922,
+      "date": 1645574400,
+      "platform": 130
+    },
+    {
+      "id": 330021,
+      "date": 1644451200,
+      "platform": 167
+    },
+    {
+      "id": 378108,
+      "date": 1623110400,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 214417,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 300076,
+        "company": {
+          "id": 18083,
+          "name": "Embark Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 313057,
+        "company": {
+          "id": 8431,
+          "name": "Nexon"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "The Finals",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-finals",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 563627,
+      "date": 1701907200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 531614,
+      "date": 1698278400,
+      "platform": 167,
+      "status": 2
+    },
+    {
+      "id": 563628,
+      "date": 1701907200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 668340,
+      "date": 1733961600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 531615,
+      "date": 1698278400,
+      "platform": 169,
+      "status": 2
+    },
+    {
+      "id": 530845,
+      "date": 1698278400,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 563626,
+      "date": 1701907200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 20308,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 297559,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Rabbids Invasion: The Interactive TV Show",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rabbids-invasion-the-interactive-tv-show",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 214889,
+      "date": 1421193600,
+      "platform": 48
+    },
+    {
+      "id": 121035,
+      "date": 1416268800,
+      "platform": 12
+    },
+    {
+      "id": 92137,
+      "date": 1418860800,
+      "platform": 49
+    },
+    {
+      "id": 119127,
+      "date": 1416268800,
+      "platform": 49
+    }
+  ]
+}

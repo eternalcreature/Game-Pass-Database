@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 9651,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63025,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rory McIlroy PGA Tour",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rory-mcilroy-pga-tour",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 121680,
+      "date": 1436832000,
+      "platform": 49
+    },
+    {
+      "id": 28616,
+      "date": 1433116800,
+      "platform": 48
+    },
+    {
+      "id": 117741,
+      "date": 1436832000,
+      "platform": 48
+    },
+    {
+      "id": 28615,
+      "date": 1433116800,
+      "platform": 49
+    }
+  ]
+}

@@ -12,8 +12,8 @@
         "9NFH87TN64ND"
       ]
     ],
-    "original_release_date": "2008-04-22",
-    "release_date": null,
+    "original_release_date": "2008-04-24",
+    "release_date": "2019-06-09",
     "platforms": [
       "PC"
     ]
@@ -68,7 +68,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "CANVAS Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2008-04-24",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

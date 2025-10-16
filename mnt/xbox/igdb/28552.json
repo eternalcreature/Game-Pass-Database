@@ -1,0 +1,141 @@
+{
+  "general": {
+    "id": 28552,
+    "game_engines": [
+      {
+        "id": 118,
+        "name": "Dunia Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 311073,
+        "company": {
+          "id": 717,
+          "name": "Red Storm Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 311069,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 311068,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 311070,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 311071,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 311072,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Far Cry 5",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/far-cry-5",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 130609,
+      "date": 1522108800,
+      "platform": 6
+    },
+    {
+      "id": 239674,
+      "date": 1604361600,
+      "platform": 170
+    },
+    {
+      "id": 302244,
+      "date": 1522022400,
+      "platform": 6
+    },
+    {
+      "id": 150149,
+      "date": 1522108800,
+      "platform": 49
+    },
+    {
+      "id": 130611,
+      "date": 1522108800,
+      "platform": 48
+    }
+  ]
+}

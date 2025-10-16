@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 106237,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 73460,
+        "company": {
+          "id": 7700,
+          "name": "Code Mystics"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 73459,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Killer Instinct Classic",
+    "parent_game": 2907,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/killer-instinct-classic",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 164022,
+      "date": 1386720000,
+      "platform": 49
+    }
+  ]
+}

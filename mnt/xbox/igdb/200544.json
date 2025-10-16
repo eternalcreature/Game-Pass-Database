@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 200544,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 233670,
+        "company": {
+          "id": 42635,
+          "name": "Metal Head Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 233671,
+        "company": {
+          "id": 42450,
+          "name": "Spiral Up Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Back to the Dawn",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/back-to-the-dawn",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 533643,
+      "date": 1698969600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 773123,
+      "date": 1752796800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 773122,
+      "date": 1752796800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 773121,
+      "date": 1752796800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 800581,
+      "date": 1798675200,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 800568,
+      "date": 1798675200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 800569,
+      "date": 1798675200,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

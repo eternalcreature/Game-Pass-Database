@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 144465,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 288483,
+        "company": {
+          "id": 4501,
+          "name": "DotEmu"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 261044,
+        "company": {
+          "id": 27224,
+          "name": "Netflix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 288484,
+        "company": {
+          "id": 2688,
+          "name": "Tribute Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-shredders-revenge",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 368236,
+      "date": 1655337600,
+      "platform": 169
+    },
+    {
+      "id": 364200,
+      "date": 1655337600,
+      "platform": 48
+    },
+    {
+      "id": 455516,
+      "date": 1673308800,
+      "platform": 39
+    },
+    {
+      "id": 414851,
+      "date": 1655337600,
+      "platform": 3
+    },
+    {
+      "id": 364199,
+      "date": 1655337600,
+      "platform": 49
+    },
+    {
+      "id": 364201,
+      "date": 1655337600,
+      "platform": 6
+    },
+    {
+      "id": 364202,
+      "date": 1655337600,
+      "platform": 130
+    },
+    {
+      "id": 455515,
+      "date": 1673308800,
+      "platform": 34
+    },
+    {
+      "id": 422815,
+      "date": 1655337600,
+      "platform": 167
+    }
+  ]
+}

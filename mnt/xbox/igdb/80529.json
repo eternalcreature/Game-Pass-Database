@@ -1,0 +1,63 @@
+{
+  "general": {
+    "id": 80529,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 108982,
+        "company": {
+          "id": 28192,
+          "name": "Ablex"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 108983,
+        "company": {
+          "id": 28193,
+          "name": "LG Software"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Hades",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hades",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 211790,
+      "date": 799286400,
+      "platform": 6
+    }
+  ]
+}

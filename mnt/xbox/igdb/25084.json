@@ -1,0 +1,73 @@
+{
+  "general": {
+    "id": 25084,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 40877,
+        "company": {
+          "id": 5154,
+          "name": "Zachtronics"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Shenzhen I/O",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shenzhen-i-slash-o",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 60625,
+      "date": 1479340800,
+      "platform": 14
+    },
+    {
+      "id": 60624,
+      "date": 1479340800,
+      "platform": 6
+    },
+    {
+      "id": 60626,
+      "date": 1479340800,
+      "platform": 3
+    },
+    {
+      "id": 118472,
+      "date": 1475712000,
+      "platform": 6
+    }
+  ]
+}

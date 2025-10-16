@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 150149,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 278970,
+        "company": {
+          "id": 837,
+          "name": "LEVEL-5"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 278971,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ni-no-kuni-ii-revenant-kingdom-the-princes-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 742490,
+      "date": 1521763200,
+      "platform": 48
+    },
+    {
+      "id": 623680,
+      "date": 1521763200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 623681,
+      "date": 1679356800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 623682,
+      "date": 1631750400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 623679,
+      "date": 1631836800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 623683,
+      "date": 1679356800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

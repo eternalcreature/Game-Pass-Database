@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 673,
+    "game_engines": [
+      {
+        "id": 116,
+        "name": "id Tech 1"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 280239,
+        "company": {
+          "id": 3693,
+          "name": "Infinity"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 280240,
+        "company": {
+          "id": 191,
+          "name": "Imagineer"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 280238,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Doom",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/doom",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 373778,
+      "date": 786931200,
+      "platform": 149
+    },
+    {
+      "id": 23019,
+      "date": 757296000,
+      "platform": 13
+    },
+    {
+      "id": 626259,
+      "date": 1041292800,
+      "platform": 405
+    },
+    {
+      "id": 626258,
+      "date": 749692800,
+      "platform": 13,
+      "status": 2
+    },
+    {
+      "id": 23045,
+      "date": 788832000,
+      "platform": 3
+    },
+    {
+      "id": 23017,
+      "date": 755481600,
+      "platform": 13
+    },
+    {
+      "id": 23041,
+      "date": 757296000,
+      "platform": 13
+    }
+  ]
+}

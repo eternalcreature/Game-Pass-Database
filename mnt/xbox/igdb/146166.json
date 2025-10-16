@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 146166,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 139938,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 139939,
+        "company": {
+          "id": 28373,
+          "name": "GS2 Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition",
+    "url": "https://www.igdb.com/games/the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 788054,
+      "date": 1624492800,
+      "platform": 130
+    },
+    {
+      "id": 788055,
+      "date": 1638489600,
+      "platform": 48
+    },
+    {
+      "id": 788056,
+      "date": 1638489600,
+      "platform": 167
+    },
+    {
+      "id": 788057,
+      "date": 1624492800,
+      "platform": 49
+    },
+    {
+      "id": 788058,
+      "date": 1624492800,
+      "platform": 169
+    }
+  ]
+}

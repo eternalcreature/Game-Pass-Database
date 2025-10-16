@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 225426,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 295022,
+        "company": {
+          "id": 41364,
+          "name": "Whitethorn Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 295023,
+        "company": {
+          "id": 44232,
+          "name": "Balloon Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Botany Manor",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/botany-manor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 688717,
+      "date": 1738022400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 664163,
+      "date": 1712620800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 664161,
+      "date": 1712620800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 664164,
+      "date": 1712620800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 688718,
+      "date": 1738022400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 664162,
+      "date": 1712620800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

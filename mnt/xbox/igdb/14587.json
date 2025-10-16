@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 14587,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96578,
+        "company": {
+          "id": 7260,
+          "name": "Night School Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Oxenfree",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/oxenfree",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 53749,
+      "date": 1464652800,
+      "platform": 48
+    },
+    {
+      "id": 408227,
+      "date": 1452729600,
+      "platform": 14
+    },
+    {
+      "id": 408228,
+      "date": 1452729600,
+      "platform": 3
+    },
+    {
+      "id": 147515,
+      "date": 1489622400,
+      "platform": 39
+    },
+    {
+      "id": 116489,
+      "date": 1452816000,
+      "platform": 49
+    },
+    {
+      "id": 250785,
+      "date": 1507248000,
+      "platform": 130
+    },
+    {
+      "id": 118611,
+      "date": 1452816000,
+      "platform": 49
+    },
+    {
+      "id": 366825,
+      "date": 1498608000,
+      "platform": 34
+    },
+    {
+      "id": 408226,
+      "date": 1452729600,
+      "platform": 6
+    }
+  ]
+}

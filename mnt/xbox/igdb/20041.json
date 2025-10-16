@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 20041,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 248845,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 248846,
+        "company": {
+          "id": 905,
+          "name": "Overkill Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Payday 2: Crimewave Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/payday-2-crimewave-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 57716,
+      "date": 1434412800,
+      "platform": 49
+    },
+    {
+      "id": 57538,
+      "date": 1434412800,
+      "platform": 48
+    }
+  ]
+}

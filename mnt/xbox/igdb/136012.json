@@ -1,0 +1,51 @@
+{
+  "general": {
+    "id": 136012,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Heat - Deluxe Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/need-for-speed-heat-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 473378,
+      "date": 1573171200,
+      "platform": 49
+    },
+    {
+      "id": 473379,
+      "date": 1573171200,
+      "platform": 48
+    },
+    {
+      "id": 473380,
+      "date": 1573171200,
+      "platform": 6
+    }
+  ]
+}

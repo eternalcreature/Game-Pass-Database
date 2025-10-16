@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 614,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 246648,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Bejeweled 2",
+    "url": "https://www.igdb.com/games/bejeweled-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 733599,
+      "date": 1277683200,
+      "platform": 38,
+      "status": 6
+    },
+    {
+      "id": 733605,
+      "date": 1184630400,
+      "platform": 8
+    },
+    {
+      "id": 733600,
+      "date": 1132617600,
+      "platform": 12
+    },
+    {
+      "id": 733597,
+      "date": 1100563200,
+      "platform": 6
+    },
+    {
+      "id": 733606,
+      "date": 1298073600,
+      "platform": 34
+    },
+    {
+      "id": 733603,
+      "date": 1325289600,
+      "platform": 39
+    },
+    {
+      "id": 231913,
+      "date": 1276473600,
+      "platform": 5
+    },
+    {
+      "id": 733598,
+      "date": 1242691200,
+      "platform": 9
+    },
+    {
+      "id": 733596,
+      "date": 1100563200,
+      "platform": 14
+    },
+    {
+      "id": 733604,
+      "date": 1179964800,
+      "platform": 8
+    }
+  ]
+}

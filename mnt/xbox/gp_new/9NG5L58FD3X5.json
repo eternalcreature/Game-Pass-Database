@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2020-08-18",
-    "release_date": null,
+    "release_date": "2020-08-18",
     "platforms": [
       "PC",
       "XboxOne",
@@ -23,16 +23,12 @@
   },
   "availabilities": [
     {
-      "Essential": {
-        "added": "2023-09-14",
-        "removed": null
-      },
-      "Ultimate": {
-        "added": "2023-09-13",
-        "removed": null
-      },
       "Console": {
         "added": "2023-09-13",
+        "removed": null
+      },
+      "Essential": {
+        "added": "2023-09-14",
         "removed": null
       },
       "PC": {
@@ -42,6 +38,24 @@
       "Premium": {
         "added": "2024-08-12",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-09-13",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2020-08-18",
+        "removed": "2022-08-31"
+      },
+      "Ultimate": {
+        "added": "2020-08-18",
+        "removed": "2022-08-31"
+      },
+      "Console": {
+        "added": "2020-08-18",
+        "removed": "2022-08-31"
       }
     }
   ],
@@ -97,12 +111,33 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-08-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 119304,
-      "name": "Spiritfarer",
-      "url": "https://www.igdb.com/games/spiritfarer",
+      "id": 187506,
+      "name": "Spiritfarer: Farewell Edition",
+      "url": "https://www.igdb.com/games/spiritfarer-farewell-edition",
       "publishers": [
         "Thunder Lotus"
       ],
@@ -126,7 +161,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2021-12-13",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-13"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

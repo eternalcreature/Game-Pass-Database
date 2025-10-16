@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 106856,
+    "game_engines": [
+      {
+        "id": 509,
+        "name": "Unity 2017"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 159060,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 159061,
+        "company": {
+          "id": 36487,
+          "name": "Cloisters Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 241323,
+        "company": {
+          "id": 19676,
+          "name": "24 Bit Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "A Memoir Blue",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/a-memoir-blue",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 787022,
+      "date": 1667433600,
+      "platform": 39
+    },
+    {
+      "id": 341350,
+      "date": 1648080000,
+      "platform": 49
+    },
+    {
+      "id": 341351,
+      "date": 1648080000,
+      "platform": 169
+    },
+    {
+      "id": 341352,
+      "date": 1648080000,
+      "platform": 48
+    },
+    {
+      "id": 341353,
+      "date": 1648080000,
+      "platform": 167
+    },
+    {
+      "id": 341354,
+      "date": 1648080000,
+      "platform": 6
+    },
+    {
+      "id": 341355,
+      "date": 1648080000,
+      "platform": 14
+    },
+    {
+      "id": 341356,
+      "date": 1648080000,
+      "platform": 130
+    }
+  ]
+}

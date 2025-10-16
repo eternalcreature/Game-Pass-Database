@@ -1,0 +1,149 @@
+{
+  "general": {
+    "id": 10148,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290008,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 96812,
+        "company": {
+          "id": 12300,
+          "name": "Infinite Fall"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 148339,
+        "company": {
+          "id": 5462,
+          "name": "Finji"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 148340,
+        "company": {
+          "id": 19584,
+          "name": "Secret Lab"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 290007,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Night in the Woods",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/night-in-the-woods",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 430930,
+      "date": 1670976000,
+      "platform": 167
+    },
+    {
+      "id": 66570,
+      "date": 1487635200,
+      "platform": 6
+    },
+    {
+      "id": 130299,
+      "date": 1513123200,
+      "platform": 49
+    },
+    {
+      "id": 66574,
+      "date": 1488240000,
+      "platform": 48
+    },
+    {
+      "id": 66573,
+      "date": 1487635200,
+      "platform": 48
+    },
+    {
+      "id": 66572,
+      "date": 1487635200,
+      "platform": 14
+    },
+    {
+      "id": 66575,
+      "date": 1488240000,
+      "platform": 48
+    },
+    {
+      "id": 315954,
+      "date": 1631059200,
+      "platform": 39
+    },
+    {
+      "id": 310310,
+      "date": 1631145600,
+      "platform": 39
+    },
+    {
+      "id": 297633,
+      "date": 1517443200,
+      "platform": 130
+    }
+  ]
+}

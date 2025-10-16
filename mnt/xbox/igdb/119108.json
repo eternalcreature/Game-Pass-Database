@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 119108,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 198628,
+        "company": {
+          "id": 8799,
+          "name": "Kitfox Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 198629,
+        "company": {
+          "id": 12083,
+          "name": "Sundae Month"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pupperazzi",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pupperazzi",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 360793,
+      "date": 1642636800,
+      "platform": 14
+    },
+    {
+      "id": 438144,
+      "date": 1680220800,
+      "platform": 130
+    },
+    {
+      "id": 329766,
+      "date": 1642636800,
+      "platform": 6
+    },
+    {
+      "id": 329765,
+      "date": 1642636800,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 148289,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135691,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 135692,
+        "company": {
+          "id": 19909,
+          "name": "Petoons Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 135690,
+        "company": {
+          "id": 13848,
+          "name": "Outright Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "My Friend Peppa Pig",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/my-friend-peppa-pig",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 245367,
+      "date": 1634860800,
+      "platform": 49
+    },
+    {
+      "id": 245368,
+      "date": 1634860800,
+      "platform": 169
+    },
+    {
+      "id": 245369,
+      "date": 1634860800,
+      "platform": 130
+    },
+    {
+      "id": 339253,
+      "date": 1634774400,
+      "platform": 130
+    },
+    {
+      "id": 346339,
+      "date": 1641859200,
+      "platform": 167
+    },
+    {
+      "id": 245366,
+      "date": 1634860800,
+      "platform": 48
+    },
+    {
+      "id": 245370,
+      "date": 1634860800,
+      "platform": 6
+    },
+    {
+      "id": 322900,
+      "date": 1634860800,
+      "platform": 170
+    }
+  ]
+}

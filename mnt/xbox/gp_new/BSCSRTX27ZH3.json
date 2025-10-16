@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2008-06-03",
-    "release_date": null,
+    "release_date": "2009-07-29",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -60,7 +60,28 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2008-06-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-06-03"
+        }
+      }
     }
   },
   "steam_store_meta": {}

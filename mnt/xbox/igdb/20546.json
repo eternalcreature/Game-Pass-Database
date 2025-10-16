@@ -1,0 +1,89 @@
+{
+  "general": {
+    "id": 20546,
+    "game_engines": [
+      {
+        "id": 136,
+        "name": "Popcap Games Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98094,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Plants vs. Zombies: GOTY Edition",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/plants-vs-zombies-goty-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 367800,
+      "date": 1281312000,
+      "platform": 14
+    },
+    {
+      "id": 186831,
+      "date": 1281312000,
+      "platform": 6
+    }
+  ]
+}

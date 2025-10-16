@@ -12,7 +12,7 @@
         "BV3LZ19LCP1B"
       ]
     ],
-    "original_release_date": "2010-04-14",
+    "original_release_date": "2010-04-15",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -61,7 +61,30 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "CP System II (CPS-2)"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2010-04-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-04-15"
+        }
+      }
     }
   },
   "steam_store_meta": {}

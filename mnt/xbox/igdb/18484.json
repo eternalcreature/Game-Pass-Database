@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 18484,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135277,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 133508,
+        "company": {
+          "id": 9453,
+          "name": "Landfall Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Clustertruck",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/clustertruck",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 59002,
+      "date": 1474934400,
+      "platform": 3
+    },
+    {
+      "id": 59003,
+      "date": 1474934400,
+      "platform": 14
+    },
+    {
+      "id": 148838,
+      "date": 1521072000,
+      "platform": 130
+    },
+    {
+      "id": 185637,
+      "date": 1475193600,
+      "platform": 48
+    },
+    {
+      "id": 135927,
+      "date": 1477612800,
+      "platform": 49
+    },
+    {
+      "id": 59004,
+      "date": 1474934400,
+      "platform": 6
+    },
+    {
+      "id": 58852,
+      "date": 1476230400,
+      "platform": 49
+    }
+  ]
+}

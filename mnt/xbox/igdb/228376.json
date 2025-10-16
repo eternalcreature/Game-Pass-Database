@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 228376,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 195521,
+        "company": {
+          "id": 27331,
+          "name": "astragon Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Firefighting Simulator: The Squad",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/firefighting-simulator-the-squad",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 428989,
+      "date": 1670284800,
+      "platform": 48
+    },
+    {
+      "id": 428990,
+      "date": 1670284800,
+      "platform": 167
+    },
+    {
+      "id": 429945,
+      "date": 1637107200,
+      "platform": 6
+    },
+    {
+      "id": 430699,
+      "date": 1670284800,
+      "platform": 49
+    },
+    {
+      "id": 430700,
+      "date": 1670284800,
+      "platform": 169
+    },
+    {
+      "id": 497042,
+      "date": 1695859200,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

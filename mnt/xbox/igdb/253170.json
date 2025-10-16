@@ -1,0 +1,42 @@
+{
+  "general": {
+    "id": 253170,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Tin Hearts",
+    "parent_game": 111090,
+    "player_perspectives": [
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tin-hearts--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 607759,
+      "date": 1684195200,
+      "platform": 386
+    },
+    {
+      "id": 607760,
+      "date": 1684195200,
+      "platform": 390
+    },
+    {
+      "id": 607761,
+      "date": 1684195200,
+      "platform": 163
+    }
+  ]
+}

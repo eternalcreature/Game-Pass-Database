@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 122729,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128192,
+        "company": {
+          "id": 23956,
+          "name": "Brave At Night"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128193,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Yes, Your Grace",
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yes-your-grace",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 189070,
+      "date": 1583452800,
+      "platform": 6
+    },
+    {
+      "id": 202398,
+      "date": 1593129600,
+      "platform": 130
+    },
+    {
+      "id": 411523,
+      "date": 1583452800,
+      "platform": 14
+    },
+    {
+      "id": 689681,
+      "date": 1706745600,
+      "platform": 39
+    },
+    {
+      "id": 203100,
+      "date": 1593129600,
+      "platform": 49
+    },
+    {
+      "id": 689682,
+      "date": 1706745600,
+      "platform": 34
+    },
+    {
+      "id": 214359,
+      "date": 1604966400,
+      "platform": 169
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 987,
+    "game_engines": [
+      {
+        "id": 1307,
+        "name": "Halo 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 2379,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 2378,
+        "company": {
+          "id": 620,
+          "name": "Bungie"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Halo 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 807660,
+      "date": 1190678400,
+      "platform": 12
+    },
+    {
+      "id": 807659,
+      "date": 1594598400,
+      "platform": 6
+    },
+    {
+      "id": 168651,
+      "date": 1415664000,
+      "platform": 49
+    }
+  ]
+}

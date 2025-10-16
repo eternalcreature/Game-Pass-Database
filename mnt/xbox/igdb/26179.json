@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 26179,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 45664,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Full Throttle Remastered",
+    "parent_game": 180,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/full-throttle-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 67671,
+      "date": 1492473600,
+      "platform": 3
+    },
+    {
+      "id": 460986,
+      "date": 1496361600,
+      "platform": 14
+    },
+    {
+      "id": 254601,
+      "date": 1492473600,
+      "platform": 6
+    },
+    {
+      "id": 254603,
+      "date": 1492473600,
+      "platform": 3
+    },
+    {
+      "id": 67672,
+      "date": 1492473600,
+      "platform": 6
+    },
+    {
+      "id": 67669,
+      "date": 1492473600,
+      "platform": 46
+    },
+    {
+      "id": 254602,
+      "date": 1492473600,
+      "platform": 14
+    },
+    {
+      "id": 229834,
+      "date": 1492473600,
+      "platform": 48
+    },
+    {
+      "id": 771677,
+      "date": 1500508800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 214602,
+      "date": 1603929600,
+      "platform": 49
+    }
+  ]
+}

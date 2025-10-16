@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 143619,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 303882,
+        "company": {
+          "id": 769,
+          "name": "Team NINJA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 303883,
+        "company": {
+          "id": 18532,
+          "name": "Koei Tecmo"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ninja Gaiden: Master Collection",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ninja-gaiden-master-collection",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 413413,
+      "date": 1623196800,
+      "platform": 6
+    },
+    {
+      "id": 339153,
+      "date": 1623196800,
+      "platform": 130
+    },
+    {
+      "id": 228893,
+      "date": 1623283200,
+      "platform": 130
+    },
+    {
+      "id": 228931,
+      "date": 1623283200,
+      "platform": 49
+    },
+    {
+      "id": 228930,
+      "date": 1623283200,
+      "platform": 48
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "general": {
+    "id": 14813,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98074,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Peggle Nights",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/peggle-nights",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 41475,
+      "date": 1220400000,
+      "platform": 14
+    },
+    {
+      "id": 41474,
+      "date": 1220400000,
+      "platform": 6
+    }
+  ]
+}

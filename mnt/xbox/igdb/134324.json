@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 134324,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 275586,
+        "company": {
+          "id": 10364,
+          "name": "Awaceb"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 275587,
+        "company": {
+          "id": 37893,
+          "name": "Kepler Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Tchia",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tchia--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 616052,
+      "date": 1720656000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 583059,
+      "date": 1719446400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 582543,
+      "date": 1679356800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 582544,
+      "date": 1679356800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 582545,
+      "date": 1679356800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 614942,
+      "date": 1720656000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

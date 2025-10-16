@@ -12,7 +12,7 @@
         "C2HDBXXNXT7R"
       ]
     ],
-    "original_release_date": "2013-11-22",
+    "original_release_date": "2014-09-23",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -75,7 +75,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2014-09-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-09-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

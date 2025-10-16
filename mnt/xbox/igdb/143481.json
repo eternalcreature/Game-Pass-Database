@@ -1,0 +1,84 @@
+{
+  "general": {
+    "id": 143481,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 274515,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 274514,
+        "company": {
+          "id": 55393,
+          "name": "Raccoon Logic"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Journey to the Savage Planet: Employee of the Month Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/journey-to-the-savage-planet-employee-of-the-month-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 612953,
+      "date": 1719964800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 612952,
+      "date": 1676419200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 239710,
+      "date": 1611792000,
+      "platform": 170
+    },
+    {
+      "id": 454103,
+      "date": 1676332800,
+      "platform": 167
+    }
+  ]
+}

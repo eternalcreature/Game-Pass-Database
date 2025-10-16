@@ -1,0 +1,63 @@
+{
+  "general": {
+    "id": 134369,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 110092,
+        "company": {
+          "id": 6352,
+          "name": "Serenity Forge"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 110093,
+        "company": {
+          "id": 7893,
+          "name": "Dim Bulb Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Where the Water Tastes Like Wine: Xbox Edition",
+    "parent_game": 15823,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/where-the-water-tastes-like-wine-xbox-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 213525,
+      "date": 1577750400,
+      "platform": 49
+    },
+    {
+      "id": 309027,
+      "date": 1574985600,
+      "platform": 49
+    }
+  ]
+}

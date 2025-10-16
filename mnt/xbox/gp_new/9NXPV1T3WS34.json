@@ -12,8 +12,8 @@
         "9NXPV1T3WS34"
       ]
     ],
-    "original_release_date": "2020-02-06",
-    "release_date": null,
+    "original_release_date": "2020-10-20",
+    "release_date": "2020-10-21",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -91,7 +91,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-10-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-10-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-10-21"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

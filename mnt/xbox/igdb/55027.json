@@ -1,0 +1,181 @@
+{
+  "general": {
+    "id": 55027,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83170,
+        "company": {
+          "id": 13699,
+          "name": "Wired Productions"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 83171,
+        "company": {
+          "id": 4184,
+          "name": "Storm in a Teacup"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 277008,
+        "company": {
+          "id": 19812,
+          "name": "3D Bridge Arthouse"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 277009,
+        "company": {
+          "id": 20329,
+          "name": "iMasterArt"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 277010,
+        "company": {
+          "id": 1541,
+          "name": "Metricminds"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 277011,
+        "company": {
+          "id": 29391,
+          "name": "Toneworx"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 277012,
+        "company": {
+          "id": 56451,
+          "name": "Voiceover Soho"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Close to the Sun",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/close-to-the-sun",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 619660,
+      "date": 1572307200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 619656,
+      "date": 1572307200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 619657,
+      "date": 1572307200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 619658,
+      "date": 1572307200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 619659,
+      "date": 1572307200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 619662,
+      "date": 1572307200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 619661,
+      "date": 1572307200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 619663,
+      "date": 1572307200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 619664,
+      "date": 1572307200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 619665,
+      "date": 1556755200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

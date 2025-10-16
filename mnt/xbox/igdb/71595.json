@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 71595,
+    "game_engines": [
+      {
+        "id": 532,
+        "name": "GameMaker Studio 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 117033,
+        "company": {
+          "id": 31162,
+          "name": "Studio Thunderhorse"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 117034,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Flynn: Son of Crimson",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/flynn-son-of-crimson",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 305180,
+      "date": 1631664000,
+      "platform": 14
+    },
+    {
+      "id": 305181,
+      "date": 1631664000,
+      "platform": 6
+    },
+    {
+      "id": 306344,
+      "date": 1631664000,
+      "platform": 130
+    },
+    {
+      "id": 306342,
+      "date": 1631664000,
+      "platform": 48
+    },
+    {
+      "id": 306343,
+      "date": 1631664000,
+      "platform": 49
+    }
+  ]
+}

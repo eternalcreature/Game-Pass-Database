@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 303285,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 270598,
+        "company": {
+          "id": 4466,
+          "name": "Illfonic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 270599,
+        "company": {
+          "id": 21018,
+          "name": "Teravision Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Killer Klowns From Outer Space: The Game - Digital Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/killer-klowns-from-outer-space-the-game-digital-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652070,
+      "date": 1716854400,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652072,
+      "date": 1716854400,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652074,
+      "date": 1716854400,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 652073,
+      "date": 1717459200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652069,
+      "date": 1717459200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652071,
+      "date": 1717459200,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

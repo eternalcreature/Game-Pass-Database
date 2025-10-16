@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 312870,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 308772,
+        "company": {
+          "id": 56993,
+          "name": "Chronocle"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 308773,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "He is Coming",
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/he-is-coming",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 811156,
+      "date": 1767139200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 753496,
+      "date": 1752710400,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

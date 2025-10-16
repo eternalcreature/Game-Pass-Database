@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2018-02-06",
-    "release_date": null,
+    "release_date": "2018-02-06",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -65,12 +65,35 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-02-06",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-02-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-02-06"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 27435,
-      "name": "Dandara",
-      "url": "https://www.igdb.com/games/dandara",
+      "id": 129536,
+      "name": "Dandara: Trials of Fear Edition",
+      "url": "https://www.igdb.com/games/dandara-trials-of-fear-edition",
       "publishers": [
         "Raw Fury"
       ],
@@ -80,19 +103,40 @@
       "genres": [
         "Platform",
         "Adventure",
-        "Indie",
-        "Arcade"
+        "Indie"
       ],
       "themes": [
-        "Action",
-        "Fantasy"
+        "Action"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "update",
+      "release_dates": {
+        "release_date": "2020-03-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-03-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-03-05"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

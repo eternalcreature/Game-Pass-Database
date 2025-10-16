@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 99071,
+    "game_engines": [
+      {
+        "id": 206,
+        "name": "Construct 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 120366,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 120367,
+        "company": {
+          "id": 6064,
+          "name": "Tendershoot"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 120368,
+        "company": {
+          "id": 32259,
+          "name": "Michael Lasch"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 120369,
+        "company": {
+          "id": 32260,
+          "name": "ThatWhichIs Media"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Hypnospace Outlaw",
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hypnospace-outlaw",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 410317,
+      "date": 1552348800,
+      "platform": 3
+    },
+    {
+      "id": 410315,
+      "date": 1552348800,
+      "platform": 6
+    },
+    {
+      "id": 410316,
+      "date": 1552348800,
+      "platform": 14
+    },
+    {
+      "id": 206932,
+      "date": 1598486400,
+      "platform": 130
+    },
+    {
+      "id": 207171,
+      "date": 1598486400,
+      "platform": 48
+    },
+    {
+      "id": 207172,
+      "date": 1598486400,
+      "platform": 49
+    }
+  ]
+}

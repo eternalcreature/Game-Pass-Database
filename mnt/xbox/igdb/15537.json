@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 15537,
+    "game_engines": [
+      {
+        "id": 63,
+        "name": "Adobe AIR"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 188849,
+        "company": {
+          "id": 1396,
+          "name": "Amanita Design"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Samorost 3",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/samorost-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 777942,
+      "date": 1480464000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 777943,
+      "date": 1472688000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 777944,
+      "date": 1457913600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 777945,
+      "date": 1458777600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

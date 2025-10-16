@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 53410,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      },
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 351455,
+        "company": {
+          "id": 25048,
+          "name": "EA"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 351456,
+        "company": {
+          "id": 21381,
+          "name": "Numskull Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Need for Speed: Deluxe Edition",
+    "url": "https://www.igdb.com/games/need-for-speed-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 184479,
+      "date": 1446508800,
+      "platform": 6
+    },
+    {
+      "id": 553881,
+      "date": 1446508800,
+      "platform": 48
+    },
+    {
+      "id": 303992,
+      "date": 1446508800,
+      "platform": 49
+    }
+  ]
+}

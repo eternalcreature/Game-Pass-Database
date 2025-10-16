@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2020-09-15",
-    "release_date": null,
+    "release_date": "2022-01-13",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -97,7 +97,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-09-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-29"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-13"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-13"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

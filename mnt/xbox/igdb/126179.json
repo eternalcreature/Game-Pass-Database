@@ -1,0 +1,74 @@
+{
+  "general": {
+    "id": 126179,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 191405,
+        "company": {
+          "id": 30237,
+          "name": "Neowiz"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "DJMax Respect V",
+    "parent_game": 28192,
+    "player_perspectives": [
+      {
+        "id": 6,
+        "name": "Auditory"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/djmax-respect-v",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 376975,
+      "date": 1657152000,
+      "platform": 169
+    },
+    {
+      "id": 196317,
+      "date": 1583971200,
+      "platform": 6
+    },
+    {
+      "id": 256162,
+      "date": 1583884800,
+      "platform": 6
+    },
+    {
+      "id": 371738,
+      "date": 1657152000,
+      "platform": 49
+    }
+  ]
+}

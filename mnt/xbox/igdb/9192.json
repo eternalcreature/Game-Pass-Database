@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 9192,
+    "game_engines": [
+      {
+        "id": 47,
+        "name": "id Tech 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22420,
+        "company": {
+          "id": 1242,
+          "name": "MachineGames"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95324,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wolfenstein: The Old Blood",
+    "parent_game": 2031,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wolfenstein-the-old-blood",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 27428,
+      "date": 1430784000,
+      "platform": 49
+    },
+    {
+      "id": 27429,
+      "date": 1430784000,
+      "platform": 48
+    },
+    {
+      "id": 402623,
+      "date": 1430697600,
+      "platform": 6
+    }
+  ]
+}

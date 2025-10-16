@@ -1,0 +1,163 @@
+{
+  "general": {
+    "id": 537,
+    "game_engines": [
+      {
+        "id": 9,
+        "name": "Anvil"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3672,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 63934,
+        "company": {
+          "id": 39,
+          "name": "Ubisoft Annecy"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63933,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63937,
+        "company": {
+          "id": 822,
+          "name": "Ubisoft Singapore"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63938,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75597,
+        "company": {
+          "id": 537,
+          "name": "Massive Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 194931,
+        "company": {
+          "id": 15790,
+          "name": "Ubisoft Québec"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 202095,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed Revelations",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-revelations",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 242526,
+      "date": 1321315200,
+      "platform": 6
+    },
+    {
+      "id": 134438,
+      "date": 1321401600,
+      "platform": 9
+    },
+    {
+      "id": 242525,
+      "date": 1321315200,
+      "platform": 12
+    },
+    {
+      "id": 134437,
+      "date": 1321228800,
+      "platform": 9
+    },
+    {
+      "id": 134439,
+      "date": 1322524800,
+      "platform": 9
+    }
+  ]
+}

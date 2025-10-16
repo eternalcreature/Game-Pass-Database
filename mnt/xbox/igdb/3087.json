@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 3087,
+    "game_engines": [
+      {
+        "id": 229,
+        "name": "Moai"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69626,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 275691,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 275694,
+        "company": {
+          "id": 753,
+          "name": "Nordic Games Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Broken Age",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/broken-age",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 29434,
+      "date": 1430179200,
+      "platform": 48
+    },
+    {
+      "id": 29428,
+      "date": 1390867200,
+      "platform": 14
+    },
+    {
+      "id": 248991,
+      "date": 1536796800,
+      "platform": 130
+    },
+    {
+      "id": 158264,
+      "date": 1498176000,
+      "platform": 49
+    },
+    {
+      "id": 29435,
+      "date": 1430179200,
+      "platform": 46
+    },
+    {
+      "id": 29432,
+      "date": 1402531200,
+      "platform": 39
+    },
+    {
+      "id": 29429,
+      "date": 1390867200,
+      "platform": 6
+    },
+    {
+      "id": 29433,
+      "date": 1430179200,
+      "platform": 34
+    },
+    {
+      "id": 29430,
+      "date": 1401408000,
+      "platform": 72
+    },
+    {
+      "id": 29431,
+      "date": 1390867200,
+      "platform": 3
+    }
+  ]
+}

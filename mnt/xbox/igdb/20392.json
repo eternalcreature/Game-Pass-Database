@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 20392,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44585,
+        "company": {
+          "id": 2154,
+          "name": "Keen Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 82166,
+        "company": {
+          "id": 21291,
+          "name": "Digital Bros"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 44586,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Portal Knights",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/portal-knights",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 176561,
+      "date": 1495065600,
+      "platform": 6
+    },
+    {
+      "id": 176563,
+      "date": 1495152000,
+      "platform": 49
+    },
+    {
+      "id": 176565,
+      "date": 1495497600,
+      "platform": 49
+    },
+    {
+      "id": 176567,
+      "date": 1512518400,
+      "platform": 34
+    },
+    {
+      "id": 176562,
+      "date": 1495152000,
+      "platform": 48
+    },
+    {
+      "id": 176564,
+      "date": 1495497600,
+      "platform": 48
+    },
+    {
+      "id": 252811,
+      "date": 1509494400,
+      "platform": 130
+    },
+    {
+      "id": 176566,
+      "date": 1511395200,
+      "platform": 130
+    },
+    {
+      "id": 176568,
+      "date": 1512518400,
+      "platform": 39
+    }
+  ]
+}

@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2009-06-02",
-    "release_date": null,
+    "release_date": "2009-06-02",
     "platforms": [
       "PC"
     ]
@@ -74,22 +74,44 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "The Sims 3 Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2009-06-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-06-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 260,
-      "name": "The Sims 3",
-      "url": "https://www.igdb.com/games/the-sims-3",
+      "id": 202308,
+      "name": "The Sims 3: Starter Pack",
+      "url": "https://www.igdb.com/games/the-sims-3-starter-pack",
       "publishers": [
         "Electronic Arts"
       ],
       "developers": [
+        "Maxis",
         "The Sims Studio"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy"
+        "Simulator"
       ],
       "themes": [
         "Fantasy",
@@ -102,7 +124,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "The Sims 3 Engine"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2013-05-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-05-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

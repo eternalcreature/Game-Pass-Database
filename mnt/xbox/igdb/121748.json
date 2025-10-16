@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 121748,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105075,
+        "company": {
+          "id": 10568,
+          "name": "Shin'en Multimedia"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Touryst",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-touryst",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 710478,
+      "date": 1596067200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 710482,
+      "date": 1596067200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 710477,
+      "date": 1574294400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 710481,
+      "date": 1596067200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 710480,
+      "date": 1631145600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 710479,
+      "date": 1631145600,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

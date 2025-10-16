@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 29411,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 84817,
+        "company": {
+          "id": 21857,
+          "name": "Doborog Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Clone Drone in the Danger Zone",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/clone-drone-in-the-danger-zone",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 778638,
+      "date": 1627344000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 778642,
+      "date": 1627344000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 778640,
+      "date": 1489622400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 778635,
+      "date": 1489622400,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 778637,
+      "date": 1627344000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 778639,
+      "date": 1627344000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 778641,
+      "date": 1627344000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 778636,
+      "date": 1627344000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 534278,
+      "date": 1699401600,
+      "platform": 169
+    }
+  ]
+}

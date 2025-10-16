@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 55047,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69021,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 69197,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-dark-pictures-anthology-man-of-medan",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 392749,
+      "date": 1664323200,
+      "platform": 167
+    },
+    {
+      "id": 169993,
+      "date": 1567123200,
+      "platform": 49
+    },
+    {
+      "id": 403875,
+      "date": 1567036800,
+      "platform": 6
+    },
+    {
+      "id": 169994,
+      "date": 1567123200,
+      "platform": 48
+    },
+    {
+      "id": 392750,
+      "date": 1664323200,
+      "platform": 169
+    },
+    {
+      "id": 473211,
+      "date": 1683158400,
+      "platform": 130
+    }
+  ]
+}

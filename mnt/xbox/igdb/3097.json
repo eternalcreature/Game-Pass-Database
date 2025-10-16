@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 3097,
+    "game_engines": [
+      {
+        "id": 12,
+        "name": "Telltale Tool"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 134344,
+        "company": {
+          "id": 294,
+          "name": "Telltale Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134345,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Walking Dead: Season Two",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-walking-dead-season-two",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 622077,
+      "date": 1403654400,
+      "platform": 34
+    },
+    {
+      "id": 7373,
+      "date": 1387238400,
+      "platform": 72
+    },
+    {
+      "id": 7376,
+      "date": 1387238400,
+      "platform": 39
+    },
+    {
+      "id": 157396,
+      "date": 1546214400,
+      "platform": 130
+    },
+    {
+      "id": 248968,
+      "date": 1579564800,
+      "platform": 130
+    },
+    {
+      "id": 414140,
+      "date": 1387238400,
+      "platform": 6
+    },
+    {
+      "id": 414141,
+      "date": 1387238400,
+      "platform": 14
+    },
+    {
+      "id": 106344,
+      "date": 1414713600,
+      "platform": 48
+    },
+    {
+      "id": 244788,
+      "date": 1415059200,
+      "platform": 46
+    },
+    {
+      "id": 304413,
+      "date": 1387324800,
+      "platform": 49
+    }
+  ]
+}

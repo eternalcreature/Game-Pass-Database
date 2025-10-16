@@ -1,0 +1,147 @@
+{
+  "general": {
+    "id": 4220,
+    "game_engines": [
+      {
+        "id": 89,
+        "name": "PhysX"
+      },
+      {
+        "id": 42,
+        "name": "SpeedTree"
+      },
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13623,
+        "company": {
+          "id": 1170,
+          "name": "Airtight Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 42031,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 13625,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dark Void",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dark-void",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 30275,
+      "date": 1264118400,
+      "platform": 6
+    },
+    {
+      "id": 102364,
+      "date": 1264118400,
+      "platform": 9
+    },
+    {
+      "id": 30270,
+      "date": 1264032000,
+      "platform": 12
+    },
+    {
+      "id": 30269,
+      "date": 1263859200,
+      "platform": 6
+    },
+    {
+      "id": 30272,
+      "date": 1264032000,
+      "platform": 6
+    },
+    {
+      "id": 30267,
+      "date": 1263859200,
+      "platform": 12
+    },
+    {
+      "id": 30273,
+      "date": 1264118400,
+      "platform": 12
+    },
+    {
+      "id": 102363,
+      "date": 1263859200,
+      "platform": 9
+    },
+    {
+      "id": 30271,
+      "date": 1264032000,
+      "platform": 9
+    },
+    {
+      "id": 30276,
+      "date": 1263859200,
+      "platform": 6
+    }
+  ]
+}

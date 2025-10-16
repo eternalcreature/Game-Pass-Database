@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 201156,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 280145,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 280146,
+        "company": {
+          "id": 1002,
+          "name": "Respawn Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Star Wars Jedi: Survivor",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-jedi-survivor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 625949,
+      "date": 1726531200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 625946,
+      "date": 1682640000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 625945,
+      "date": 1682640000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 625947,
+      "date": 1726531200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 625948,
+      "date": 1682640000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 205064,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 181075,
+        "company": {
+          "id": 5154,
+          "name": "Zachtronics"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Last Call BBS",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/last-call-bbs",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 473012,
+      "date": 1656892800,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 473013,
+      "date": 1659484800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 473014,
+      "date": 1656892800,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 473015,
+      "date": 1659484800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 473016,
+      "date": 1656892800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 473017,
+      "date": 1659484800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 212,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 8390,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 8389,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Brütal Legend",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/brutal-legend",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 119,
+      "date": 1255392000,
+      "platform": 12
+    },
+    {
+      "id": 460996,
+      "date": 1370995200,
+      "platform": 14
+    },
+    {
+      "id": 102001,
+      "date": 1255392000,
+      "platform": 9
+    },
+    {
+      "id": 419382,
+      "date": 1361836800,
+      "platform": 6
+    },
+    {
+      "id": 419383,
+      "date": 1361836800,
+      "platform": 14
+    },
+    {
+      "id": 419384,
+      "date": 1361836800,
+      "platform": 3
+    },
+    {
+      "id": 102002,
+      "date": 1255651200,
+      "platform": 9
+    },
+    {
+      "id": 118,
+      "date": 1255392000,
+      "platform": 9
+    }
+  ]
+}

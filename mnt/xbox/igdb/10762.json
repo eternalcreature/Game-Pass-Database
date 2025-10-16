@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 10762,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 86719,
+        "company": {
+          "id": 6330,
+          "name": "Namco Bandai Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Galaga Legions DX",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/galaga-legions-dx",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 103231,
+      "date": 1312329600,
+      "platform": 9
+    },
+    {
+      "id": 52524,
+      "date": 1346112000,
+      "platform": 74
+    },
+    {
+      "id": 460338,
+      "date": 1461801600,
+      "platform": 49
+    },
+    {
+      "id": 460337,
+      "date": 1461801600,
+      "platform": 48
+    },
+    {
+      "id": 229707,
+      "date": 1309305600,
+      "platform": 12
+    }
+  ]
+}

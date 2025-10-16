@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 107315,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130343,
+        "company": {
+          "id": 856,
+          "name": "Unknown Worlds Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Subnautica: Below Zero",
+    "parent_game": 9254,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/subnautica-below-zero",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 684261,
+      "date": 1620950400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 684263,
+      "date": 1620950400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 684260,
+      "date": 1548806400,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 684265,
+      "date": 1620950400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 499843,
+      "date": 1620950400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 499844,
+      "date": 1620864000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 684262,
+      "date": 1548806400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 701209,
+      "date": 1620950400,
+      "platform": 49
+    },
+    {
+      "id": 701210,
+      "date": 1620950400,
+      "platform": 169
+    },
+    {
+      "id": 684264,
+      "date": 1620950400,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

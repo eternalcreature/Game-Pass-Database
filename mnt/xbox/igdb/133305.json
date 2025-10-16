@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 133305,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98710,
+        "company": {
+          "id": 8068,
+          "name": "Fishlabs"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 98711,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Chorus",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/chorus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 624803,
+      "date": 1638489600,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 624808,
+      "date": 1638489600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 624806,
+      "date": 1638489600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 624804,
+      "date": 1638489600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 624805,
+      "date": 1638489600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 624807,
+      "date": 1638489600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

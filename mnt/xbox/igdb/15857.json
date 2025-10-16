@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 15857,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29942,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 37503,
+        "company": {
+          "id": 4440,
+          "name": "Adult Swim Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Headlander",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/headlander",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 750985,
+      "date": 1469404800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 750986,
+      "date": 1469404800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 750987,
+      "date": 1469491200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 750988,
+      "date": 1479427200,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

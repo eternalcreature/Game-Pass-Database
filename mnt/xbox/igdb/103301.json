@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 103301,
+    "game_engines": [
+      {
+        "id": 172,
+        "name": "id Tech 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 76706,
+        "company": {
+          "id": 19,
+          "name": "Arkane Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 129399,
+        "company": {
+          "id": 1242,
+          "name": "MachineGames"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129401,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wolfenstein: Youngblood",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wolfenstein-youngblood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 167126,
+      "date": 1564099200,
+      "platform": 48
+    },
+    {
+      "id": 304802,
+      "date": 1564099200,
+      "platform": 49
+    },
+    {
+      "id": 197803,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 250779,
+      "date": 1564099200,
+      "platform": 130
+    },
+    {
+      "id": 412834,
+      "date": 1564012800,
+      "platform": 6
+    }
+  ]
+}

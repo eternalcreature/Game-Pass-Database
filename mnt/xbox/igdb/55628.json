@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 55628,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 133224,
+        "company": {
+          "id": 13388,
+          "name": "Runner Duck"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133225,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Bomber Crew",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bomber-crew",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 153750,
+      "date": 1531180800,
+      "platform": 130
+    },
+    {
+      "id": 153752,
+      "date": 1531180800,
+      "platform": 49
+    },
+    {
+      "id": 153751,
+      "date": 1531180800,
+      "platform": 48
+    },
+    {
+      "id": 133620,
+      "date": 1508371200,
+      "platform": 3
+    },
+    {
+      "id": 133618,
+      "date": 1508371200,
+      "platform": 6
+    },
+    {
+      "id": 133619,
+      "date": 1508371200,
+      "platform": 14
+    }
+  ]
+}

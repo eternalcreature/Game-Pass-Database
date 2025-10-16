@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 135881,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104192,
+        "company": {
+          "id": 129,
+          "name": "Konami"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "eFootball PES 2021 Season Update",
+    "parent_game": 119422,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/efootball-pes-2021-season-update",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 204596,
+      "date": 1600128000,
+      "platform": 49
+    },
+    {
+      "id": 204597,
+      "date": 1600128000,
+      "platform": 6
+    },
+    {
+      "id": 204595,
+      "date": 1600128000,
+      "platform": 48
+    }
+  ]
+}

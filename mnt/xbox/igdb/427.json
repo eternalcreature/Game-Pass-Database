@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 427,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 253624,
+        "company": {
+          "id": 250,
+          "name": "Square"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 308108,
+        "company": {
+          "id": 13634,
+          "name": "Sony Computer Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 308109,
+        "company": {
+          "id": 52975,
+          "name": "Square Product Development Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 308110,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Final Fantasy VII",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-vii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 705539,
+      "date": 1244073600,
+      "platform": 38,
+      "status": 35
+    },
+    {
+      "id": 705538,
+      "date": 1244073600,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705537,
+      "date": 1243900800,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705535,
+      "date": 879724800,
+      "platform": 7,
+      "status": 6
+    },
+    {
+      "id": 705540,
+      "date": 1243900800,
+      "platform": 38,
+      "status": 35
+    },
+    {
+      "id": 705534,
+      "date": 873590400,
+      "platform": 7,
+      "status": 6
+    },
+    {
+      "id": 705536,
+      "date": 854668800,
+      "platform": 7,
+      "status": 6
+    }
+  ]
+}

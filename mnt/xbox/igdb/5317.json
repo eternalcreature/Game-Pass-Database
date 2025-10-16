@@ -1,0 +1,135 @@
+{
+  "general": {
+    "id": 5317,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 12862,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 12864,
+        "company": {
+          "id": 769,
+          "name": "Team NINJA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 12863,
+        "company": {
+          "id": 858,
+          "name": "Koei Tecmo Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 126037,
+        "company": {
+          "id": 14776,
+          "name": "Tecmo"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ninja Gaiden 3: Razor's Edge",
+    "parent_game": 7122,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ninja-gaiden-3-razor-s-edge",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 241226,
+      "date": 1623283200,
+      "platform": 6
+    },
+    {
+      "id": 108411,
+      "date": 1365120000,
+      "platform": 9
+    },
+    {
+      "id": 241230,
+      "date": 1623283200,
+      "platform": 48
+    },
+    {
+      "id": 108412,
+      "date": 1364860800,
+      "platform": 9
+    },
+    {
+      "id": 240651,
+      "date": 1353110400,
+      "platform": 41
+    },
+    {
+      "id": 241231,
+      "date": 1623283200,
+      "platform": 49
+    },
+    {
+      "id": 241232,
+      "date": 1623283200,
+      "platform": 130
+    },
+    {
+      "id": 68698,
+      "date": 1354924800,
+      "platform": 41
+    },
+    {
+      "id": 12561,
+      "date": 1364860800,
+      "platform": 12
+    },
+    {
+      "id": 12562,
+      "date": 1364860800,
+      "platform": 9
+    }
+  ]
+}

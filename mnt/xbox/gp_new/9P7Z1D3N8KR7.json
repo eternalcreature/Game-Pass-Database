@@ -12,8 +12,8 @@
         "9P7Z1D3N8KR7"
       ]
     ],
-    "original_release_date": "1992-05-05",
-    "release_date": null,
+    "original_release_date": "1994-02-10",
+    "release_date": "2022-08-18",
     "platforms": [
       "PC"
     ]
@@ -71,14 +71,36 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1994-02-10",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 306944,
+      "id": 262516,
       "name": "Wolfenstein 3D",
-      "url": "https://www.igdb.com/games/wolfenstein-3d--3",
+      "url": "https://www.igdb.com/games/wolfenstein-3d--1",
       "publishers": [
-        "Imagineer"
+        "Apogee Software",
+        "id Software"
       ],
       "developers": [
         "id Software"
@@ -87,14 +109,41 @@
         "Shooter"
       ],
       "themes": [
-        "Action"
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Historical"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Wolfenstein 3D"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1992-05-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

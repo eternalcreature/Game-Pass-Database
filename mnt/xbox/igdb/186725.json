@@ -1,0 +1,151 @@
+{
+  "general": {
+    "id": 186725,
+    "game_engines": [
+      {
+        "id": 382,
+        "name": "Phaser"
+      },
+      {
+        "id": 692,
+        "name": "ElectronJS"
+      },
+      {
+        "id": 1251,
+        "name": "Unity 2021"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 195857,
+        "company": {
+          "id": 44617,
+          "name": "Poncle"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Vampire Survivors",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/vampire-survivors",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 626861,
+      "date": 1724889600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 738273,
+      "date": 1688169600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 771582,
+      "date": 1643673600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 771584,
+      "date": 1668038400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 771581,
+      "date": 1670457600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 561010,
+      "date": 1639699200,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 485164,
+      "date": 1692230400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 561011,
+      "date": 1666224000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 771583,
+      "date": 1668038400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 771580,
+      "date": 1670457600,
+      "platform": 34,
+      "status": 6
+    }
+  ]
+}

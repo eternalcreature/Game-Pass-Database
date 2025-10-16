@@ -1,0 +1,49 @@
+{
+  "general": {
+    "id": 169203,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "World War Z: Aftermath - Deluxe Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/world-war-z-aftermath-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 312889,
+      "date": 1632182400,
+      "platform": 49
+    }
+  ]
+}

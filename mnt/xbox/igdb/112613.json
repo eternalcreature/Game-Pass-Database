@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 112613,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 187692,
+        "company": {
+          "id": 17004,
+          "name": "Bounding Box Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 187693,
+        "company": {
+          "id": 4996,
+          "name": "Humble Bundle"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Prodeus",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/prodeus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 537850,
+      "date": 1663891200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 537845,
+      "date": 1663891200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 537846,
+      "date": 1604880000,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 537847,
+      "date": 1666915200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 537848,
+      "date": 1604880000,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 537849,
+      "date": 1663891200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 537851,
+      "date": 1663891200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 537852,
+      "date": 1663891200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 537853,
+      "date": 1663891200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

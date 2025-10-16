@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 53663,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171670,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 171671,
+        "company": {
+          "id": 28050,
+          "name": "Electronic Arts, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Wars Battlefront: Ultimate Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-battlefront-ultimate-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 359987,
+      "date": 1447632000,
+      "platform": 6
+    },
+    {
+      "id": 359986,
+      "date": 1447632000,
+      "platform": 48
+    },
+    {
+      "id": 359978,
+      "date": 1447718400,
+      "platform": 6
+    },
+    {
+      "id": 454884,
+      "date": 1447718400,
+      "platform": 49
+    }
+  ]
+}

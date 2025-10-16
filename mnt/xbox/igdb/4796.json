@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 4796,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 11548,
+        "company": {
+          "id": 1303,
+          "name": "Blue Tongue Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 132929,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 252614,
+        "company": {
+          "id": 2155,
+          "name": "Syfy Kids"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 252615,
+        "company": {
+          "id": 197,
+          "name": "THQ"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "De Blob 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/de-blob-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 776212,
+      "date": 1519689600,
+      "platform": 48
+    },
+    {
+      "id": 776213,
+      "date": 1298332800,
+      "platform": 12
+    },
+    {
+      "id": 776214,
+      "date": 1519689600,
+      "platform": 49
+    },
+    {
+      "id": 776210,
+      "date": 1535414400,
+      "platform": 130
+    },
+    {
+      "id": 776211,
+      "date": 1298332800,
+      "platform": 9
+    },
+    {
+      "id": 146143,
+      "date": 1298592000,
+      "platform": 5
+    },
+    {
+      "id": 414578,
+      "date": 1498089600,
+      "platform": 6
+    },
+    {
+      "id": 146142,
+      "date": 1298332800,
+      "platform": 5
+    }
+  ]
+}

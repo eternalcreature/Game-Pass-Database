@@ -64,7 +64,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-07-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-08-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-10-04"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

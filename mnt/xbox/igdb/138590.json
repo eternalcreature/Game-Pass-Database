@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 138590,
+    "game_engines": [
+      {
+        "id": 1145,
+        "name": "Unity 2020"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 221176,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 221177,
+        "company": {
+          "id": 4441,
+          "name": "FuturLab"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "PowerWash Simulator",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/powerwash-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 486861,
+      "date": 1657756800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 486862,
+      "date": 1657756800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 486859,
+      "date": 1675036800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 486856,
+      "date": 1675036800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 486860,
+      "date": 1675036800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 486857,
+      "date": 1621382400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 486858,
+      "date": 1657756800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 252787,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 228094,
+        "company": {
+          "id": 18646,
+          "name": "Monster and Monster"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 228095,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Trucker",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-trucker",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 750843,
+      "date": 1749513600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 602602,
+      "date": 1725321600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 610863,
+      "date": 1725321600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 1910,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96570,
+        "company": {
+          "id": 1380,
+          "name": "Red Barrels"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Outlast",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/outlast",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 124147,
+      "date": 1391472000,
+      "platform": 48
+    },
+    {
+      "id": 136189,
+      "date": 1403136000,
+      "platform": 49
+    },
+    {
+      "id": 124150,
+      "date": 1427760000,
+      "platform": 3
+    },
+    {
+      "id": 124146,
+      "date": 1378252800,
+      "platform": 6
+    },
+    {
+      "id": 124151,
+      "date": 1427760000,
+      "platform": 14
+    },
+    {
+      "id": 124148,
+      "date": 1391558400,
+      "platform": 48
+    },
+    {
+      "id": 124149,
+      "date": 1403136000,
+      "platform": 49
+    },
+    {
+      "id": 375906,
+      "date": 1519689600,
+      "platform": 130
+    }
+  ]
+}

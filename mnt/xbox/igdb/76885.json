@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 76885,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 58884,
+        "company": {
+          "id": 732,
+          "name": "Project Soul"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 58885,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 252683,
+        "company": {
+          "id": 396,
+          "name": "Dimps"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "SoulCalibur VI",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/soulcalibur-vi",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 153921,
+      "date": 1539907200,
+      "platform": 48
+    },
+    {
+      "id": 153920,
+      "date": 1539907200,
+      "platform": 49
+    },
+    {
+      "id": 153922,
+      "date": 1539907200,
+      "platform": 6
+    },
+    {
+      "id": 291599,
+      "date": 1539820800,
+      "platform": 6
+    }
+  ]
+}

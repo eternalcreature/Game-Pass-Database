@@ -20,7 +20,7 @@
       ]
     ],
     "original_release_date": "2012-03-06",
-    "release_date": null,
+    "release_date": "2012-03-06",
     "platforms": [
       "PC"
     ]
@@ -68,35 +68,78 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-03-06",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-03-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-03-06"
+        }
+      }
     },
     "specific": {
-      "id": 75,
-      "name": "Mass Effect 3",
-      "url": "https://www.igdb.com/games/mass-effect-3",
+      "id": 202174,
+      "name": "Mass Effect 3: N7 Digital Deluxe Edition",
+      "url": "https://www.igdb.com/games/mass-effect-3-n7-digital-deluxe-edition",
       "publishers": [
-        "Electronic Arts"
+        "Electronic Arts, Inc."
       ],
       "developers": [
-        "BioWare",
-        "BioWare Edmonton"
+        "BioWare"
       ],
       "genres": [
-        "Shooter",
         "Role-playing (RPG)",
-        "Adventure"
+        "Strategy"
       ],
       "themes": [
-        "Action",
-        "Science fiction"
+        "Action"
       ],
       "game_modes": [
         "Single player",
-        "Multiplayer"
+        "Co-operative"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-03-06",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-03-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 3752,
+    "game_engines": [
+      {
+        "id": 136,
+        "name": "Popcap Games Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 26603,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 26604,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Peggle 2",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/peggle-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 37302,
+      "date": 1399420800,
+      "platform": 12
+    },
+    {
+      "id": 37303,
+      "date": 1413244800,
+      "platform": 48
+    },
+    {
+      "id": 136201,
+      "date": 1386547200,
+      "platform": 49
+    },
+    {
+      "id": 8462,
+      "date": 1386547200,
+      "platform": 49
+    }
+  ]
+}

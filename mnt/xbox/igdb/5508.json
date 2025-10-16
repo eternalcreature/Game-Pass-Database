@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 5508,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65019,
+        "company": {
+          "id": 2450,
+          "name": "Versus Evil"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 65020,
+        "company": {
+          "id": 2449,
+          "name": "Stoic"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Banner Saga",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-banner-saga",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 152926,
+      "date": 1452556800,
+      "platform": 49
+    },
+    {
+      "id": 366821,
+      "date": 1416355200,
+      "platform": 34
+    },
+    {
+      "id": 150199,
+      "date": 1412208000,
+      "platform": 39
+    },
+    {
+      "id": 152927,
+      "date": 1389657600,
+      "platform": 6
+    },
+    {
+      "id": 152930,
+      "date": 1452556800,
+      "platform": 48
+    },
+    {
+      "id": 548201,
+      "date": 1526515200,
+      "platform": 130
+    },
+    {
+      "id": 152928,
+      "date": 1389657600,
+      "platform": 14
+    },
+    {
+      "id": 38235,
+      "date": 1389657600,
+      "platform": 3
+    }
+  ]
+}

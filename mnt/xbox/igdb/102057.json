@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 102057,
+    "game_engines": [
+      {
+        "id": 671,
+        "name": "The Creator Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 109042,
+        "company": {
+          "id": 331,
+          "name": "Triumph Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 109043,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Age of Wonders: Planetfall",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/age-of-wonders-planetfall",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 165440,
+      "date": 1565049600,
+      "platform": 6
+    },
+    {
+      "id": 194436,
+      "date": 1565049600,
+      "platform": 49
+    },
+    {
+      "id": 348314,
+      "date": 1565049600,
+      "platform": 14
+    },
+    {
+      "id": 211876,
+      "date": 1565049600,
+      "platform": 48
+    }
+  ]
+}

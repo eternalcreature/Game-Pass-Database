@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 119403,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 332023,
+        "company": {
+          "id": 5142,
+          "name": "Playful"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "New Super Lucky's Tale",
+    "parent_game": 37024,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/new-super-luckys-tale",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 173587,
+      "date": 1573171200,
+      "platform": 130
+    },
+    {
+      "id": 206614,
+      "date": 1597968000,
+      "platform": 49
+    },
+    {
+      "id": 206615,
+      "date": 1597968000,
+      "platform": 48
+    },
+    {
+      "id": 207377,
+      "date": 1597968000,
+      "platform": 6
+    }
+  ]
+}

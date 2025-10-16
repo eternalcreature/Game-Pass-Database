@@ -1,0 +1,145 @@
+{
+  "general": {
+    "id": 9498,
+    "game_engines": [
+      {
+        "id": 195,
+        "name": "Dawn Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265330,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265331,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 265332,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265333,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265334,
+        "company": {
+          "id": 291,
+          "name": "Nixxes Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265335,
+        "company": {
+          "id": 3174,
+          "name": "AMD"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Deus Ex: Mankind Divided",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deus-ex-mankind-divided",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 42872,
+      "date": 1471910400,
+      "platform": 48
+    },
+    {
+      "id": 42870,
+      "date": 1471910400,
+      "platform": 6
+    },
+    {
+      "id": 42871,
+      "date": 1471910400,
+      "platform": 49
+    },
+    {
+      "id": 591408,
+      "date": 1478131200,
+      "platform": 3
+    },
+    {
+      "id": 591409,
+      "date": 1513036800,
+      "platform": 14
+    }
+  ]
+}

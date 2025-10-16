@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 115851,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 212722,
+        "company": {
+          "id": 18141,
+          "name": "bilibili"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 212721,
+        "company": {
+          "id": 18454,
+          "name": "TiGames"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "F.I.S.T.: Forged In Shadow Torch",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/f-dot-i-s-dot-t-forged-in-shadow-torch",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 297493,
+      "date": 1630972800,
+      "platform": 167
+    },
+    {
+      "id": 628182,
+      "date": 1633219200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 366555,
+      "date": 1657584000,
+      "platform": 130
+    },
+    {
+      "id": 485084,
+      "date": 1687824000,
+      "platform": 49
+    },
+    {
+      "id": 485085,
+      "date": 1687824000,
+      "platform": 169
+    },
+    {
+      "id": 297495,
+      "date": 1630972800,
+      "platform": 48
+    }
+  ]
+}

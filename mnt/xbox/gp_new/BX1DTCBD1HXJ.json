@@ -12,8 +12,8 @@
         "BX1DTCBD1HXJ"
       ]
     ],
-    "original_release_date": "2023-08-15",
-    "release_date": null,
+    "original_release_date": "2013-01-28",
+    "release_date": "2018-10-23",
     "platforms": [
       "PC",
       "XboxOne",
@@ -106,12 +106,35 @@
         "First person",
         "Third person",
         "Virtual Reality"
-      ]
+      ],
+      "engine": [
+        "Dagor Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-01-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-01-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-19"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 2165,
-      "name": "War Thunder",
-      "url": "https://www.igdb.com/games/war-thunder",
+      "id": 245059,
+      "name": "War Thunder Mobile",
+      "url": "https://www.igdb.com/games/war-thunder-mobile",
       "publishers": [
         "Gaijin Entertainment"
       ],
@@ -129,16 +152,35 @@
         "Warfare"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Multiplayer"
       ],
       "player_perspectives": [
         "First person",
-        "Third person",
-        "Virtual Reality"
-      ]
+        "Third person"
+      ],
+      "engine": [
+        "Dagor Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-08-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

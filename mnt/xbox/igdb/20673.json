@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 20673,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277985,
+        "company": {
+          "id": 1228,
+          "name": "The Behemoth"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Alien Hominid HD",
+    "parent_game": 314895,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/alien-hominid-hd",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 746836,
+      "date": 1749513600,
+      "platform": 48
+    },
+    {
+      "id": 746837,
+      "date": 1749513600,
+      "platform": 167
+    },
+    {
+      "id": 532536,
+      "date": 1698796800,
+      "platform": 49
+    },
+    {
+      "id": 531913,
+      "date": 1698796800,
+      "platform": 130
+    },
+    {
+      "id": 532537,
+      "date": 1698796800,
+      "platform": 169
+    },
+    {
+      "id": 557139,
+      "date": 1698796800,
+      "platform": 6
+    }
+  ]
+}

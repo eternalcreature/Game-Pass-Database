@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2014-09-30",
-    "release_date": null,
+    "release_date": "2015-05-05",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -63,26 +63,52 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "LithTech 6"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-09-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-09-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-10-03"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-18"
+        }
+      }
     },
     "specific": {
-      "id": 3025,
-      "name": "Middle-earth: Shadow of Mordor",
-      "url": "https://www.igdb.com/games/middle-earth-shadow-of-mordor",
+      "id": 25773,
+      "name": "Middle-earth: Shadow of Mordor - Game of the Year Edition",
+      "url": "https://www.igdb.com/games/middle-earth-shadow-of-mordor-game-of-the-year-edition",
       "publishers": [
+        "Feral Interactive",
         "WB Games"
       ],
       "developers": [
+        "Feral Interactive",
         "Monolith Productions"
       ],
       "genres": [
         "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "themes": [
         "Action",
         "Fantasy",
+        "Science fiction",
+        "Historical",
         "Stealth",
         "Open world"
       ],
@@ -91,7 +117,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "LithTech 6"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2015-05-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-05-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-05-05"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

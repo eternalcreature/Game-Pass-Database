@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 35842,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50153,
+        "company": {
+          "id": 1419,
+          "name": "Harebrained Schemes"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Shadowrun: Hong Kong - Extended Edition",
+    "parent_game": 11772,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadowrun-hong-kong-extended-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 82260,
+      "date": 1440028800,
+      "platform": 3
+    },
+    {
+      "id": 424942,
+      "date": 1655769600,
+      "platform": 130
+    },
+    {
+      "id": 370198,
+      "date": 1655769600,
+      "platform": 49
+    },
+    {
+      "id": 370199,
+      "date": 1655769600,
+      "platform": 169
+    },
+    {
+      "id": 370250,
+      "date": 1655769600,
+      "platform": 48
+    },
+    {
+      "id": 370251,
+      "date": 1655769600,
+      "platform": 167
+    },
+    {
+      "id": 82258,
+      "date": 1440028800,
+      "platform": 6
+    },
+    {
+      "id": 82259,
+      "date": 1440028800,
+      "platform": 14
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "general": {
+    "id": 59,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5197,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 18657,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 245606,
+        "company": {
+          "id": 279,
+          "name": "4J Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 245607,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 245608,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Elder Scrolls IV: Oblivion",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-iv-oblivion",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 21671,
+      "date": 1143158400,
+      "platform": 12
+    },
+    {
+      "id": 21672,
+      "date": 1143072000,
+      "platform": 6
+    },
+    {
+      "id": 21675,
+      "date": 1177545600,
+      "platform": 9
+    },
+    {
+      "id": 21669,
+      "date": 1142812800,
+      "platform": 6
+    },
+    {
+      "id": 106159,
+      "date": 1190851200,
+      "platform": 9
+    },
+    {
+      "id": 106158,
+      "date": 1177632000,
+      "platform": 9
+    },
+    {
+      "id": 21677,
+      "date": 1185408000,
+      "platform": 12
+    },
+    {
+      "id": 21676,
+      "date": 1143763200,
+      "platform": 12
+    },
+    {
+      "id": 134217,
+      "date": 1174348800,
+      "platform": 9
+    },
+    {
+      "id": 21668,
+      "date": 1142812800,
+      "platform": 12
+    }
+  ]
+}

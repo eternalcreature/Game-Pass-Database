@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 201254,
+    "game_engines": [
+      {
+        "id": 19,
+        "name": "Snowdrop"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 181759,
+        "company": {
+          "id": 11980,
+          "name": "Ubisoft China"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 181758,
+        "company": {
+          "id": 3928,
+          "name": "Ubisoft Chengdu"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Rabbids: Party of Legends",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rabbids-party-of-legends",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 377802,
+      "date": 1628121600,
+      "platform": 130
+    },
+    {
+      "id": 369265,
+      "date": 1656547200,
+      "platform": 49
+    },
+    {
+      "id": 369267,
+      "date": 1656547200,
+      "platform": 48
+    },
+    {
+      "id": 369268,
+      "date": 1656547200,
+      "platform": 170
+    },
+    {
+      "id": 369266,
+      "date": 1656547200,
+      "platform": 130
+    },
+    {
+      "id": 757203,
+      "date": 1656547200,
+      "platform": 6
+    }
+  ]
+}

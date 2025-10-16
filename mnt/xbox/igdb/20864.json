@@ -1,0 +1,178 @@
+{
+  "general": {
+    "id": 20864,
+    "game_engines": [
+      {
+        "id": 10,
+        "name": "AnvilNext"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 279702,
+        "company": {
+          "id": 899,
+          "name": "Ubisoft Milan"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 279703,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 279704,
+        "company": {
+          "id": 5431,
+          "name": "Alice Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 279705,
+        "company": {
+          "id": 20391,
+          "name": "Technology Group"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 279706,
+        "company": {
+          "id": 50735,
+          "name": "Ubik Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 279700,
+        "company": {
+          "id": 840,
+          "name": "Ubisoft Sofia"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 279701,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed: Liberation HD",
+    "parent_game": 3195,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-liberation-hd",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 625047,
+      "date": 1661990400,
+      "platform": 12,
+      "status": 4
+    },
+    {
+      "id": 625036,
+      "date": 1389744000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 625034,
+      "date": 1639440000,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 625035,
+      "date": 1389744000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 625037,
+      "date": 1389744000,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 625045,
+      "date": 1661990400,
+      "platform": 6,
+      "status": 4
+    },
+    {
+      "id": 625044,
+      "date": 1661990400,
+      "platform": 170,
+      "status": 4
+    },
+    {
+      "id": 625046,
+      "date": 1661990400,
+      "platform": 9,
+      "status": 4
+    }
+  ]
+}

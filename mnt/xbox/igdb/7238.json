@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 7238,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17127,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 17128,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Viva Piñata: Trouble in Paradise",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/viva-pinata-trouble-in-paradise",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 18557,
+      "date": 1221091200,
+      "platform": 12
+    },
+    {
+      "id": 18556,
+      "date": 1220572800,
+      "platform": 12
+    },
+    {
+      "id": 18555,
+      "date": 1220313600,
+      "platform": 12
+    },
+    {
+      "id": 18558,
+      "date": 1221091200,
+      "platform": 12
+    }
+  ]
+}

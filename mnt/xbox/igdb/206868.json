@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 206868,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 180673,
+        "company": {
+          "id": 486,
+          "name": "Sports Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 180674,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Football Manager 2022: Xbox Edition",
+    "parent_game": 168537,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/football-manager-2022-xbox-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 376013,
+      "date": 1636329600,
+      "platform": 169
+    }
+  ]
+}

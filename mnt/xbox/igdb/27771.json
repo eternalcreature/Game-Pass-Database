@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 27771,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 45154,
+        "company": {
+          "id": 12319,
+          "name": "Digital Sun Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133709,
+        "company": {
+          "id": 4133,
+          "name": "11 bit studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Moonlighter",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/moonlighter",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 217263,
+      "date": 1605744000,
+      "platform": 34
+    },
+    {
+      "id": 250995,
+      "date": 1541376000,
+      "platform": 130
+    },
+    {
+      "id": 151258,
+      "date": 1527552000,
+      "platform": 6
+    },
+    {
+      "id": 217262,
+      "date": 1605744000,
+      "platform": 39
+    },
+    {
+      "id": 151257,
+      "date": 1527552000,
+      "platform": 14
+    },
+    {
+      "id": 299969,
+      "date": 1625097600,
+      "platform": 170
+    },
+    {
+      "id": 160055,
+      "date": 1541376000,
+      "platform": 130
+    },
+    {
+      "id": 151263,
+      "date": 1527552000,
+      "platform": 3
+    },
+    {
+      "id": 151259,
+      "date": 1527552000,
+      "platform": 48
+    },
+    {
+      "id": 151260,
+      "date": 1527552000,
+      "platform": 49
+    }
+  ]
+}

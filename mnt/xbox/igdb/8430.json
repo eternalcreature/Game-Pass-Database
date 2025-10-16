@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 8430,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 62911,
+        "company": {
+          "id": 832,
+          "name": "Rising Star Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 62910,
+        "company": {
+          "id": 9390,
+          "name": "Intergrow"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 135348,
+        "company": {
+          "id": 28729,
+          "name": "WayForward"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Shantae and the Pirate's Curse",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shantae-and-the-pirates-curse",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 149012,
+      "date": 1521504000,
+      "platform": 130
+    },
+    {
+      "id": 148965,
+      "date": 1441584000,
+      "platform": 41
+    },
+    {
+      "id": 148959,
+      "date": 1458086400,
+      "platform": 49
+    },
+    {
+      "id": 24755,
+      "date": 1414022400,
+      "platform": 37
+    },
+    {
+      "id": 148967,
+      "date": 1521504000,
+      "platform": 130
+    },
+    {
+      "id": 453388,
+      "date": 1413936000,
+      "platform": 37
+    },
+    {
+      "id": 148964,
+      "date": 1423094400,
+      "platform": 41
+    },
+    {
+      "id": 229611,
+      "date": 1461024000,
+      "platform": 48
+    },
+    {
+      "id": 229612,
+      "date": 1473206400,
+      "platform": 48
+    },
+    {
+      "id": 143071,
+      "date": 1423094400,
+      "platform": 37
+    }
+  ]
+}

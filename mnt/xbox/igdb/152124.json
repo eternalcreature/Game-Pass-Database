@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 152124,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138590,
+        "company": {
+          "id": 34985,
+          "name": "Dimfrost Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Bramble: The Mountain King",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bramble-the-mountain-king",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 491121,
+      "date": 1682553600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 491126,
+      "date": 1687824000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 491127,
+      "date": 1682553600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 491120,
+      "date": 1682553600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 491123,
+      "date": 1682553600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 491124,
+      "date": 1687824000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 491122,
+      "date": 1682553600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 491125,
+      "date": 1682553600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

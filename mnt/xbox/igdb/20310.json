@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 20310,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63263,
+        "company": {
+          "id": 2914,
+          "name": "Grip Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Unmechanical: Extended Edition",
+    "parent_game": 16368,
+    "url": "https://www.igdb.com/games/unmechanical-extended-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 89677,
+      "date": 1426032000,
+      "platform": 9
+    },
+    {
+      "id": 361700,
+      "date": 1422576000,
+      "platform": 49
+    },
+    {
+      "id": 229550,
+      "date": 1423526400,
+      "platform": 9
+    },
+    {
+      "id": 238788,
+      "date": 1423612800,
+      "platform": 48
+    },
+    {
+      "id": 476180,
+      "date": 1448323200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 476181,
+      "date": 1448323200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 476182,
+      "date": 1448323200,
+      "platform": 3,
+      "status": 6
+    }
+  ]
+}

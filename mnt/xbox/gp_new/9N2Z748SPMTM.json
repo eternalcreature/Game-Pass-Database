@@ -20,7 +20,7 @@
       ]
     ],
     "original_release_date": "2019-11-14",
-    "release_date": null,
+    "release_date": "2019-11-14",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -91,7 +91,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Genie Engine"
+      ],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2019-11-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-01-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-01-17"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

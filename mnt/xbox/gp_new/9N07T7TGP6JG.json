@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2010-11-25",
-    "release_date": null,
+    "release_date": "2022-01-18",
     "platforms": [
       "PC",
       "XboxOne",
@@ -83,14 +83,34 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2010-11-25",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 7842,
-      "name": "Danganronpa: Trigger Happy Havoc",
-      "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc",
+      "id": 152399,
+      "name": "Danganronpa: Trigger Happy Havoc - Anniversary Edition",
+      "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc-anniversary-edition",
       "publishers": [
-        "NIS America",
         "Spike Chunsoft"
       ],
       "developers": [
@@ -102,17 +122,35 @@
         "Visual Novel"
       ],
       "themes": [
-        "Action",
-        "Thriller",
         "Mystery"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "First person",
-        "Third person"
-      ]
+        "First person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-12-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

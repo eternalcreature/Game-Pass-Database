@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 21892,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 47706,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95354,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fallout 3: Game of the Year Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fallout-3-game-of-the-year-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 751298,
+      "date": 1262217600,
+      "platform": 9
+    },
+    {
+      "id": 751297,
+      "date": 1255737600,
+      "platform": 6
+    },
+    {
+      "id": 115451,
+      "date": 1255392000,
+      "platform": 9
+    },
+    {
+      "id": 115449,
+      "date": 1255392000,
+      "platform": 6
+    },
+    {
+      "id": 115450,
+      "date": 1255392000,
+      "platform": 12
+    }
+  ]
+}

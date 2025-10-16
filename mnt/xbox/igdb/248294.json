@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 248294,
+    "game_engines": [
+      {
+        "id": 340,
+        "name": "GameMaker"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 250159,
+        "company": {
+          "id": 6227,
+          "name": "Four Quarters"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 250160,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Loop Hero: Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/loop-hero-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 557664,
+      "date": 1684368000,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

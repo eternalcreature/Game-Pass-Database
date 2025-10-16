@@ -1,0 +1,53 @@
+{
+  "general": {
+    "id": 117992,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78378,
+        "company": {
+          "id": 19913,
+          "name": "Bart Bonte"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Black",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/black--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 169133,
+      "date": 1538006400,
+      "platform": 34
+    },
+    {
+      "id": 169132,
+      "date": 1538006400,
+      "platform": 39
+    }
+  ]
+}

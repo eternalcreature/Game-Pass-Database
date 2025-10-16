@@ -1,0 +1,143 @@
+{
+  "general": {
+    "id": 847,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 91631,
+        "company": {
+          "id": 1099,
+          "name": "Mercenary Technology"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 210558,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 210559,
+        "company": {
+          "id": 8593,
+          "name": "K2"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil 5",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-5",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 187150,
+      "date": 1236902400,
+      "platform": 12
+    },
+    {
+      "id": 298057,
+      "date": 1252972800,
+      "platform": 6
+    },
+    {
+      "id": 187139,
+      "date": 1236211200,
+      "platform": 9
+    },
+    {
+      "id": 187148,
+      "date": 1236902400,
+      "platform": 9
+    },
+    {
+      "id": 187138,
+      "date": 1253145600,
+      "platform": 6
+    },
+    {
+      "id": 187143,
+      "date": 1253145600,
+      "platform": 6
+    },
+    {
+      "id": 187146,
+      "date": 1236816000,
+      "platform": 9
+    },
+    {
+      "id": 187144,
+      "date": 1253232000,
+      "platform": 6
+    },
+    {
+      "id": 187151,
+      "date": 1236816000,
+      "platform": 12
+    },
+    {
+      "id": 187140,
+      "date": 1236211200,
+      "platform": 12
+    }
+  ]
+}

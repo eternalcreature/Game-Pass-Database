@@ -1,0 +1,164 @@
+{
+  "general": {
+    "id": 2682,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 191482,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 191483,
+        "company": {
+          "id": 1290,
+          "name": "TT Fusion"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 6404,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6406,
+        "company": {
+          "id": 411,
+          "name": "Robosoft Technologies"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 190225,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 266040,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "LEGO Star Wars: The Complete Saga",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-star-wars-the-complete-saga",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 107748,
+      "date": 1206576000,
+      "platform": 9
+    },
+    {
+      "id": 140730,
+      "date": 1194566400,
+      "platform": 5
+    },
+    {
+      "id": 31528,
+      "date": 1289865600,
+      "platform": 14
+    },
+    {
+      "id": 31534,
+      "date": 1194393600,
+      "platform": 12
+    },
+    {
+      "id": 31529,
+      "date": 1194307200,
+      "platform": 12
+    },
+    {
+      "id": 140731,
+      "date": 1206576000,
+      "platform": 5
+    },
+    {
+      "id": 31526,
+      "date": 1194307200,
+      "platform": 5
+    },
+    {
+      "id": 398118,
+      "date": 1420070400,
+      "platform": 34
+    },
+    {
+      "id": 31532,
+      "date": 1194393600,
+      "platform": 5
+    },
+    {
+      "id": 147587,
+      "date": 1386806400,
+      "platform": 39
+    }
+  ]
+}

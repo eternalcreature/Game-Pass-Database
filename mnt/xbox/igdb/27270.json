@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 27270,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 227892,
+        "company": {
+          "id": 34936,
+          "name": "Prime Matter"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 227893,
+        "company": {
+          "id": 280,
+          "name": "Starbreeze Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 294089,
+        "company": {
+          "id": 42785,
+          "name": "PLAION"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Payday 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/payday-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 482673,
+      "date": 1695254400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652227,
+      "date": 1694995200,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652228,
+      "date": 1695254400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652229,
+      "date": 1694995200,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652230,
+      "date": 1695254400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652231,
+      "date": 1694995200,
+      "platform": 169,
+      "status": 34
+    }
+  ]
+}

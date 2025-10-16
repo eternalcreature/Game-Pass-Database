@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 1886,
+    "game_engines": [
+      {
+        "id": 25,
+        "name": "CryEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29979,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 29978,
+        "company": {
+          "id": 3594,
+          "name": "Deep Silver Dambuster Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Homefront: The Revolution",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/homefront-the-revolution",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 43683,
+      "date": 1463702400,
+      "platform": 6
+    },
+    {
+      "id": 103572,
+      "date": 1463702400,
+      "platform": 48
+    },
+    {
+      "id": 43680,
+      "date": 1463443200,
+      "platform": 6
+    },
+    {
+      "id": 43679,
+      "date": 1463443200,
+      "platform": 49
+    },
+    {
+      "id": 103571,
+      "date": 1463443200,
+      "platform": 48
+    },
+    {
+      "id": 43682,
+      "date": 1463702400,
+      "platform": 49
+    }
+  ]
+}

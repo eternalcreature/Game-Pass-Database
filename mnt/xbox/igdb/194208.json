@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 194208,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165322,
+        "company": {
+          "id": 2438,
+          "name": "CyberConnect2"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 174248,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "JoJo’s Bizarre Adventure: All-Star Battle R",
+    "parent_game": 6517,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/jojos-bizarre-adventure-all-star-battle-r",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 730875,
+      "date": 1662076800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 730877,
+      "date": 1662076800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 730878,
+      "date": 1662076800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 730873,
+      "date": 1662076800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 730874,
+      "date": 1661990400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 730876,
+      "date": 1662076800,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

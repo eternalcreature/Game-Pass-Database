@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 122662,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 108646,
+        "company": {
+          "id": 21879,
+          "name": "Aggro Crab Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 108645,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Going Under",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/going-under",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 206944,
+      "date": 1600905600,
+      "platform": 130
+    },
+    {
+      "id": 211308,
+      "date": 1600905600,
+      "platform": 6
+    },
+    {
+      "id": 211309,
+      "date": 1600905600,
+      "platform": 49
+    },
+    {
+      "id": 211310,
+      "date": 1600905600,
+      "platform": 48
+    }
+  ]
+}

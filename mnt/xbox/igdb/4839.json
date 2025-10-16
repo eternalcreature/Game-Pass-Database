@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 4839,
+    "game_engines": [
+      {
+        "id": 17,
+        "name": "Havok Physics"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 52155,
+        "company": {
+          "id": 722,
+          "name": "343 Industries"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 52154,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 52156,
+        "company": {
+          "id": 2169,
+          "name": "Vanguard Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Halo: Spartan Assault",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-spartan-assault",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 93399,
+      "date": 1391126400,
+      "platform": 49
+    },
+    {
+      "id": 93400,
+      "date": 1391126400,
+      "platform": 49
+    },
+    {
+      "id": 93402,
+      "date": 1429142400,
+      "platform": 39
+    },
+    {
+      "id": 93397,
+      "date": 1391126400,
+      "platform": 12
+    },
+    {
+      "id": 93395,
+      "date": 1387756800,
+      "platform": 49
+    },
+    {
+      "id": 93396,
+      "date": 1374105600,
+      "platform": 6
+    },
+    {
+      "id": 93398,
+      "date": 1374105600,
+      "platform": 74
+    },
+    {
+      "id": 93401,
+      "date": 1404259200,
+      "platform": 49
+    }
+  ]
+}

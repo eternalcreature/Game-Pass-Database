@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 251471,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 255058,
+        "company": {
+          "id": 592,
+          "name": "Milestone"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hot Wheels Unleashed 2: Turbocharged",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hot-wheels-unleashed-2-turbocharged",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 567246,
+      "date": 1697328000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 567247,
+      "date": 1697328000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 567245,
+      "date": 1697328000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 567248,
+      "date": 1697328000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 567249,
+      "date": 1697328000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 480161,
+      "date": 1697673600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 279641,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 296405,
+        "company": {
+          "id": 51425,
+          "name": "Surgent Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 296407,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 296408,
+        "company": {
+          "id": 59778,
+          "name": "Turn Me Up Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Tales of Kenzera: Zau",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tales-of-kenzera-zau",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 542885,
+      "date": 1713830400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 542886,
+      "date": 1713830400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 542883,
+      "date": 1713830400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 542884,
+      "date": 1713830400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

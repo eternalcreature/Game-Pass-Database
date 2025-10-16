@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "1994-10-28",
-    "release_date": null,
+    "release_date": "2009-12-03",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -59,7 +59,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1994-10-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-06-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-09-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-09-10"
+        }
+      }
     }
   },
   "steam_store_meta": {}

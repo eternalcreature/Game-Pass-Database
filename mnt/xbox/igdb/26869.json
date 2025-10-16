@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 26869,
+    "game_engines": [
+      {
+        "id": 340,
+        "name": "GameMaker"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 288206,
+        "company": {
+          "id": 11146,
+          "name": "Ysbryd Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 288205,
+        "company": {
+          "id": 20226,
+          "name": "panstasz"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "World of Horror",
+    "player_perspectives": [
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/world-of-horror",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 486882,
+      "date": 1582156800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 481766,
+      "date": 1697673600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 481763,
+      "date": 1697673600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 486881,
+      "date": 1697673600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 481764,
+      "date": 1697673600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 486880,
+      "date": 1588636800,
+      "platform": 14,
+      "status": 3
+    }
+  ]
+}

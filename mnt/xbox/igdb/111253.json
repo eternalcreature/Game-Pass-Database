@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 111253,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129305,
+        "company": {
+          "id": 13473,
+          "name": "Devespresso Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129306,
+        "company": {
+          "id": 3010,
+          "name": "Headup Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Vambrace: Cold Soul",
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/vambrace-cold-soul",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 175051,
+      "date": 1567036800,
+      "platform": 48
+    },
+    {
+      "id": 175052,
+      "date": 1567036800,
+      "platform": 130
+    },
+    {
+      "id": 175050,
+      "date": 1567036800,
+      "platform": 49
+    },
+    {
+      "id": 168068,
+      "date": 1559001600,
+      "platform": 14
+    },
+    {
+      "id": 168069,
+      "date": 1559001600,
+      "platform": 6
+    },
+    {
+      "id": 406109,
+      "date": 1559001600,
+      "platform": 3
+    },
+    {
+      "id": 341606,
+      "date": 1566950400,
+      "platform": 49
+    }
+  ]
+}

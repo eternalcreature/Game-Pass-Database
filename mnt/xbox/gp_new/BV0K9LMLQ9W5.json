@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2013-07-18",
-    "release_date": null,
+    "release_date": "2013-12-23",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -89,7 +89,30 @@
       "player_perspectives": [
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Havok Physics"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-07-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-07-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-12-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-01-31"
+        }
+      }
     }
   },
   "steam_store_meta": {}

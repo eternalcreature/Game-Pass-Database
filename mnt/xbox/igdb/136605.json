@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 136605,
+    "game_engines": [
+      {
+        "id": 1325,
+        "name": "Taito Type-X2"
+      },
+      {
+        "id": 973,
+        "name": "Sega ALLS"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 248800,
+        "company": {
+          "id": 1218,
+          "name": "Arc System Works"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 235002,
+        "company": {
+          "id": 4091,
+          "name": "PQube"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "BlazBlue: Cross Tag Battle - Special Edition",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/blazblue-cross-tag-battle-special-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 555033,
+      "date": 1574294400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 555034,
+      "date": 1528070400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 555035,
+      "date": 1528070400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 555036,
+      "date": 1682553600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 555037,
+      "date": 1682553600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

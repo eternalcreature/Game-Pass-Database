@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 5615,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13555,
+        "company": {
+          "id": 2154,
+          "name": "Keen Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 17664,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sacred 3",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sacred-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 105369,
+      "date": 1406851200,
+      "platform": 9
+    },
+    {
+      "id": 13657,
+      "date": 1408665600,
+      "platform": 12
+    },
+    {
+      "id": 105368,
+      "date": 1407196800,
+      "platform": 9
+    },
+    {
+      "id": 13656,
+      "date": 1408665600,
+      "platform": 46
+    },
+    {
+      "id": 13655,
+      "date": 1408665600,
+      "platform": 9
+    },
+    {
+      "id": 13654,
+      "date": 1408665600,
+      "platform": 6
+    },
+    {
+      "id": 479289,
+      "date": 1407196800,
+      "platform": 49
+    }
+  ]
+}

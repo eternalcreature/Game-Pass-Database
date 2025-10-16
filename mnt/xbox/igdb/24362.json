@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 24362,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135357,
+        "company": {
+          "id": 5257,
+          "name": "Digerati Distribution"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 145137,
+        "company": {
+          "id": 9145,
+          "name": "Bacon Bandit Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Letter Quest Remastered: Grimm's Journey",
+    "parent_game": 17942,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/letter-quest-remastered-grimms-journey",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 60466,
+      "date": 1405987200,
+      "platform": 6
+    },
+    {
+      "id": 60468,
+      "date": 1473292800,
+      "platform": 41
+    },
+    {
+      "id": 60467,
+      "date": 1454371200,
+      "platform": 46
+    },
+    {
+      "id": 450236,
+      "date": 1511395200,
+      "platform": 130
+    },
+    {
+      "id": 140754,
+      "date": 1511395200,
+      "platform": 130
+    },
+    {
+      "id": 60469,
+      "date": 1460073600,
+      "platform": 49
+    },
+    {
+      "id": 146353,
+      "date": 1473292800,
+      "platform": 41
+    },
+    {
+      "id": 184887,
+      "date": 1454371200,
+      "platform": 48
+    },
+    {
+      "id": 146352,
+      "date": 1469664000,
+      "platform": 41
+    },
+    {
+      "id": 251062,
+      "date": 1511395200,
+      "platform": 130
+    }
+  ]
+}

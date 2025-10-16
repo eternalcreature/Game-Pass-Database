@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2020-08-14",
-    "release_date": null,
+    "release_date": "2020-08-14",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -79,7 +79,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Ignite Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-08-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-14"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

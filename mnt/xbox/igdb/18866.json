@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 18866,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      },
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167125,
+        "company": {
+          "id": 1260,
+          "name": "Behaviour Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 282033,
+        "company": {
+          "id": 12898,
+          "name": "Starbreeze Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dead by Daylight",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-by-daylight",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 630710,
+      "date": 1601510400,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 630716,
+      "date": 1605139200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 630713,
+      "date": 1497916800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 630720,
+      "date": 1497916800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 630718,
+      "date": 1498089600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 630721,
+      "date": 1604966400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 630715,
+      "date": 1498089600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 630719,
+      "date": 1498176000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 630711,
+      "date": 1569283200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 630712,
+      "date": 1465862400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

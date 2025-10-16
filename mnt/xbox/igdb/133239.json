@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 133239,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 209308,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 209309,
+        "company": {
+          "id": 31077,
+          "name": "Nikko Nikko"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Infinite Guitars",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/infinite-guitars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 464168,
+      "date": 1680134400,
+      "platform": 6
+    },
+    {
+      "id": 464170,
+      "date": 1680134400,
+      "platform": 49
+    },
+    {
+      "id": 464352,
+      "date": 1680134400,
+      "platform": 130
+    }
+  ]
+}

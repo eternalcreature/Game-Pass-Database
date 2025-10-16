@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 83848,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 77275,
+        "company": {
+          "id": 4642,
+          "name": "Camel 101"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Those Who Remain",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/those-who-remain",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 195282,
+      "date": 1590624000,
+      "platform": 49
+    },
+    {
+      "id": 195283,
+      "date": 1590624000,
+      "platform": 130
+    },
+    {
+      "id": 195284,
+      "date": 1590624000,
+      "platform": 48
+    },
+    {
+      "id": 195285,
+      "date": 1590624000,
+      "platform": 6
+    },
+    {
+      "id": 774669,
+      "date": 1656633600,
+      "platform": 170,
+      "status": 6
+    }
+  ]
+}

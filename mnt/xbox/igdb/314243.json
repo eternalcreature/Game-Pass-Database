@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 314243,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 282906,
+        "company": {
+          "id": 55393,
+          "name": "Raccoon Logic"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Revenge of the Savage Planet",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/revenge-of-the-savage-planet",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 708721,
+      "date": 1746662400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 708722,
+      "date": 1746662400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 708723,
+      "date": 1746662400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 716737,
+      "date": 1746403200,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 716738,
+      "date": 1746403200,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 716739,
+      "date": 1746403200,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 755437,
+      "date": 1748476800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

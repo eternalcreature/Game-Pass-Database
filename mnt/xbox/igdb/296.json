@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 296,
+    "game_engines": [
+      {
+        "id": 308,
+        "name": "Cryengine 2"
+      },
+      {
+        "id": 482,
+        "name": "CryEngine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4359,
+        "company": {
+          "id": 122,
+          "name": "Crytek Frankfurt"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 4360,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Crysis",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crysis",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 225758,
+      "date": 1317686400,
+      "platform": 12
+    },
+    {
+      "id": 51972,
+      "date": 1317772800,
+      "platform": 9
+    },
+    {
+      "id": 51971,
+      "date": 1317686400,
+      "platform": 9
+    },
+    {
+      "id": 51967,
+      "date": 1194912000,
+      "platform": 6
+    },
+    {
+      "id": 51968,
+      "date": 1195084800,
+      "platform": 6
+    },
+    {
+      "id": 51969,
+      "date": 1195171200,
+      "platform": 6
+    }
+  ]
+}

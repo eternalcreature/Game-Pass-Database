@@ -12,8 +12,8 @@
         "9P6FTM76L1S7"
       ]
     ],
-    "original_release_date": "2013-02-22",
-    "release_date": null,
+    "original_release_date": "2013-01-07",
+    "release_date": "2020-01-28",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -88,15 +88,37 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity 2022"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-01-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-01-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 5614,
-      "name": "Kentucky Route Zero",
-      "url": "https://www.igdb.com/games/kentucky-route-zero",
+      "id": 55198,
+      "name": "Kentucky Route Zero: TV Edition",
+      "url": "https://www.igdb.com/games/kentucky-route-zero-tv-edition",
       "publishers": [
-        "Cardboard Computer",
-        "Netflix"
+        "Annapurna Interactive"
       ],
       "developers": [
         "Cardboard Computer"
@@ -108,14 +130,38 @@
       ],
       "themes": [
         "Thriller",
-        "Drama"
+        "Drama",
+        "Mystery"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2020-01-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-01-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-01-28"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,156 @@
+{
+  "general": {
+    "id": 4848,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56296,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 56297,
+        "company": {
+          "id": 2173,
+          "name": "Press Play"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 56299,
+        "company": {
+          "id": 13700,
+          "name": "Flashbulb Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 56298,
+        "company": {
+          "id": 13699,
+          "name": "Wired Productions"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58277,
+        "company": {
+          "id": 13899,
+          "name": "Stage Clear Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58443,
+        "company": {
+          "id": 13899,
+          "name": "Stage Clear Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 129990,
+        "company": {
+          "id": 13899,
+          "name": "Stage Clear Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129992,
+        "company": {
+          "id": 13700,
+          "name": "Flashbulb Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Max: The Curse of Brotherhood",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/max-the-curse-of-brotherhood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 124350,
+      "date": 1400630400,
+      "platform": 6
+    },
+    {
+      "id": 136139,
+      "date": 1387497600,
+      "platform": 49
+    },
+    {
+      "id": 124351,
+      "date": 1400630400,
+      "platform": 12
+    },
+    {
+      "id": 545681,
+      "date": 1513814400,
+      "platform": 130
+    },
+    {
+      "id": 124352,
+      "date": 1510099200,
+      "platform": 48
+    },
+    {
+      "id": 124348,
+      "date": 1387497600,
+      "platform": 49
+    },
+    {
+      "id": 124349,
+      "date": 1407196800,
+      "platform": 49
+    },
+    {
+      "id": 135037,
+      "date": 1510272000,
+      "platform": 48
+    }
+  ]
+}

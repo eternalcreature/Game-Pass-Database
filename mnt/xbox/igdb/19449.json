@@ -1,0 +1,151 @@
+{
+  "general": {
+    "id": 19449,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56656,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 51118,
+        "company": {
+          "id": 396,
+          "name": "Dimps"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 51117,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dragon Ball: Xenoverse 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dragon-ball-xenoverse-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 102658,
+      "date": 1477612800,
+      "platform": 48
+    },
+    {
+      "id": 102659,
+      "date": 1477353600,
+      "platform": 48
+    },
+    {
+      "id": 56353,
+      "date": 1477612800,
+      "platform": 49
+    },
+    {
+      "id": 56351,
+      "date": 1478044800,
+      "platform": 48
+    },
+    {
+      "id": 92916,
+      "date": 1506038400,
+      "platform": 130
+    },
+    {
+      "id": 334060,
+      "date": 1506038400,
+      "platform": 130
+    },
+    {
+      "id": 599898,
+      "date": 1716508800,
+      "platform": 167
+    },
+    {
+      "id": 599899,
+      "date": 1716508800,
+      "platform": 169
+    },
+    {
+      "id": 402256,
+      "date": 1477526400,
+      "platform": 6
+    },
+    {
+      "id": 85454,
+      "date": 1504742400,
+      "platform": 130
+    }
+  ]
+}

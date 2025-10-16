@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": 121618,
+    "base_id": 3146,
     "specific_id": 121618,
-    "title": "Plants vs. Zombies: Battle for Neighborville",
+    "title": "Plants vs. Zombies Garden Warfare",
     "store_title": "Plants vs. Zombies: Battle for Neighborville\u2122",
     "pid": "C4HZC7LJG6PX",
     "alternate_xbox_id": null,
@@ -19,8 +19,8 @@
         "C4RR6ST0P1X7"
       ]
     ],
-    "original_release_date": "2019-10-18",
-    "release_date": null,
+    "original_release_date": "2014-02-18",
+    "release_date": "2019-10-18",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -64,6 +64,58 @@
   },
   "igdb_meta": {
     "main": {
+      "id": 3146,
+      "name": "Plants vs. Zombies: Garden Warfare",
+      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2e561d33-2b92-408a-92f2-ec79ddcc6c2b",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "developers": [
+        "PopCap Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Tactical",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Comedy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-02-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        }
+      }
+    },
+    "specific": {
       "id": 121618,
       "name": "Plants vs. Zombies: Battle for Neighborville",
       "url": "https://www.igdb.com/games/plants-vs-zombies-battle-for-neighborville",
@@ -91,7 +143,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-10-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-10-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-10-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

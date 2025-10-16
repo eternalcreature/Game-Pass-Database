@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 252781,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219129,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 312896,
+        "company": {
+          "id": 62542,
+          "name": "Bontemps Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "While the Iron’s Hot",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/while-the-irons-hot",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 540662,
+      "date": 1701734400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 540663,
+      "date": 1701734400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 543725,
+      "date": 1701734400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 543726,
+      "date": 1701734400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 543727,
+      "date": 1699488000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 543728,
+      "date": 1699488000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

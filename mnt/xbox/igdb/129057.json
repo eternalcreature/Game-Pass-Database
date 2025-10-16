@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 129057,
+    "game_engines": [
+      {
+        "id": 603,
+        "name": "Unity3D"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 139246,
+        "company": {
+          "id": 16758,
+          "name": "Unbound Creations LLC"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Rain on Your Parade",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rain-on-your-parade",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 627688,
+      "date": 1618444800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 627686,
+      "date": 1618444800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 627684,
+      "date": 1618444800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 627685,
+      "date": 1618444800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 627687,
+      "date": 1618444800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 627689,
+      "date": 1618444800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

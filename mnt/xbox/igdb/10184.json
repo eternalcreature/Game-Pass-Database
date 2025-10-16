@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 10184,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 24442,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 133798,
+        "company": {
+          "id": 150,
+          "name": "Hidden Path Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133799,
+        "company": {
+          "id": 150,
+          "name": "Hidden Path Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Defense Grid 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/defense-grid-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 504651,
+      "date": 1411430400,
+      "platform": 385
+    },
+    {
+      "id": 30941,
+      "date": 1411430400,
+      "platform": 48
+    },
+    {
+      "id": 30939,
+      "date": 1411430400,
+      "platform": 14
+    },
+    {
+      "id": 229646,
+      "date": 1412121600,
+      "platform": 48
+    },
+    {
+      "id": 30942,
+      "date": 1411430400,
+      "platform": 49
+    },
+    {
+      "id": 135959,
+      "date": 1411516800,
+      "platform": 49
+    },
+    {
+      "id": 30938,
+      "date": 1411430400,
+      "platform": 3
+    },
+    {
+      "id": 30940,
+      "date": 1411430400,
+      "platform": 6
+    },
+    {
+      "id": 165115,
+      "date": 1549497600,
+      "platform": 130
+    }
+  ]
+}

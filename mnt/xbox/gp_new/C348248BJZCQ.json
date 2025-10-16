@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2017-10-19",
-    "release_date": null,
+    "release_date": "2018-07-10",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -69,7 +69,30 @@
         "Third person",
         "Bird view / Isometric",
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-10-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-10-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-07-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

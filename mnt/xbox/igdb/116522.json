@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 116522,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 215572,
+        "company": {
+          "id": 21254,
+          "name": "Moonlight Kids"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 215573,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Wild at Heart",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-wild-at-heart",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 337964,
+      "date": 1637020800,
+      "platform": 130
+    },
+    {
+      "id": 235557,
+      "date": 1621468800,
+      "platform": 49
+    },
+    {
+      "id": 235558,
+      "date": 1621468800,
+      "platform": 169
+    },
+    {
+      "id": 412702,
+      "date": 1621382400,
+      "platform": 6
+    },
+    {
+      "id": 412703,
+      "date": 1621382400,
+      "platform": 14
+    },
+    {
+      "id": 310849,
+      "date": 1640908800,
+      "platform": 48
+    },
+    {
+      "id": 324533,
+      "date": 1637020800,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 219126,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 263163,
+        "company": {
+          "id": 43592,
+          "name": "Deep Field Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 263164,
+        "company": {
+          "id": 15299,
+          "name": "Playstack"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Abiotic Factor",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/abiotic-factor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 761640,
+      "date": 1753142400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 761642,
+      "date": 1753142400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 761641,
+      "date": 1753142400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 702833,
+      "date": 1714608000,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

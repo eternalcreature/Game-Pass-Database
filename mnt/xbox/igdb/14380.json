@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 14380,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129713,
+        "company": {
+          "id": 4774,
+          "name": "Chainsawesome Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129715,
+        "company": {
+          "id": 4774,
+          "name": "Chainsawesome Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Knight Squad",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/knight-squad",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 420602,
+      "date": 1447632000,
+      "platform": 14
+    },
+    {
+      "id": 420603,
+      "date": 1447632000,
+      "platform": 3
+    },
+    {
+      "id": 203388,
+      "date": 1591315200,
+      "platform": 130
+    },
+    {
+      "id": 40655,
+      "date": 1447632000,
+      "platform": 6
+    },
+    {
+      "id": 119354,
+      "date": 1447632000,
+      "platform": 49
+    }
+  ]
+}

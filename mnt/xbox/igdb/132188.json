@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 132188,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 252549,
+        "company": {
+          "id": 25028,
+          "name": "Un Je Ne Sais Quoi"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 252550,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 279014,
+        "company": {
+          "id": 56762,
+          "name": "Umanimation"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dordogne",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dordogne",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 474578,
+      "date": 1686614400,
+      "platform": 48
+    },
+    {
+      "id": 474576,
+      "date": 1686614400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 476000,
+      "date": 1686614400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 563190,
+      "date": 1686614400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 492539,
+      "date": 1686614400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 492540,
+      "date": 1686614400,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

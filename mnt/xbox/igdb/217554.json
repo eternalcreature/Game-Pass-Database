@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 217554,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 336122,
+        "company": {
+          "id": 1383,
+          "name": "ACQUIRE Corp."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 336124,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 336125,
+        "company": {
+          "id": 52310,
+          "name": "Square Enix Creative Business Unit II"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Octopath Traveler II",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/octopath-traveler-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 603829,
+      "date": 1677196800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 603827,
+      "date": 1677196800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 603830,
+      "date": 1717545600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 603826,
+      "date": 1677196800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 603831,
+      "date": 1717545600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 603828,
+      "date": 1677196800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

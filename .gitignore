@@ -20,8 +20,8 @@ __pychache__
 !models.py
 !mnt/xbox/basic_data.csv
 
-# Whitelist contents of directories
 !mnt/xbox/**
+!mnt/xbox/store_meta/**
 !templates_json/**
 !templates_sql/**
 !utils/*.py

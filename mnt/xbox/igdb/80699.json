@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 80699,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 285083,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 285084,
+        "company": {
+          "id": 781,
+          "name": "M2"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 285085,
+        "company": {
+          "id": 1802,
+          "name": "Westone"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Sega Vintage Collection: Monster World",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sega-vintage-collection-monster-world",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 376664,
+      "date": 1337731200,
+      "platform": 12
+    },
+    {
+      "id": 376665,
+      "date": 1357603200,
+      "platform": 9
+    }
+  ]
+}

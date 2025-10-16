@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 217597,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 187014,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 278068,
+        "company": {
+          "id": 19080,
+          "name": "Ryu Ga Gotoku Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Like a Dragon: Ishin!",
+    "parent_game": 12736,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/like-a-dragon-ishin",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 652257,
+      "date": 1676592000,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 652251,
+      "date": 1676592000,
+      "platform": 48,
+      "status": 34
+    },
+    {
+      "id": 652252,
+      "date": 1676937600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652253,
+      "date": 1676592000,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652254,
+      "date": 1676937600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 652255,
+      "date": 1676592000,
+      "platform": 49,
+      "status": 34
+    },
+    {
+      "id": 652256,
+      "date": 1676937600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652248,
+      "date": 1676937600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652249,
+      "date": 1676592000,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652250,
+      "date": 1676937600,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

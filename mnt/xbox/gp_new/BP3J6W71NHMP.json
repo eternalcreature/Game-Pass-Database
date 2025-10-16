@@ -12,8 +12,8 @@
         "BP3J6W71NHMP"
       ]
     ],
-    "original_release_date": "2014-09-02",
-    "release_date": null,
+    "original_release_date": "2013-04-23",
+    "release_date": "2016-08-02",
     "platforms": [
       "PC",
       "XboxOne",
@@ -66,37 +66,60 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-04-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-04-23"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-08-26"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 3152,
-      "name": "Don't Starve",
-      "url": "https://www.igdb.com/games/don-t-starve",
-      "publishers": [
-        "Klei Entertainment"
-      ],
-      "developers": [
-        "Klei Entertainment"
-      ],
-      "genres": [
-        "Simulator",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Action",
-        "Fantasy",
-        "Horror",
-        "Survival",
-        "Sandbox",
-        "Open world"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
+      "id": 164840,
+      "name": "Don't Starve: Giant Edition + Shipwrecked Expansion",
+      "url": "https://www.igdb.com/games/dont-starve-giant-edition-plus-shipwrecked-expansion",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2016-08-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-08-02"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

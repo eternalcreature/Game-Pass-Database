@@ -12,8 +12,8 @@
         "9NLLTTJZH40L"
       ]
     ],
-    "original_release_date": "2023-08-29",
-    "release_date": null,
+    "original_release_date": "2011-11-17",
+    "release_date": "2023-08-29",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -82,26 +82,80 @@
       "game_modes": [],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2011-11-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 59626,
-      "name": "Sea Stars",
-      "url": "https://www.igdb.com/games/sea-stars",
+      "id": 131890,
+      "name": "Sea of Stars",
+      "url": "https://www.igdb.com/games/sea-of-stars",
       "publishers": [
-        "Hothead Games"
+        "Sabotage"
       ],
       "developers": [
-        "Hothead Games"
+        "Sabotage"
       ],
       "genres": [
-        "Arcade"
+        "Role-playing (RPG)",
+        "Turn-based strategy (TBS)",
+        "Adventure",
+        "Indie"
       ],
-      "themes": [],
-      "game_modes": [],
+      "themes": [
+        "Fantasy",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
       "player_perspectives": [
-        "Side view"
-      ]
+        "Bird view / Isometric"
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-08-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-08-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-08-29"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-08-29"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

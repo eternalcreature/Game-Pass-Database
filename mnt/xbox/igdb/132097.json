@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 132097,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 95979,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 95978,
+        "company": {
+          "id": 3634,
+          "name": "Sperasoft"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 231047,
+        "company": {
+          "id": 7462,
+          "name": "Volition"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Saints Row: The Third Remastered",
+    "parent_game": 873,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/saints-row-the-third-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 774880,
+      "platform": 170
+    },
+    {
+      "id": 416965,
+      "date": 1590105600,
+      "platform": 6
+    },
+    {
+      "id": 246047,
+      "date": 1621900800,
+      "platform": 167
+    },
+    {
+      "id": 192780,
+      "date": 1590105600,
+      "platform": 49
+    },
+    {
+      "id": 192779,
+      "date": 1590105600,
+      "platform": 48
+    },
+    {
+      "id": 246048,
+      "date": 1621900800,
+      "platform": 169
+    }
+  ]
+}

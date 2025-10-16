@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 145838,
+    "game_engines": [
+      {
+        "id": 99,
+        "name": "Ego Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 158990,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 171167,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "F1 2021",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/f1-2021",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 252267,
+      "date": 1626393600,
+      "platform": 49
+    },
+    {
+      "id": 252268,
+      "date": 1626393600,
+      "platform": 6
+    },
+    {
+      "id": 252270,
+      "date": 1626393600,
+      "platform": 167
+    },
+    {
+      "id": 252266,
+      "date": 1626393600,
+      "platform": 48
+    },
+    {
+      "id": 252269,
+      "date": 1626393600,
+      "platform": 169
+    }
+  ]
+}

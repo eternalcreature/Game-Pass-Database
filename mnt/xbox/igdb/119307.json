@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 119307,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      },
+      {
+        "id": 35,
+        "name": "Northlight Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 158805,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 158807,
+        "company": {
+          "id": 5220,
+          "name": "Smilegate"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "CrossfireX",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crossfirex",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 617997,
+      "date": 1644451200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 618000,
+      "date": 1684368000,
+      "platform": 169,
+      "status": 4
+    },
+    {
+      "id": 617998,
+      "date": 1684368000,
+      "platform": 49,
+      "status": 4
+    },
+    {
+      "id": 617999,
+      "date": 1644451200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

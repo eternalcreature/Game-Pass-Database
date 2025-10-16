@@ -12,8 +12,8 @@
         "9N3L5FF8M6SW"
       ]
     ],
-    "original_release_date": "2018-11-27",
-    "release_date": null,
+    "original_release_date": "2019-05-15",
+    "release_date": "2020-12-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -75,7 +75,28 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "standalone_expansion",
+      "release_dates": {
+        "release_date": "2019-05-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-05-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-21"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

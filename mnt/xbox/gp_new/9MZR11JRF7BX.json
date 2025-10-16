@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2010-10-19",
-    "release_date": null,
+    "release_date": "2021-06-13",
     "platforms": [
       "PC"
     ]
@@ -85,15 +85,36 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Gamebryo"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2010-10-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-10-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-10-19"
+        }
+      }
     },
     "specific": {
-      "id": 16,
-      "name": "Fallout: New Vegas",
-      "url": "https://www.igdb.com/games/fallout-new-vegas",
+      "id": 25532,
+      "name": "Fallout: New Vegas - Ultimate Edition",
+      "url": "https://www.igdb.com/games/fallout-new-vegas-ultimate-edition",
       "publishers": [
-        "1C/Cenega",
-        "Bandai Namco Entertainment",
         "Bethesda Softworks"
       ],
       "developers": [
@@ -107,8 +128,6 @@
         "Action",
         "Science fiction",
         "Survival",
-        "Stealth",
-        "Sandbox",
         "Open world"
       ],
       "game_modes": [
@@ -117,7 +136,28 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2012-02-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-02-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-02-07"
+        }
+      }
     }
   },
   "steam_store_meta": {}

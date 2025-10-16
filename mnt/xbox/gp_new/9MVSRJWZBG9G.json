@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "1997-11-30",
-    "release_date": null,
+    "release_date": "2022-08-18",
     "platforms": [
       "PC"
     ]
@@ -78,7 +78,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "XnGine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1997-11-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-04-26"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

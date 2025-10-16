@@ -1,0 +1,173 @@
+{
+  "general": {
+    "id": 2637,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 62250,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 44809,
+        "company": {
+          "id": 1303,
+          "name": "Blue Tongue Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 56294,
+        "company": {
+          "id": 390,
+          "name": "THQ Wireless"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 56293,
+        "company": {
+          "id": 389,
+          "name": "Universomo"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 6301,
+        "company": {
+          "id": 197,
+          "name": "THQ"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 62249,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 44811,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "de Blob",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/de-blob",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 135208,
+      "date": 1510617600,
+      "platform": 48
+    },
+    {
+      "id": 124343,
+      "date": 1222387200,
+      "platform": 5
+    },
+    {
+      "id": 249588,
+      "date": 1529971200,
+      "platform": 130
+    },
+    {
+      "id": 124346,
+      "date": 1510617600,
+      "platform": 48
+    },
+    {
+      "id": 124340,
+      "date": 1215475200,
+      "platform": 39
+    },
+    {
+      "id": 124342,
+      "date": 1222300800,
+      "platform": 5
+    },
+    {
+      "id": 153450,
+      "date": 1529971200,
+      "platform": 130
+    },
+    {
+      "id": 124341,
+      "date": 1222041600,
+      "platform": 5
+    },
+    {
+      "id": 135209,
+      "date": 1510876800,
+      "platform": 48
+    },
+    {
+      "id": 124347,
+      "date": 1510617600,
+      "platform": 49
+    }
+  ]
+}

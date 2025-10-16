@@ -1,0 +1,52 @@
+{
+  "general": {
+    "id": 20409,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dead Rising 2: Case Zero",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-rising-2-case-zero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 196976,
+      "date": 1283212800,
+      "platform": 12
+    },
+    {
+      "id": 196975,
+      "date": 1283212800,
+      "platform": 12
+    }
+  ]
+}

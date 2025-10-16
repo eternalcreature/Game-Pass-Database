@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 187506,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 187902,
+        "company": {
+          "id": 7097,
+          "name": "Thunder Lotus"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Spiritfarer: Farewell Edition",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spiritfarer-farewell-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 373202,
+      "date": 1639353600,
+      "platform": 49
+    },
+    {
+      "id": 373203,
+      "date": 1639353600,
+      "platform": 48
+    },
+    {
+      "id": 373204,
+      "date": 1639353600,
+      "platform": 170
+    },
+    {
+      "id": 338562,
+      "date": 1639353600,
+      "platform": 6
+    },
+    {
+      "id": 373201,
+      "date": 1639353600,
+      "platform": 130
+    }
+  ]
+}

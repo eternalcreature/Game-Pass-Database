@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 7386,
+    "game_engines": [
+      {
+        "id": 23,
+        "name": "Serious Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69437,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 69438,
+        "company": {
+          "id": 414,
+          "name": "Croteam"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Talos Principle",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-talos-principle",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 28123,
+      "date": 1418256000,
+      "platform": 3
+    },
+    {
+      "id": 157998,
+      "date": 1536019200,
+      "platform": 49
+    },
+    {
+      "id": 157995,
+      "date": 1432771200,
+      "platform": 34
+    },
+    {
+      "id": 375815,
+      "date": 1575936000,
+      "platform": 130
+    },
+    {
+      "id": 28120,
+      "date": 1418256000,
+      "platform": 14
+    },
+    {
+      "id": 121299,
+      "date": 1418256000,
+      "platform": 6
+    },
+    {
+      "id": 28121,
+      "date": 1418256000,
+      "platform": 6
+    },
+    {
+      "id": 157997,
+      "date": 1444694400,
+      "platform": 48
+    },
+    {
+      "id": 157996,
+      "date": 1507680000,
+      "platform": 39
+    },
+    {
+      "id": 304271,
+      "date": 1535673600,
+      "platform": 49
+    }
+  ]
+}

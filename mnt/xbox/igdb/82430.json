@@ -1,0 +1,55 @@
+{
+  "general": {
+    "id": 82430,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 201755,
+        "company": {
+          "id": 1224,
+          "name": "Introversion Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 201756,
+        "company": {
+          "id": 748,
+          "name": "Double Eleven"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 201757,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Prison Architect: Xbox One Edition",
+    "parent_game": 1338,
+    "url": "https://www.igdb.com/games/prison-architect-xbox-one-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 441616,
+      "date": 1467331200,
+      "platform": 49
+    }
+  ]
+}

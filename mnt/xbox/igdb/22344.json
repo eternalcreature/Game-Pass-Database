@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 22344,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38210,
+        "company": {
+          "id": 4355,
+          "name": "Skybox Labs"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 38209,
+        "company": {
+          "id": 579,
+          "name": "Big Huge Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 38208,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rise of Nations: Extended Edition",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rise-of-nations-extended-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 54754,
+      "date": 1402531200,
+      "platform": 6
+    }
+  ]
+}

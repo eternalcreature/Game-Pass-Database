@@ -1,0 +1,69 @@
+{
+  "general": {
+    "id": 114286,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78817,
+        "company": {
+          "id": 555,
+          "name": "EA Orlando"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 78818,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Madden NFL 20",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/madden-nfl-20",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 169442,
+      "date": 1564704000,
+      "platform": 6
+    },
+    {
+      "id": 169444,
+      "date": 1564704000,
+      "platform": 48
+    },
+    {
+      "id": 169443,
+      "date": 1564704000,
+      "platform": 49
+    }
+  ]
+}

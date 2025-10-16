@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 279636,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 270242,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 270243,
+        "company": {
+          "id": 52311,
+          "name": "Square Enix Creative Business Unit IV"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Visions of Mana",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/visions-of-mana",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652314,
+      "date": 1724889600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652315,
+      "date": 1724803200,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652319,
+      "date": 1724803200,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652321,
+      "date": 1724803200,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 652317,
+      "date": 1724803200,
+      "platform": 48,
+      "status": 34
+    },
+    {
+      "id": 652316,
+      "date": 1724889600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 652318,
+      "date": 1724889600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652320,
+      "date": 1724889600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

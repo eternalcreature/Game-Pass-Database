@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 204418,
+    "game_engines": [
+      {
+        "id": 1182,
+        "name": "GameMaker Studio"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 195821,
+        "company": {
+          "id": 43984,
+          "name": "Cheesemaster Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 195822,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Spirittea",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spirittea",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 531177,
+      "date": 1699833600,
+      "platform": 130
+    },
+    {
+      "id": 534396,
+      "date": 1699833600,
+      "platform": 6
+    },
+    {
+      "id": 538518,
+      "date": 1699833600,
+      "platform": 169
+    },
+    {
+      "id": 538517,
+      "date": 1699833600,
+      "platform": 49
+    }
+  ]
+}

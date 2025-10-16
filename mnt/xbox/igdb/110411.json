@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 110411,
+    "game_engines": [
+      {
+        "id": 1106,
+        "name": "Ego Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 70775,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dirt Rally 2.0",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dirt-rally-2-dot-0",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 410259,
+      "date": 1551052800,
+      "platform": 6
+    },
+    {
+      "id": 163792,
+      "date": 1551139200,
+      "platform": 48
+    },
+    {
+      "id": 399795,
+      "date": 1565222400,
+      "platform": 163
+    },
+    {
+      "id": 399796,
+      "date": 1565222400,
+      "platform": 162
+    },
+    {
+      "id": 163793,
+      "date": 1551139200,
+      "platform": 49
+    }
+  ]
+}

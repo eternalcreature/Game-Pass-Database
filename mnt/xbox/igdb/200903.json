@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 200903,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265282,
+        "company": {
+          "id": 21879,
+          "name": "Aggro Crab Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Another Crab's Treasure",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/another-crabs-treasure",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 566430,
+      "date": 1714003200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 566431,
+      "date": 1714003200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 566432,
+      "date": 1714003200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 566517,
+      "date": 1714003200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 589972,
+      "date": 1714003200,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

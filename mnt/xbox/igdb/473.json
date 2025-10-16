@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 473,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 339,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 338,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Battlefield: Bad Company",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-bad-company",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 424258,
+      "date": 1214179200,
+      "platform": 12
+    },
+    {
+      "id": 424259,
+      "date": 1214179200,
+      "platform": 9
+    },
+    {
+      "id": 424260,
+      "date": 1214438400,
+      "platform": 9
+    }
+  ]
+}

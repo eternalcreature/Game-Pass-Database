@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2024-11-20",
-    "release_date": null,
+    "release_date": "2024-11-20",
     "platforms": [
       "PC"
     ]
@@ -88,12 +88,35 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 5"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2024-11-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-20"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 101440,
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "url": "https://www.igdb.com/games/stalker-2-heart-of-chornobyl",
+      "id": 169175,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition",
+      "url": "https://www.igdb.com/games/stalker-2-heart-of-chornobyl-deluxe-edition",
       "publishers": [
         "GSC Game World"
       ],
@@ -112,11 +135,35 @@
         "Open world"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer"
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 5"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2024-11-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-20"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

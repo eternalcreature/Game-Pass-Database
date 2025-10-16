@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 80010,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135464,
+        "company": {
+          "id": 2238,
+          "name": "EastAsiaSoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 244831,
+        "company": {
+          "id": 10849,
+          "name": "Bitmap Bureau"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Xeno Crisis",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/xeno-crisis",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 624551,
+      "date": 1600214400,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 624559,
+      "date": 1680307200,
+      "platform": 21,
+      "status": 6
+    },
+    {
+      "id": 624543,
+      "date": 1572220800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 624544,
+      "date": 1572220800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 624546,
+      "date": 1572220800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 624547,
+      "date": 1600214400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 624548,
+      "date": 1574899200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 624549,
+      "date": 1600214400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 624550,
+      "date": 1574899200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 624552,
+      "date": 1600214400,
+      "platform": 46,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 20586,
+    "game_engines": [
+      {
+        "id": 350,
+        "name": "Taito Type X"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 106726,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 106727,
+        "company": {
+          "id": 396,
+          "name": "Dimps"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 106728,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Super Street Fighter IV: Arcade Edition",
+    "parent_game": 7198,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/super-street-fighter-iv-arcade-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 208183,
+      "date": 1309824000,
+      "platform": 6
+    },
+    {
+      "id": 208189,
+      "date": 1307404800,
+      "platform": 12
+    },
+    {
+      "id": 208181,
+      "date": 1307404800,
+      "platform": 9
+    },
+    {
+      "id": 208182,
+      "date": 1307404800,
+      "platform": 12
+    },
+    {
+      "id": 208184,
+      "date": 1307404800,
+      "platform": 9
+    },
+    {
+      "id": 208188,
+      "date": 1295049600,
+      "platform": 52
+    },
+    {
+      "id": 208185,
+      "date": 1307404800,
+      "platform": 9
+    },
+    {
+      "id": 208190,
+      "date": 1307404800,
+      "platform": 12
+    },
+    {
+      "id": 208186,
+      "date": 1292457600,
+      "platform": 52
+    },
+    {
+      "id": 208187,
+      "date": 1292457600,
+      "platform": 52
+    }
+  ]
+}

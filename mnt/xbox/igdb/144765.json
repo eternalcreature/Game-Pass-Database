@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 144765,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 142289,
+        "company": {
+          "id": 12931,
+          "name": "Deck Nine"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 142290,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Life is Strange: True Colors",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/life-is-strange-true-colors",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 314540,
+      "date": 1633046400,
+      "platform": 130
+    },
+    {
+      "id": 234427,
+      "date": 1631232000,
+      "platform": 167
+    },
+    {
+      "id": 326508,
+      "date": 1631232000,
+      "platform": 130
+    },
+    {
+      "id": 314542,
+      "date": 1633046400,
+      "platform": 169
+    },
+    {
+      "id": 314543,
+      "date": 1633046400,
+      "platform": 6
+    },
+    {
+      "id": 314539,
+      "date": 1633046400,
+      "platform": 167
+    },
+    {
+      "id": 314541,
+      "date": 1633046400,
+      "platform": 49
+    },
+    {
+      "id": 314538,
+      "date": 1633046400,
+      "platform": 48
+    },
+    {
+      "id": 239754,
+      "date": 1631232000,
+      "platform": 170
+    },
+    {
+      "id": 234428,
+      "date": 1631232000,
+      "platform": 48
+    }
+  ]
+}

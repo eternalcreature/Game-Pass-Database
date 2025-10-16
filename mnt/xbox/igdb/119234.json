@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 119234,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 163650,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Zombie Army 4: Dead War",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/zombie-army-4-dead-war",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 187839,
+      "date": 1580774400,
+      "platform": 48
+    },
+    {
+      "id": 421995,
+      "date": 1580774400,
+      "platform": 6
+    },
+    {
+      "id": 187838,
+      "date": 1580774400,
+      "platform": 49
+    },
+    {
+      "id": 239629,
+      "date": 1588291200,
+      "platform": 170
+    },
+    {
+      "id": 343844,
+      "date": 1650931200,
+      "platform": 130
+    }
+  ]
+}

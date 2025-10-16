@@ -16,7 +16,7 @@
       ]
     ],
     "original_release_date": "2024-11-19",
-    "release_date": null,
+    "release_date": "2024-11-19",
     "platforms": [
       "XboxSeriesX",
       "PC",
@@ -84,7 +84,30 @@
         "First person",
         "Third person",
         "Virtual Reality"
-      ]
+      ],
+      "engine": [
+        "Ftech X"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2024-11-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-11-19"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

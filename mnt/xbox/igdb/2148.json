@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 2148,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4472,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 4474,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 224681,
+        "company": {
+          "id": 812,
+          "name": "Gradiente"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Banjo-Kazooie",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/banjo-kazooie",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 541494,
+      "date": 900633600,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 592109,
+      "date": 915062400,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 541491,
+      "date": 912902400,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 541492,
+      "date": 901238400,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 541493,
+      "date": 899078400,
+      "platform": 4,
+      "status": 6
+    },
+    {
+      "id": 541490,
+      "date": 915062400,
+      "platform": 4,
+      "status": 6
+    }
+  ]
+}

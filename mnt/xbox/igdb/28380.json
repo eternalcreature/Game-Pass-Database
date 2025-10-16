@@ -1,0 +1,209 @@
+{
+  "general": {
+    "id": 28380,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 46407,
+        "company": {
+          "id": 10809,
+          "name": "Gunfire Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 46406,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265799,
+        "company": {
+          "id": 27855,
+          "name": "Dagger Crown Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265800,
+        "company": {
+          "id": 27856,
+          "name": "Omnon! Workshop"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265801,
+        "company": {
+          "id": 27857,
+          "name": "FXVILLE, Inc"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265802,
+        "company": {
+          "id": 3681,
+          "name": "CGBot"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265803,
+        "company": {
+          "id": 1541,
+          "name": "Metricminds"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265804,
+        "company": {
+          "id": 3276,
+          "name": "Frame Machine"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265805,
+        "company": {
+          "id": 27858,
+          "name": "Krem Productions"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265806,
+        "company": {
+          "id": 27859,
+          "name": "Quantic Lab"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265807,
+        "company": {
+          "id": 27860,
+          "name": "Full Sail University User Experience Lab"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265796,
+        "company": {
+          "id": 27853,
+          "name": "Man of Action Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265797,
+        "company": {
+          "id": 19354,
+          "name": "Warner Bros. Game Audio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265798,
+        "company": {
+          "id": 27854,
+          "name": "The Capellen Orchestra and Choir"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Darksiders III",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/darksiders-iii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 155499,
+      "date": 1543276800,
+      "platform": 6
+    },
+    {
+      "id": 305091,
+      "date": 1632960000,
+      "platform": 130
+    },
+    {
+      "id": 155497,
+      "date": 1543276800,
+      "platform": 48
+    },
+    {
+      "id": 155498,
+      "date": 1543276800,
+      "platform": 49
+    },
+    {
+      "id": 322886,
+      "date": 1631577600,
+      "platform": 170
+    }
+  ]
+}

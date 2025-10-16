@@ -1,0 +1,135 @@
+{
+  "general": {
+    "id": 6958,
+    "game_engines": [
+      {
+        "id": 210,
+        "name": "Visceral Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 16451,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 140300,
+        "company": {
+          "id": 1241,
+          "name": "Artificial Mind & Movement"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 140301,
+        "company": {
+          "id": 7,
+          "name": "Visceral Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dante's Inferno",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dante-s-inferno",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 17112,
+      "date": 1265241600,
+      "platform": 12
+    },
+    {
+      "id": 17114,
+      "date": 1265328000,
+      "platform": 12
+    },
+    {
+      "id": 102341,
+      "date": 1265673600,
+      "platform": 9
+    },
+    {
+      "id": 17121,
+      "date": 1267142400,
+      "platform": 38
+    },
+    {
+      "id": 17120,
+      "date": 1267056000,
+      "platform": 38
+    },
+    {
+      "id": 17118,
+      "date": 1266451200,
+      "platform": 12
+    },
+    {
+      "id": 102342,
+      "date": 1266451200,
+      "platform": 9
+    },
+    {
+      "id": 17122,
+      "date": 1267401600,
+      "platform": 38
+    },
+    {
+      "id": 17116,
+      "date": 1265673600,
+      "platform": 12
+    },
+    {
+      "id": 102340,
+      "date": 1265932800,
+      "platform": 9
+    }
+  ]
+}

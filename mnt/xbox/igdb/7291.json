@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 7291,
+    "game_engines": [
+      {
+        "id": 25,
+        "name": "CryEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 276016,
+        "company": {
+          "id": 249,
+          "name": "Crytek"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 276015,
+        "company": {
+          "id": 122,
+          "name": "Crytek Frankfurt"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Hunt: Showdown 1896",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hunt-showdown-1896",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 628757,
+      "date": 1723507200,
+      "platform": 49,
+      "status": 4
+    },
+    {
+      "id": 628756,
+      "date": 1723507200,
+      "platform": 48,
+      "status": 4
+    },
+    {
+      "id": 616973,
+      "date": 1568851200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 616976,
+      "date": 1723680000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 616975,
+      "date": 1723680000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 616970,
+      "date": 1566864000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 616971,
+      "date": 1581984000,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

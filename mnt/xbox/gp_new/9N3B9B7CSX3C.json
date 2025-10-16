@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2013-10-29",
-    "release_date": null,
+    "release_date": "2013-10-29",
     "platforms": [
       "PC"
     ]
@@ -82,38 +82,74 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "AnvilNext"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-10-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 1970,
-      "name": "Assassin's Creed IV Black Flag",
-      "url": "https://www.igdb.com/games/assassins-creed-iv-black-flag",
+      "id": 52431,
+      "name": "Assassin's Creed IV: Black Flag - Gold Edition",
+      "url": "https://www.igdb.com/games/assassins-creed-iv-black-flag-gold-edition",
       "publishers": [
         "Ubisoft Entertainment"
       ],
-      "developers": [
-        "Ubisoft Montreal"
-      ],
+      "developers": [],
       "genres": [
         "Adventure"
       ],
       "themes": [
         "Action",
-        "Fantasy",
-        "Science fiction",
         "Historical",
-        "Stealth",
-        "Sandbox",
         "Open world"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative"
+        "Single player"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-11-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-12-31"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-12-31"
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 34468,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 276935,
+        "company": {
+          "id": 4422,
+          "name": "Phoenix Online Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 276936,
+        "company": {
+          "id": 4809,
+          "name": "The Game Kitchen"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Last Door: Season 2 - Collector's Edition",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-last-door-season-2-collectors-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 619532,
+      "date": 1459209600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 619533,
+      "date": 1459209600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 619534,
+      "date": 1459209600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 619535,
+      "date": 1477526400,
+      "platform": 39,
+      "status": 6
+    }
+  ]
+}

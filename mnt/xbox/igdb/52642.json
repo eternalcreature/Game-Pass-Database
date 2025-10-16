@@ -1,0 +1,53 @@
+{
+  "general": {
+    "id": 52642,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 4: Premium Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-4-premium-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 293793,
+      "date": 1413849600,
+      "platform": 48
+    },
+    {
+      "id": 293794,
+      "date": 1413849600,
+      "platform": 49
+    },
+    {
+      "id": 293792,
+      "date": 1413849600,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "general": {
+    "id": 509,
+    "game_engines": [
+      {
+        "id": 47,
+        "name": "id Tech 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42068,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 95298,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42069,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Rage",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rage",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 105081,
+      "date": 1317945600,
+      "platform": 9
+    },
+    {
+      "id": 26345,
+      "date": 1317859200,
+      "platform": 12
+    },
+    {
+      "id": 26344,
+      "date": 1319673600,
+      "platform": 6
+    },
+    {
+      "id": 407937,
+      "date": 1317600000,
+      "platform": 6
+    },
+    {
+      "id": 26338,
+      "date": 1317686400,
+      "platform": 6
+    },
+    {
+      "id": 26346,
+      "date": 1317859200,
+      "platform": 9
+    },
+    {
+      "id": 26340,
+      "date": 1317686400,
+      "platform": 9
+    },
+    {
+      "id": 26342,
+      "date": 1317859200,
+      "platform": 12
+    },
+    {
+      "id": 26343,
+      "date": 1317859200,
+      "platform": 9
+    },
+    {
+      "id": 26341,
+      "date": 1317859200,
+      "platform": 6
+    }
+  ]
+}

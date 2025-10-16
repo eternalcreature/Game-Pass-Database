@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 18182,
+    "game_engines": [
+      {
+        "id": 79,
+        "name": "GameMaker: Studio"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 118216,
+        "company": {
+          "id": 9327,
+          "name": "Bombservice"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 193705,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193706,
+        "company": {
+          "id": 14002,
+          "name": "DANGEN Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193707,
+        "company": {
+          "id": 6938,
+          "name": "Active Gaming Media"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Momodora: Reverie Under the Moonlight",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/momodora-reverie-under-the-moonlight",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 423415,
+      "date": 1489708800,
+      "platform": 49
+    },
+    {
+      "id": 227014,
+      "date": 1457049600,
+      "platform": 6
+    },
+    {
+      "id": 411499,
+      "date": 1457049600,
+      "platform": 3
+    },
+    {
+      "id": 123484,
+      "date": 1489622400,
+      "platform": 48
+    },
+    {
+      "id": 163243,
+      "date": 1547078400,
+      "platform": 130
+    },
+    {
+      "id": 411498,
+      "date": 1457049600,
+      "platform": 14
+    }
+  ]
+}

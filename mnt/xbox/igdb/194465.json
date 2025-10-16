@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 194465,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165730,
+        "company": {
+          "id": 7540,
+          "name": "Fire Hose Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Techtonica",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/techtonica--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 646151,
+      "date": 1730937600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494970,
+      "date": 1689638400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 646149,
+      "date": 1730937600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 646150,
+      "date": 1689638400,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 646152,
+      "date": 1689638400,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 646153,
+      "date": 1730937600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 646154,
+      "date": 1730937600,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

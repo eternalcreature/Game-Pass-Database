@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 122386,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 271498,
+        "company": {
+          "id": 16141,
+          "name": "The Arcade Crew"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 271497,
+        "company": {
+          "id": 13742,
+          "name": "Berzerk Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Infernax",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/infernax",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 336900,
+      "date": 1644796800,
+      "platform": 167
+    },
+    {
+      "id": 336902,
+      "date": 1644796800,
+      "platform": 49
+    },
+    {
+      "id": 336903,
+      "date": 1644796800,
+      "platform": 169
+    },
+    {
+      "id": 606338,
+      "date": 1644796800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 606340,
+      "date": 1644796800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 606339,
+      "date": 1644796800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

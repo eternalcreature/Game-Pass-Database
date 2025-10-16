@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 119259,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269261,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269260,
+        "company": {
+          "id": 5369,
+          "name": "Playtonic"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yooka-laylee-and-the-impossible-lair",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 175229,
+      "date": 1570492800,
+      "platform": 48
+    },
+    {
+      "id": 339716,
+      "date": 1570406400,
+      "platform": 130
+    },
+    {
+      "id": 175228,
+      "date": 1570492800,
+      "platform": 49
+    },
+    {
+      "id": 248185,
+      "date": 1570492800,
+      "platform": 130
+    },
+    {
+      "id": 600855,
+      "date": 1570492800,
+      "platform": 6
+    },
+    {
+      "id": 307902,
+      "date": 1570492800,
+      "platform": 49
+    }
+  ]
+}

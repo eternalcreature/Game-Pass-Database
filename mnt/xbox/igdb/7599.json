@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 7599,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 58954,
+        "company": {
+          "id": 894,
+          "name": "DON'T NOD"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 58956,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 58955,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 232096,
+        "company": {
+          "id": 38591,
+          "name": "Pingle Game Studio"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Life is Strange",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/life-is-strange",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 25568,
+      "date": 1422576000,
+      "platform": 6
+    },
+    {
+      "id": 255354,
+      "date": 1422489600,
+      "platform": 6
+    },
+    {
+      "id": 156038,
+      "date": 1531872000,
+      "platform": 34
+    },
+    {
+      "id": 25570,
+      "date": 1422576000,
+      "platform": 48
+    },
+    {
+      "id": 147629,
+      "date": 1513209600,
+      "platform": 39
+    },
+    {
+      "id": 255357,
+      "date": 1422489600,
+      "platform": 3
+    },
+    {
+      "id": 25569,
+      "date": 1422576000,
+      "platform": 9
+    },
+    {
+      "id": 147114,
+      "date": 1465948800,
+      "platform": 14
+    },
+    {
+      "id": 25571,
+      "date": 1422576000,
+      "platform": 49
+    },
+    {
+      "id": 136120,
+      "date": 1422576000,
+      "platform": 49
+    }
+  ]
+}

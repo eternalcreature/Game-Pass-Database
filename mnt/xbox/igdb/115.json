@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 115,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 8087,
+        "company": {
+          "id": 41,
+          "name": "Riot Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 8088,
+        "company": {
+          "id": 42,
+          "name": "Tencent Holdings"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 8068,
+        "company": {
+          "id": 1494,
+          "name": "GOA Games Services Ltd."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "League of Legends",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/league-of-legends",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 541886,
+      "date": 1316649600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 614402,
+      "date": 1256601600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 614401,
+      "date": 1256601600,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

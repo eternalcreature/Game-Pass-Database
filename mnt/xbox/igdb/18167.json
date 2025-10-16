@@ -1,0 +1,146 @@
+{
+  "general": {
+    "id": 18167,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 64879,
+        "company": {
+          "id": 9317,
+          "name": "DYNAMIC PIXELS"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 277997,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 277998,
+        "company": {
+          "id": 38591,
+          "name": "Pingle Game Studio"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Hello Neighbor",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hello-neighbor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 130470,
+      "date": 1512691200,
+      "platform": 6
+    },
+    {
+      "id": 622099,
+      "date": 1598918400,
+      "platform": 170,
+      "status": 4
+    },
+    {
+      "id": 622098,
+      "date": 1532563200,
+      "platform": 34
+    },
+    {
+      "id": 622100,
+      "date": 1532563200,
+      "platform": 39
+    },
+    {
+      "id": 622101,
+      "date": 1532649600,
+      "platform": 48
+    },
+    {
+      "id": 627446,
+      "date": 1598918400,
+      "platform": 170
+    },
+    {
+      "id": 130471,
+      "date": 1512691200,
+      "platform": 49
+    },
+    {
+      "id": 249127,
+      "date": 1532649600,
+      "platform": 130
+    }
+  ]
+}

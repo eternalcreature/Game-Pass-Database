@@ -26,13 +26,23 @@
         "added": "2023-04-06",
         "removed": null
       },
-      "Ultimate": {
-        "added": "2023-04-06",
-        "removed": null
-      },
       "Premium": {
         "added": "2024-08-12",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-04-06",
+        "removed": null
+      }
+    },
+    {
+      "Ultimate": {
+        "added": "2017-06-01",
+        "removed": "2019-07-15"
+      },
+      "Console": {
+        "added": "2017-06-01",
+        "removed": "2019-07-15"
       }
     }
   ],
@@ -78,7 +88,28 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2011-06-22",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-08-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-06-22"
+        }
+      }
     }
   },
   "steam_store_meta": {}

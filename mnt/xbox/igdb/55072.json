@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 55072,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 70300,
+        "company": {
+          "id": 442,
+          "name": "Asobo Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 70301,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rush: A Disney Pixar Adventure",
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rush-a-disney-pixar-adventure",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179814,
+      "date": 1536883200,
+      "platform": 6
+    },
+    {
+      "id": 192747,
+      "date": 1332374400,
+      "platform": 12
+    },
+    {
+      "id": 148683,
+      "date": 1509408000,
+      "platform": 49
+    },
+    {
+      "id": 192748,
+      "date": 1332460800,
+      "platform": 12
+    },
+    {
+      "id": 192745,
+      "date": 1332201600,
+      "platform": 12
+    },
+    {
+      "id": 192746,
+      "date": 1332374400,
+      "platform": 12
+    }
+  ]
+}

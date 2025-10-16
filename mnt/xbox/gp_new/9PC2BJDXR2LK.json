@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2020-08-18",
-    "release_date": null,
+    "release_date": "2020-08-18",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -91,12 +91,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-08-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-03-04"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 132050,
-      "name": "Mortal Shell",
-      "url": "https://www.igdb.com/games/mortal-shell",
+      "id": 146160,
+      "name": "Mortal Shell: Enhanced Edition",
+      "url": "https://www.igdb.com/games/mortal-shell-enhanced-edition",
       "publishers": [
         "Playstack"
       ],
@@ -104,20 +127,40 @@
         "Cold Symmetry"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Indie"
+        "Role-playing (RPG)"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2020-08-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-18"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

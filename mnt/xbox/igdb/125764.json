@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 125764,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 216021,
+        "company": {
+          "id": 1218,
+          "name": "Arc System Works"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 216022,
+        "company": {
+          "id": 16956,
+          "name": "Arc System Works America"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 216023,
+        "company": {
+          "id": 9666,
+          "name": "Bandai Namco Entertainment Asia"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 216024,
+        "company": {
+          "id": 9607,
+          "name": "Bandai Namco Entertainment Europe"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Guilty Gear: Strive",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/guilty-gear-strive",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 458685,
+      "date": 1678147200,
+      "platform": 49
+    },
+    {
+      "id": 231552,
+      "date": 1623369600,
+      "platform": 167
+    },
+    {
+      "id": 231554,
+      "date": 1623369600,
+      "platform": 48
+    },
+    {
+      "id": 301655,
+      "date": 1627516800,
+      "platform": 52
+    },
+    {
+      "id": 458686,
+      "date": 1678147200,
+      "platform": 169
+    },
+    {
+      "id": 231553,
+      "date": 1623369600,
+      "platform": 6
+    }
+  ]
+}

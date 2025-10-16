@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2011-10-25",
-    "release_date": null,
+    "release_date": "2011-10-25",
     "platforms": [
       "PC"
     ]
@@ -80,12 +80,35 @@
         "First person",
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2011-10-25",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-10-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-10-25"
+        }
+      }
     },
     "specific": {
-      "id": 343,
-      "name": "Battlefield 3",
-      "url": "https://www.igdb.com/games/battlefield-3",
+      "id": 41888,
+      "name": "Battlefield 3: Premium Edition",
+      "url": "https://www.igdb.com/games/battlefield-3-premium-edition",
       "publishers": [
         "Electronic Arts"
       ],
@@ -97,19 +120,32 @@
       ],
       "themes": [
         "Action",
-        "Stealth",
+        "Historical",
         "Warfare"
       ],
-      "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative"
-      ],
-      "player_perspectives": [
-        "First person",
-        "Third person",
-        "Bird view / Isometric"
-      ]
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2012-09-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-09-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-09-11"
+        }
+      }
     }
   },
   "steam_store_meta": {}

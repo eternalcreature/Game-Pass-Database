@@ -1,0 +1,84 @@
+{
+  "general": {
+    "id": 325176,
+    "game_engines": [
+      {
+        "id": 1251,
+        "name": "Unity 2021"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 299029,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 341836,
+        "company": {
+          "id": 67974,
+          "name": "Teenage Astronauts"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Little Rocket Lab",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/little-rocket-lab",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 817747,
+      "date": 1759795200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 817811,
+      "platform": 130
+    },
+    {
+      "id": 813126,
+      "date": 1759795200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

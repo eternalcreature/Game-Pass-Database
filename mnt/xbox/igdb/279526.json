@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 279526,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 350433,
+        "company": {
+          "id": 6032,
+          "name": "Amazing Seasun Game"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Mecha Break",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mecha-break",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 752201,
+      "date": 1751328000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 752203,
+      "date": 1751328000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 676379,
+      "date": 1722556800,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 625588,
+      "date": 1722556800,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 625589,
+      "date": 1722556800,
+      "platform": 6,
+      "status": 2
+    }
+  ]
+}

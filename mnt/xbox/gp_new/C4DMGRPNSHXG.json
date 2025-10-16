@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2014-05-27",
-    "release_date": null,
+    "release_date": "2014-05-27",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -91,7 +91,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Disrupt"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-05-27",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-05-27"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-05-27"
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 252839,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219255,
+        "company": {
+          "id": 2449,
+          "name": "Stoic"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 219256,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Towerborne",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/towerborne",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 716464,
+      "date": 1745884800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 632352,
+      "date": 1725926400,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

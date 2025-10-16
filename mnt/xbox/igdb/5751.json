@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 5751,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13822,
+        "company": {
+          "id": 2175,
+          "name": "Artoon"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 13821,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Blinx: The Time Sweeper",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/blinx-the-time-sweeper",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 800656,
+      "date": 1033948800,
+      "platform": 11,
+      "status": 6
+    },
+    {
+      "id": 800657,
+      "date": 1039651200,
+      "platform": 11,
+      "status": 6
+    },
+    {
+      "id": 800655,
+      "date": 1036713600,
+      "platform": 11,
+      "status": 6
+    }
+  ]
+}

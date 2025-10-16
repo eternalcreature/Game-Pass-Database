@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 44516,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96283,
+        "company": {
+          "id": 15541,
+          "name": "Asymmetric"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "West of Loathing",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/west-of-loathing",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 730601,
+      "date": 1593561600,
+      "platform": 170,
+      "status": 4
+    },
+    {
+      "id": 730602,
+      "date": 1502323200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 730603,
+      "date": 1502323200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 730604,
+      "date": 1502323200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 248421,
+      "date": 1527724800,
+      "platform": 130
+    }
+  ]
+}

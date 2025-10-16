@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 18311,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 133297,
+        "company": {
+          "id": 4940,
+          "name": "Square Enix Europe"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 124586,
+        "company": {
+          "id": 8714,
+          "name": "Bulkhead"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 124587,
+        "company": {
+          "id": 9385,
+          "name": "Square Enix Collective"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Turing Test",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-turing-test",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 192760,
+      "date": 1581033600,
+      "platform": 130
+    },
+    {
+      "id": 123478,
+      "date": 1485216000,
+      "platform": 48
+    },
+    {
+      "id": 237389,
+      "date": 1506729600,
+      "platform": 49
+    },
+    {
+      "id": 237391,
+      "date": 1485216000,
+      "platform": 48
+    },
+    {
+      "id": 239599,
+      "date": 1588291200,
+      "platform": 170
+    },
+    {
+      "id": 136385,
+      "date": 1472515200,
+      "platform": 49
+    },
+    {
+      "id": 237390,
+      "date": 1472515200,
+      "platform": 49
+    },
+    {
+      "id": 237388,
+      "date": 1472515200,
+      "platform": 6
+    }
+  ]
+}

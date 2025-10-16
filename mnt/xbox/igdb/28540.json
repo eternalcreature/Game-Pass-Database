@@ -1,0 +1,189 @@
+{
+  "general": {
+    "id": 28540,
+    "game_engines": [
+      {
+        "id": 10,
+        "name": "AnvilNext"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63906,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63902,
+        "company": {
+          "id": 822,
+          "name": "Ubisoft Singapore"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63905,
+        "company": {
+          "id": 3928,
+          "name": "Ubisoft Chengdu"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63904,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63901,
+        "company": {
+          "id": 840,
+          "name": "Ubisoft Sofia"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63908,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63940,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 50747,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 63909,
+        "company": {
+          "id": 15260,
+          "name": "Ubisoft Philippines"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 202050,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 194933,
+        "company": {
+          "id": 15790,
+          "name": "Ubisoft Québec"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Assassin's Creed Origins",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-origins",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 743554,
+      "date": 1654128000,
+      "platform": 169,
+      "status": 36
+    },
+    {
+      "id": 112816,
+      "date": 1509062400,
+      "platform": 49
+    },
+    {
+      "id": 239702,
+      "date": 1607990400,
+      "platform": 170
+    },
+    {
+      "id": 419142,
+      "date": 1508976000,
+      "platform": 6
+    },
+    {
+      "id": 112814,
+      "date": 1509062400,
+      "platform": 48
+    },
+    {
+      "id": 743553,
+      "date": 1654128000,
+      "platform": 167,
+      "status": 36
+    }
+  ]
+}

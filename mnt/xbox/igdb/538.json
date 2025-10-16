@@ -1,0 +1,170 @@
+{
+  "general": {
+    "id": 538,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 185010,
+        "company": {
+          "id": 3023,
+          "name": "Virtual Programming"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 185011,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 273726,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 273727,
+        "company": {
+          "id": 21,
+          "name": "Irrational Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 273728,
+        "company": {
+          "id": 2492,
+          "name": "2K Australia"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 273729,
+        "company": {
+          "id": 413,
+          "name": "Human Head Studios"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "BioShock Infinite",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bioshock-infinite",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 720187,
+      "date": 1364256000,
+      "platform": 9
+    },
+    {
+      "id": 720186,
+      "date": 1364256000,
+      "platform": 6
+    },
+    {
+      "id": 720188,
+      "date": 1364256000,
+      "platform": 12
+    },
+    {
+      "id": 723449,
+      "date": 1364169600,
+      "platform": 6
+    },
+    {
+      "id": 48370,
+      "date": 1426550400,
+      "platform": 3
+    },
+    {
+      "id": 48378,
+      "date": 1372377600,
+      "platform": 6
+    },
+    {
+      "id": 48377,
+      "date": 1366848000,
+      "platform": 9
+    },
+    {
+      "id": 48369,
+      "date": 1377734400,
+      "platform": 14
+    },
+    {
+      "id": 48376,
+      "date": 1366848000,
+      "platform": 12
+    },
+    {
+      "id": 48379,
+      "date": 1370044800,
+      "platform": 14
+    }
+  ]
+}

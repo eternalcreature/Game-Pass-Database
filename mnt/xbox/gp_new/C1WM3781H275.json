@@ -12,7 +12,7 @@
         "C1WM3781H275"
       ]
     ],
-    "original_release_date": "2014-03-04",
+    "original_release_date": "2014-02-02",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -63,7 +63,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-02-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-04-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

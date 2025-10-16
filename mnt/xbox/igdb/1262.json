@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 1262,
+    "game_engines": [
+      {
+        "id": 150,
+        "name": "Onyx Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33830,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 55890,
+        "company": {
+          "id": 809,
+          "name": "South Park Digital Studios"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "South Park: The Stick of Truth",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/south-park-the-stick-of-truth",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 48359,
+      "date": 1394150400,
+      "platform": 12
+    },
+    {
+      "id": 48360,
+      "date": 1393891200,
+      "platform": 6
+    },
+    {
+      "id": 24854,
+      "date": 1394064000,
+      "platform": 12
+    },
+    {
+      "id": 105723,
+      "date": 1394150400,
+      "platform": 9
+    },
+    {
+      "id": 130300,
+      "date": 1508198400,
+      "platform": 49
+    },
+    {
+      "id": 130301,
+      "date": 1508198400,
+      "platform": 48
+    },
+    {
+      "id": 149182,
+      "date": 1518480000,
+      "platform": 49
+    },
+    {
+      "id": 105722,
+      "date": 1393977600,
+      "platform": 9
+    },
+    {
+      "id": 168322,
+      "date": 1537833600,
+      "platform": 130
+    },
+    {
+      "id": 24848,
+      "date": 1394064000,
+      "platform": 6
+    }
+  ]
+}

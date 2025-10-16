@@ -17,7 +17,7 @@
         "9PKD9696652S"
       ]
     ],
-    "original_release_date": "2020-09-04",
+    "original_release_date": "2020-09-03",
     "release_date": null,
     "platforms": [
       "XboxSeriesX"
@@ -81,7 +81,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Eco-Motion Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-09-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

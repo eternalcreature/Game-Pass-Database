@@ -1,0 +1,150 @@
+{
+  "general": {
+    "id": 5335,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 309458,
+        "company": {
+          "id": 999,
+          "name": "Coffee Stain Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 309457,
+        "company": {
+          "id": 748,
+          "name": "Double Eleven"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Goat Simulator",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/goat-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 790246,
+      "date": 1403827200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 790247,
+      "date": 1396310400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 790248,
+      "date": 1439251200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 790249,
+      "date": 1439337600,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 790251,
+      "date": 1439251200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 790252,
+      "date": 1429228800,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 790245,
+      "date": 1403827200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 790250,
+      "date": 1439337600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 790253,
+      "date": 1429228800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

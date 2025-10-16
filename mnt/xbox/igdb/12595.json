@@ -1,0 +1,146 @@
+{
+  "general": {
+    "id": 12595,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 78777,
+        "company": {
+          "id": 19967,
+          "name": "Lab42 Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 70212,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 158508,
+        "company": {
+          "id": 15878,
+          "name": "Sega Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 278067,
+        "company": {
+          "id": 19080,
+          "name": "Ryu Ga Gotoku Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Yakuza Kiwami",
+    "parent_game": 2059,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yakuza-kiwami",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 36109,
+      "date": 1453334400,
+      "platform": 48
+    },
+    {
+      "id": 107017,
+      "date": 1503964800,
+      "platform": 48
+    },
+    {
+      "id": 110662,
+      "date": 1503964800,
+      "platform": 48
+    },
+    {
+      "id": 329416,
+      "date": 1464220800,
+      "platform": 48
+    },
+    {
+      "id": 194681,
+      "date": 1587513600,
+      "platform": 49
+    },
+    {
+      "id": 329415,
+      "date": 1453334400,
+      "platform": 48
+    },
+    {
+      "id": 778540,
+      "date": 1762992000,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 809944,
+      "date": 1765152000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 809943,
+      "date": 1765152000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 107018,
+      "date": 1503964800,
+      "platform": 48
+    }
+  ]
+}

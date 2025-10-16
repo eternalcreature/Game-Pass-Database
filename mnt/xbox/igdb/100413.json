@@ -1,0 +1,163 @@
+{
+  "general": {
+    "id": 100413,
+    "game_engines": [
+      {
+        "id": 16,
+        "name": "Disrupt"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 222174,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 104720,
+        "company": {
+          "id": 433,
+          "name": "Ubisoft Reflections"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 104721,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 104722,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 104723,
+        "company": {
+          "id": 841,
+          "name": "Ubisoft Paris"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 104724,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 104725,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Watch Dogs: Legion",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/watch-dogs-legion",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 327628,
+      "date": 1605139200,
+      "platform": 167
+    },
+    {
+      "id": 204140,
+      "date": 1603929600,
+      "platform": 6
+    },
+    {
+      "id": 204142,
+      "date": 1603929600,
+      "platform": 48
+    },
+    {
+      "id": 204141,
+      "date": 1603929600,
+      "platform": 49
+    },
+    {
+      "id": 209960,
+      "date": 1604966400,
+      "platform": 169
+    },
+    {
+      "id": 239680,
+      "date": 1605744000,
+      "platform": 170
+    }
+  ]
+}

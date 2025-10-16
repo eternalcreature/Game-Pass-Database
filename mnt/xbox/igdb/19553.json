@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 19553,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36504,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 36343,
+        "company": {
+          "id": 1009,
+          "name": "RedLynx"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Trials of the Blood Dragon",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/trials-of-the-blood-dragon",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 120001,
+      "date": 1465776000,
+      "platform": 49
+    },
+    {
+      "id": 52015,
+      "date": 1465776000,
+      "platform": 6
+    },
+    {
+      "id": 52016,
+      "date": 1465776000,
+      "platform": 49
+    },
+    {
+      "id": 123396,
+      "date": 1465776000,
+      "platform": 48
+    },
+    {
+      "id": 52017,
+      "date": 1465776000,
+      "platform": 48
+    }
+  ]
+}

@@ -22,7 +22,7 @@
       ]
     ],
     "original_release_date": "2021-09-30",
-    "release_date": null,
+    "release_date": "2022-09-29",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -91,34 +91,68 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-09-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-09-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-09-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-09-30"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 144072,
-      "name": "Hot Wheels Unleashed",
-      "url": "https://www.igdb.com/games/hot-wheels-unleashed",
-      "publishers": [
-        "Milestone"
-      ],
-      "developers": [
-        "Milestone"
-      ],
+      "id": 218968,
+      "name": "Hot Wheels Unleashed: Game of the Year Edition",
+      "url": "https://www.igdb.com/games/hot-wheels-unleashed-game-of-the-year-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
         "Racing",
         "Arcade"
       ],
-      "themes": [
-        "Action",
-        "Kids"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player",
-        "Multiplayer",
-        "Split screen"
+        "Multiplayer"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-09-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-09-29"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-09-29"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-09-29"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

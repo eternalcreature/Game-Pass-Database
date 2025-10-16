@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2017-08-31",
-    "release_date": null,
+    "release_date": "2017-08-31",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -68,35 +68,76 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-08-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-08-31"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-08-31"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 29004,
-      "name": "Life is Strange: Before the Storm",
-      "url": "https://www.igdb.com/games/life-is-strange-before-the-storm",
+      "id": 144776,
+      "name": "Life is Strange: Before the Storm Remastered",
+      "url": "https://www.igdb.com/games/life-is-strange-before-the-storm-remastered",
       "publishers": [
         "Square Enix"
       ],
       "developers": [
+        "DON'T NOD",
         "Deck Nine"
       ],
       "genres": [
-        "Adventure",
-        "Indie"
+        "Adventure"
       ],
       "themes": [
         "Action",
-        "Fantasy",
-        "Science fiction",
-        "Drama",
-        "Mystery"
+        "Drama"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2022-02-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-02-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-02-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,135 @@
+{
+  "general": {
+    "id": 2113,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56415,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 57039,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 56416,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Star Wars Battlefront",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-battlefront--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 32374,
+      "date": 1447977600,
+      "platform": 49
+    },
+    {
+      "id": 504371,
+      "date": 1447891200,
+      "platform": 165
+    },
+    {
+      "id": 32367,
+      "date": 1447718400,
+      "platform": 6
+    },
+    {
+      "id": 32375,
+      "date": 1447977600,
+      "platform": 48
+    },
+    {
+      "id": 32371,
+      "date": 1447891200,
+      "platform": 49
+    },
+    {
+      "id": 32370,
+      "date": 1447891200,
+      "platform": 6
+    },
+    {
+      "id": 32368,
+      "date": 1447718400,
+      "platform": 48
+    },
+    {
+      "id": 32369,
+      "date": 1447718400,
+      "platform": 49
+    },
+    {
+      "id": 32373,
+      "date": 1447977600,
+      "platform": 6
+    },
+    {
+      "id": 32372,
+      "date": 1447891200,
+      "platform": 48
+    }
+  ]
+}

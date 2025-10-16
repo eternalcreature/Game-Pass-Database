@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 55056,
+    "game_engines": [
+      {
+        "id": 207,
+        "name": "Genie Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 295746,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 319010,
+        "company": {
+          "id": 2084,
+          "name": "Wicked Witch Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 319011,
+        "company": {
+          "id": 1304,
+          "name": "Tantalus Media"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 319012,
+        "company": {
+          "id": 6019,
+          "name": "Forgotten Empires LLC"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 319013,
+        "company": {
+          "id": 22619,
+          "name": "World's Edge"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Age of Empires II: Definitive Edition",
+    "parent_game": 327,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/age-of-empires-ii-definitive-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 726680,
+      "date": 1746057600,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 726678,
+      "date": 1746489600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 666450,
+      "date": 1673913600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 666449,
+      "date": 1673913600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 571949,
+      "date": 1573689600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

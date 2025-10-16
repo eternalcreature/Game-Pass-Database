@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 8739,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 108830,
+        "company": {
+          "id": 4673,
+          "name": "Pocketwatch Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 108831,
+        "company": {
+          "id": 700,
+          "name": "Majesco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 198223,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Monaco: What's Yours Is Mine",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/monaco-whats-yours-is-mine",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 26132,
+      "date": 1366761600,
+      "platform": 6
+    },
+    {
+      "id": 26133,
+      "date": 1366761600,
+      "platform": 14
+    },
+    {
+      "id": 26134,
+      "date": 1366761600,
+      "platform": 3
+    },
+    {
+      "id": 211563,
+      "date": 1368144000,
+      "platform": 12
+    },
+    {
+      "id": 211564,
+      "date": 1571616000,
+      "platform": 130
+    }
+  ]
+}

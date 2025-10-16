@@ -122,6 +122,30 @@ class IGDBRetriever:
         return token
 
     # ------------------------------------------------------------------
+    def get_general_info(self, token, headers):
+        url = "https://api.igdb.com/v4/games"
+        body = (
+            f"fields name, url, parent_game, "
+            f"involved_companies.company.name, involved_companies.developer, involved_companies.publisher, "
+            f"genres.name, game_modes.name, player_perspectives.name, themes.name, "
+            f"game_engines.name, game_type;"
+            f"where id = {self._id};"
+        )
+
+        resp = requests.post(url, headers=headers, data=body)
+        resp.raise_for_status()
+        data = resp.json()
+        # pprint(data)
+        return data
+
+    def get_release_date_info(self, token, headers):
+        url = "https://api.igdb.com/v4/release_dates"
+        # body = f"fields date, platform, status; where game = {self._id} & platform = (6,49,169);"
+        body = f"fields date, platform, status; where game = {self._id};"
+        resp = requests.post(url, headers=headers, data=body)
+        resp.raise_for_status()
+        data = resp.json()
+        return data
 
     def fetch_data(self) -> List[Dict[str, Any]]:
         """
@@ -132,28 +156,17 @@ class IGDBRetriever:
         """
         token = self._get_igdb_token()
 
-        url = "https://api.igdb.com/v4/games"
         headers = {
             "Client-ID": TWITCH_CLIENT_ID,
             "Authorization": f"Bearer {token}",
         }
 
-        # body = f"fields *; where id = {self._id};"
-
-        body = (
-            f"fields name, url, parent_game, "
-            f"involved_companies.company.name, involved_companies.developer, involved_companies.publisher, "
-            f"genres.name, game_modes.name, player_perspectives.name, themes.name;"
-            f" where id = {self._id};"
-        )
-
-        resp = requests.post(url, headers=headers, data=body)
-        resp.raise_for_status()
-        data = resp.json()
-        if self._display:
-            pprint(data)
-
-        return data[0]
+        general = self.get_general_info(token, headers)
+        sleep(0.2)
+        release_dates = self.get_release_date_info(token, headers)
+        sleep(0.2)
+        igdb_dict = {"general": general[0], "release_dates": release_dates}
+        return igdb_dict
 
     # ------------------------------------------------------------------
 
@@ -210,3 +223,21 @@ def get_IGDB_data(
     )
     output_file = retriever.request_and_save_data()
     return retriever._product_data, output_file
+
+
+def main():
+    lst = [
+        "136604",  # control ue
+        "252828",  # 33 Immortals
+        "219126",  # Abiotic Factor
+        "256017",  # Grinch base
+        "370827",  # Grinch special
+    ]
+    for title in lst:
+        data, _ = get_IGDB_data(
+            title, display=True, output_dir="yolo", overwrite="True"
+        )
+
+
+if __name__ == "__main__":
+    main()

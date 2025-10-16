@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2015-03-17",
-    "release_date": null,
+    "release_date": "2015-03-17",
     "platforms": [
       "PC"
     ]
@@ -81,35 +81,69 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-03-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-03-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-03-19"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-03-17"
+        }
+      }
     },
     "specific": {
-      "id": 7081,
-      "name": "Battlefield Hardline",
-      "url": "https://www.igdb.com/games/battlefield-hardline",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "developers": [
-        "EA Digital Illusions CE",
-        "Visceral Games"
-      ],
+      "id": 52638,
+      "name": "Battlefield Hardline: Ultimate Edition",
+      "url": "https://www.igdb.com/games/battlefield-hardline-ultimate-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
         "Shooter"
       ],
       "themes": [
-        "Action",
-        "Stealth",
-        "Warfare"
+        "Action"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer"
       ],
-      "player_perspectives": [
-        "First person",
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-03-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-03-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-03-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

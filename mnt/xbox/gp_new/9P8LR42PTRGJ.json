@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "base_id": 252828,
-    "specific_id": null,
+    "specific_id": 252828,
     "title": "33 Immortals",
     "store_title": "33 Immortals (Game Preview)",
     "pid": "9P8LR42PTRGJ",
@@ -13,11 +13,11 @@
       ]
     ],
     "original_release_date": "2025-03-18",
-    "release_date": null,
+    "release_date": "9998-12-30",
     "platforms": [
+      "PC",
       "XboxOne",
       "XboxSeriesX",
-      "PC",
       "XCloud"
     ]
   },
@@ -86,7 +86,28 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-03-18",
+        "PC": {
+          "release_date_ea": "2025-03-18",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": "2025-03-18",
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
       "id": 252828,

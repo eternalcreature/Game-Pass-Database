@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 125631,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 124259,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 124260,
+        "company": {
+          "id": 10445,
+          "name": "Variable State"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Last Stop",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/last-stop",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 253044,
+      "date": 1626912000,
+      "platform": 49
+    },
+    {
+      "id": 253045,
+      "date": 1626912000,
+      "platform": 167
+    },
+    {
+      "id": 253046,
+      "date": 1626912000,
+      "platform": 169
+    },
+    {
+      "id": 253048,
+      "date": 1626912000,
+      "platform": 48
+    },
+    {
+      "id": 253047,
+      "date": 1626912000,
+      "platform": 6
+    },
+    {
+      "id": 253049,
+      "date": 1626912000,
+      "platform": 130
+    },
+    {
+      "id": 293502,
+      "date": 1626912000,
+      "platform": 130
+    }
+  ]
+}

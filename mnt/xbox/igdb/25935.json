@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 25935,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 162380,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 162381,
+        "company": {
+          "id": 27256,
+          "name": "Beethoven & Dinosaur"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Artful Escape",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-artful-escape",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 300992,
+      "date": 1631145600,
+      "platform": 6
+    },
+    {
+      "id": 300993,
+      "date": 1631145600,
+      "platform": 49
+    },
+    {
+      "id": 300991,
+      "date": 1631145600,
+      "platform": 169
+    },
+    {
+      "id": 337247,
+      "date": 1643068800,
+      "platform": 167
+    },
+    {
+      "id": 337248,
+      "date": 1643068800,
+      "platform": 48
+    },
+    {
+      "id": 337249,
+      "date": 1643068800,
+      "platform": 130
+    }
+  ]
+}

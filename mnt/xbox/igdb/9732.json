@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 9732,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33361,
+        "company": {
+          "id": 5214,
+          "name": "The Molasses Flood"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 145210,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 145211,
+        "company": {
+          "id": 5214,
+          "name": "The Molasses Flood"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Flame in the Flood",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-flame-in-the-flood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 750978,
+      "date": 1456272000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 750976,
+      "date": 1456272000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 750979,
+      "date": 1484611200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 750977,
+      "date": 1507766400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 750980,
+      "date": 1456272000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

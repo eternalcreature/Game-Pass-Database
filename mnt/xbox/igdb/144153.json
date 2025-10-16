@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 144153,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 140009,
+        "company": {
+          "id": 32231,
+          "name": "Cold Iron Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 139933,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Aliens: Fireteam Elite",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/aliens-fireteam-elite",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 630662,
+      "date": 1629676800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 467954,
+      "date": 1682467200,
+      "platform": 130
+    },
+    {
+      "id": 293467,
+      "date": 1629763200,
+      "platform": 48
+    },
+    {
+      "id": 293469,
+      "date": 1629763200,
+      "platform": 49
+    },
+    {
+      "id": 293466,
+      "date": 1629763200,
+      "platform": 169
+    },
+    {
+      "id": 293468,
+      "date": 1629763200,
+      "platform": 167
+    }
+  ]
+}

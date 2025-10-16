@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 8440,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 27136,
+        "company": {
+          "id": 7057,
+          "name": "Ty Taylor & Mario Castañeda"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134339,
+        "company": {
+          "id": 7058,
+          "name": "The Quantum Astrophysicists Guild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 134338,
+        "company": {
+          "id": 7058,
+          "name": "The Quantum Astrophysicists Guild"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Bridge",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-bridge",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 158121,
+      "date": 1439856000,
+      "platform": 48
+    },
+    {
+      "id": 411990,
+      "date": 1361491200,
+      "platform": 6
+    },
+    {
+      "id": 411991,
+      "date": 1361491200,
+      "platform": 14
+    },
+    {
+      "id": 411992,
+      "date": 1361491200,
+      "platform": 3
+    },
+    {
+      "id": 136356,
+      "date": 1439510400,
+      "platform": 49
+    },
+    {
+      "id": 158119,
+      "date": 1439856000,
+      "platform": 9
+    },
+    {
+      "id": 146577,
+      "date": 1440028800,
+      "platform": 41
+    },
+    {
+      "id": 158120,
+      "date": 1439856000,
+      "platform": 46
+    },
+    {
+      "id": 146576,
+      "date": 1440028800,
+      "platform": 41
+    },
+    {
+      "id": 110551,
+      "date": 1504742400,
+      "platform": 130
+    }
+  ]
+}

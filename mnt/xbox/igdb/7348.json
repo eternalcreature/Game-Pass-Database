@@ -1,0 +1,167 @@
+{
+  "general": {
+    "id": 7348,
+    "game_engines": [
+      {
+        "id": 1309,
+        "name": "Halo Reach"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 75535,
+        "company": {
+          "id": 823,
+          "name": "United Front Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75537,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75534,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75532,
+        "company": {
+          "id": 722,
+          "name": "343 Industries"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 75533,
+        "company": {
+          "id": 57,
+          "name": "Certain Affinity"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75536,
+        "company": {
+          "id": 1359,
+          "name": "Ruffian Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 87635,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 87636,
+        "company": {
+          "id": 3246,
+          "name": "Blur Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 87634,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Halo: The Master Chief Collection",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-the-master-chief-collection",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 22840,
+      "date": 1415664000,
+      "platform": 49
+    },
+    {
+      "id": 454855,
+      "date": 1573689600,
+      "platform": 49
+    },
+    {
+      "id": 215021,
+      "date": 1605571200,
+      "platform": 169
+    },
+    {
+      "id": 180685,
+      "date": 1575331200,
+      "platform": 6
+    }
+  ]
+}

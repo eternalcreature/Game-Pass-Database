@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 198499,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 334865,
+        "company": {
+          "id": 11360,
+          "name": "Playdigious"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 211181,
+        "company": {
+          "id": 16766,
+          "name": "Rundisc"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 303501,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Chants of Sennaar",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/chants-of-sennaar",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 469211,
+      "date": 1693872000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 469212,
+      "date": 1693872000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 781461,
+      "date": 1743379200,
+      "platform": 34
+    },
+    {
+      "id": 469213,
+      "date": 1693872000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 781460,
+      "date": 1756166400,
+      "platform": 39
+    },
+    {
+      "id": 469214,
+      "date": 1693872000,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

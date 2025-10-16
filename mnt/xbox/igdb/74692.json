@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 74692,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 145672,
+        "company": {
+          "id": 8799,
+          "name": "Kitfox Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Boyfriend Dungeon",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/boyfriend-dungeon",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 528367,
+      "date": 1628640000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 528368,
+      "date": 1628640000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 528369,
+      "date": 1628640000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 528370,
+      "date": 1628640000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 528371,
+      "date": 1676332800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 528372,
+      "date": 1628640000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 528373,
+      "date": 1676332800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

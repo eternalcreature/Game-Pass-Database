@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 94085,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 70748,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 70747,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Battlefield 1: Revolution",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-1-revolution",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 159795,
+      "date": 1501545600,
+      "platform": 48
+    },
+    {
+      "id": 303394,
+      "date": 1503273600,
+      "platform": 49
+    },
+    {
+      "id": 159793,
+      "date": 1501545600,
+      "platform": 6
+    }
+  ]
+}

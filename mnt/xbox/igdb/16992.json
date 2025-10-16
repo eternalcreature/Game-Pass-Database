@@ -1,0 +1,156 @@
+{
+  "general": {
+    "id": 16992,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189752,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189753,
+        "company": {
+          "id": 10474,
+          "name": "No Brakes Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 346384,
+        "company": {
+          "id": 19967,
+          "name": "Lab42 Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Human: Fall Flat",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/human-fall-flat",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 394413,
+      "date": 1561507200,
+      "platform": 34
+    },
+    {
+      "id": 800782,
+      "date": 1751241600,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 54502,
+      "date": 1469145600,
+      "platform": 6
+    },
+    {
+      "id": 54504,
+      "date": 1469145600,
+      "platform": 3
+    },
+    {
+      "id": 394414,
+      "date": 1561507200,
+      "platform": 39
+    },
+    {
+      "id": 394415,
+      "date": 1622160000,
+      "platform": 169
+    },
+    {
+      "id": 130970,
+      "date": 1494288000,
+      "platform": 48
+    },
+    {
+      "id": 130969,
+      "date": 1512604800,
+      "platform": 130
+    },
+    {
+      "id": 239666,
+      "date": 1601510400,
+      "platform": 170
+    },
+    {
+      "id": 130971,
+      "date": 1494547200,
+      "platform": 49
+    }
+  ]
+}

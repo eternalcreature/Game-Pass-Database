@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 139135,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 109160,
+        "company": {
+          "id": 28243,
+          "name": "Blastmode"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 109161,
+        "company": {
+          "id": 15320,
+          "name": "MP2 Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 109162,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mighty Goose",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mighty-goose",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 248220,
+      "date": 1622851200,
+      "platform": 130
+    },
+    {
+      "id": 314453,
+      "date": 1632960000,
+      "platform": 49
+    },
+    {
+      "id": 338409,
+      "date": 1622851200,
+      "platform": 130
+    },
+    {
+      "id": 314454,
+      "date": 1632960000,
+      "platform": 169
+    },
+    {
+      "id": 290582,
+      "date": 1622851200,
+      "platform": 48
+    },
+    {
+      "id": 290583,
+      "date": 1622851200,
+      "platform": 167
+    },
+    {
+      "id": 407152,
+      "date": 1622851200,
+      "platform": 3
+    },
+    {
+      "id": 407151,
+      "date": 1622851200,
+      "platform": 14
+    },
+    {
+      "id": 247581,
+      "date": 1622851200,
+      "platform": 6
+    },
+    {
+      "id": 247583,
+      "date": 1622851200,
+      "platform": 49
+    }
+  ]
+}

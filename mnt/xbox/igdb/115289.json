@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 115289,
+    "game_engines": [
+      {
+        "id": 1689,
+        "name": "Unity 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 341345,
+        "company": {
+          "id": 7263,
+          "name": "Team Cherry"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hollow Knight: Silksong",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hollow-knight-silksong",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 789230,
+      "date": 1756944000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 789227,
+      "date": 1756944000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 789231,
+      "date": 1756944000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 789229,
+      "date": 1756944000,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 789232,
+      "date": 1756944000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 789226,
+      "date": 1756944000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 789233,
+      "date": 1756944000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 789228,
+      "date": 1756944000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 789234,
+      "date": 1756944000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

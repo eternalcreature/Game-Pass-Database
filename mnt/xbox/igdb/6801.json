@@ -1,0 +1,181 @@
+{
+  "general": {
+    "id": 6801,
+    "game_engines": [
+      {
+        "id": 118,
+        "name": "Dunia Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17339,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 75119,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75120,
+        "company": {
+          "id": 717,
+          "name": "Red Storm Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75121,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 75118,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 276557,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Far Cry 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/far-cry-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 18948,
+      "date": 1416268800,
+      "platform": 49
+    },
+    {
+      "id": 18946,
+      "date": 1416268800,
+      "platform": 9
+    },
+    {
+      "id": 133650,
+      "date": 1416528000,
+      "platform": 48
+    },
+    {
+      "id": 129684,
+      "date": 1416268800,
+      "platform": 48
+    },
+    {
+      "id": 18945,
+      "date": 1416268800,
+      "platform": 48
+    },
+    {
+      "id": 102998,
+      "date": 1416528000,
+      "platform": 9
+    },
+    {
+      "id": 18956,
+      "date": 1416268800,
+      "platform": 12
+    },
+    {
+      "id": 102997,
+      "date": 1416268800,
+      "platform": 9
+    },
+    {
+      "id": 18955,
+      "date": 1416268800,
+      "platform": 6
+    },
+    {
+      "id": 328185,
+      "platform": 170
+    }
+  ]
+}

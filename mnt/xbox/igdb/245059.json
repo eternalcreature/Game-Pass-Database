@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 245059,
+    "game_engines": [
+      {
+        "id": 314,
+        "name": "Dagor Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 210114,
+        "company": {
+          "id": 1018,
+          "name": "Gaijin Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "War Thunder Mobile",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/war-thunder-mobile",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 614118,
+      "date": 1692057600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 614119,
+      "date": 1692057600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 614021,
+      "date": 1692057600,
+      "platform": 34
+    }
+  ]
+}

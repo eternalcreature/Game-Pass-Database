@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 146160,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 126489,
+        "company": {
+          "id": 19078,
+          "name": "Cold Symmetry"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 126490,
+        "company": {
+          "id": 15299,
+          "name": "Playstack"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mortal Shell: Enhanced Edition",
+    "parent_game": 132050,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mortal-shell-enhanced-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 240371,
+      "date": 1619136000,
+      "platform": 169
+    },
+    {
+      "id": 454878,
+      "date": 1597708800,
+      "platform": 49
+    },
+    {
+      "id": 454879,
+      "date": 1597708800,
+      "platform": 169
+    },
+    {
+      "id": 327685,
+      "date": 1614816000,
+      "platform": 167
+    }
+  ]
+}

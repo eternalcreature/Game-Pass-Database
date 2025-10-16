@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2018-08-20",
-    "release_date": null,
+    "release_date": "2018-08-28",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -74,12 +74,33 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-08-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-11-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 78550,
-      "name": "Bad North",
-      "url": "https://www.igdb.com/games/bad-north",
+      "id": 122659,
+      "name": "Bad North: Jotunn Edition",
+      "url": "https://www.igdb.com/games/bad-north-jotunn-edition",
       "publishers": [
         "Raw Fury"
       ],
@@ -87,11 +108,10 @@
         "Plausible Concept"
       ],
       "genres": [
-        "Puzzle",
         "Real Time Strategy (RTS)",
         "Simulator",
         "Strategy",
-        "Adventure",
+        "Tactical",
         "Indie"
       ],
       "themes": [
@@ -104,7 +124,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Unity 2018"
+      ],
+      "game_type": "update",
+      "release_dates": {
+        "release_date": "2018-08-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-11-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

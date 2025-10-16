@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 19241,
+    "game_engines": [
+      {
+        "id": 174,
+        "name": "PhyreEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130668,
+        "company": {
+          "id": 2297,
+          "name": "ColdWood Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 192589,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Unravel Two",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/unravel-two",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 676673,
+      "date": 1528502400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 676674,
+      "date": 1528502400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 676675,
+      "date": 1528502400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 676672,
+      "date": 1553212800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 37026,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 340109,
+        "company": {
+          "id": 17638,
+          "name": "Magic Design Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 340110,
+        "company": {
+          "id": 67509,
+          "name": "Perfect Game Speed"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Unruly Heroes",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/unruly-heroes",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 243537,
+      "date": 1614729600,
+      "platform": 39
+    },
+    {
+      "id": 243538,
+      "date": 1616025600,
+      "platform": 39
+    },
+    {
+      "id": 164032,
+      "date": 1548201600,
+      "platform": 130
+    },
+    {
+      "id": 164033,
+      "date": 1548201600,
+      "platform": 6
+    },
+    {
+      "id": 164072,
+      "date": 1548201600,
+      "platform": 49
+    },
+    {
+      "id": 243539,
+      "date": 1616025600,
+      "platform": 34
+    },
+    {
+      "id": 170246,
+      "date": 1559001600,
+      "platform": 48
+    }
+  ]
+}

@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2021-08-12",
-    "release_date": null,
+    "release_date": "2021-08-12",
     "platforms": [
       "PC",
       "XboxOne",
@@ -94,35 +94,68 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-08-12",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-08-12"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-23"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 127352,
-      "name": "Naraka: Bladepoint",
-      "url": "https://www.igdb.com/games/naraka-bladepoint",
-      "publishers": [
-        "NetEase Games Montr\u00e9al"
-      ],
-      "developers": [
-        "24 Entertainment"
-      ],
-      "genres": [
-        "Fighting",
-        "Hack and slash/Beat 'em up"
-      ],
+      "id": 169169,
+      "name": "Naraka: Bladepoint - Deluxe Edition",
+      "url": "https://www.igdb.com/games/naraka-bladepoint-deluxe-edition",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
       "themes": [
-        "Action",
-        "Fantasy"
+        "Action"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
-        "Co-operative",
-        "Battle Royale"
+        "Co-operative"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-06-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-23"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

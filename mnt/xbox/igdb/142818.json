@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 142818,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 117823,
+        "company": {
+          "id": 5961,
+          "name": "The Coalition"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 117824,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Gears 5: Game of the Year Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gears-5-game-of-the-year-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 226237,
+      "date": 1607990400,
+      "platform": 169
+    },
+    {
+      "id": 226238,
+      "date": 1607990400,
+      "platform": 6
+    },
+    {
+      "id": 226249,
+      "date": 1607990400,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 106857,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 335718,
+        "company": {
+          "id": 16140,
+          "name": "1P2P Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 335719,
+        "company": {
+          "id": 16141,
+          "name": "The Arcade Crew"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Young Souls",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/young-souls",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 314180,
+      "date": 1629158400,
+      "platform": 170
+    },
+    {
+      "id": 446031,
+      "date": 1646870400,
+      "platform": 130
+    },
+    {
+      "id": 399714,
+      "date": 1646870400,
+      "platform": 6
+    },
+    {
+      "id": 347736,
+      "date": 1646870400,
+      "platform": 49
+    },
+    {
+      "id": 348071,
+      "date": 1646870400,
+      "platform": 48
+    },
+    {
+      "id": 348243,
+      "date": 1646870400,
+      "platform": 169
+    },
+    {
+      "id": 348244,
+      "date": 1646870400,
+      "platform": 167
+    }
+  ]
+}

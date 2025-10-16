@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 204628,
+    "game_engines": [
+      {
+        "id": 1487,
+        "name": "Katana Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175268,
+        "company": {
+          "id": 769,
+          "name": "Team NINJA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 175269,
+        "company": {
+          "id": 858,
+          "name": "Koei Tecmo Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wo Long: Fallen Dynasty",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wo-long-fallen-dynasty",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 399585,
+      "date": 1677801600,
+      "platform": 169
+    },
+    {
+      "id": 399582,
+      "date": 1677801600,
+      "platform": 167
+    },
+    {
+      "id": 399583,
+      "date": 1677801600,
+      "platform": 48
+    },
+    {
+      "id": 399584,
+      "date": 1677801600,
+      "platform": 49
+    },
+    {
+      "id": 399586,
+      "date": 1677801600,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 3025,
+    "game_engines": [
+      {
+        "id": 1716,
+        "name": "LithTech 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18435,
+        "company": {
+          "id": 407,
+          "name": "Monolith Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 96763,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 96762,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 51831,
+        "company": {
+          "id": 1260,
+          "name": "Behaviour Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Middle-earth: Shadow of Mordor",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/middle-earth-shadow-of-mordor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 20649,
+      "date": 1416268800,
+      "platform": 12
+    },
+    {
+      "id": 113810,
+      "date": 1438214400,
+      "platform": 3
+    },
+    {
+      "id": 21146,
+      "date": 1412294400,
+      "platform": 49
+    },
+    {
+      "id": 21145,
+      "date": 1419465600,
+      "platform": 48
+    },
+    {
+      "id": 21140,
+      "date": 1412035200,
+      "platform": 6
+    },
+    {
+      "id": 113811,
+      "date": 1438214400,
+      "platform": 14
+    },
+    {
+      "id": 21152,
+      "date": 1416960000,
+      "platform": 9
+    },
+    {
+      "id": 117713,
+      "date": 1438214400,
+      "platform": 3
+    },
+    {
+      "id": 21149,
+      "date": 1416528000,
+      "platform": 12
+    },
+    {
+      "id": 21153,
+      "date": 1419465600,
+      "platform": 9
+    }
+  ]
+}

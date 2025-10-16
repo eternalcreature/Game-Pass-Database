@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 129483,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98554,
+        "company": {
+          "id": 6549,
+          "name": "Good Shepherd Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 98555,
+        "company": {
+          "id": 19592,
+          "name": "Shiny Shoe"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Monster Train",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/monster-train",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 621714,
+      "date": 1666828800,
+      "platform": 39
+    },
+    {
+      "id": 235308,
+      "date": 1608076800,
+      "platform": 169
+    },
+    {
+      "id": 195277,
+      "date": 1590019200,
+      "platform": 6
+    },
+    {
+      "id": 621715,
+      "date": 1629331200,
+      "platform": 130
+    },
+    {
+      "id": 621713,
+      "date": 1721865600,
+      "platform": 167
+    },
+    {
+      "id": 235307,
+      "date": 1608076800,
+      "platform": 49
+    }
+  ]
+}

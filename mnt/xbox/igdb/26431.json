@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 26431,
+    "game_engines": [
+      {
+        "id": 314,
+        "name": "Dagor Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43945,
+        "company": {
+          "id": 11994,
+          "name": "Darkflow Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 70182,
+        "company": {
+          "id": 1018,
+          "name": "Gaijin Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Enlisted",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/enlisted",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 619012,
+      "date": 1721088000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 619013,
+      "date": 1633305600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 619011,
+      "date": 1617840000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 619016,
+      "date": 1617840000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 623747,
+      "date": 1721088000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 619014,
+      "date": 1617840000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 619015,
+      "date": 1604966400,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

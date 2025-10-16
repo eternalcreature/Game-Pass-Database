@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 309472,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 346327,
+        "company": {
+          "id": 53109,
+          "name": "Maximum Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Overthrown",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/overthrown",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 803107,
+      "date": 1760572800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 803105,
+      "date": 1733356800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 803106,
+      "date": 1760572800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 803104,
+      "date": 1760572800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 669227,
+      "date": 1733356800,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

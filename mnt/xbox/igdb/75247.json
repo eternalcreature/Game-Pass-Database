@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 75247,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130470,
+        "company": {
+          "id": 3122,
+          "name": "Deconstructeam"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130471,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Red Strings Club",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-red-strings-club",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136546,
+      "date": 1516579200,
+      "platform": 6
+    },
+    {
+      "id": 166218,
+      "date": 1552521600,
+      "platform": 130
+    },
+    {
+      "id": 226433,
+      "date": 1516579200,
+      "platform": 14
+    },
+    {
+      "id": 226434,
+      "date": 1516579200,
+      "platform": 3
+    }
+  ]
+}

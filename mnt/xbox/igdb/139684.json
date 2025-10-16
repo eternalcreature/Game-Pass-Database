@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 139684,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 157247,
+        "company": {
+          "id": 13700,
+          "name": "Flashbulb Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Rubber Bandits",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rubber-bandits",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 326499,
+      "date": 1638403200,
+      "platform": 6
+    },
+    {
+      "id": 326501,
+      "date": 1638403200,
+      "platform": 169
+    },
+    {
+      "id": 326502,
+      "date": 1638403200,
+      "platform": 48
+    },
+    {
+      "id": 326503,
+      "date": 1638403200,
+      "platform": 167
+    },
+    {
+      "id": 438141,
+      "date": 1674086400,
+      "platform": 130
+    },
+    {
+      "id": 326500,
+      "date": 1638403200,
+      "platform": 49
+    }
+  ]
+}

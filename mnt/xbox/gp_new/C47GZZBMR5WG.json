@@ -83,7 +83,30 @@
       "player_perspectives": [
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-11-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-21"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-27"
+        }
+      }
     }
   },
   "steam_store_meta": {}

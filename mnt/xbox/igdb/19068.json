@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 19068,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96599,
+        "company": {
+          "id": 6135,
+          "name": "Milkstone Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Pharaonic",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pharaonic",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 120087,
+      "date": 1461801600,
+      "platform": 6
+    },
+    {
+      "id": 137021,
+      "date": 1468368000,
+      "platform": 49
+    },
+    {
+      "id": 50460,
+      "date": 1461801600,
+      "platform": 14
+    },
+    {
+      "id": 123443,
+      "date": 1461801600,
+      "platform": 14
+    },
+    {
+      "id": 166465,
+      "date": 1461801600,
+      "platform": 48
+    },
+    {
+      "id": 50461,
+      "date": 1461801600,
+      "platform": 3
+    }
+  ]
+}

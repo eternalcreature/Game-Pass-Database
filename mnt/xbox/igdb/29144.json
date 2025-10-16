@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 29144,
+    "game_engines": [
+      {
+        "id": 601,
+        "name": "Unity 2018"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 281007,
+        "company": {
+          "id": 18535,
+          "name": "Megagon Industries"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 307868,
+        "company": {
+          "id": 18535,
+          "name": "Megagon Industries"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 319285,
+        "company": {
+          "id": 16337,
+          "name": "Thunderful"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Lonely Mountains: Downhill",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lonely-mountains-downhill",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 628155,
+      "date": 1571788800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 628151,
+      "date": 1571788800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 628152,
+      "date": 1588809600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 628153,
+      "date": 1571788800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 628154,
+      "date": 1571788800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

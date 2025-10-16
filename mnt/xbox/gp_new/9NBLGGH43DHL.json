@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2016-08-31",
-    "release_date": null,
+    "release_date": "2016-12-13",
     "platforms": [
       "PC"
     ]
@@ -64,7 +64,28 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2016-08-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-08-31"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-03-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

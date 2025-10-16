@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 204533,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 287675,
+        "company": {
+          "id": 41754,
+          "name": "Galla"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 287676,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kulebra and the Souls of Limbo",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kulebra-and-the-souls-of-limbo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 736596,
+      "date": 1747353600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 736597,
+      "date": 1747353600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 736598,
+      "date": 1747353600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 736595,
+      "date": 1747353600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 736594,
+      "date": 1747353600,
+      "platform": 3,
+      "status": 6
+    }
+  ]
+}

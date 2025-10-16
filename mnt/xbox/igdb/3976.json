@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 3976,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 328661,
+        "company": {
+          "id": 1973,
+          "name": "Twisted Pixel"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 328662,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 328663,
+        "company": {
+          "id": 1051,
+          "name": "Hothead Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "The Maw",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-maw",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 229523,
+      "date": 1232496000,
+      "platform": 12
+    },
+    {
+      "id": 409964,
+      "date": 1236556800,
+      "platform": 6
+    }
+  ]
+}

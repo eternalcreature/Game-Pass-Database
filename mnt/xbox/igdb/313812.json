@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 313812,
+    "game_engines": [
+      {
+        "id": 1847,
+        "name": "Unity 2022"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 283014,
+        "company": {
+          "id": 18535,
+          "name": "Megagon Industries"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Lonely Mountains: Snow Riders",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lonely-mountains-snow-riders",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 690319,
+      "date": 1737417600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 693073,
+      "date": 1737417600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

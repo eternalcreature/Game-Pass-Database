@@ -1,0 +1,45 @@
+{
+  "general": {
+    "id": 322108,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 295348,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Warcraft I: Remastered",
+    "parent_game": 129,
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/warcraft-i-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 664898,
+      "date": 1731456000,
+      "platform": 6
+    }
+  ]
+}

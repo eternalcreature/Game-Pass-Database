@@ -17,7 +17,7 @@
         "9PLF73SS7M6J"
       ]
     ],
-    "original_release_date": "2022-06-30",
+    "original_release_date": "2021-08-05",
     "release_date": null,
     "platforms": [
       "PC"
@@ -83,7 +83,30 @@
       "player_perspectives": [
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Snowdrop"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-08-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

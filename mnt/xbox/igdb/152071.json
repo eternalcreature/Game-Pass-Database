@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 152071,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 240862,
+        "company": {
+          "id": 34913,
+          "name": "Wishfully"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 240863,
+        "company": {
+          "id": 16337,
+          "name": "Thunderful"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Planet of Lana",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/planet-of-lana",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 495093,
+      "date": 1684800000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 495092,
+      "date": 1684800000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 573751,
+      "date": 1713225600,
+      "platform": 167
+    },
+    {
+      "id": 573749,
+      "date": 1713225600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 495091,
+      "date": 1684800000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 573750,
+      "date": 1713225600,
+      "platform": 48
+    }
+  ]
+}

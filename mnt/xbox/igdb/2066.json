@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 2066,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42348,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 16092,
+        "company": {
+          "id": 2821,
+          "name": "Eighting"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "parent_game": 8248,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ultimate-marvel-vs-capcom-3",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 4311,
+      "date": 1321315200,
+      "platform": 12
+    },
+    {
+      "id": 61751,
+      "date": 1480723200,
+      "platform": 48
+    },
+    {
+      "id": 23589,
+      "date": 1329264000,
+      "platform": 46
+    },
+    {
+      "id": 4312,
+      "date": 1321315200,
+      "platform": 9
+    },
+    {
+      "id": 134314,
+      "date": 1329868800,
+      "platform": 46
+    },
+    {
+      "id": 64584,
+      "date": 1488844800,
+      "platform": 49
+    },
+    {
+      "id": 106645,
+      "date": 1480723200,
+      "platform": 48
+    },
+    {
+      "id": 136421,
+      "date": 1488844800,
+      "platform": 49
+    },
+    {
+      "id": 410685,
+      "date": 1488758400,
+      "platform": 6
+    },
+    {
+      "id": 106644,
+      "date": 1480723200,
+      "platform": 48
+    }
+  ]
+}

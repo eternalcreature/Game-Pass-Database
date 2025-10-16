@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 11148,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 24904,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 98072,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Plants vs. Zombies: Garden Warfare 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 42993,
+      "date": 1456358400,
+      "platform": 48
+    },
+    {
+      "id": 42989,
+      "date": 1456185600,
+      "platform": 49
+    },
+    {
+      "id": 42995,
+      "date": 1456358400,
+      "platform": 49
+    },
+    {
+      "id": 306888,
+      "date": 1456358400,
+      "platform": 6
+    },
+    {
+      "id": 306887,
+      "date": 1456358400,
+      "platform": 6
+    },
+    {
+      "id": 104948,
+      "date": 1456358400,
+      "platform": 48
+    },
+    {
+      "id": 104947,
+      "date": 1456185600,
+      "platform": 48
+    },
+    {
+      "id": 42992,
+      "date": 1456358400,
+      "platform": 49
+    }
+  ]
+}

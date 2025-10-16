@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 26948,
+    "game_engines": [
+      {
+        "id": 99,
+        "name": "Ego Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43944,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 72159,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dirt 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dirt-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 84055,
+      "date": 1496966400,
+      "platform": 49
+    },
+    {
+      "id": 84056,
+      "date": 1500854400,
+      "platform": 48
+    },
+    {
+      "id": 84051,
+      "date": 1496966400,
+      "platform": 49
+    },
+    {
+      "id": 102550,
+      "date": 1496966400,
+      "platform": 48
+    },
+    {
+      "id": 84054,
+      "date": 1496966400,
+      "platform": 48
+    },
+    {
+      "id": 166949,
+      "date": 1553731200,
+      "platform": 14
+    },
+    {
+      "id": 84049,
+      "date": 1496966400,
+      "platform": 6
+    },
+    {
+      "id": 84057,
+      "date": 1500854400,
+      "platform": 49
+    },
+    {
+      "id": 84053,
+      "date": 1496707200,
+      "platform": 49
+    },
+    {
+      "id": 166948,
+      "date": 1553731200,
+      "platform": 3
+    }
+  ]
+}

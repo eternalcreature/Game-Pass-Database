@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 118565,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105024,
+        "company": {
+          "id": 20167,
+          "name": "Final Strike Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 105025,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 232075,
+        "company": {
+          "id": 38591,
+          "name": "Pingle Game Studio"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Rocket Arena",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rocket-arena",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 203040,
+      "date": 1594684800,
+      "platform": 48
+    },
+    {
+      "id": 200822,
+      "date": 1594684800,
+      "platform": 49
+    },
+    {
+      "id": 414698,
+      "date": 1594598400,
+      "platform": 6
+    }
+  ]
+}

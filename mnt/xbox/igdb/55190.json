@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 55190,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 109453,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 109454,
+        "company": {
+          "id": 18466,
+          "name": "Sectordub"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 290027,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Pikuniku",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pikuniku",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 212486,
+      "date": 1548288000,
+      "platform": 6
+    },
+    {
+      "id": 212487,
+      "date": 1548288000,
+      "platform": 14
+    },
+    {
+      "id": 212488,
+      "date": 1548288000,
+      "platform": 3
+    },
+    {
+      "id": 329418,
+      "date": 1548288000,
+      "platform": 130
+    },
+    {
+      "id": 239714,
+      "date": 1612828800,
+      "platform": 170
+    },
+    {
+      "id": 329419,
+      "date": 1583971200,
+      "platform": 49
+    }
+  ]
+}

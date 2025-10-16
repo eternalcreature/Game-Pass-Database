@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 143061,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277975,
+        "company": {
+          "id": 31614,
+          "name": "Stairway Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 277976,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Coral Island",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/coral-island",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 555192,
+      "date": 1665446400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 555350,
+      "date": 1665446400,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 555190,
+      "date": 1699920000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 538044,
+      "date": 1699920000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 555191,
+      "date": 1699920000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

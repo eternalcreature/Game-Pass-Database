@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 143737,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130549,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Blizzard Arcade Collection",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/blizzard-arcade-collection",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 339467,
+      "date": 1613692800,
+      "platform": 130
+    },
+    {
+      "id": 248890,
+      "date": 1613692800,
+      "platform": 130
+    },
+    {
+      "id": 229239,
+      "date": 1613779200,
+      "platform": 6
+    },
+    {
+      "id": 229242,
+      "date": 1613779200,
+      "platform": 48
+    },
+    {
+      "id": 229240,
+      "date": 1613779200,
+      "platform": 130
+    },
+    {
+      "id": 229241,
+      "date": 1613779200,
+      "platform": 49
+    }
+  ]
+}

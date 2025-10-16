@@ -12,7 +12,7 @@
         "BRQ7QHZDWV1C"
       ]
     ],
-    "original_release_date": "2015-07-10",
+    "original_release_date": "2015-06-12",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -62,7 +62,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Ego Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-06-12",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-06-12"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-06-12"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

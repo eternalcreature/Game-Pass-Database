@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 121762,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      },
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 281169,
+        "company": {
+          "id": 7100,
+          "name": "ROCKFISH Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Everspace 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/everspace-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 490750,
+      "date": 1692057600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 465200,
+      "date": 1610928000,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 465194,
+      "date": 1680739200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 489816,
+      "date": 1692057600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 626637,
+      "date": 1696204800,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

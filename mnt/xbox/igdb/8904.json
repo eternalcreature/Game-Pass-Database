@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 8904,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38747,
+        "company": {
+          "id": 4714,
+          "name": "Ostrich Banditos"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 38748,
+        "company": {
+          "id": 4440,
+          "name": "Adult Swim Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Westerado: Double Barreled",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/westerado-double-barreled",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136449,
+      "date": 1481241600,
+      "platform": 49
+    },
+    {
+      "id": 55459,
+      "date": 1483142400,
+      "platform": 49
+    },
+    {
+      "id": 28921,
+      "date": 1429142400,
+      "platform": 14
+    },
+    {
+      "id": 28920,
+      "date": 1429142400,
+      "platform": 6
+    }
+  ]
+}

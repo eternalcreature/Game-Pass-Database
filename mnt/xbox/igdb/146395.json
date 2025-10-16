@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 146395,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 155792,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 155793,
+        "company": {
+          "id": 13168,
+          "name": "Springloaded"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Let's Build a Zoo",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lets-build-a-zoo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 390050,
+      "date": 1664409600,
+      "platform": 169
+    },
+    {
+      "id": 323556,
+      "date": 1636070400,
+      "platform": 6
+    },
+    {
+      "id": 390053,
+      "date": 1664409600,
+      "platform": 48
+    },
+    {
+      "id": 390054,
+      "date": 1664409600,
+      "platform": 130
+    },
+    {
+      "id": 390051,
+      "date": 1664409600,
+      "platform": 167
+    },
+    {
+      "id": 390052,
+      "date": 1664409600,
+      "platform": 49
+    }
+  ]
+}

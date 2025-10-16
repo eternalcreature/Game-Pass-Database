@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 204626,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175173,
+        "company": {
+          "id": 8035,
+          "name": "Cococucumber"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ravenlok",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ravenlok",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 494753,
+      "date": 1683158400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 494754,
+      "date": 1683158400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494755,
+      "date": 1683158400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2021-05-05",
-    "release_date": null,
+    "release_date": "2021-05-07",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -90,7 +90,28 @@
         "Single player",
         "Co-operative"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2021-05-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-05-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-05-07"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-05-07"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

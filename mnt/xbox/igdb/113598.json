@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 113598,
+    "game_engines": [
+      {
+        "id": 337,
+        "name": "Void Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 101641,
+        "company": {
+          "id": 19,
+          "name": "Arkane Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 101640,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Deathloop",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deathloop",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 389818,
+      "date": 1663632000,
+      "platform": 169
+    },
+    {
+      "id": 237613,
+      "date": 1631577600,
+      "platform": 6
+    },
+    {
+      "id": 237614,
+      "date": 1631577600,
+      "platform": 167
+    }
+  ]
+}

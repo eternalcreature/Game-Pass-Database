@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 119270,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190353,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 190354,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Tales of Arise",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tales-of-arise",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 240020,
+      "date": 1631232000,
+      "platform": 48
+    },
+    {
+      "id": 240023,
+      "date": 1631232000,
+      "platform": 169
+    },
+    {
+      "id": 240021,
+      "date": 1631232000,
+      "platform": 6
+    },
+    {
+      "id": 240019,
+      "date": 1631232000,
+      "platform": 49
+    },
+    {
+      "id": 327778,
+      "date": 1631232000,
+      "platform": 167
+    }
+  ]
+}

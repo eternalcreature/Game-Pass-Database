@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 119304,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 205210,
+        "company": {
+          "id": 7097,
+          "name": "Thunder Lotus"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Spiritfarer",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spiritfarer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 207076,
+      "date": 1597708800,
+      "platform": 48
+    },
+    {
+      "id": 206933,
+      "date": 1597708800,
+      "platform": 130
+    },
+    {
+      "id": 207075,
+      "date": 1597708800,
+      "platform": 6
+    },
+    {
+      "id": 207077,
+      "date": 1597708800,
+      "platform": 14
+    },
+    {
+      "id": 207074,
+      "date": 1597708800,
+      "platform": 49
+    },
+    {
+      "id": 207078,
+      "date": 1597708800,
+      "platform": 3
+    },
+    {
+      "id": 239656,
+      "date": 1597968000,
+      "platform": 170
+    }
+  ]
+}

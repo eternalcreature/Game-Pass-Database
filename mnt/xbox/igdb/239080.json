@@ -1,0 +1,55 @@
+{
+  "general": {
+    "id": 239080,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 204779,
+        "company": {
+          "id": 9453,
+          "name": "Landfall Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Totally Accurate Battle Simulator: Bug DLC",
+    "parent_game": 21642,
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/totally-accurate-battle-simulator-bug-dlc",
+    "game_type": 13
+  },
+  "release_dates": [
+    {
+      "id": 454333,
+      "date": 1585699200,
+      "platform": 6
+    }
+  ]
+}

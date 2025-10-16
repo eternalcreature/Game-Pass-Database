@@ -1,0 +1,187 @@
+{
+  "general": {
+    "id": 2738,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 224288,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 318048,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 318049,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 318050,
+        "company": {
+          "id": 1289,
+          "name": "DC Comics"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 319270,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 319271,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 319272,
+        "company": {
+          "id": 1289,
+          "name": "DC Comics"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "LEGO Batman: The Videogame",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-batman-the-videogame",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 733925,
+      "date": 1222128000,
+      "platform": 8,
+      "status": 6
+    },
+    {
+      "id": 733924,
+      "date": 1223596800,
+      "platform": 8,
+      "status": 6
+    },
+    {
+      "id": 733926,
+      "date": 1224028800,
+      "platform": 8,
+      "status": 6
+    },
+    {
+      "id": 733927,
+      "date": 1223596800,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 733928,
+      "date": 1222128000,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 733929,
+      "date": 1224028800,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 497759,
+      "date": 1239235200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 497757,
+      "date": 1224028800,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 497753,
+      "date": 1223596800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 497755,
+      "date": 1223596800,
+      "platform": 9,
+      "status": 6
+    }
+  ]
+}

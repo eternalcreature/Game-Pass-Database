@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 3704,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 9567,
+        "company": {
+          "id": 1883,
+          "name": "Vector Unit"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 9566,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Hydro Thunder Hurricane",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hydro-thunder-hurricane",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 231336,
+      "date": 1280275200,
+      "platform": 12
+    },
+    {
+      "id": 8352,
+      "date": 1280275200,
+      "platform": 6
+    }
+  ]
+}

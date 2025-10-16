@@ -12,8 +12,8 @@
         "9N42CT1J5WGW"
       ]
     ],
-    "original_release_date": "1997-09-30",
-    "release_date": null,
+    "original_release_date": "1997-10-10",
+    "release_date": "2021-06-13",
     "platforms": [
       "PC"
     ]
@@ -79,23 +79,45 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Fallout Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1997-10-10",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "1997-10-10"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 13,
-      "name": "Fallout: A Post Nuclear Role Playing Game",
-      "url": "https://www.igdb.com/games/fallout-a-post-nuclear-role-playing-game",
+      "id": 14,
+      "name": "Fallout 2",
+      "url": "https://www.igdb.com/games/fallout-2",
       "publishers": [
         "Bethesda Softworks",
-        "Edusoft",
         "Interplay Entertainment",
         "MacPlay"
       ],
       "developers": [
-        "Black Isle Studios",
-        "Interplay Entertainment"
+        "Black Isle Studios"
       ],
       "genres": [
+        "Puzzle",
         "Role-playing (RPG)",
         "Turn-based strategy (TBS)"
       ],
@@ -103,6 +125,7 @@
         "Science fiction",
         "Survival",
         "Stealth",
+        "Comedy",
         "Open world"
       ],
       "game_modes": [
@@ -110,7 +133,28 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1998-10-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "1998-10-29"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

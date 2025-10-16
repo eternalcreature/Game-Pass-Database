@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 133308,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 229456,
+        "company": {
+          "id": 4598,
+          "name": "Bloober Team"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Medium",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-medium",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 487473,
+      "date": 1611792000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 510517,
+      "date": 1693440000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 487471,
+      "date": 1611792000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 487472,
+      "date": 1630627200,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

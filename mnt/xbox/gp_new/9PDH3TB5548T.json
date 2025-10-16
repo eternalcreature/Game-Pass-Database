@@ -17,7 +17,7 @@
         "BZ2N7TQ0XCF2"
       ]
     ],
-    "original_release_date": "2018-11-15",
+    "original_release_date": "2018-11-20",
     "release_date": null,
     "platforms": [
       "PC"
@@ -83,12 +83,35 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-11-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-11-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-11-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 83728,
-      "name": "Battlefield V",
-      "url": "https://www.igdb.com/games/battlefield-v",
+      "id": 134372,
+      "name": "Battlefield V: Year 2 Edition",
+      "url": "https://www.igdb.com/games/battlefield-v-year-2-edition",
       "publishers": [
         "Electronic Arts"
       ],
@@ -99,18 +122,35 @@
         "Shooter"
       ],
       "themes": [
-        "Action",
-        "Historical",
-        "Warfare"
+        "Action"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative"
+        "Single player"
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-10-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-10-31"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

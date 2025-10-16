@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 214675,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184803,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189966,
+        "company": {
+          "id": 27222,
+          "name": "EA Vancouver"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "NHL 23",
+    "url": "https://www.igdb.com/games/nhl-23",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 383735,
+      "date": 1665705600,
+      "platform": 49
+    },
+    {
+      "id": 383736,
+      "date": 1665705600,
+      "platform": 48
+    },
+    {
+      "id": 383733,
+      "date": 1665705600,
+      "platform": 169
+    },
+    {
+      "id": 383734,
+      "date": 1665705600,
+      "platform": 167
+    }
+  ]
+}

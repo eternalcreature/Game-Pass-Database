@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 135243,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 187543,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 187544,
+        "company": {
+          "id": 12901,
+          "name": "Hazelight Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 296397,
+        "company": {
+          "id": 59778,
+          "name": "Turn Me Up Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "It Takes Two",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/it-takes-two",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 539829,
+      "date": 1616716800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 539825,
+      "date": 1667520000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 539828,
+      "date": 1616716800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 539826,
+      "date": 1616630400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 539827,
+      "date": 1616716800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 539830,
+      "date": 1616716800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

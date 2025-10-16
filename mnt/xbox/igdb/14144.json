@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 14144,
+    "game_engines": [
+      {
+        "id": 174,
+        "name": "PhyreEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 131347,
+        "company": {
+          "id": 794,
+          "name": "Virtuos"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 132798,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Final Fantasy X/X-2 HD Remaster",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 242849,
+      "date": 1431561600,
+      "platform": 48
+    },
+    {
+      "id": 242850,
+      "date": 1431561600,
+      "platform": 48
+    },
+    {
+      "id": 242848,
+      "date": 1431388800,
+      "platform": 48
+    },
+    {
+      "id": 242851,
+      "date": 1431648000,
+      "platform": 48
+    },
+    {
+      "id": 242856,
+      "date": 1554940800,
+      "platform": 49
+    },
+    {
+      "id": 242854,
+      "date": 1555372800,
+      "platform": 130
+    },
+    {
+      "id": 242852,
+      "date": 1463011200,
+      "platform": 6
+    },
+    {
+      "id": 242843,
+      "date": 1395100800,
+      "platform": 9
+    },
+    {
+      "id": 242844,
+      "date": 1395360000,
+      "platform": 9
+    },
+    {
+      "id": 242842,
+      "date": 1388016000,
+      "platform": 9
+    }
+  ]
+}

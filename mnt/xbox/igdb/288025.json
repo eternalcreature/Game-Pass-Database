@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 288025,
+    "game_engines": [
+      {
+        "id": 667,
+        "name": "Unreal"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 255243,
+        "company": {
+          "id": 2345,
+          "name": "Abstraction Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 255244,
+        "company": {
+          "id": 11262,
+          "name": "Gearbox Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Gigantic: Rampage Edition",
+    "parent_game": 11134,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gigantic-rampage-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 567579,
+      "date": 1712620800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 567580,
+      "date": 1712620800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 567581,
+      "date": 1712620800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 567582,
+      "date": 1712620800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 567583,
+      "date": 1712620800,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

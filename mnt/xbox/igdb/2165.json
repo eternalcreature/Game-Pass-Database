@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 2165,
+    "game_engines": [
+      {
+        "id": 314,
+        "name": "Dagor Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 187855,
+        "company": {
+          "id": 1018,
+          "name": "Gaijin Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "War Thunder",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/war-thunder",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 174536,
+      "date": 1529366400,
+      "platform": 49
+    },
+    {
+      "id": 187494,
+      "date": 1401753600,
+      "platform": 48
+    },
+    {
+      "id": 187491,
+      "date": 1385683200,
+      "platform": 48
+    },
+    {
+      "id": 187493,
+      "date": 1415232000,
+      "platform": 3
+    },
+    {
+      "id": 187492,
+      "date": 1396828800,
+      "platform": 14
+    },
+    {
+      "id": 187490,
+      "date": 1359331200,
+      "platform": 6
+    },
+    {
+      "id": 219224,
+      "date": 1605139200,
+      "platform": 167
+    },
+    {
+      "id": 214355,
+      "date": 1604966400,
+      "platform": 169
+    }
+  ]
+}

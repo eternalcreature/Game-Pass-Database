@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2019-03-12",
-    "release_date": null,
+    "release_date": "2020-08-27",
     "platforms": [
       "PC",
       "XboxOne",
@@ -26,10 +26,6 @@
         "added": "2023-06-06",
         "removed": "2025-06-16"
       },
-      "Ultimate": {
-        "added": "2023-06-06",
-        "removed": "2025-06-16"
-      },
       "PC": {
         "added": "2023-06-06",
         "removed": "2025-06-16"
@@ -37,6 +33,24 @@
       "Premium": {
         "added": "2024-08-12",
         "removed": "2025-06-16"
+      },
+      "Ultimate": {
+        "added": "2023-06-06",
+        "removed": "2025-06-16"
+      }
+    },
+    {
+      "PC": {
+        "added": "2020-08-27",
+        "removed": "2022-02-28"
+      },
+      "Ultimate": {
+        "added": "2020-08-27",
+        "removed": "2022-02-28"
+      },
+      "Console": {
+        "added": "2020-08-27",
+        "removed": "2022-02-28"
       }
     }
   ],
@@ -89,7 +103,30 @@
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [
+        "Construct 2"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-03-12",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-03-12"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-27"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

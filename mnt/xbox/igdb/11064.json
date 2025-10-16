@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 11064,
+    "game_engines": [
+      {
+        "id": 346,
+        "name": "Road Hog Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38601,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 38600,
+        "company": {
+          "id": 420,
+          "name": "Flying Wild Hog"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Shadow Warrior 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadow-warrior-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 157512,
+      "date": 1476316800,
+      "platform": 6
+    },
+    {
+      "id": 67498,
+      "date": 1514678400,
+      "platform": 3
+    },
+    {
+      "id": 55989,
+      "date": 1476316800,
+      "platform": 6
+    },
+    {
+      "id": 303976,
+      "date": 1495152000,
+      "platform": 49
+    },
+    {
+      "id": 67500,
+      "date": 1514678400,
+      "platform": 48
+    },
+    {
+      "id": 105473,
+      "date": 1495152000,
+      "platform": 48
+    },
+    {
+      "id": 157513,
+      "date": 1476316800,
+      "platform": 6
+    },
+    {
+      "id": 67499,
+      "date": 1514678400,
+      "platform": 14
+    },
+    {
+      "id": 105472,
+      "date": 1495152000,
+      "platform": 48
+    }
+  ]
+}

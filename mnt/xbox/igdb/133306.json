@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 133306,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98712,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 198022,
+        "company": {
+          "id": 36498,
+          "name": "Out of the Blue Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Call of the Sea",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/call-of-the-sea",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 793139,
+      "date": 1757376000,
+      "platform": 130
+    },
+    {
+      "id": 218529,
+      "date": 1607385600,
+      "platform": 49
+    },
+    {
+      "id": 218530,
+      "date": 1607385600,
+      "platform": 169
+    },
+    {
+      "id": 218528,
+      "date": 1607385600,
+      "platform": 6
+    },
+    {
+      "id": 243658,
+      "date": 1620691200,
+      "platform": 167
+    },
+    {
+      "id": 243659,
+      "date": 1620691200,
+      "platform": 48
+    }
+  ]
+}

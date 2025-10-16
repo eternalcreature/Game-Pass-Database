@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 132038,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 264355,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 264356,
+        "company": {
+          "id": 24859,
+          "name": "Graceful Decay"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 264357,
+        "company": {
+          "id": 19676,
+          "name": "24 Bit Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Maquette",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/maquette",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 494321,
+      "date": 1684972800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 494322,
+      "date": 1614643200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 494323,
+      "date": 1614643200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 494324,
+      "date": 1614643200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 494325,
+      "date": 1689724800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494326,
+      "date": 1689724800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 125637,
+    "game_engines": [
+      {
+        "id": 574,
+        "name": "Apex"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 132634,
+        "company": {
+          "id": 437,
+          "name": "Avalanche Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 132635,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Just Cause 4: Reloaded",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/just-cause-4-reloaded",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 244501,
+      "date": 1573084800,
+      "platform": 6
+    },
+    {
+      "id": 244503,
+      "date": 1573084800,
+      "platform": 48
+    },
+    {
+      "id": 244502,
+      "date": 1573084800,
+      "platform": 49
+    }
+  ]
+}

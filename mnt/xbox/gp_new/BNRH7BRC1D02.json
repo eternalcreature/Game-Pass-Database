@@ -20,7 +20,7 @@
       ]
     ],
     "original_release_date": "2014-02-18",
-    "release_date": null,
+    "release_date": "2016-02-23",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -87,12 +87,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-02-18",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-02-18"
+        }
+      }
     },
     "specific": {
-      "id": 3146,
-      "name": "Plants vs. Zombies: Garden Warfare",
-      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2e561d33-2b92-408a-92f2-ec79ddcc6c2b",
+      "id": 11148,
+      "name": "Plants vs. Zombies: Garden Warfare 2",
+      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2",
       "publishers": [
         "Electronic Arts"
       ],
@@ -100,23 +123,41 @@
         "PopCap Games"
       ],
       "genres": [
-        "Shooter",
-        "Tactical",
-        "Arcade"
+        "Shooter"
       ],
       "themes": [
         "Action",
-        "Comedy",
-        "Warfare"
+        "Comedy"
       ],
       "game_modes": [
+        "Single player",
         "Multiplayer",
-        "Co-operative",
-        "Split screen"
+        "Co-operative"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-02-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

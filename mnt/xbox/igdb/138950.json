@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 138950,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 181037,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 181038,
+        "company": {
+          "id": 42454,
+          "name": "Capcom Development Division 2"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Monster Hunter Rise",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/monster-hunter-rise",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 428697,
+      "date": 1674172800,
+      "platform": 167
+    },
+    {
+      "id": 428649,
+      "date": 1674172800,
+      "platform": 169
+    },
+    {
+      "id": 428695,
+      "date": 1674172800,
+      "platform": 48
+    },
+    {
+      "id": 211037,
+      "date": 1616716800,
+      "platform": 130
+    },
+    {
+      "id": 314229,
+      "date": 1641945600,
+      "platform": 6
+    },
+    {
+      "id": 428648,
+      "date": 1674172800,
+      "platform": 49
+    }
+  ]
+}

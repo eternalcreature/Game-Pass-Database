@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 282566,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265279,
+        "company": {
+          "id": 2499,
+          "name": "Hi-Rez Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 302422,
+        "company": {
+          "id": 43596,
+          "name": "Titan Forge Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Smite 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/smite-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 691516,
+      "date": 1724716800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 691518,
+      "date": 1724716800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 722608,
+      "date": 1704758400,
+      "platform": 169
+    },
+    {
+      "id": 691517,
+      "date": 1724716800,
+      "platform": 167,
+      "status": 3
+    }
+  ]
+}

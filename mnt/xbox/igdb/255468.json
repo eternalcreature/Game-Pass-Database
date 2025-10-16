@@ -1,0 +1,62 @@
+{
+  "general": {
+    "id": 255468,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 293393,
+        "company": {
+          "id": 1419,
+          "name": "Harebrained Schemes"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 293394,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Lamplighters League: Deluxe Edition",
+    "url": "https://www.igdb.com/games/the-lamplighters-league-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 527648,
+      "date": 1696291200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 527649,
+      "date": 1696291200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

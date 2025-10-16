@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 252853,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219229,
+        "company": {
+          "id": 18628,
+          "name": "Jump Over the Age"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 219230,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Citizen Sleeper 2: Starward Vector",
+    "player_perspectives": [
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/citizen-sleeper-2-starward-vector",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 689558,
+      "date": 1738281600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 673536,
+      "date": 1738281600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 673537,
+      "date": 1738281600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 673538,
+      "date": 1738281600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 673539,
+      "date": 1738281600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

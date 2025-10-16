@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2023-10-13",
-    "release_date": null,
+    "release_date": "2025-10-03",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -89,7 +89,28 @@
         "Co-operative",
         "Split screen"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-10-13",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-13"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-10-13"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
       "id": 370827,
@@ -107,7 +128,28 @@
       "game_modes": [
         "Multiplayer"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-10-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 215060,
+    "game_engines": [
+      {
+        "id": 754,
+        "name": "Ubisoft Anvil"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 231046,
+        "company": {
+          "id": 17064,
+          "name": "Ubisoft Bordeaux"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 231045,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed Mirage",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-mirage",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 515302,
+      "date": 1696464000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 590002,
+      "date": 1717632000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 527083,
+      "date": 1696464000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 527084,
+      "date": 1696464000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 515300,
+      "date": 1696464000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 515301,
+      "date": 1696464000,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

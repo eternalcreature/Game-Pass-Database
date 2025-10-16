@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 24905,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97034,
+        "company": {
+          "id": 11259,
+          "name": "Warm Lamp Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 97033,
+        "company": {
+          "id": 8628,
+          "name": "Alawar Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Beholder",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/beholder",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 251296,
+      "date": 1494979200,
+      "platform": 34
+    },
+    {
+      "id": 150679,
+      "date": 1494979200,
+      "platform": 39
+    },
+    {
+      "id": 60435,
+      "date": 1478649600,
+      "platform": 14
+    },
+    {
+      "id": 60436,
+      "date": 1478649600,
+      "platform": 6
+    },
+    {
+      "id": 60437,
+      "date": 1478649600,
+      "platform": 3
+    },
+    {
+      "id": 119898,
+      "date": 1478649600,
+      "platform": 6
+    }
+  ]
+}

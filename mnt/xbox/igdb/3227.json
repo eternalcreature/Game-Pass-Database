@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 3227,
+    "game_engines": [
+      {
+        "id": 79,
+        "name": "GameMaker: Studio"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129673,
+        "company": {
+          "id": 1653,
+          "name": "Vlambeer"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Nuclear Throne",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nuclear-throne",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 200769,
+      "date": 1449273600,
+      "platform": 14
+    },
+    {
+      "id": 166710,
+      "date": 1553040000,
+      "platform": 130
+    },
+    {
+      "id": 43447,
+      "date": 1449273600,
+      "platform": 46
+    },
+    {
+      "id": 43446,
+      "date": 1449273600,
+      "platform": 48
+    },
+    {
+      "id": 43445,
+      "date": 1449273600,
+      "platform": 6
+    },
+    {
+      "id": 200770,
+      "date": 1449273600,
+      "platform": 3
+    },
+    {
+      "id": 309898,
+      "date": 1631145600,
+      "platform": 49
+    }
+  ]
+}

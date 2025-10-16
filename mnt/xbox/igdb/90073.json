@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 90073,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 195051,
+        "company": {
+          "id": 12587,
+          "name": "Punch Punk Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 195052,
+        "company": {
+          "id": 15182,
+          "name": "Klabater"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Apocalipsis: The Tree of the Knowledge of Good and Evil",
+    "parent_game": 28319,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/apocalipsis-the-tree-of-the-knowledge-of-good-and-evil",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 232874,
+      "date": 1567641600,
+      "platform": 49
+    },
+    {
+      "id": 232876,
+      "date": 1567641600,
+      "platform": 48
+    },
+    {
+      "id": 232877,
+      "date": 1567641600,
+      "platform": 46
+    }
+  ]
+}

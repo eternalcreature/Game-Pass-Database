@@ -1,0 +1,141 @@
+{
+  "general": {
+    "id": 302156,
+    "game_engines": [
+      {
+        "id": 123,
+        "name": "IW Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 267498,
+        "company": {
+          "id": 428,
+          "name": "Treyarch"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 267477,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267499,
+        "company": {
+          "id": 71,
+          "name": "Raven Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Call of Duty: Black Ops 6",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-6",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 602033,
+      "date": 1729814400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 618035,
+      "date": 1729814400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 618033,
+      "date": 1729814400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 618031,
+      "date": 1729814400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 618029,
+      "date": 1729814400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 632247,
+      "date": 1725580800,
+      "platform": 49,
+      "status": 2
+    },
+    {
+      "id": 632246,
+      "date": 1725580800,
+      "platform": 167,
+      "status": 2
+    },
+    {
+      "id": 632248,
+      "date": 1725580800,
+      "platform": 169,
+      "status": 2
+    },
+    {
+      "id": 632245,
+      "date": 1725580800,
+      "platform": 48,
+      "status": 2
+    },
+    {
+      "id": 632244,
+      "date": 1725580800,
+      "platform": 6,
+      "status": 2
+    }
+  ]
+}

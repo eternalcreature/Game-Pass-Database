@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 103342,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65584,
+        "company": {
+          "id": 15693,
+          "name": "Liquid Bit, LLC"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 65583,
+        "company": {
+          "id": 15423,
+          "name": "Bumblebear Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129681,
+        "company": {
+          "id": 15693,
+          "name": "Liquid Bit, LLC"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 240961,
+        "company": {
+          "id": 16412,
+          "name": "Liquid Bit"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Killer Queen Black",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/killer-queen-black",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 175735,
+      "date": 1570752000,
+      "platform": 6
+    },
+    {
+      "id": 175736,
+      "date": 1570752000,
+      "platform": 130
+    },
+    {
+      "id": 219895,
+      "date": 1570752000,
+      "platform": 14
+    },
+    {
+      "id": 339740,
+      "date": 1571875200,
+      "platform": 130
+    },
+    {
+      "id": 291042,
+      "date": 1614038400,
+      "platform": 49
+    },
+    {
+      "id": 239737,
+      "date": 1617062400,
+      "platform": 170
+    }
+  ]
+}

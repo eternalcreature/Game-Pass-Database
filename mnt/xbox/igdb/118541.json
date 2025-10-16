@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 118541,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 191543,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 191542,
+        "company": {
+          "id": 17183,
+          "name": "HAMSTER"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "ACA Neo Geo: Garou - Mark of the Wolves",
+    "parent_game": 10605,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/aca-neo-geo-garou-mark-of-the-wolves",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 175956,
+      "date": 1534377600,
+      "platform": 49
+    },
+    {
+      "id": 188156,
+      "date": 1553731200,
+      "platform": 48
+    },
+    {
+      "id": 176383,
+      "date": 1494460800,
+      "platform": 130
+    },
+    {
+      "id": 188155,
+      "date": 1559865600,
+      "platform": 6
+    }
+  ]
+}

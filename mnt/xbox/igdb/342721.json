@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 342721,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 319181,
+        "company": {
+          "id": 5961,
+          "name": "The Coalition"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 319182,
+        "company": {
+          "id": 439,
+          "name": "Sumo Digital"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 319183,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 319184,
+        "company": {
+          "id": 63589,
+          "name": "Disbelief"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Gears of War: Reloaded",
+    "parent_game": 318793,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gears-of-war-reloaded",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 737418,
+      "date": 1756166400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 737419,
+      "date": 1756166400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 737417,
+      "date": 1756166400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

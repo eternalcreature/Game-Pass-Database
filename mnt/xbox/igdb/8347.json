@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 8347,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 134155,
+        "company": {
+          "id": 4328,
+          "name": "Hinterland Studio Inc."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Long Dark",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-long-dark",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 480739,
+      "date": 1501545600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 480736,
+      "date": 1501545600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 480737,
+      "date": 1600300800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 480735,
+      "date": 1501545600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 480740,
+      "date": 1501545600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 480738,
+      "date": 1501545600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 480741,
+      "date": 1501545600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

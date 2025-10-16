@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 10354,
+    "game_engines": [
+      {
+        "id": 1457,
+        "name": "Slayer"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36711,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 36712,
+        "company": {
+          "id": 160,
+          "name": "Double Helix Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 36710,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Killer Instinct",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/killer-instinct--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136096,
+      "date": 1459209600,
+      "platform": 49
+    },
+    {
+      "id": 114666,
+      "date": 1459209600,
+      "platform": 6
+    },
+    {
+      "id": 114667,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 114668,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 114669,
+      "date": 1409788800,
+      "platform": 49
+    }
+  ]
+}

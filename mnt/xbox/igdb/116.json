@@ -1,0 +1,144 @@
+{
+  "general": {
+    "id": 116,
+    "game_engines": [
+      {
+        "id": 72,
+        "name": "Odyssey"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18950,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18951,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18949,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 150347,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-knights-of-the-old-republic",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 47690,
+      "date": 1099353600,
+      "platform": 14
+    },
+    {
+      "id": 21613,
+      "date": 1094515200,
+      "platform": 14
+    },
+    {
+      "id": 21612,
+      "date": 1369872000,
+      "platform": 39
+    },
+    {
+      "id": 21616,
+      "date": 1063324800,
+      "platform": 11
+    },
+    {
+      "id": 21617,
+      "date": 1070582400,
+      "platform": 6
+    },
+    {
+      "id": 47691,
+      "date": 1337040000,
+      "platform": 14
+    },
+    {
+      "id": 21614,
+      "date": 1058227200,
+      "platform": 11
+    },
+    {
+      "id": 47689,
+      "date": 1252108800,
+      "platform": 6
+    },
+    {
+      "id": 363479,
+      "date": 1419206400,
+      "platform": 34
+    },
+    {
+      "id": 21615,
+      "date": 1069200000,
+      "platform": 6
+    }
+  ]
+}

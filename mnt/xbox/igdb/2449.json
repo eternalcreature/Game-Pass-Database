@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 2449,
+    "game_engines": [
+      {
+        "id": 114,
+        "name": "Crystal Tools"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 253238,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 253239,
+        "company": {
+          "id": 52915,
+          "name": "Square Enix Business Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253356,
+        "company": {
+          "id": 93,
+          "name": "Square Enix 1st Production Department"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253357,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Lightning Returns: Final Fantasy XIII",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lightning-returns-final-fantasy-xiii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 212544,
+      "date": 1392076800,
+      "platform": 9
+    },
+    {
+      "id": 212549,
+      "date": 1392336000,
+      "platform": 12
+    },
+    {
+      "id": 212543,
+      "date": 1384992000,
+      "platform": 12
+    },
+    {
+      "id": 212545,
+      "date": 1392076800,
+      "platform": 12
+    },
+    {
+      "id": 212691,
+      "date": 1449705600,
+      "platform": 6
+    },
+    {
+      "id": 212546,
+      "date": 1392249600,
+      "platform": 9
+    },
+    {
+      "id": 454864,
+      "date": 1392076800,
+      "platform": 49
+    },
+    {
+      "id": 212542,
+      "date": 1384992000,
+      "platform": 9
+    },
+    {
+      "id": 212548,
+      "date": 1392336000,
+      "platform": 9
+    },
+    {
+      "id": 212547,
+      "date": 1392249600,
+      "platform": 12
+    }
+  ]
+}

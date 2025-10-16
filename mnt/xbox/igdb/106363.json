@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 106363,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 30,
+        "name": "Pinball"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 245732,
+        "company": {
+          "id": 27964,
+          "name": "Wiznwar"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 245733,
+        "company": {
+          "id": 34441,
+          "name": "FLARB"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Demon's Tilt",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/demons-tilt",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 182576,
+      "date": 1577059200,
+      "platform": 130
+    },
+    {
+      "id": 182575,
+      "date": 1575590400,
+      "platform": 49
+    },
+    {
+      "id": 217864,
+      "date": 1595894400,
+      "platform": 48
+    },
+    {
+      "id": 547127,
+      "date": 1576195200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 547128,
+      "date": 1548028800,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 547129,
+      "date": 1576195200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 547130,
+      "date": 1548028800,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

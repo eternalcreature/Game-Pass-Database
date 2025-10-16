@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 32365,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 223840,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hell Let Loose",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hell-let-loose",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 496527,
+      "date": 1633392000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 496526,
+      "date": 1559779200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 496528,
+      "date": 1633392000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 496556,
+      "date": 1633392000,
+      "platform": 169
+    }
+  ]
+}

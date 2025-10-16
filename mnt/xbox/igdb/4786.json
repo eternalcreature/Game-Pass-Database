@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 4786,
+    "game_engines": [
+      {
+        "id": 47,
+        "name": "id Tech 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 11516,
+        "company": {
+          "id": 2145,
+          "name": "Tango Gameworks"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 55838,
+        "company": {
+          "id": 3980,
+          "name": "The Workshop Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 95296,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Evil Within",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-evil-within",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 21098,
+      "date": 1413244800,
+      "platform": 12
+    },
+    {
+      "id": 20161,
+      "date": 1413244800,
+      "platform": 49
+    },
+    {
+      "id": 21099,
+      "date": 1413244800,
+      "platform": 6
+    },
+    {
+      "id": 20164,
+      "date": 1413417600,
+      "platform": 12
+    },
+    {
+      "id": 21097,
+      "date": 1413244800,
+      "platform": 49
+    },
+    {
+      "id": 20159,
+      "date": 1413244800,
+      "platform": 48
+    },
+    {
+      "id": 20157,
+      "date": 1413244800,
+      "platform": 6
+    },
+    {
+      "id": 21103,
+      "date": 1414022400,
+      "platform": 49
+    },
+    {
+      "id": 20165,
+      "date": 1413417600,
+      "platform": 9
+    },
+    {
+      "id": 134226,
+      "date": 1413590400,
+      "platform": 48
+    }
+  ]
+}

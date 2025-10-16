@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 252175,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 238746,
+        "company": {
+          "id": 28637,
+          "name": "3DClouds"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 238747,
+        "company": {
+          "id": 36372,
+          "name": "3D Clouds"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 238748,
+        "company": {
+          "id": 13848,
+          "name": "Outright Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Paw Patrol: World",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/paw-patrol-world",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 532866,
+      "date": 1695772800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 532867,
+      "date": 1695945600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 532868,
+      "date": 1695945600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 532869,
+      "date": 1695945600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 532870,
+      "date": 1695945600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 532871,
+      "date": 1695945600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

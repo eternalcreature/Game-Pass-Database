@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 103316,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 74520,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 69043,
+        "company": {
+          "id": 1009,
+          "name": "RedLynx"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 222163,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Trials Rising",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/trials-rising",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179307,
+      "date": 1577750400,
+      "platform": 170
+    },
+    {
+      "id": 164917,
+      "date": 1551139200,
+      "platform": 6
+    },
+    {
+      "id": 164919,
+      "date": 1551139200,
+      "platform": 130
+    },
+    {
+      "id": 164920,
+      "date": 1551139200,
+      "platform": 48
+    },
+    {
+      "id": 164918,
+      "date": 1551139200,
+      "platform": 49
+    }
+  ]
+}

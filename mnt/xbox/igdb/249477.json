@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 249477,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 254858,
+        "company": {
+          "id": 14003,
+          "name": "Creative Bytes Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Return to Grace",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/return-to-grace",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 566244,
+      "date": 1680134400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 566248,
+      "date": 1680134400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 566245,
+      "date": 1680134400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 566247,
+      "date": 1680134400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 566246,
+      "date": 1680134400,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

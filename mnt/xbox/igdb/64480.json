@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 64480,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 325979,
+        "company": {
+          "id": 243,
+          "name": "Sony Online Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 325980,
+        "company": {
+          "id": 753,
+          "name": "Nordic Games Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 325981,
+        "company": {
+          "id": 22453,
+          "name": "THQ Inc."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 325982,
+        "company": {
+          "id": 680,
+          "name": "Pipeworks Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Wheel of Fortune",
+    "parent_game": 69177,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wheel-of-fortune--17",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 737307,
+      "date": 1355443200,
+      "platform": 41,
+      "status": 6
+    },
+    {
+      "id": 757714,
+      "date": 1350345600,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 757713,
+      "date": 1350345600,
+      "platform": 9,
+      "status": 6
+    }
+  ]
+}

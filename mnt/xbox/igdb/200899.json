@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 200899,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 170916,
+        "company": {
+          "id": 20895,
+          "name": "Deadpan Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 265933,
+        "company": {
+          "id": 22267,
+          "name": "Knights of Unity"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 299720,
+        "company": {
+          "id": 1418,
+          "name": "Chucklefish Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wildfrost",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wildfrost",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 490709,
+      "date": 1681257600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 490710,
+      "date": 1681257600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 677339,
+      "date": 1733788800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 677340,
+      "date": 1733788800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 577653,
+      "date": 1712793600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 667798,
+      "date": 1711411200,
+      "platform": 34,
+      "status": 6
+    }
+  ]
+}

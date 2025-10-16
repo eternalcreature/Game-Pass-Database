@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 8190,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 72678,
+        "company": {
+          "id": 128,
+          "name": "Microsoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 72677,
+        "company": {
+          "id": 150,
+          "name": "Hidden Path Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Defense Grid: The Awakening",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/defense-grid-the-awakening",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 767470,
+      "date": 1228694400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 767471,
+      "date": 1251849600,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 783070,
+      "date": 1447286400,
+      "platform": 49,
+      "status": 35
+    },
+    {
+      "id": 767472,
+      "date": 1275955200,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

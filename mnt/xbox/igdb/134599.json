@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 134599,
+    "game_engines": [
+      {
+        "id": 1045,
+        "name": "Eco-Motion Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104752,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 104753,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130653,
+        "company": {
+          "id": 20228,
+          "name": "2K"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "NBA 2K21",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nba-2k21",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 203043,
+      "date": 1599177600,
+      "platform": 48
+    },
+    {
+      "id": 205459,
+      "date": 1599177600,
+      "platform": 49
+    },
+    {
+      "id": 205462,
+      "date": 1599177600,
+      "platform": 130
+    },
+    {
+      "id": 214340,
+      "date": 1599177600,
+      "platform": 170
+    },
+    {
+      "id": 214341,
+      "date": 1604966400,
+      "platform": 169
+    },
+    {
+      "id": 327686,
+      "date": 1605139200,
+      "platform": 167
+    },
+    {
+      "id": 407765,
+      "date": 1599091200,
+      "platform": 6
+    }
+  ]
+}

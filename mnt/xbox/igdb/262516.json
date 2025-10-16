@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 262516,
+    "game_engines": [
+      {
+        "id": 246,
+        "name": "Wolfenstein 3D"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 227762,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 279009,
+        "company": {
+          "id": 188,
+          "name": "Apogee Software"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wolfenstein 3D",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wolfenstein-3d--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 623748,
+      "date": 705024000,
+      "platform": 13,
+      "status": 6
+    }
+  ]
+}

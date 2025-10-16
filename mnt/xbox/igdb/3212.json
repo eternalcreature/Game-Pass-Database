@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 3212,
+    "game_engines": [
+      {
+        "id": 280,
+        "name": "SmartSim"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 311075,
+        "company": {
+          "id": 283,
+          "name": "The Sims Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 311074,
+        "company": {
+          "id": 284,
+          "name": "Maxis"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 311076,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Sims 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-sims-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 299917,
+      "date": 1510876800,
+      "platform": 48
+    },
+    {
+      "id": 299918,
+      "date": 1424131200,
+      "platform": 14
+    },
+    {
+      "id": 299916,
+      "date": 1510876800,
+      "platform": 49
+    },
+    {
+      "id": 20206,
+      "date": 1409616000,
+      "platform": 6
+    },
+    {
+      "id": 20207,
+      "date": 1409788800,
+      "platform": 6
+    },
+    {
+      "id": 20208,
+      "date": 1409788800,
+      "platform": 6
+    }
+  ]
+}

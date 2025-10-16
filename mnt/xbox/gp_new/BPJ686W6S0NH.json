@@ -21,7 +21,7 @@
         "BPJ686W6S0NH"
       ]
     ],
-    "original_release_date": "2013-09-17",
+    "original_release_date": "2015-04-14",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -35,13 +35,43 @@
         "added": "2025-04-15",
         "removed": null
       },
-      "Ultimate": {
-        "added": "2025-04-15",
-        "removed": null
-      },
       "Premium": {
         "added": "2025-04-15",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-04-15",
+        "removed": null
+      }
+    },
+    {
+      "Ultimate": {
+        "added": "2023-07-05",
+        "removed": "2024-01-05"
+      },
+      "Console": {
+        "added": "2024-07-05",
+        "removed": "2024-01-05"
+      }
+    },
+    {
+      "Console": {
+        "added": "2021-04-08",
+        "removed": "2021-08-08"
+      },
+      "Ultimate": {
+        "added": "2021-04-08",
+        "removed": "2021-08-08"
+      }
+    },
+    {
+      "Ultimate": {
+        "added": "2020-01-30",
+        "removed": "2020-05-30"
+      },
+      "Console": {
+        "added": "2020-01-30",
+        "removed": "2020-05-30"
       }
     }
   ],
@@ -87,24 +117,51 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "RAGE"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2015-04-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-04-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-15"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 239064,
+      "id": 1020,
       "name": "Grand Theft Auto V",
-      "url": "https://www.igdb.com/games/grand-theft-auto-v--2",
+      "url": "https://www.igdb.com/games/grand-theft-auto-v",
       "publishers": [
-        "Rockstar Games"
+        "Rockstar Games",
+        "Take-Two Interactive"
       ],
       "developers": [
         "Rockstar North"
       ],
       "genres": [
         "Shooter",
-        "Arcade"
+        "Racing",
+        "Adventure"
       ],
       "themes": [
         "Action",
+        "Comedy",
+        "Sandbox",
         "Open world"
       ],
       "game_modes": [
@@ -115,7 +172,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "RAGE"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-09-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-04-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-18"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-09-17"
+        }
+      }
     }
   },
   "steam_store_meta": {}

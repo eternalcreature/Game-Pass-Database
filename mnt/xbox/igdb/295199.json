@@ -1,0 +1,73 @@
+{
+  "general": {
+    "id": 295199,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 260983,
+        "company": {
+          "id": 53895,
+          "name": "Yellow Brick Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Eternal Strands",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/eternal-strands",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 673567,
+      "date": 1738022400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 673566,
+      "date": 1738022400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 673565,
+      "date": 1738022400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

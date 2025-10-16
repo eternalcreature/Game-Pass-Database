@@ -1,0 +1,151 @@
+{
+  "general": {
+    "id": 123051,
+    "game_engines": [
+      {
+        "id": 46,
+        "name": "Crystal Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265425,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265426,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 265427,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265428,
+        "company": {
+          "id": 291,
+          "name": "Nixxes Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265429,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265430,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shadow of the Tomb Raider: Definitive Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadow-of-the-tomb-raider-definitive-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 209875,
+      "date": 1574121600,
+      "platform": 49
+    },
+    {
+      "id": 209877,
+      "date": 1574121600,
+      "platform": 14
+    },
+    {
+      "id": 209878,
+      "date": 1574121600,
+      "platform": 3
+    },
+    {
+      "id": 209874,
+      "date": 1574121600,
+      "platform": 48
+    },
+    {
+      "id": 209876,
+      "date": 1574121600,
+      "platform": 6
+    },
+    {
+      "id": 239994,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 456822,
+      "date": 1576713600,
+      "platform": 14
+    }
+  ]
+}

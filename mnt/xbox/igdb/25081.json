@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 25081,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 131753,
+        "company": {
+          "id": 7416,
+          "name": "Nordic Games Group"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 133098,
+        "company": {
+          "id": 8892,
+          "name": "Kaiko"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133100,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Darksiders: Warmastered Edition",
+    "parent_game": 1270,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/darksiders-warmastered-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 59233,
+      "date": 1479772800,
+      "platform": 49
+    },
+    {
+      "id": 605450,
+      "date": 1556236800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 605452,
+      "date": 1480377600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 605451,
+      "date": 1554163200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 605449,
+      "date": 1554163200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 59232,
+      "date": 1479772800,
+      "platform": 41
+    },
+    {
+      "id": 138638,
+      "date": 1495497600,
+      "platform": 41
+    },
+    {
+      "id": 138639,
+      "date": 1495497600,
+      "platform": 41
+    },
+    {
+      "id": 102376,
+      "date": 1479772800,
+      "platform": 48
+    },
+    {
+      "id": 135947,
+      "date": 1479772800,
+      "platform": 49
+    }
+  ]
+}

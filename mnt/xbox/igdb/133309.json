@@ -1,0 +1,70 @@
+{
+  "general": {
+    "id": 133309,
+    "game_engines": [
+      {
+        "id": 574,
+        "name": "Apex"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98543,
+        "company": {
+          "id": 25397,
+          "name": "Systemic Reaction"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Second Extinction",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/second-extinction",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 383813,
+      "date": 1666224000,
+      "platform": 169
+    },
+    {
+      "id": 383812,
+      "date": 1666224000,
+      "platform": 49
+    },
+    {
+      "id": 384959,
+      "date": 1602547200,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 56,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3296,
+        "company": {
+          "id": 245,
+          "name": "ZeniMax Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 3294,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95348,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Elder Scrolls III: Morrowind",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-iii-morrowind",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 19671,
+      "date": 1020211200,
+      "platform": 6
+    },
+    {
+      "id": 19672,
+      "date": 1037923200,
+      "platform": 11
+    },
+    {
+      "id": 19670,
+      "date": 1023321600,
+      "platform": 11
+    },
+    {
+      "id": 19673,
+      "date": 1020297600,
+      "platform": 6
+    }
+  ]
+}

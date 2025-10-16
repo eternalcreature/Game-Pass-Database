@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 7205,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190229,
+        "company": {
+          "id": 5966,
+          "name": "IMGN.PRO"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 190230,
+        "company": {
+          "id": 6072,
+          "name": "SUPERHOT Team"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SuperHot",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/superhot",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 174397,
+      "date": 1566172800,
+      "platform": 130
+    },
+    {
+      "id": 45466,
+      "date": 1456358400,
+      "platform": 6
+    },
+    {
+      "id": 45465,
+      "date": 1456358400,
+      "platform": 14
+    },
+    {
+      "id": 45464,
+      "date": 1456358400,
+      "platform": 3
+    },
+    {
+      "id": 395337,
+      "date": 1590969600,
+      "platform": 170
+    },
+    {
+      "id": 395335,
+      "date": 1462233600,
+      "platform": 49
+    },
+    {
+      "id": 395336,
+      "date": 1500595200,
+      "platform": 48
+    }
+  ]
+}

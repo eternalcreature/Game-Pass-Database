@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 26183,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 45528,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 45527,
+        "company": {
+          "id": 722,
+          "name": "343 Industries"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 45529,
+        "company": {
+          "id": 68,
+          "name": "Ensemble Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Halo Wars: Definitive Edition",
+    "parent_game": 988,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-wars-definitive-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 401216,
+      "date": 1492646400,
+      "platform": 6
+    },
+    {
+      "id": 67365,
+      "date": 1482192000,
+      "platform": 49
+    },
+    {
+      "id": 136058,
+      "date": 1482192000,
+      "platform": 49
+    }
+  ]
+}

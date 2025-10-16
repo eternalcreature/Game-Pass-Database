@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 27766,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 109999,
+        "company": {
+          "id": 3903,
+          "name": "BioWare Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mass Effect: Andromeda - Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mass-effect-andromeda-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 66641,
+      "date": 1490054400,
+      "platform": 6
+    },
+    {
+      "id": 66643,
+      "date": 1490054400,
+      "platform": 48
+    },
+    {
+      "id": 66642,
+      "date": 1490054400,
+      "platform": 49
+    }
+  ]
+}

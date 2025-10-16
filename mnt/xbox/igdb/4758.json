@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 4758,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18126,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18125,
+        "company": {
+          "id": 831,
+          "name": "Access Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "D4: Dark Dreams Don't Die - Season 1",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/d4-dark-dreams-dont-die-season-1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 135939,
+      "date": 1411084800,
+      "platform": 49
+    },
+    {
+      "id": 29763,
+      "date": 1433462400,
+      "platform": 6
+    },
+    {
+      "id": 121961,
+      "date": 1411084800,
+      "platform": 49
+    },
+    {
+      "id": 20389,
+      "date": 1411084800,
+      "platform": 49
+    },
+    {
+      "id": 117938,
+      "date": 1411084800,
+      "platform": 49
+    }
+  ]
+}

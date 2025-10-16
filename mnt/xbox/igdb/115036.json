@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 115036,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83442,
+        "company": {
+          "id": 21660,
+          "name": "Twice Different"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134084,
+        "company": {
+          "id": 21659,
+          "name": "Simon Boxer"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134085,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ring of Pain",
+    "url": "https://www.igdb.com/games/ring-of-pain",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 411429,
+      "date": 1602720000,
+      "platform": 14
+    },
+    {
+      "id": 209105,
+      "date": 1602720000,
+      "platform": 6
+    },
+    {
+      "id": 330707,
+      "date": 1634169600,
+      "platform": 49
+    },
+    {
+      "id": 250280,
+      "date": 1602720000,
+      "platform": 130
+    },
+    {
+      "id": 341508,
+      "date": 1602633600,
+      "platform": 130
+    }
+  ]
+}

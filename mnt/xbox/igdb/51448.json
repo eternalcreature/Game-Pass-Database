@@ -1,0 +1,149 @@
+{
+  "general": {
+    "id": 51448,
+    "game_engines": [
+      {
+        "id": 1325,
+        "name": "Taito Type-X2"
+      },
+      {
+        "id": 973,
+        "name": "Sega ALLS"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63414,
+        "company": {
+          "id": 1218,
+          "name": "Arc System Works"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 121609,
+        "company": {
+          "id": 4091,
+          "name": "PQube"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 121610,
+        "company": {
+          "id": 16956,
+          "name": "Arc System Works America"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "BlazBlue: Cross Tag Battle",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/blazblue-cross-tag-battle",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 555022,
+      "date": 1527724800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 555020,
+      "date": 1556150400,
+      "platform": 52,
+      "status": 6
+    },
+    {
+      "id": 555028,
+      "date": 1528156800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 555024,
+      "date": 1529625600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 555025,
+      "date": 1574208000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 555027,
+      "date": 1528243200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 555021,
+      "date": 1527724800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 555026,
+      "date": 1528243200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 555031,
+      "date": 1527724800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 555023,
+      "date": 1528156800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

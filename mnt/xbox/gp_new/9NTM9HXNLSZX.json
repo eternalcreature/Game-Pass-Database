@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2014-11-11",
-    "release_date": null,
+    "release_date": "2019-12-03",
     "platforms": [
       "PC"
     ]
@@ -85,7 +85,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Halo Reach"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2014-11-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-12-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-17"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 131843,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 103680,
+        "company": {
+          "id": 1433,
+          "name": "Undead Labs"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 103681,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "State of Decay 2: Juggernaut Edition",
+    "parent_game": 19541,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/state-of-decay-2-juggernaut-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 190980,
+      "date": 1584057600,
+      "platform": 49
+    },
+    {
+      "id": 190979,
+      "date": 1584057600,
+      "platform": 6
+    }
+  ]
+}

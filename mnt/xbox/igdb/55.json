@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 55,
+    "game_engines": [
+      {
+        "id": 92,
+        "name": "XnGine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 95200,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Elder Scrolls Adventures: Redguard",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-adventures-redguard",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 24651,
+      "date": 946598400,
+      "platform": 13
+    },
+    {
+      "id": 733575,
+      "date": 1650931200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 24650,
+      "date": 909792000,
+      "platform": 13
+    }
+  ]
+}

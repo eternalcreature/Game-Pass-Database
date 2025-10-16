@@ -1,0 +1,42 @@
+{
+  "general": {
+    "id": 52638,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield Hardline: Ultimate Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-hardline-ultimate-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 200384,
+      "date": 1426550400,
+      "platform": 6
+    },
+    {
+      "id": 303681,
+      "date": 1426550400,
+      "platform": 49
+    }
+  ]
+}

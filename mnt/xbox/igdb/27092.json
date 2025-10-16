@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 27092,
+    "game_engines": [
+      {
+        "id": 318,
+        "name": "Silk Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44159,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 44158,
+        "company": {
+          "id": 405,
+          "name": "Spiders"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "GreedFall",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/greedfall",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 414705,
+      "date": 1567987200,
+      "platform": 6
+    },
+    {
+      "id": 256036,
+      "date": 1567987200,
+      "platform": 6
+    },
+    {
+      "id": 171891,
+      "date": 1568073600,
+      "platform": 48
+    },
+    {
+      "id": 296028,
+      "date": 1625011200,
+      "platform": 167
+    },
+    {
+      "id": 296097,
+      "date": 1625011200,
+      "platform": 169
+    },
+    {
+      "id": 171892,
+      "date": 1568073600,
+      "platform": 49
+    }
+  ]
+}

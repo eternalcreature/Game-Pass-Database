@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 76,
+    "game_engines": [
+      {
+        "id": 75,
+        "name": "Eclipse Engine (BioWare)"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4148,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42805,
+        "company": {
+          "id": 223,
+          "name": "Edge of Reality"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 192449,
+        "company": {
+          "id": 222,
+          "name": "BioWare Edmonton"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dragon Age: Origins",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dragon-age-origins",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 102649,
+      "date": 1258675200,
+      "platform": 9
+    },
+    {
+      "id": 399621,
+      "date": 1258588800,
+      "platform": 9
+    },
+    {
+      "id": 21588,
+      "date": 1257206400,
+      "platform": 12
+    },
+    {
+      "id": 21587,
+      "date": 1261353600,
+      "platform": 14
+    },
+    {
+      "id": 21590,
+      "date": 1257379200,
+      "platform": 6
+    },
+    {
+      "id": 102648,
+      "date": 1257206400,
+      "platform": 9
+    },
+    {
+      "id": 21593,
+      "date": 1257465600,
+      "platform": 12
+    },
+    {
+      "id": 21591,
+      "date": 1257379200,
+      "platform": 12
+    },
+    {
+      "id": 21592,
+      "date": 1257465600,
+      "platform": 6
+    },
+    {
+      "id": 21594,
+      "date": 1296086400,
+      "platform": 6
+    }
+  ]
+}

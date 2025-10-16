@@ -1,0 +1,166 @@
+{
+  "general": {
+    "id": 355,
+    "game_engines": [
+      {
+        "id": 56,
+        "name": "id Tech 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1080,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1079,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1078,
+        "company": {
+          "id": 106,
+          "name": "Loki Software"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1073,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 1077,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269877,
+        "company": {
+          "id": 14328,
+          "name": "No Cliché"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 334984,
+        "company": {
+          "id": 358,
+          "name": "Raster Productions"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 334983,
+        "company": {
+          "id": 362,
+          "name": "Pi Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 334985,
+        "company": {
+          "id": 14,
+          "name": "Bullfrog Productions"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Quake III Arena",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/quake-iii-arena",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 308145,
+      "date": 972172800,
+      "platform": 23
+    },
+    {
+      "id": 308146,
+      "date": 1292371200,
+      "platform": 12
+    },
+    {
+      "id": 308147,
+      "date": 944092800,
+      "platform": 6
+    },
+    {
+      "id": 308149,
+      "date": 946252800,
+      "platform": 3
+    },
+    {
+      "id": 308150,
+      "date": 976233600,
+      "platform": 23
+    },
+    {
+      "id": 308151,
+      "date": 944784000,
+      "platform": 3
+    },
+    {
+      "id": 308148,
+      "date": 946252800,
+      "platform": 14
+    }
+  ]
+}

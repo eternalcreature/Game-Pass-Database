@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 14327,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96409,
+        "company": {
+          "id": 5193,
+          "name": "Puppy Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 129929,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ultratron",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ultratron",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 137044,
+      "date": 1431043200,
+      "platform": 49
+    },
+    {
+      "id": 144595,
+      "date": 1431561600,
+      "platform": 41
+    },
+    {
+      "id": 40167,
+      "date": 1431043200,
+      "platform": 49
+    },
+    {
+      "id": 40170,
+      "date": 1431388800,
+      "platform": 46
+    },
+    {
+      "id": 40171,
+      "date": 1431561600,
+      "platform": 41
+    },
+    {
+      "id": 40165,
+      "date": 1363564800,
+      "platform": 3
+    },
+    {
+      "id": 40163,
+      "date": 1363564800,
+      "platform": 6
+    },
+    {
+      "id": 40168,
+      "date": 1431388800,
+      "platform": 48
+    },
+    {
+      "id": 40169,
+      "date": 1431388800,
+      "platform": 9
+    },
+    {
+      "id": 40164,
+      "date": 1363564800,
+      "platform": 14
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 233585,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 254846,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 254845,
+        "company": {
+          "id": 2145,
+          "name": "Tango Gameworks"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Hi-Fi Rush",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hi-fi-rush",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 566533,
+      "date": 1710806400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 566532,
+      "date": 1674604800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 566531,
+      "date": 1674604800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

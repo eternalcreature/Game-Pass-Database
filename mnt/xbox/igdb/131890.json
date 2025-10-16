@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 131890,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 203235,
+        "company": {
+          "id": 14419,
+          "name": "Sabotage"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sea of Stars",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sea-of-stars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 508865,
+      "date": 1693180800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 483401,
+      "date": 1693267200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 483403,
+      "date": 1693267200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 483404,
+      "date": 1693267200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 483405,
+      "date": 1693267200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 483406,
+      "date": 1693267200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 19986,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 271691,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Samurai Shodown II",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/samurai-shodown-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 606555,
+      "date": 787449600,
+      "platform": 136,
+      "status": 6
+    },
+    {
+      "id": 606553,
+      "date": 783302400,
+      "platform": 79,
+      "status": 6
+    },
+    {
+      "id": 606554,
+      "date": 786326400,
+      "platform": 80,
+      "status": 6
+    },
+    {
+      "id": 142963,
+      "date": 1218153600,
+      "platform": 5
+    },
+    {
+      "id": 142962,
+      "date": 1219622400,
+      "platform": 5
+    },
+    {
+      "id": 199568,
+      "date": 1591833600,
+      "platform": 6
+    },
+    {
+      "id": 350798,
+      "date": 1221004800,
+      "platform": 49
+    },
+    {
+      "id": 350799,
+      "date": 1221004800,
+      "platform": 12
+    },
+    {
+      "id": 142964,
+      "date": 1216771200,
+      "platform": 5
+    },
+    {
+      "id": 371007,
+      "date": 1372377600,
+      "platform": 34
+    }
+  ]
+}

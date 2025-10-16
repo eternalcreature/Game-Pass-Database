@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 267278,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 292432,
+        "company": {
+          "id": 20762,
+          "name": "Marmalade Game Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ticket to Ride",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ticket-to-ride--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 574777,
+      "date": 1699920000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 574778,
+      "date": 1699920000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 536301,
+      "date": 1699920000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 657053,
+      "date": 1721260800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 657054,
+      "date": 1721260800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 621759,
+      "date": 1721779200,
+      "platform": 169
+    },
+    {
+      "id": 621758,
+      "date": 1721779200,
+      "platform": 49
+    },
+    {
+      "id": 536302,
+      "date": 1699920000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 627143,
+      "date": 1723075200,
+      "platform": 130
+    }
+  ]
+}

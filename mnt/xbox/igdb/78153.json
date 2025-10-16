@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 78153,
+    "game_engines": [
+      {
+        "id": 41,
+        "name": "RenderWare"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 62439,
+        "company": {
+          "id": 14861,
+          "name": "Stellar Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 62438,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 131789,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Burnout Paradise Remastered",
+    "parent_game": 620,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/burnout-paradise-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 147973,
+      "date": 1521158400,
+      "platform": 49
+    },
+    {
+      "id": 157129,
+      "date": 1534809600,
+      "platform": 6
+    },
+    {
+      "id": 147974,
+      "date": 1521158400,
+      "platform": 48
+    },
+    {
+      "id": 193238,
+      "date": 1592524800,
+      "platform": 130
+    }
+  ]
+}

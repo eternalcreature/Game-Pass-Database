@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 3247,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 71618,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 71617,
+        "company": {
+          "id": 834,
+          "name": "Insomniac Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Sunset Overdrive",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sunset-overdrive",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 21882,
+      "date": 1414627200,
+      "platform": 49
+    },
+    {
+      "id": 161156,
+      "date": 1542326400,
+      "platform": 6
+    },
+    {
+      "id": 21883,
+      "date": 1414627200,
+      "platform": 49
+    },
+    {
+      "id": 21884,
+      "date": 1414713600,
+      "platform": 49
+    },
+    {
+      "id": 21885,
+      "date": 1414454400,
+      "platform": 49
+    }
+  ]
+}

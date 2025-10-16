@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 314215,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 282952,
+        "company": {
+          "id": 7701,
+          "name": "Dovetail Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Train Sim World 5",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 34,
+        "name": "Educational"
+      }
+    ],
+    "url": "https://www.igdb.com/games/train-sim-world-5",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 632050,
+      "date": 1726531200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 632048,
+      "date": 1726531200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 632049,
+      "date": 1726531200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 632047,
+      "date": 1726531200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 632051,
+      "date": 1726531200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

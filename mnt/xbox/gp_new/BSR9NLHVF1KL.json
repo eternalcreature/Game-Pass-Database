@@ -12,8 +12,8 @@
         "BSR9NLHVF1KL"
       ]
     ],
-    "original_release_date": "2013-12-13",
-    "release_date": null,
+    "original_release_date": "2012-01-21",
+    "release_date": "2019-03-27",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -85,31 +85,92 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Real Virtuality"
+      ],
+      "game_type": "mod",
+      "release_dates": {
+        "release_date": "2012-01-21",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-01-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 11575,
-      "name": "Arma II: DayZ",
-      "url": "https://www.igdb.com/games/arma-ii-dayz",
-      "publishers": [],
+      "id": 2117,
+      "name": "DayZ",
+      "url": "https://www.igdb.com/games/dayz",
+      "publishers": [
+        "Bohemia Interactive Studio"
+      ],
       "developers": [
-        "Dean \"Rocket\" Hall"
+        "Bohemia Interactive Studio"
       ],
       "genres": [
         "Shooter",
-        "Tactical"
+        "Role-playing (RPG)",
+        "Simulator",
+        "Tactical",
+        "Adventure",
+        "Indie"
       ],
       "themes": [
         "Action",
-        "Survival"
+        "Horror",
+        "Thriller",
+        "Survival",
+        "Drama",
+        "Sandbox",
+        "Open world",
+        "Warfare"
       ],
       "game_modes": [
-        "Massively Multiplayer Online (MMO)"
+        "Multiplayer",
+        "Co-operative",
+        "Massively Multiplayer Online (MMO)",
+        "Battle Royale"
       ],
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Enfusion"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-12-16",
+        "PC": {
+          "release_date_ea": "2013-12-16",
+          "release_date_1_0": "2018-12-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-03-27"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

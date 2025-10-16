@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 185253,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 158581,
+        "company": {
+          "id": 1097,
+          "name": "Shiro Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 158582,
+        "company": {
+          "id": 458,
+          "name": "Funcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dune: Spice Wars",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dune-spice-wars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 506670,
+      "date": 1650931200,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 517089,
+      "date": 1694649600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 538154,
+      "date": 1701129600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

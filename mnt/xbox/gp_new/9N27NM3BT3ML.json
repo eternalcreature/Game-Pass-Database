@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2012-07-26",
-    "release_date": null,
+    "release_date": "2022-05-10",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -81,25 +81,45 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-07-26",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-04-18"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 9694,
-      "name": "Danganronpa 2: Goodbye Despair",
-      "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair",
+      "id": 152400,
+      "name": "Danganronpa 2: Goodbye Despair - Anniversary Edition",
+      "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair-anniversary-edition",
       "publishers": [
-        "NIS America",
         "Spike Chunsoft"
       ],
       "developers": [
         "Spike Chunsoft"
       ],
       "genres": [
+        "Point-and-click",
         "Adventure",
         "Visual Novel"
       ],
       "themes": [
-        "Action",
         "Thriller",
         "Mystery"
       ],
@@ -108,8 +128,29 @@
       ],
       "player_perspectives": [
         "First person",
-        "Third person"
-      ]
+        "Side view"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-08-19",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-05-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 102420,
+    "game_engines": [
+      {
+        "id": 373,
+        "name": "HaxeFlixel"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 261923,
+        "company": {
+          "id": 1061,
+          "name": "Distractionware"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 291284,
+        "company": {
+          "id": 1687,
+          "name": "Terry Cavanagh"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dicey Dungeons",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dicey-dungeons",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 654018,
+      "date": 1636588800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 654016,
+      "date": 1675641600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 654013,
+      "date": 1607990400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 654009,
+      "date": 1657152000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 654010,
+      "date": 1565654400,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 654008,
+      "date": 1657152000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 654017,
+      "date": 1636588800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 654015,
+      "date": 1675641600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 654011,
+      "date": 1565654400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 654014,
+      "date": 1565654400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

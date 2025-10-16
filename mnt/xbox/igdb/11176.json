@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 11176,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 67380,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 290015,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 131089,
+        "company": {
+          "id": 9583,
+          "name": "Fourattic"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Crossing Souls",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crossing-souls",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 130124,
+      "date": 1518480000,
+      "platform": 6
+    },
+    {
+      "id": 130125,
+      "date": 1518480000,
+      "platform": 14
+    },
+    {
+      "id": 130126,
+      "date": 1518480000,
+      "platform": 48
+    },
+    {
+      "id": 418009,
+      "date": 1518480000,
+      "platform": 3
+    },
+    {
+      "id": 249465,
+      "date": 1532563200,
+      "platform": 130
+    }
+  ]
+}

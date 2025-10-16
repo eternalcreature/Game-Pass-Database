@@ -12,7 +12,7 @@
         "9PNQKHFLD2WQ"
       ]
     ],
-    "original_release_date": "2018-09-28",
+    "original_release_date": "2018-10-02",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -103,7 +103,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "ForzaTech"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-10-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-10-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-10-02"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2011-11-14",
-    "release_date": null,
+    "release_date": "2011-11-14",
     "platforms": [
       "PC"
     ]
@@ -77,7 +77,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Anvil"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2011-11-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-11-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-11-15"
+        }
+      }
     }
   },
   "steam_store_meta": {}

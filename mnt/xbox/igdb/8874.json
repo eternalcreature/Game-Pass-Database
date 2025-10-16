@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 8874,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 89806,
+        "company": {
+          "id": 23212,
+          "name": "Hato Moa"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 47554,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 89805,
+        "company": {
+          "id": 2581,
+          "name": "Mediatonic"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 89807,
+        "company": {
+          "id": 12500,
+          "name": "The Irregular Corporation"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Hatoful Boyfriend",
+    "player_perspectives": [
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hatoful-boyfriend",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 227656,
+      "date": 1329264000,
+      "platform": 6
+    },
+    {
+      "id": 28880,
+      "date": 1312070400,
+      "platform": 6
+    },
+    {
+      "id": 227658,
+      "date": 1409788800,
+      "platform": 3
+    },
+    {
+      "id": 227659,
+      "date": 1464134400,
+      "platform": 39
+    },
+    {
+      "id": 227654,
+      "date": 1437436800,
+      "platform": 46
+    },
+    {
+      "id": 227655,
+      "date": 1437523200,
+      "platform": 46
+    },
+    {
+      "id": 227657,
+      "date": 1409788800,
+      "platform": 14
+    },
+    {
+      "id": 227653,
+      "date": 1437436800,
+      "platform": 48
+    },
+    {
+      "id": 227660,
+      "date": 1468368000,
+      "platform": 34
+    }
+  ]
+}

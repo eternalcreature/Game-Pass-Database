@@ -12,8 +12,8 @@
         "9P9VNSQK1W3K"
       ]
     ],
-    "original_release_date": "2022-02-27",
-    "release_date": null,
+    "original_release_date": "2022-09-27",
+    "release_date": "2024-01-30",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -99,7 +99,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Godot"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-09-27",
+        "PC": {
+          "release_date_ea": "2022-09-27",
+          "release_date_1_0": "2023-06-23"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-01-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-01-30"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

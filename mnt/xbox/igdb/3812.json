@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 3812,
+    "game_engines": [
+      {
+        "id": 25,
+        "name": "CryEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18631,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18630,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 18036,
+        "company": {
+          "id": 122,
+          "name": "Crytek Frankfurt"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 278080,
+        "company": {
+          "id": 249,
+          "name": "Crytek"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ryse: Son of Rome",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ryse-son-of-rome",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 21087,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 21091,
+      "date": 1409788800,
+      "platform": 49
+    },
+    {
+      "id": 21090,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 410460,
+      "date": 1412899200,
+      "platform": 6
+    },
+    {
+      "id": 21089,
+      "date": 1417046400,
+      "platform": 6
+    },
+    {
+      "id": 21088,
+      "date": 1414108800,
+      "platform": 6
+    },
+    {
+      "id": 21094,
+      "date": 1385078400,
+      "platform": 49
+    }
+  ]
+}

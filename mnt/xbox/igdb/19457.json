@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 19457,
+    "game_engines": [
+      {
+        "id": 95,
+        "name": "Creation Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 68141,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95357,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Elder Scrolls V: Skyrim - Special Edition",
+    "parent_game": 472,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-special-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 52677,
+      "date": 1477612800,
+      "platform": 49
+    },
+    {
+      "id": 136365,
+      "date": 1477612800,
+      "platform": 49
+    },
+    {
+      "id": 376863,
+      "date": 1636588800,
+      "platform": 169
+    },
+    {
+      "id": 765934,
+      "date": 1517443200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 765933,
+      "date": 1510876800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 52678,
+      "date": 1477612800,
+      "platform": 6
+    },
+    {
+      "id": 106171,
+      "date": 1477612800,
+      "platform": 48
+    },
+    {
+      "id": 366779,
+      "date": 1636588800,
+      "platform": 167
+    },
+    {
+      "id": 52676,
+      "date": 1477612800,
+      "platform": 48
+    },
+    {
+      "id": 106170,
+      "date": 1477612800,
+      "platform": 48
+    }
+  ]
+}

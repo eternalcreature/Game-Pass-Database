@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 7707,
+    "game_engines": [
+      {
+        "id": 1369,
+        "name": "CTG (Core Technology Group)"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 198503,
+        "company": {
+          "id": 392,
+          "name": "High Voltage Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 198504,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 198506,
+        "company": {
+          "id": 8068,
+          "name": "Fishlabs"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 231058,
+        "company": {
+          "id": 7462,
+          "name": "Volition"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Saints Row IV: Re-Elected",
+    "parent_game": 1981,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/saints-row-iv-re-elected",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 105382,
+      "date": 1421971200,
+      "platform": 48
+    },
+    {
+      "id": 328147,
+      "date": 1635724800,
+      "platform": 170
+    },
+    {
+      "id": 105381,
+      "date": 1421712000,
+      "platform": 48
+    },
+    {
+      "id": 435255,
+      "date": 1670457600,
+      "platform": 6
+    },
+    {
+      "id": 25161,
+      "date": 1421712000,
+      "platform": 49
+    },
+    {
+      "id": 25162,
+      "date": 1421971200,
+      "platform": 49
+    },
+    {
+      "id": 187880,
+      "date": 1585267200,
+      "platform": 130
+    }
+  ]
+}

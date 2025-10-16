@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 11204,
+    "game_engines": [
+      {
+        "id": 12,
+        "name": "Telltale Tool"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 28550,
+        "company": {
+          "id": 294,
+          "name": "Telltale Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Walking Dead: Michonne",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-walking-dead-michonne",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 164220,
+      "date": 1456185600,
+      "platform": 48
+    },
+    {
+      "id": 222684,
+      "date": 1454457600,
+      "platform": 9
+    },
+    {
+      "id": 164218,
+      "date": 1456185600,
+      "platform": 49
+    },
+    {
+      "id": 222685,
+      "date": 1522800000,
+      "platform": 34
+    },
+    {
+      "id": 222683,
+      "date": 1454457600,
+      "platform": 12
+    },
+    {
+      "id": 408060,
+      "date": 1456185600,
+      "platform": 6
+    },
+    {
+      "id": 408061,
+      "date": 1456185600,
+      "platform": 14
+    }
+  ]
+}

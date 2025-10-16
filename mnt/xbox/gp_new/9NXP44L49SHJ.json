@@ -19,8 +19,8 @@
         "9P1DP2NGFB93"
       ]
     ],
-    "original_release_date": "2011-11-18",
-    "release_date": null,
+    "original_release_date": "2011-08-16",
+    "release_date": "2022-06-06",
     "platforms": [
       "PC"
     ]
@@ -94,22 +94,44 @@
         "First person",
         "Third person",
         "Virtual Reality"
-      ]
+      ],
+      "engine": [
+        "Bedrock Engine"
+      ],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2011-08-16",
+        "PC": {
+          "release_date_ea": "2015-07-25",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-09-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 135400,
-      "name": "Minecraft",
-      "url": "https://www.igdb.com/games/minecraft--1",
+      "id": 204910,
+      "name": "Minecraft: Java & Bedrock Edition",
+      "url": "https://www.igdb.com/games/minecraft-java-and-bedrock-edition",
       "publishers": [
-        "Mojang Studios"
+        "Xbox Game Studios"
       ],
       "developers": [
         "Mojang Studios"
       ],
       "genres": [
         "Simulator",
-        "Adventure",
-        "Arcade"
+        "Adventure"
       ],
       "themes": [
         "Action",
@@ -123,15 +145,36 @@
       "game_modes": [
         "Single player",
         "Multiplayer",
-        "Co-operative",
-        "Split screen",
-        "Massively Multiplayer Online (MMO)"
+        "Co-operative"
       ],
       "player_perspectives": [
         "First person",
-        "Third person",
-        "Virtual Reality"
-      ]
+        "Third person"
+      ],
+      "engine": [
+        "Bedrock Engine",
+        "Lightweight Java Game Library"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2022-06-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

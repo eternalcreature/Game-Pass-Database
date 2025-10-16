@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 1465,
+    "game_engines": [
+      {
+        "id": 8,
+        "name": "Havok"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3109,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 3110,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Perfect Dark Zero",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/perfect-dark-zero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 25970,
+      "date": 1133481600,
+      "platform": 12
+    },
+    {
+      "id": 25971,
+      "date": 1134172800,
+      "platform": 12
+    },
+    {
+      "id": 25969,
+      "date": 1132185600,
+      "platform": 12
+    },
+    {
+      "id": 25972,
+      "date": 1143331200,
+      "platform": 12
+    }
+  ]
+}

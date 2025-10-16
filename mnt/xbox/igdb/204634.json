@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 204634,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175292,
+        "company": {
+          "id": 4133,
+          "name": "11 bit studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Alters",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-alters",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 726577,
+      "date": 1749772800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 726578,
+      "date": 1749772800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 726576,
+      "date": 1749772800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

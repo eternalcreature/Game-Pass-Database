@@ -1,0 +1,159 @@
+{
+  "general": {
+    "id": 769,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265389,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265390,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265391,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265387,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 265388,
+        "company": {
+          "id": 291,
+          "name": "Nixxes Software"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Lara Croft and the Guardian of Light",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lara-croft-and-the-guardian-of-light",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 239707,
+      "date": 1608595200,
+      "platform": 170
+    },
+    {
+      "id": 591470,
+      "date": 1285632000,
+      "platform": 6
+    },
+    {
+      "id": 591471,
+      "date": 1285718400,
+      "platform": 6
+    },
+    {
+      "id": 591473,
+      "date": 1285718400,
+      "platform": 9
+    },
+    {
+      "id": 591474,
+      "date": 1282089600,
+      "platform": 12
+    },
+    {
+      "id": 591475,
+      "date": 1282176000,
+      "platform": 12
+    },
+    {
+      "id": 591472,
+      "date": 1285632000,
+      "platform": 9
+    },
+    {
+      "id": 534198,
+      "date": 1292457600,
+      "platform": 39
+    },
+    {
+      "id": 534199,
+      "date": 1687478400,
+      "platform": 130
+    },
+    {
+      "id": 534197,
+      "date": 1476403200,
+      "platform": 34
+    }
+  ]
+}

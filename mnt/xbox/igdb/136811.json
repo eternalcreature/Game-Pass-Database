@@ -1,0 +1,158 @@
+{
+  "general": {
+    "id": 136811,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 114119,
+        "company": {
+          "id": 161,
+          "name": "Konami Digital Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 114120,
+        "company": {
+          "id": 170,
+          "name": "Kojima Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 114121,
+        "company": {
+          "id": 1030,
+          "name": "Bluepoint Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 114122,
+        "company": {
+          "id": 3226,
+          "name": "Armature Studio"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Metal Gear Solid HD Edition: 2 & 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metal-gear-solid-hd-edition-2-and-3",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 220686,
+      "date": 1341446400,
+      "platform": 46
+    },
+    {
+      "id": 220678,
+      "date": 1322006400,
+      "platform": 9
+    },
+    {
+      "id": 220675,
+      "date": 1320710400,
+      "platform": 12
+    },
+    {
+      "id": 220676,
+      "date": 1320710400,
+      "platform": 9
+    },
+    {
+      "id": 220683,
+      "date": 1339459200,
+      "platform": 46
+    },
+    {
+      "id": 220685,
+      "date": 1340928000,
+      "platform": 46
+    },
+    {
+      "id": 220680,
+      "date": 1328227200,
+      "platform": 9
+    },
+    {
+      "id": 220679,
+      "date": 1328227200,
+      "platform": 12
+    },
+    {
+      "id": 220681,
+      "date": 1329350400,
+      "platform": 12
+    },
+    {
+      "id": 220677,
+      "date": 1322006400,
+      "platform": 12
+    }
+  ]
+}

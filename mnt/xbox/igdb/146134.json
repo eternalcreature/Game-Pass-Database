@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 146134,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 143269,
+        "company": {
+          "id": 592,
+          "name": "Milestone"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Hot Wheels Unleashed: Day One Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hot-wheels-unleashed-day-one-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 300492,
+      "date": 1632960000,
+      "platform": 49
+    },
+    {
+      "id": 300491,
+      "date": 1632960000,
+      "platform": 130
+    },
+    {
+      "id": 300493,
+      "date": 1632960000,
+      "platform": 169
+    },
+    {
+      "id": 300494,
+      "date": 1632960000,
+      "platform": 6
+    },
+    {
+      "id": 300495,
+      "date": 1632960000,
+      "platform": 48
+    },
+    {
+      "id": 300496,
+      "date": 1632960000,
+      "platform": 167
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 8321,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 20370,
+        "company": {
+          "id": 4279,
+          "name": "Sprout Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 20371,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Feeding Frenzy 2: Shipwreck Showdown",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/feeding-frenzy-2-shipwreck-showdown",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 229697,
+      "date": 1221609600,
+      "platform": 12
+    },
+    {
+      "id": 304330,
+      "date": 1221609600,
+      "platform": 49
+    },
+    {
+      "id": 133662,
+      "date": 1335484800,
+      "platform": 9
+    },
+    {
+      "id": 24035,
+      "date": 1139184000,
+      "platform": 6
+    },
+    {
+      "id": 133661,
+      "date": 1335225600,
+      "platform": 9
+    }
+  ]
+}

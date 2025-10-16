@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 141568,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 114731,
+        "company": {
+          "id": 326,
+          "name": "Cyan Worlds"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Myst",
+    "parent_game": 236,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/myst--1",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 417512,
+      "date": 1629936000,
+      "platform": 14
+    },
+    {
+      "id": 305189,
+      "date": 1629936000,
+      "platform": 6
+    },
+    {
+      "id": 467271,
+      "date": 1629936000,
+      "platform": 385
+    },
+    {
+      "id": 221754,
+      "date": 1607558400,
+      "platform": 162
+    },
+    {
+      "id": 351905,
+      "date": 1607558400,
+      "platform": 384
+    },
+    {
+      "id": 351906,
+      "date": 1607558400,
+      "platform": 386
+    },
+    {
+      "id": 306438,
+      "date": 1629936000,
+      "platform": 49
+    },
+    {
+      "id": 306439,
+      "date": 1629936000,
+      "platform": 169
+    }
+  ]
+}

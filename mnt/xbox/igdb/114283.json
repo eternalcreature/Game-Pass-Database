@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 114283,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 267322,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 267323,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267324,
+        "company": {
+          "id": 9969,
+          "name": "P Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Persona 5 Royal",
+    "parent_game": 9927,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/persona-5-royal",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 552173,
+      "date": 1585612800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 630746,
+      "date": 1666310400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 552172,
+      "date": 1585612800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 630747,
+      "date": 1666310400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 630749,
+      "date": 1666310400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 552171,
+      "date": 1572480000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 630745,
+      "date": 1666310400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 630748,
+      "date": 1666310400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 552174,
+      "date": 1585612800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

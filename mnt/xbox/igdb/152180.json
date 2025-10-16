@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 152180,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 330911,
+        "company": {
+          "id": 36610,
+          "name": "Secret Mode"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 330912,
+        "company": {
+          "id": 35008,
+          "name": "Max Inferno"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "A Little to the Left",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/a-little-to-the-left",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 687033,
+      "date": 1727827200,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 687031,
+      "date": 1728259200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 687027,
+      "date": 1707955200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 687029,
+      "date": 1707955200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 687026,
+      "date": 1667865600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 687028,
+      "date": 1707955200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 687025,
+      "date": 1667952000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 687024,
+      "date": 1667865600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 687030,
+      "date": 1707955200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

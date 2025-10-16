@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 143612,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 241309,
+        "company": {
+          "id": 19676,
+          "name": "24 Bit Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 219523,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 219524,
+        "company": {
+          "id": 14014,
+          "name": "Ben Esposito"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Neon White",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/neon-white",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 483413,
+      "date": 1670889600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 483410,
+      "date": 1655337600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 616396,
+      "date": 1720656000,
+      "platform": 169
+    },
+    {
+      "id": 483412,
+      "date": 1670889600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 616397,
+      "date": 1720656000,
+      "platform": 49
+    },
+    {
+      "id": 483411,
+      "date": 1655337600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

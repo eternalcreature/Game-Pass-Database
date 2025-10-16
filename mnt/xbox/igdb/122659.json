@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 122659,
+    "game_engines": [
+      {
+        "id": 601,
+        "name": "Unity 2018"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 235952,
+        "company": {
+          "id": 14163,
+          "name": "Plausible Concept"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 235953,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Bad North: Jotunn Edition",
+    "parent_game": 78550,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bad-north-jotunn-edition",
+    "game_type": 14
+  },
+  "release_dates": [
+    {
+      "id": 180401,
+      "date": 1535414400,
+      "platform": 49
+    },
+    {
+      "id": 236281,
+      "date": 1571097600,
+      "platform": 39
+    },
+    {
+      "id": 236283,
+      "date": 1542326400,
+      "platform": 6
+    },
+    {
+      "id": 236284,
+      "date": 1542326400,
+      "platform": 14
+    },
+    {
+      "id": 370950,
+      "date": 1571184000,
+      "platform": 34
+    },
+    {
+      "id": 180399,
+      "date": 1534723200,
+      "platform": 130
+    },
+    {
+      "id": 180400,
+      "date": 1535414400,
+      "platform": 48
+    }
+  ]
+}

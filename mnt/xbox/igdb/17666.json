@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 17666,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38417,
+        "company": {
+          "id": 7701,
+          "name": "Dovetail Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dovetail Games: Euro Fishing",
+    "url": "https://www.igdb.com/games/dovetail-games-euro-fishing",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 46566,
+      "date": 1443657600,
+      "platform": 6
+    },
+    {
+      "id": 229667,
+      "date": 1491868800,
+      "platform": 48
+    },
+    {
+      "id": 118699,
+      "date": 1446422400,
+      "platform": 6
+    },
+    {
+      "id": 135979,
+      "date": 1465516800,
+      "platform": 49
+    }
+  ]
+}

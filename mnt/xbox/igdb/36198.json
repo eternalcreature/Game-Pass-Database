@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 36198,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 82827,
+        "company": {
+          "id": 4133,
+          "name": "11 bit studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 82826,
+        "company": {
+          "id": 1718,
+          "name": "Dead Mage"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Children of Morta",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/children-of-morta",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 174008,
+      "date": 1567468800,
+      "platform": 6
+    },
+    {
+      "id": 174011,
+      "date": 1571097600,
+      "platform": 49
+    },
+    {
+      "id": 174009,
+      "date": 1567468800,
+      "platform": 14
+    },
+    {
+      "id": 408438,
+      "date": 1567468800,
+      "platform": 3
+    },
+    {
+      "id": 174012,
+      "date": 1571097600,
+      "platform": 130
+    },
+    {
+      "id": 249242,
+      "date": 1574208000,
+      "platform": 130
+    },
+    {
+      "id": 339803,
+      "date": 1574121600,
+      "platform": 130
+    },
+    {
+      "id": 174010,
+      "date": 1571097600,
+      "platform": 48
+    },
+    {
+      "id": 636606,
+      "date": 1728259200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 636607,
+      "date": 1728259200,
+      "platform": 34,
+      "status": 6
+    }
+  ]
+}

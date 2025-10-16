@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 110314,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 203926,
+        "company": {
+          "id": 11941,
+          "name": "Asmodee Digital"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Munchkin: Quacked Quest",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/munchkin-quacked-quest",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 177749,
+      "date": 1574121600,
+      "platform": 130
+    },
+    {
+      "id": 245028,
+      "date": 1574121600,
+      "platform": 48
+    },
+    {
+      "id": 194516,
+      "date": 1574121600,
+      "platform": 49
+    },
+    {
+      "id": 432912,
+      "date": 1574121600,
+      "platform": 6
+    }
+  ]
+}

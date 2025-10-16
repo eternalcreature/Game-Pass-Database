@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 19456,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168189,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 168190,
+        "company": {
+          "id": 5052,
+          "name": "Moon Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "parent_game": 7344,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ori-and-the-blind-forest-definitive-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 174401,
+      "date": 1569542400,
+      "platform": 130
+    },
+    {
+      "id": 227301,
+      "date": 1457654400,
+      "platform": 49
+    },
+    {
+      "id": 59285,
+      "date": 1461715200,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 142941,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 198752,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 198753,
+        "company": {
+          "id": 31794,
+          "name": "niceplay game"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Potion Craft",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      },
+      {
+        "id": 5,
+        "name": "Text"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/potion-craft",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 767734,
+      "date": 1702339200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 518808,
+      "date": 1670889600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 545480,
+      "date": 1702339200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 460917,
+      "date": 1685491200,
+      "platform": 48
+    },
+    {
+      "id": 591523,
+      "date": 1632182400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 591524,
+      "date": 1670889600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 518809,
+      "date": 1670889600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

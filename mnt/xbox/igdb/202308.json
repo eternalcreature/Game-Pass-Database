@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 202308,
+    "game_engines": [
+      {
+        "id": 70,
+        "name": "The Sims 3 Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171904,
+        "company": {
+          "id": 284,
+          "name": "Maxis"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 193187,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193188,
+        "company": {
+          "id": 283,
+          "name": "The Sims Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Sims 3: Starter Pack",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-sims-3-starter-pack",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 360362,
+      "date": 1368489600,
+      "platform": 6
+    },
+    {
+      "id": 360363,
+      "date": 1368489600,
+      "platform": 14
+    },
+    {
+      "id": 360364,
+      "date": 1368662400,
+      "platform": 6
+    },
+    {
+      "id": 360365,
+      "date": 1368662400,
+      "platform": 14
+    }
+  ]
+}

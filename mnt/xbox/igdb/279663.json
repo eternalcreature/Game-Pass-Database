@@ -1,0 +1,45 @@
+{
+  "general": {
+    "id": 279663,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 243965,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 243966,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kameo 2",
+    "url": "https://www.igdb.com/games/kameo-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 542788,
+      "platform": 12,
+      "status": 5
+    }
+  ]
+}

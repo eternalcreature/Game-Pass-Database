@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 28059,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 84421,
+        "company": {
+          "id": 21784,
+          "name": "Microsoft Casual Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 84420,
+        "company": {
+          "id": 17047,
+          "name": "Microsoft Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Microsoft Solitaire Collection",
+    "url": "https://www.igdb.com/games/microsoft-solitaire-collection",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 175690,
+      "date": 1479859200,
+      "platform": 34
+    },
+    {
+      "id": 175689,
+      "date": 1479859200,
+      "platform": 39
+    },
+    {
+      "id": 175688,
+      "date": 1351209600,
+      "platform": 6
+    },
+    {
+      "id": 253058,
+      "date": 1438128000,
+      "platform": 74
+    },
+    {
+      "id": 252526,
+      "date": 1388102400,
+      "platform": 74
+    },
+    {
+      "id": 468435,
+      "platform": 82
+    }
+  ]
+}

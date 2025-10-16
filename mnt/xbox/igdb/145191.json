@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 145191,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 183780,
+        "company": {
+          "id": 663,
+          "name": "Capcom Production Studio 4"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 183782,
+        "company": {
+          "id": 651,
+          "name": "Sourcenext"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 183781,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Resident Evil 4",
+    "parent_game": 974,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-4--2",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 521981,
+      "date": 1130198400,
+      "platform": 8
+    },
+    {
+      "id": 521986,
+      "date": 1179187200,
+      "platform": 6
+    },
+    {
+      "id": 521982,
+      "date": 1131062400,
+      "platform": 8
+    },
+    {
+      "id": 521983,
+      "date": 1133395200,
+      "platform": 8
+    },
+    {
+      "id": 521985,
+      "date": 1172793600,
+      "platform": 6
+    },
+    {
+      "id": 521987,
+      "date": 1181174400,
+      "platform": 6
+    }
+  ]
+}

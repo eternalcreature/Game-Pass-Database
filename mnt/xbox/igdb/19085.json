@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 19085,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96523,
+        "company": {
+          "id": 2248,
+          "name": "Daedalic Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 115997,
+        "company": {
+          "id": 14218,
+          "name": "Kalypso"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 281914,
+        "company": {
+          "id": 32841,
+          "name": "Mimimi Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadow-tactics-blades-of-the-shogun",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 71538,
+      "date": 1501545600,
+      "platform": 48
+    },
+    {
+      "id": 120078,
+      "date": 1501545600,
+      "platform": 49
+    },
+    {
+      "id": 56742,
+      "date": 1480982400,
+      "platform": 6
+    },
+    {
+      "id": 117411,
+      "date": 1480982400,
+      "platform": 6
+    },
+    {
+      "id": 56740,
+      "date": 1480982400,
+      "platform": 3
+    },
+    {
+      "id": 71537,
+      "date": 1501200000,
+      "platform": 49
+    },
+    {
+      "id": 71536,
+      "date": 1501200000,
+      "platform": 48
+    },
+    {
+      "id": 456813,
+      "date": 1480982400,
+      "platform": 14
+    },
+    {
+      "id": 456814,
+      "date": 1483488000,
+      "platform": 14
+    }
+  ]
+}

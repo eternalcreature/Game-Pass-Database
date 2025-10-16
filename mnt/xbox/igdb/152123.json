@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 152123,
+    "game_engines": [
+      {
+        "id": 618,
+        "name": "Swarm Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138585,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 138587,
+        "company": {
+          "id": 922,
+          "name": "Paramount Pictures"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "World War Z: Aftermath",
+    "parent_game": 20910,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/world-war-z-aftermath",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 331844,
+      "date": 1632182400,
+      "platform": 48
+    },
+    {
+      "id": 331847,
+      "date": 1632182400,
+      "platform": 49
+    },
+    {
+      "id": 460198,
+      "date": 1632182400,
+      "platform": 169
+    },
+    {
+      "id": 438701,
+      "date": 1674518400,
+      "platform": 169
+    },
+    {
+      "id": 331846,
+      "date": 1632182400,
+      "platform": 6
+    },
+    {
+      "id": 438700,
+      "date": 1674518400,
+      "platform": 167
+    },
+    {
+      "id": 349537,
+      "date": 1648771200,
+      "platform": 170
+    }
+  ]
+}

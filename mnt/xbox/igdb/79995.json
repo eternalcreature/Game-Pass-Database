@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 79995,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 192396,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 192397,
+        "company": {
+          "id": 14280,
+          "name": "Shedworks"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Sable",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sable",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 252966,
+      "date": 1632355200,
+      "platform": 49
+    },
+    {
+      "id": 252967,
+      "date": 1632355200,
+      "platform": 169
+    },
+    {
+      "id": 400215,
+      "date": 1669680000,
+      "platform": 48
+    },
+    {
+      "id": 684257,
+      "date": 1632355200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 400214,
+      "date": 1669680000,
+      "platform": 167
+    }
+  ]
+}

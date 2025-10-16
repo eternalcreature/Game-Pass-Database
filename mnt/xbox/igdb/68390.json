@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 68390,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 119205,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 68089,
+        "company": {
+          "id": 5448,
+          "name": "Nyamyam"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Astrologaster",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/astrologaster",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 167701,
+      "date": 1557360000,
+      "platform": 14
+    },
+    {
+      "id": 167702,
+      "date": 1557360000,
+      "platform": 6
+    },
+    {
+      "id": 169134,
+      "date": 1556755200,
+      "platform": 39
+    },
+    {
+      "id": 228715,
+      "date": 1613606400,
+      "platform": 130
+    }
+  ]
+}

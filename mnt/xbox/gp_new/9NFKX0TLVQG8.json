@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2017-11-20",
-    "release_date": null,
+    "release_date": "2019-06-09",
     "platforms": [
       "PC"
     ]
@@ -70,12 +70,35 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-11-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 23689,
-      "name": "Battle Chef Brigade",
-      "url": "https://www.igdb.com/games/battle-chef-brigade",
+      "id": 111825,
+      "name": "Battle Chef Brigade Deluxe",
+      "url": "https://www.igdb.com/games/battle-chef-brigade-deluxe",
       "publishers": [
         "Adult Swim Games"
       ],
@@ -101,7 +124,30 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2017-11-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

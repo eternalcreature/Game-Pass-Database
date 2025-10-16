@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 27011,
+    "game_engines": [
+      {
+        "id": 673,
+        "name": "Serious Engine 4.0"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 64325,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 64324,
+        "company": {
+          "id": 414,
+          "name": "Croteam"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Serious Sam 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/serious-sam-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 206065,
+      "date": 1600992000,
+      "platform": 170
+    },
+    {
+      "id": 206064,
+      "date": 1600992000,
+      "platform": 6
+    },
+    {
+      "id": 151619,
+      "platform": 14
+    },
+    {
+      "id": 340377,
+      "date": 1638835200,
+      "platform": 169
+    },
+    {
+      "id": 151620,
+      "platform": 3
+    },
+    {
+      "id": 346330,
+      "date": 1640131200,
+      "platform": 167
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 165318,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 146106,
+        "company": {
+          "id": 36930,
+          "name": "Nullpointer Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 146107,
+        "company": {
+          "id": 36930,
+          "name": "Nullpointer Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Into the Pit",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/into-the-pit",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 306094,
+      "date": 1634601600,
+      "platform": 49
+    },
+    {
+      "id": 306095,
+      "date": 1634601600,
+      "platform": 6
+    }
+  ]
+}

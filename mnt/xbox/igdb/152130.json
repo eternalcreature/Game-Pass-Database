@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 152130,
+    "game_engines": [
+      {
+        "id": 340,
+        "name": "GameMaker"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138602,
+        "company": {
+          "id": 7397,
+          "name": "White Rabbit"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 138603,
+        "company": {
+          "id": 6352,
+          "name": "Serenity Forge"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Death's Gambit: Afterlife",
+    "parent_game": 14760,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deaths-gambit-afterlife",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 327298,
+      "date": 1534118400,
+      "platform": 48
+    },
+    {
+      "id": 327297,
+      "date": 1534118400,
+      "platform": 6
+    },
+    {
+      "id": 392883,
+      "date": 1581552000,
+      "platform": 49
+    },
+    {
+      "id": 312331,
+      "date": 1632960000,
+      "platform": 130
+    },
+    {
+      "id": 335838,
+      "date": 1632960000,
+      "platform": 130
+    }
+  ]
+}

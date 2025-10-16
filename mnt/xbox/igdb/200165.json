@@ -1,0 +1,177 @@
+{
+  "general": {
+    "id": 200165,
+    "game_engines": [
+      {
+        "id": 123,
+        "name": "IW Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 193891,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193892,
+        "company": {
+          "id": 71,
+          "name": "Raven Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193893,
+        "company": {
+          "id": 428,
+          "name": "Treyarch"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193894,
+        "company": {
+          "id": 659,
+          "name": "Sledgehammer Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193895,
+        "company": {
+          "id": 432,
+          "name": "Beenox"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193896,
+        "company": {
+          "id": 434,
+          "name": "High Moon Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193897,
+        "company": {
+          "id": 14333,
+          "name": "Activision Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193898,
+        "company": {
+          "id": 3581,
+          "name": "Demonware"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193899,
+        "company": {
+          "id": 741,
+          "name": "Toys for Bob"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 188240,
+        "company": {
+          "id": 438,
+          "name": "Infinity Ward"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Call of Duty: Modern Warfare II",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 360950,
+      "date": 1666915200,
+      "platform": 49
+    },
+    {
+      "id": 360949,
+      "date": 1666915200,
+      "platform": 48
+    },
+    {
+      "id": 360863,
+      "date": 1666915200,
+      "platform": 169
+    },
+    {
+      "id": 360864,
+      "date": 1666915200,
+      "platform": 6
+    },
+    {
+      "id": 360862,
+      "date": 1666915200,
+      "platform": 167
+    }
+  ]
+}

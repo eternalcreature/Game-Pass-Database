@@ -21,8 +21,8 @@
         "BPJ686W6S0NH"
       ]
     ],
-    "original_release_date": "2013-09-17",
-    "release_date": null,
+    "original_release_date": "2015-04-14",
+    "release_date": "2015-04-14",
     "platforms": [
       "PC"
     ]
@@ -89,12 +89,35 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "RAGE"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2015-04-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-04-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-06-15"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 239064,
-      "name": "Grand Theft Auto V",
-      "url": "https://www.igdb.com/games/grand-theft-auto-v--2",
+      "id": 334647,
+      "name": "Grand Theft Auto V Enhanced",
+      "url": "https://www.igdb.com/games/grand-theft-auto-v-enhanced--3",
       "publishers": [
         "Rockstar Games"
       ],
@@ -102,22 +125,39 @@
         "Rockstar North"
       ],
       "genres": [
-        "Shooter",
-        "Arcade"
+        "Racing",
+        "Adventure"
       ],
       "themes": [
-        "Action",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "First person",
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2025-03-04",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-03-04"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

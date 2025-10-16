@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 252476,
+    "game_engines": [
+      {
+        "id": 1251,
+        "name": "Unity 2021"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 281428,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 281429,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Prince of Persia: The Lost Crown",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 602827,
+      "date": 1733184000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 482084,
+      "date": 1705536000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 482086,
+      "date": 1705536000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 481886,
+      "date": 1705536000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 629209,
+      "date": 1723075200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 482087,
+      "date": 1705536000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 482085,
+      "date": 1705536000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 482083,
+      "date": 1705536000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

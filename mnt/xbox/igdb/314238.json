@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 314238,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 287991,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sniper Elite: Resistance",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sniper-elite-resistance",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 657703,
+      "date": 1738195200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 657705,
+      "date": 1738195200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 685039,
+      "date": 1738022400,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 685041,
+      "date": 1738022400,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 685038,
+      "date": 1738022400,
+      "platform": 48,
+      "status": 34
+    },
+    {
+      "id": 657704,
+      "date": 1738195200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 657702,
+      "date": 1738195200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 685037,
+      "date": 1738022400,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 657706,
+      "date": 1738195200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 685040,
+      "date": 1738022400,
+      "platform": 49,
+      "status": 34
+    }
+  ]
+}

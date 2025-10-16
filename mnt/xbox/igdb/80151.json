@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 80151,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190533,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Phoenix Wright: Ace Attorney Trilogy HD",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/phoenix-wright-ace-attorney-trilogy-hd",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 395954,
+      "date": 1369872000,
+      "platform": 39
+    },
+    {
+      "id": 180163,
+      "date": 1369872000,
+      "platform": 39
+    },
+    {
+      "id": 180164,
+      "date": 1423699200,
+      "platform": 34
+    },
+    {
+      "id": 395952,
+      "date": 1365724800,
+      "platform": 39
+    },
+    {
+      "id": 395953,
+      "date": 1369872000,
+      "platform": 39
+    },
+    {
+      "id": 395955,
+      "date": 1328572800,
+      "platform": 39
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 21760,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 293670,
+        "company": {
+          "id": 1474,
+          "name": "SNK"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 293671,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Metal Slug XX",
+    "parent_game": 1412,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metal-slug-xx",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 515863,
+      "platform": 46
+    },
+    {
+      "id": 87126,
+      "date": 1269302400,
+      "platform": 38
+    },
+    {
+      "id": 211648,
+      "date": 1527552000,
+      "platform": 48
+    },
+    {
+      "id": 291954,
+      "date": 1548979200,
+      "platform": 6
+    },
+    {
+      "id": 427774,
+      "date": 1276646400,
+      "platform": 12
+    }
+  ]
+}

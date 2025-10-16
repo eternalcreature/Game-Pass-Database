@@ -1,0 +1,147 @@
+{
+  "general": {
+    "id": 1991,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 45944,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 45943,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 97243,
+        "company": {
+          "id": 1111,
+          "name": "Trapdoor"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 134023,
+        "company": {
+          "id": 1013,
+          "name": "Polytron Corporation"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134024,
+        "company": {
+          "id": 1013,
+          "name": "Polytron Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fez",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fez",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 68170,
+      "date": 1408492800,
+      "platform": 48
+    },
+    {
+      "id": 60953,
+      "date": 1395705600,
+      "platform": 9
+    },
+    {
+      "id": 68168,
+      "date": 1367366400,
+      "platform": 6
+    },
+    {
+      "id": 131212,
+      "date": 1513123200,
+      "platform": 39
+    },
+    {
+      "id": 250144,
+      "date": 1618358400,
+      "platform": 130
+    },
+    {
+      "id": 337431,
+      "date": 1618358400,
+      "platform": 130
+    },
+    {
+      "id": 60955,
+      "date": 1395705600,
+      "platform": 46
+    },
+    {
+      "id": 68167,
+      "date": 1334275200,
+      "platform": 12
+    },
+    {
+      "id": 68169,
+      "date": 1408492800,
+      "platform": 9
+    },
+    {
+      "id": 416256,
+      "date": 1378857600,
+      "platform": 14
+    }
+  ]
+}

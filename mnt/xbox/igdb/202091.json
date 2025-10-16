@@ -1,0 +1,82 @@
+{
+  "general": {
+    "id": 202091,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171653,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 171654,
+        "company": {
+          "id": 28050,
+          "name": "Electronic Arts, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 171655,
+        "company": {
+          "id": 62,
+          "name": "Griptonite Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Bejeweled 3",
+    "parent_game": 1978,
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bejeweled-3--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 380268,
+      "date": 1356912000,
+      "platform": 55
+    },
+    {
+      "id": 380269,
+      "date": 1321315200,
+      "platform": 20
+    },
+    {
+      "id": 380270,
+      "date": 1318982400,
+      "platform": 12
+    },
+    {
+      "id": 380271,
+      "date": 1321315200,
+      "platform": 9
+    },
+    {
+      "id": 380272,
+      "date": 1323648000,
+      "platform": 82
+    },
+    {
+      "id": 380273,
+      "date": 1278460800,
+      "platform": 6
+    }
+  ]
+}

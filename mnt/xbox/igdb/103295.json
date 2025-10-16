@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 103295,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65503,
+        "company": {
+          "id": 9317,
+          "name": "DYNAMIC PIXELS"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 65504,
+        "company": {
+          "id": 15681,
+          "name": "Hologryph"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 125780,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Secret Neighbor",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/secret-neighbor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 407843,
+      "date": 1571875200,
+      "platform": 6
+    },
+    {
+      "id": 239684,
+      "date": 1606780800,
+      "platform": 170
+    },
+    {
+      "id": 240502,
+      "date": 1619654400,
+      "platform": 48
+    },
+    {
+      "id": 240503,
+      "date": 1619654400,
+      "platform": 39
+    },
+    {
+      "id": 307736,
+      "date": 1629936000,
+      "platform": 130
+    },
+    {
+      "id": 338129,
+      "date": 1629936000,
+      "platform": 130
+    },
+    {
+      "id": 454837,
+      "date": 1571788800,
+      "platform": 49
+    }
+  ]
+}

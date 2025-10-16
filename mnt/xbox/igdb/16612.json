@@ -1,0 +1,143 @@
+{
+  "general": {
+    "id": 16612,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 196479,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 196480,
+        "company": {
+          "id": 9387,
+          "name": "Luis Antonio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 241325,
+        "company": {
+          "id": 19676,
+          "name": "24 Bit Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 261046,
+        "company": {
+          "id": 27224,
+          "name": "Netflix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Twelve Minutes",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/twelve-minutes",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 326251,
+      "date": 1638835200,
+      "platform": 130
+    },
+    {
+      "id": 289600,
+      "date": 1629331200,
+      "platform": 169
+    },
+    {
+      "id": 289599,
+      "date": 1629331200,
+      "platform": 49
+    },
+    {
+      "id": 289601,
+      "date": 1629331200,
+      "platform": 6
+    },
+    {
+      "id": 336773,
+      "date": 1640044800,
+      "platform": 130
+    },
+    {
+      "id": 326250,
+      "date": 1638835200,
+      "platform": 167
+    },
+    {
+      "id": 431089,
+      "date": 1670889600,
+      "platform": 39
+    },
+    {
+      "id": 431090,
+      "date": 1670889600,
+      "platform": 34
+    },
+    {
+      "id": 326249,
+      "date": 1638835200,
+      "platform": 48
+    }
+  ]
+}

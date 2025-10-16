@@ -17,8 +17,8 @@
         "BW6B077FCH11"
       ]
     ],
-    "original_release_date": "2017-12-05",
-    "release_date": null,
+    "original_release_date": "2012-12-11",
+    "release_date": "2014-10-14",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -80,7 +80,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Telltale Tool"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2012-12-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-12-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-10-14"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-12-11"
+        }
+      }
     }
   },
   "steam_store_meta": {}

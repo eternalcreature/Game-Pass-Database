@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 7333,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53180,
+        "company": {
+          "id": 1359,
+          "name": "Ruffian Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 68471,
+        "company": {
+          "id": 439,
+          "name": "Sumo Digital"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 68472,
+        "company": {
+          "id": 6154,
+          "name": "Reagent Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 50701,
+        "company": {
+          "id": 6155,
+          "name": "Cloudgine"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 50698,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Crackdown 3",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crackdown-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 311225,
+      "date": 1550188800,
+      "platform": 49
+    },
+    {
+      "id": 160932,
+      "date": 1550188800,
+      "platform": 6
+    }
+  ]
+}

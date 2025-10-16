@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 15852,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65917,
+        "company": {
+          "id": 7901,
+          "name": "No Goblin"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Roundabout",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/roundabout",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 43556,
+      "date": 1432598400,
+      "platform": 48
+    },
+    {
+      "id": 43555,
+      "date": 1424390400,
+      "platform": 49
+    },
+    {
+      "id": 154547,
+      "date": 1466899200,
+      "platform": 46
+    },
+    {
+      "id": 43553,
+      "date": 1410998400,
+      "platform": 3
+    },
+    {
+      "id": 43552,
+      "date": 1410998400,
+      "platform": 6
+    },
+    {
+      "id": 43554,
+      "date": 1410998400,
+      "platform": 14
+    }
+  ]
+}

@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2016-09-27",
-    "release_date": null,
+    "release_date": "2018-06-01",
     "platforms": [
       "PC",
       "XboxOne",
@@ -74,35 +74,80 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-09-27",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-09-27"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 24446,
-      "name": "Lichtspeer",
-      "url": "https://www.igdb.com/games/lichtspeer",
+      "id": 59853,
+      "name": "Lichtspeer: Double Speer Edition",
+      "url": "https://www.igdb.com/games/lichtspeer-double-speer-edition",
       "publishers": [
-        "Crunching Koalas",
-        "Lichthund"
+        "Crunching Koalas"
       ],
       "developers": [
         "Lichthund"
       ],
       "genres": [
-        "Sport",
+        "Shooter",
+        "Platform",
         "Adventure",
         "Indie",
         "Arcade"
       ],
       "themes": [
         "Action",
-        "Science fiction"
+        "Science fiction",
+        "Party"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-09-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-08-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 299592,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 264697,
+        "company": {
+          "id": 2933,
+          "name": "Q-Games Ltd."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "All You Need is Help",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/all-you-need-is-help",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 647753,
+      "date": 1728000000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 645957,
+      "date": 1727308800,
+      "platform": 6
+    },
+    {
+      "id": 645958,
+      "date": 1727308800,
+      "platform": 49
+    },
+    {
+      "id": 645959,
+      "date": 1727308800,
+      "platform": 169
+    },
+    {
+      "id": 645988,
+      "date": 1727308800,
+      "platform": 167
+    }
+  ]
+}

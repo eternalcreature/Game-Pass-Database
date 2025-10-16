@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 20969,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 132261,
+        "company": {
+          "id": 2431,
+          "name": "Big Ant Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 137299,
+        "company": {
+          "id": 34575,
+          "name": "Crosse Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Casey Powell Lacrosse 16",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/casey-powell-lacrosse-16",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 71127,
+      "date": 1457395200,
+      "platform": 6
+    },
+    {
+      "id": 118535,
+      "date": 1457481600,
+      "platform": 48
+    },
+    {
+      "id": 120166,
+      "date": 1457481600,
+      "platform": 49
+    },
+    {
+      "id": 123494,
+      "date": 1457481600,
+      "platform": 6
+    }
+  ]
+}

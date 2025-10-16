@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2018-03-20",
-    "release_date": null,
+    "release_date": "2018-03-20",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -100,35 +100,62 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-03-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-03-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-03-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 11137,
-      "name": "Sea of Thieves",
-      "url": "https://www.igdb.com/games/sea-of-thieves",
-      "publishers": [
-        "Xbox Game Studios"
-      ],
-      "developers": [
-        "Rare"
-      ],
-      "genres": [
-        "Simulator",
-        "Adventure"
-      ],
-      "themes": [
-        "Action",
-        "Fantasy",
-        "Open world"
-      ],
-      "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative"
-      ],
-      "player_perspectives": [
-        "First person"
-      ]
+      "id": 336884,
+      "name": "Sea of Thieves: 2025 Deluxe Edition",
+      "url": "https://www.igdb.com/games/sea-of-thieves-2025-deluxe-edition",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-03-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-03-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-03-20"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

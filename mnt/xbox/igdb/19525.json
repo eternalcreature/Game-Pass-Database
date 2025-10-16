@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 19525,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 62406,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 62405,
+        "company": {
+          "id": 2219,
+          "name": "Zoink"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Fe",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fe",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 250129,
+      "date": 1518652800,
+      "platform": 130
+    },
+    {
+      "id": 416230,
+      "date": 1518739200,
+      "platform": 6
+    },
+    {
+      "id": 147889,
+      "date": 1518739200,
+      "platform": 130
+    },
+    {
+      "id": 147887,
+      "date": 1518739200,
+      "platform": 49
+    },
+    {
+      "id": 147888,
+      "date": 1518739200,
+      "platform": 48
+    }
+  ]
+}

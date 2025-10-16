@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 356,
+    "game_engines": [
+      {
+        "id": 48,
+        "name": "id Tech 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 21700,
+        "company": {
+          "id": 71,
+          "name": "Raven Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 21704,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 21703,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42070,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 95292,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 248325,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Quake 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/quake-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 26384,
+      "date": 1312416000,
+      "platform": 6
+    },
+    {
+      "id": 26382,
+      "date": 1129852800,
+      "platform": 6
+    },
+    {
+      "id": 26378,
+      "date": 1129766400,
+      "platform": 3
+    },
+    {
+      "id": 26381,
+      "date": 1144972800,
+      "platform": 14
+    },
+    {
+      "id": 553556,
+      "date": 1147737600,
+      "platform": 14
+    },
+    {
+      "id": 26379,
+      "date": 1132272000,
+      "platform": 12
+    },
+    {
+      "id": 26377,
+      "date": 1129593600,
+      "platform": 6
+    },
+    {
+      "id": 26383,
+      "date": 1133481600,
+      "platform": 12
+    }
+  ]
+}

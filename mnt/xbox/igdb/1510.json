@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 1510,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4093,
+        "company": {
+          "id": 868,
+          "name": "Junction Point Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 46290,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 46291,
+        "company": {
+          "id": 895,
+          "name": "Heavy Iron Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 4094,
+        "company": {
+          "id": 426,
+          "name": "Disney Interactive Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 126042,
+        "company": {
+          "id": 8163,
+          "name": "Junction Point"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 126043,
+        "company": {
+          "id": 95,
+          "name": "Disney Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Epic Mickey 2: The Power of Two",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/epic-mickey-2-the-power-of-two",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 68678,
+      "date": 1353628800,
+      "platform": 12
+    },
+    {
+      "id": 56085,
+      "date": 1371600000,
+      "platform": 46
+    },
+    {
+      "id": 68674,
+      "date": 1353196800,
+      "platform": 12
+    },
+    {
+      "id": 68675,
+      "date": 1353196800,
+      "platform": 41
+    },
+    {
+      "id": 68673,
+      "date": 1353196800,
+      "platform": 5
+    },
+    {
+      "id": 68679,
+      "date": 1353628800,
+      "platform": 5
+    },
+    {
+      "id": 68680,
+      "date": 1354233600,
+      "platform": 41
+    },
+    {
+      "id": 102584,
+      "date": 1353196800,
+      "platform": 9
+    },
+    {
+      "id": 102583,
+      "date": 1353628800,
+      "platform": 9
+    },
+    {
+      "id": 68676,
+      "date": 1412553600,
+      "platform": 6
+    }
+  ]
+}

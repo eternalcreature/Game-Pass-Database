@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 19130,
+    "game_engines": [
+      {
+        "id": 107,
+        "name": "Firaxis LORE"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96531,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 35229,
+        "company": {
+          "id": 377,
+          "name": "Firaxis Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 133147,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sid Meier's Civilization VI",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 147564,
+      "date": 1513814400,
+      "platform": 39
+    },
+    {
+      "id": 176132,
+      "date": 1574380800,
+      "platform": 49
+    },
+    {
+      "id": 50611,
+      "date": 1477008000,
+      "platform": 6
+    },
+    {
+      "id": 159631,
+      "date": 1542326400,
+      "platform": 130
+    },
+    {
+      "id": 176131,
+      "date": 1574380800,
+      "platform": 48
+    },
+    {
+      "id": 337604,
+      "date": 1634083200,
+      "platform": 130
+    },
+    {
+      "id": 131676,
+      "date": 1486598400,
+      "platform": 3
+    },
+    {
+      "id": 131677,
+      "date": 1477267200,
+      "platform": 14
+    },
+    {
+      "id": 298472,
+      "date": 1476921600,
+      "platform": 6
+    },
+    {
+      "id": 298474,
+      "date": 1476921600,
+      "platform": 3
+    }
+  ]
+}

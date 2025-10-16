@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 47157,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 333896,
+        "company": {
+          "id": 13111,
+          "name": "Slow Bros."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Harold Halibut",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/harold-halibut",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 779475,
+      "date": 1756252800,
+      "platform": 14
+    },
+    {
+      "id": 576121,
+      "date": 1713225600,
+      "platform": 6
+    },
+    {
+      "id": 576135,
+      "date": 1713225600,
+      "platform": 167
+    },
+    {
+      "id": 576136,
+      "date": 1713225600,
+      "platform": 169
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 172903,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 216718,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 216717,
+        "company": {
+          "id": 5119,
+          "name": "Supra Games UG"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 230041,
+        "company": {
+          "id": 5119,
+          "name": "Supra Games UG"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Supraland: Six Inches Under",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/supraland-six-inches-under",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 476217,
+      "date": 1642118400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 476221,
+      "date": 1684368000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 476220,
+      "date": 1684368000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 476218,
+      "date": 1684368000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 476219,
+      "date": 1684368000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 684350,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 123925,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 301048,
+        "company": {
+          "id": 10549,
+          "name": "HypeTrain Digital"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Voidtrain",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/voidtrain",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 820994,
+      "date": 1762473600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 820995,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 820996,
+      "date": 1762473600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 640035,
+      "date": 1683590400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 640045,
+      "date": 1628726400,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

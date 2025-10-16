@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 223097,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219112,
+        "company": {
+          "id": 17130,
+          "name": "Polygon Treehouse"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 219113,
+        "company": {
+          "id": 41364,
+          "name": "Whitethorn Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mythwrecked: Ambrosia Island",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mythwrecked-ambrosia-island",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 791224,
+      "date": 1756684800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 791225,
+      "date": 1756684800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 673592,
+      "date": 1733356800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 673589,
+      "date": 1733356800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 673590,
+      "date": 1733356800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 673591,
+      "date": 1733356800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

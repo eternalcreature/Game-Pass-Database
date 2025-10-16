@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 111813,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 149148,
+        "company": {
+          "id": 7787,
+          "name": "Glass Bottom Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Skatebird",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/skatebird",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 311952,
+      "date": 1631750400,
+      "platform": 49
+    },
+    {
+      "id": 365086,
+      "date": 1631750400,
+      "platform": 169
+    },
+    {
+      "id": 365085,
+      "date": 1631750400,
+      "platform": 130
+    },
+    {
+      "id": 303075,
+      "date": 1631750400,
+      "platform": 6
+    },
+    {
+      "id": 303076,
+      "date": 1631750400,
+      "platform": 14
+    },
+    {
+      "id": 303077,
+      "date": 1631750400,
+      "platform": 3
+    },
+    {
+      "id": 471709,
+      "date": 1685577600,
+      "platform": 48
+    },
+    {
+      "id": 471710,
+      "date": 1685577600,
+      "platform": 167
+    }
+  ]
+}

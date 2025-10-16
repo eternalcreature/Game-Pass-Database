@@ -1,0 +1,72 @@
+{
+  "general": {
+    "id": 52813,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 58410,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 58409,
+        "company": {
+          "id": 943,
+          "name": "Colossal Order"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Cities: Skylines - Deluxe Edition",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/cities-skylines-deluxe-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 532880,
+      "date": 1425945600,
+      "platform": 14
+    },
+    {
+      "id": 532881,
+      "date": 1425945600,
+      "platform": 6
+    }
+  ]
+}

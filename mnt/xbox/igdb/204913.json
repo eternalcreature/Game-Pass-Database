@@ -1,0 +1,71 @@
+{
+  "general": {
+    "id": 204913,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186495,
+        "company": {
+          "id": 12186,
+          "name": "Coffee Stain Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 186496,
+        "company": {
+          "id": 999,
+          "name": "Coffee Stain Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Goat Simulator 3: Pre-Udder Edition",
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/goat-simulator-3-pre-udder-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 387496,
+      "date": 1668643200,
+      "platform": 169
+    },
+    {
+      "id": 387497,
+      "date": 1668643200,
+      "platform": 167
+    },
+    {
+      "id": 387498,
+      "date": 1668643200,
+      "platform": 6
+    }
+  ]
+}

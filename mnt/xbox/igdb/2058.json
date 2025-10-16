@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 2058,
+    "game_engines": [
+      {
+        "id": 38,
+        "name": "Diesel"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37134,
+        "company": {
+          "id": 905,
+          "name": "Overkill Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 38328,
+        "company": {
+          "id": 280,
+          "name": "Starbreeze Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 37135,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Payday 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/payday-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 4704,
+      "date": 1376352000,
+      "platform": 9
+    },
+    {
+      "id": 53045,
+      "date": 1434412800,
+      "platform": 48
+    },
+    {
+      "id": 131180,
+      "date": 1519344000,
+      "platform": 130
+    },
+    {
+      "id": 131179,
+      "date": 1519344000,
+      "platform": 130
+    },
+    {
+      "id": 53046,
+      "date": 1434412800,
+      "platform": 49
+    },
+    {
+      "id": 104814,
+      "date": 1376611200,
+      "platform": 9
+    },
+    {
+      "id": 4703,
+      "date": 1376352000,
+      "platform": 12
+    },
+    {
+      "id": 104813,
+      "date": 1376352000,
+      "platform": 9
+    },
+    {
+      "id": 131181,
+      "date": 1519689600,
+      "platform": 130
+    },
+    {
+      "id": 414756,
+      "date": 1376352000,
+      "platform": 3
+    }
+  ]
+}

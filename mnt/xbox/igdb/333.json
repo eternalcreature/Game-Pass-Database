@@ -1,0 +1,201 @@
+{
+  "general": {
+    "id": 333,
+    "game_engines": [
+      {
+        "id": 97,
+        "name": "id Tech 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1009,
+        "company": {
+          "id": 130,
+          "name": "MacSoft Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1011,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 103625,
+        "company": {
+          "id": 225,
+          "name": "Lobotomy Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 103611,
+        "company": {
+          "id": 205,
+          "name": "GT Interactive Software"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 103616,
+        "company": {
+          "id": 4115,
+          "name": "Lion Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 103617,
+        "company": {
+          "id": 26887,
+          "name": "Bear Naked Productions"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 103618,
+        "company": {
+          "id": 26888,
+          "name": "Pulse Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 103619,
+        "company": {
+          "id": 26889,
+          "name": "PXL computers"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265464,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 265465,
+        "company": {
+          "id": 26886,
+          "name": "clickBOOM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Quake",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/quake",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 203584,
+      "date": 872726400,
+      "platform": 14
+    },
+    {
+      "id": 203583,
+      "date": 878256000,
+      "platform": 32
+    },
+    {
+      "id": 203587,
+      "date": 915062400,
+      "platform": 16
+    },
+    {
+      "id": 203586,
+      "date": 915062400,
+      "platform": 16
+    },
+    {
+      "id": 203590,
+      "date": 835401600,
+      "platform": 13
+    },
+    {
+      "id": 203582,
+      "date": 835401600,
+      "platform": 6
+    },
+    {
+      "id": 203592,
+      "date": 1128124800,
+      "platform": 55
+    },
+    {
+      "id": 312932,
+      "date": 1243209600,
+      "platform": 240
+    },
+    {
+      "id": 203589,
+      "date": 836524800,
+      "platform": 3
+    }
+  ]
+}

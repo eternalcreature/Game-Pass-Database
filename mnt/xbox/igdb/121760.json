@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 121760,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 173993,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 120994,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 120995,
+        "company": {
+          "id": 747,
+          "name": "Tarsier Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Little Nightmares II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/little-nightmares-ii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 760781,
+      "date": 1613001600,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 760783,
+      "date": 1612915200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 760782,
+      "date": 1613001600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 760785,
+      "date": 1613001600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 760784,
+      "date": 1613001600,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

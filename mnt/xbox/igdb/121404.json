@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 121404,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128683,
+        "company": {
+          "id": 30455,
+          "name": "Douze Dixièmes"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128684,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shady Part of Me",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shady-part-of-me",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 233047,
+      "date": 1607558400,
+      "platform": 49
+    },
+    {
+      "id": 233045,
+      "date": 1607644800,
+      "platform": 48
+    },
+    {
+      "id": 233046,
+      "date": 1607558400,
+      "platform": 130
+    },
+    {
+      "id": 250023,
+      "date": 1607558400,
+      "platform": 130
+    },
+    {
+      "id": 225547,
+      "date": 1607558400,
+      "platform": 49
+    },
+    {
+      "id": 339564,
+      "date": 1607558400,
+      "platform": 130
+    },
+    {
+      "id": 413832,
+      "date": 1607558400,
+      "platform": 6
+    }
+  ]
+}

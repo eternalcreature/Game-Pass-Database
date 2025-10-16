@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 145264,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167384,
+        "company": {
+          "id": 28837,
+          "name": "Freedom Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 167385,
+        "company": {
+          "id": 23625,
+          "name": "stellarNull"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Anuchard",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/anuchard",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 352393,
+      "date": 1650499200,
+      "platform": 49
+    },
+    {
+      "id": 350022,
+      "date": 1650499200,
+      "platform": 130
+    },
+    {
+      "id": 352394,
+      "date": 1650499200,
+      "platform": 6
+    },
+    {
+      "id": 352392,
+      "date": 1650499200,
+      "platform": 169
+    }
+  ]
+}

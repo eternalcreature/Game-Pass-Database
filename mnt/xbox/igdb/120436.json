@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 120436,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 88186,
+        "company": {
+          "id": 858,
+          "name": "Koei Tecmo Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130621,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "One Piece: Pirate Warriors 4",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/one-piece-pirate-warriors-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 800779,
+      "date": 1767139200,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 186387,
+      "date": 1585267200,
+      "platform": 49
+    },
+    {
+      "id": 194168,
+      "date": 1588032000,
+      "platform": 48
+    },
+    {
+      "id": 186385,
+      "date": 1585267200,
+      "platform": 48
+    },
+    {
+      "id": 186386,
+      "date": 1585267200,
+      "platform": 130
+    },
+    {
+      "id": 412050,
+      "date": 1585180800,
+      "platform": 6
+    },
+    {
+      "id": 702348,
+      "platform": 167
+    },
+    {
+      "id": 702349,
+      "platform": 169
+    }
+  ]
+}

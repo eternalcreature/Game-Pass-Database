@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 16999,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44904,
+        "company": {
+          "id": 458,
+          "name": "Funcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 53626,
+        "company": {
+          "id": 374,
+          "name": "Koch Media"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Conan Exiles",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/conan-exiles",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 130973,
+      "date": 1525737600,
+      "platform": 48
+    },
+    {
+      "id": 130974,
+      "date": 1525737600,
+      "platform": 6
+    },
+    {
+      "id": 130972,
+      "date": 1525737600,
+      "platform": 49
+    }
+  ]
+}

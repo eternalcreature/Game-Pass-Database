@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 34951,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54612,
+        "company": {
+          "id": 108,
+          "name": "Techland"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 49609,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dead Island: Definitive Edition",
+    "parent_game": 536,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-island-definitive-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 494912,
+      "date": 1464652800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 494910,
+      "date": 1464652800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 494913,
+      "date": 1464652800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494911,
+      "date": 1464652800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

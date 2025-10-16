@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 6356,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 15151,
+        "company": {
+          "id": 277,
+          "name": "EA Canada"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Fight Night Champion",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fight-night-champion",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 103068,
+      "date": 1299196800,
+      "platform": 9
+    },
+    {
+      "id": 15470,
+      "date": 1298937600,
+      "platform": 12
+    },
+    {
+      "id": 103067,
+      "date": 1298937600,
+      "platform": 9
+    },
+    {
+      "id": 103069,
+      "date": 1299715200,
+      "platform": 9
+    },
+    {
+      "id": 15469,
+      "date": 1298937600,
+      "platform": 9
+    }
+  ]
+}

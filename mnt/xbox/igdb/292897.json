@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 292897,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 263531,
+        "company": {
+          "id": 36187,
+          "name": "PlotTwist Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 263532,
+        "company": {
+          "id": 22793,
+          "name": "Rogue Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Last Case of Benedict Fox: Definitive Edition",
+    "parent_game": 204622,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/last-case-of-benedict-fox-definitive-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 580410,
+      "date": 1711411200,
+      "platform": 167
+    },
+    {
+      "id": 601893,
+      "date": 1711411200,
+      "platform": 169
+    },
+    {
+      "id": 601892,
+      "date": 1711411200,
+      "platform": 6
+    }
+  ]
+}

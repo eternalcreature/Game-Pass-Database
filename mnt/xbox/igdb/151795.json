@@ -1,0 +1,81 @@
+{
+  "general": {
+    "id": 151795,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 252406,
+        "company": {
+          "id": 15108,
+          "name": "SIGONO INC."
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Opus: Echo of Starsong",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/opus-echo-of-starsong",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 689035,
+      "date": 1668643200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 562837,
+      "date": 1630368000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 562838,
+      "date": 1630368000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

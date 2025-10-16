@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 1121,
+    "game_engines": [
+      {
+        "id": 16,
+        "name": "Disrupt"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35923,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 224964,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Watch Dogs",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/watch-dogs",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 23704,
+      "date": 1401148800,
+      "platform": 48
+    },
+    {
+      "id": 23705,
+      "date": 1416268800,
+      "platform": 41
+    },
+    {
+      "id": 134345,
+      "date": 1401148800,
+      "platform": 48
+    },
+    {
+      "id": 23706,
+      "date": 1416528000,
+      "platform": 41
+    },
+    {
+      "id": 23701,
+      "date": 1401148800,
+      "platform": 9
+    },
+    {
+      "id": 239701,
+      "date": 1607472000,
+      "platform": 170
+    },
+    {
+      "id": 23702,
+      "date": 1401148800,
+      "platform": 12
+    },
+    {
+      "id": 23707,
+      "date": 1417651200,
+      "platform": 41
+    },
+    {
+      "id": 23703,
+      "date": 1401148800,
+      "platform": 49
+    },
+    {
+      "id": 106824,
+      "date": 1401148800,
+      "platform": 9
+    }
+  ]
+}

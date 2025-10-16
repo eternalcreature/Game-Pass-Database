@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 110474,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 100116,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189606,
+        "company": {
+          "id": 58,
+          "name": "Mojang Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189607,
+        "company": {
+          "id": 748,
+          "name": "Double Eleven"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 100117,
+        "company": {
+          "id": 58,
+          "name": "Mojang Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Minecraft Dungeons",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/minecraft-dungeons",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 192295,
+      "date": 1590451200,
+      "platform": 6
+    },
+    {
+      "id": 192297,
+      "date": 1590451200,
+      "platform": 49
+    },
+    {
+      "id": 192296,
+      "date": 1590451200,
+      "platform": 130
+    },
+    {
+      "id": 192298,
+      "date": 1590451200,
+      "platform": 48
+    },
+    {
+      "id": 338238,
+      "date": 1627430400,
+      "platform": 130
+    }
+  ]
+}

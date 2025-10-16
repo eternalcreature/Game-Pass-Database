@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 27433,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96488,
+        "company": {
+          "id": 2542,
+          "name": "Image & Form"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SteamWorld Dig 2",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/steamworld-dig-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 113043,
+      "date": 1506470400,
+      "platform": 46
+    },
+    {
+      "id": 113042,
+      "date": 1506470400,
+      "platform": 48
+    },
+    {
+      "id": 113040,
+      "date": 1506038400,
+      "platform": 6
+    },
+    {
+      "id": 113044,
+      "date": 1506384000,
+      "platform": 46
+    },
+    {
+      "id": 161427,
+      "date": 1542758400,
+      "platform": 49
+    },
+    {
+      "id": 110880,
+      "date": 1505952000,
+      "platform": 130
+    },
+    {
+      "id": 113038,
+      "date": 1506038400,
+      "platform": 3
+    },
+    {
+      "id": 113041,
+      "date": 1506384000,
+      "platform": 48
+    },
+    {
+      "id": 146991,
+      "date": 1519257600,
+      "platform": 37
+    },
+    {
+      "id": 239443,
+      "date": 1583020800,
+      "platform": 170
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 19686,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184693,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184694,
+        "company": {
+          "id": 42265,
+          "name": "Capcom Development Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 184695,
+        "company": {
+          "id": 8593,
+          "name": "K2"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 252401,
+        "company": {
+          "id": 41399,
+          "name": "NeoBards Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil 2",
+    "parent_game": 880,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-2--1",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 665593,
+      "date": 1655078400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 665591,
+      "date": 1655078400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 665587,
+      "date": 1733788800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 665592,
+      "date": 1548374400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 665589,
+      "date": 1548374400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 665590,
+      "date": 1548374400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 665588,
+      "date": 1733788800,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

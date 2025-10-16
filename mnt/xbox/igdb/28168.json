@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 28168,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50722,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 50721,
+        "company": {
+          "id": 2216,
+          "name": "Shift"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 98173,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 197517,
+        "company": {
+          "id": 4653,
+          "name": "ILCA"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Code Vein",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/code-vein",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 171074,
+      "date": 1569542400,
+      "platform": 6
+    },
+    {
+      "id": 291506,
+      "date": 1569456000,
+      "platform": 6
+    },
+    {
+      "id": 171075,
+      "date": 1569542400,
+      "platform": 49
+    },
+    {
+      "id": 171076,
+      "date": 1569542400,
+      "platform": 48
+    }
+  ]
+}

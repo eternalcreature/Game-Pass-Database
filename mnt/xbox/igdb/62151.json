@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 62151,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69910,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184873,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 195018,
+        "company": {
+          "id": 894,
+          "name": "DON'T NOD"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Life is Strange 2",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/life-is-strange-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 406740,
+      "date": 1537920000,
+      "platform": 14
+    },
+    {
+      "id": 406741,
+      "date": 1537920000,
+      "platform": 3
+    },
+    {
+      "id": 406739,
+      "date": 1537920000,
+      "platform": 6
+    },
+    {
+      "id": 154524,
+      "date": 1538006400,
+      "platform": 48
+    },
+    {
+      "id": 440652,
+      "date": 1675296000,
+      "platform": 130
+    },
+    {
+      "id": 154526,
+      "date": 1538006400,
+      "platform": 49
+    },
+    {
+      "id": 460973,
+      "date": 1579737600,
+      "platform": 14
+    }
+  ]
+}

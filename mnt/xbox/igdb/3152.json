@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 3152,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 337903,
+        "company": {
+          "id": 1005,
+          "name": "Klei Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Don't Starve",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/don-t-starve",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 7138,
+      "date": 1366675200,
+      "platform": 14
+    },
+    {
+      "id": 7139,
+      "date": 1366675200,
+      "platform": 3
+    },
+    {
+      "id": 130405,
+      "date": 1440547200,
+      "platform": 49
+    },
+    {
+      "id": 229664,
+      "date": 1389052800,
+      "platform": 48
+    },
+    {
+      "id": 229663,
+      "date": 1389139200,
+      "platform": 48
+    },
+    {
+      "id": 7137,
+      "date": 1366675200,
+      "platform": 6
+    },
+    {
+      "id": 353531,
+      "date": 1617494400,
+      "platform": 130
+    }
+  ]
+}

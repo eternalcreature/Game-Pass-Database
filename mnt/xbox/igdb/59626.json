@@ -1,0 +1,45 @@
+{
+  "general": {
+    "id": 59626,
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219829,
+        "company": {
+          "id": 1051,
+          "name": "Hothead Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sea Stars",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sea-stars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 483864,
+      "date": 1354320000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 483863,
+      "date": 1321488000,
+      "platform": 39,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 188661,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 163637,
+        "company": {
+          "id": 13943,
+          "name": "MLB Advanced Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 182127,
+        "company": {
+          "id": 2170,
+          "name": "SIE San Diego Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 182128,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "MLB The Show 22",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mlb-the-show-22",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 342981,
+      "date": 1649116800,
+      "platform": 169
+    },
+    {
+      "id": 342982,
+      "date": 1649116800,
+      "platform": 167
+    },
+    {
+      "id": 342983,
+      "date": 1649116800,
+      "platform": 130
+    },
+    {
+      "id": 342984,
+      "date": 1649116800,
+      "platform": 49
+    },
+    {
+      "id": 342985,
+      "date": 1649116800,
+      "platform": 48
+    }
+  ]
+}

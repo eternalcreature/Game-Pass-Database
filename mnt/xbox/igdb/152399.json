@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 152399,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 143166,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Danganronpa: Trigger Happy Havoc - Anniversary Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/danganronpa-trigger-happy-havoc-anniversary-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 337383,
+      "date": 1638489600,
+      "platform": 130
+    },
+    {
+      "id": 337464,
+      "date": 1642377600,
+      "platform": 49
+    },
+    {
+      "id": 297580,
+      "date": 1638489600,
+      "platform": 130
+    },
+    {
+      "id": 341218,
+      "date": 1642464000,
+      "platform": 49
+    },
+    {
+      "id": 337465,
+      "date": 1642377600,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 9727,
+    "game_engines": [
+      {
+        "id": 279,
+        "name": "HPL Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 69640,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 96455,
+        "company": {
+          "id": 36,
+          "name": "Frictional Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Soma",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/soma",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 412849,
+      "date": 1442793600,
+      "platform": 6
+    },
+    {
+      "id": 461213,
+      "date": 1452556800,
+      "platform": 14
+    },
+    {
+      "id": 412850,
+      "date": 1442793600,
+      "platform": 14
+    },
+    {
+      "id": 105652,
+      "date": 1442880000,
+      "platform": 48
+    },
+    {
+      "id": 105651,
+      "date": 1442880000,
+      "platform": 48
+    },
+    {
+      "id": 412851,
+      "date": 1442793600,
+      "platform": 3
+    },
+    {
+      "id": 128986,
+      "date": 1512086400,
+      "platform": 49
+    },
+    {
+      "id": 769101,
+      "date": 1753315200,
+      "platform": 130
+    },
+    {
+      "id": 128985,
+      "date": 1512086400,
+      "platform": 49
+    },
+    {
+      "id": 128980,
+      "date": 1442880000,
+      "platform": 48
+    }
+  ]
+}

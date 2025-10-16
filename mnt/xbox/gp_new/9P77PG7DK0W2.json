@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2025-07-29",
-    "release_date": null,
+    "release_date": "2025-07-29",
     "platforms": [
       "XboxSeriesX",
       "PC",
@@ -83,7 +83,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 5"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-07-29",
+        "PC": {
+          "release_date_ea": "2025-07-29",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": "2025-07-29",
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

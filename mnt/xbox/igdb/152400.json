@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 152400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 143161,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Danganronpa 2: Goodbye Despair - Anniversary Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair-anniversary-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 297581,
+      "date": 1638489600,
+      "platform": 130
+    },
+    {
+      "id": 357633,
+      "date": 1597795200,
+      "platform": 39
+    },
+    {
+      "id": 319641,
+      "date": 1597881600,
+      "platform": 34
+    },
+    {
+      "id": 337381,
+      "date": 1638489600,
+      "platform": 130
+    },
+    {
+      "id": 358457,
+      "date": 1652140800,
+      "platform": 49
+    }
+  ]
+}

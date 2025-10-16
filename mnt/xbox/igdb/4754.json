@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 4754,
+    "game_engines": [
+      {
+        "id": 668,
+        "name": "CATHODE"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42283,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184026,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184027,
+        "company": {
+          "id": 111,
+          "name": "The Creative Assembly"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Alien: Isolation",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/alien-isolation",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 776552,
+      "date": 1412640000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 776547,
+      "date": 1443484800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 776548,
+      "date": 1445904000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 776551,
+      "date": 1412640000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 776550,
+      "date": 1412553600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 776549,
+      "date": 1575504000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 776554,
+      "date": 1412640000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 776553,
+      "date": 1412640000,
+      "platform": 12,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 21604,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 82164,
+        "company": {
+          "id": 21289,
+          "name": "Tilt Games Asia"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 75363,
+        "company": {
+          "id": 4226,
+          "name": "Broken Rules"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Old Man's Journey",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/old-mans-journey",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 166035,
+      "date": 1528243200,
+      "platform": 48
+    },
+    {
+      "id": 166036,
+      "date": 1551657600,
+      "platform": 49
+    },
+    {
+      "id": 166034,
+      "date": 1527552000,
+      "platform": 48
+    },
+    {
+      "id": 166033,
+      "date": 1519257600,
+      "platform": 130
+    },
+    {
+      "id": 124886,
+      "date": 1495065600,
+      "platform": 39
+    },
+    {
+      "id": 166032,
+      "date": 1519084800,
+      "platform": 130
+    },
+    {
+      "id": 146828,
+      "date": 1519084800,
+      "platform": 130
+    },
+    {
+      "id": 363482,
+      "date": 1494892800,
+      "platform": 34
+    },
+    {
+      "id": 420228,
+      "date": 1494979200,
+      "platform": 14
+    },
+    {
+      "id": 420227,
+      "date": 1494979200,
+      "platform": 6
+    }
+  ]
+}

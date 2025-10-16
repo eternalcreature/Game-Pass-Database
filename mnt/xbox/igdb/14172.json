@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 14172,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37489,
+        "company": {
+          "id": 7100,
+          "name": "ROCKFISH Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Everspace",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/everspace",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 68193,
+      "date": 1495756800,
+      "platform": 49
+    },
+    {
+      "id": 136005,
+      "date": 1495756800,
+      "platform": 49
+    },
+    {
+      "id": 402749,
+      "date": 1495670400,
+      "platform": 6
+    },
+    {
+      "id": 402750,
+      "date": 1495670400,
+      "platform": 14
+    },
+    {
+      "id": 402751,
+      "date": 1495670400,
+      "platform": 3
+    },
+    {
+      "id": 504234,
+      "date": 1495670400,
+      "platform": 163
+    },
+    {
+      "id": 239686,
+      "date": 1606780800,
+      "platform": 170
+    },
+    {
+      "id": 169309,
+      "date": 1550016000,
+      "platform": 48
+    }
+  ]
+}

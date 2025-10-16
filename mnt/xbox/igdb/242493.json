@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 242493,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 209383,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 208354,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "LEGO 2K Drive",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-2k-drive",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 495426,
+      "date": 1684454400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 495427,
+      "date": 1684454400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 495428,
+      "date": 1684454400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 495429,
+      "date": 1684454400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 495430,
+      "date": 1684454400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 495431,
+      "date": 1684454400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

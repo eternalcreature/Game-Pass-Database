@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 151956,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 218468,
+        "company": {
+          "id": 34820,
+          "name": "Igloosoft"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 218469,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Farworld Pioneers",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/farworld-pioneers",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 481545,
+      "date": 1685404800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 481546,
+      "date": 1685404800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 481547,
+      "date": 1686700800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 481548,
+      "date": 1686700800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 481549,
+      "date": 1685404800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 481550,
+      "date": 1685404800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

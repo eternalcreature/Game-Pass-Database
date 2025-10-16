@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 11241,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 24391,
+        "company": {
+          "id": 1641,
+          "name": "Hello Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Joe Danger 2: The Movie",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/joe-danger-2-the-movie",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 204523,
+      "date": 1349740800,
+      "platform": 9
+    },
+    {
+      "id": 133793,
+      "date": 1349740800,
+      "platform": 9
+    },
+    {
+      "id": 58737,
+      "date": 1347580800,
+      "platform": 6
+    },
+    {
+      "id": 58736,
+      "date": 1349740800,
+      "platform": 46
+    },
+    {
+      "id": 58738,
+      "date": 1347580800,
+      "platform": 14
+    },
+    {
+      "id": 133794,
+      "date": 1349827200,
+      "platform": 9
+    },
+    {
+      "id": 204522,
+      "date": 1347580800,
+      "platform": 12
+    }
+  ]
+}

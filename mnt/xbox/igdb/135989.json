@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 135989,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104587,
+        "company": {
+          "id": 8035,
+          "name": "Cococucumber"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Echo Generation",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/echo-generation",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 314161,
+      "date": 1634774400,
+      "platform": 169
+    },
+    {
+      "id": 314162,
+      "date": 1634774400,
+      "platform": 49
+    },
+    {
+      "id": 564162,
+      "date": 1634774400,
+      "platform": 6
+    }
+  ]
+}

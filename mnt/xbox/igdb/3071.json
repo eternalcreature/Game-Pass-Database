@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 3071,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99603,
+        "company": {
+          "id": 889,
+          "name": "Virtucraft"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 228450,
+        "company": {
+          "id": 23993,
+          "name": "Tec Toy"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 274460,
+        "company": {
+          "id": 1444,
+          "name": "Sega Technical Institute"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 274461,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Comix Zone",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/comix-zone",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 779511,
+      "date": 1527552000,
+      "platform": 3
+    },
+    {
+      "id": 779512,
+      "date": 1527552000,
+      "platform": 14
+    },
+    {
+      "id": 779513,
+      "date": 816220800,
+      "platform": 6
+    },
+    {
+      "id": 779514,
+      "date": 825638400,
+      "platform": 6
+    },
+    {
+      "id": 102231,
+      "date": 1314748800,
+      "platform": 9
+    },
+    {
+      "id": 361106,
+      "date": 1498003200,
+      "platform": 34
+    },
+    {
+      "id": 507560,
+      "date": 820368000,
+      "platform": 29
+    },
+    {
+      "id": 311523,
+      "date": 1170028800,
+      "platform": 5
+    },
+    {
+      "id": 196716,
+      "date": 807321600,
+      "platform": 29
+    },
+    {
+      "id": 196717,
+      "date": 1312848000,
+      "platform": 9
+    }
+  ]
+}

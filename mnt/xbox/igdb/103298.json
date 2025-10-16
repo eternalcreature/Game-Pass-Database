@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 103298,
+    "game_engines": [
+      {
+        "id": 687,
+        "name": "id Tech 7"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 68602,
+        "company": {
+          "id": 2095,
+          "name": "Panic Button Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 95346,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 132790,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Doom Eternal",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/doom-eternal",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 296430,
+      "date": 1624924800,
+      "platform": 167
+    },
+    {
+      "id": 219928,
+      "date": 1607385600,
+      "platform": 130
+    },
+    {
+      "id": 296427,
+      "date": 1584662400,
+      "platform": 48
+    },
+    {
+      "id": 239575,
+      "date": 1584662400,
+      "platform": 170
+    },
+    {
+      "id": 336147,
+      "date": 1623715200,
+      "platform": 130
+    },
+    {
+      "id": 296431,
+      "date": 1624924800,
+      "platform": 169
+    },
+    {
+      "id": 410109,
+      "date": 1584576000,
+      "platform": 6
+    },
+    {
+      "id": 296429,
+      "date": 1584662400,
+      "platform": 49
+    }
+  ]
+}

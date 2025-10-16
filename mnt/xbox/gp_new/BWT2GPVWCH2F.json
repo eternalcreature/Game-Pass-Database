@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2018-12-11",
-    "release_date": null,
+    "release_date": "2018-12-11",
     "platforms": [
       "PC",
       "XboxOne",
@@ -80,7 +80,7 @@
       "Strategy"
     ],
     "publisher": "Raw Fury",
-    "developer": "Stumpy🐙Squid, Fury Studios, Coatsink"
+    "developer": "Stumpy\ud83d\udc19Squid, Fury Studios, Coatsink"
   },
   "igdb_meta": {
     "main": {
@@ -116,7 +116,30 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-12-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-12-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-12-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 1979,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 9381,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 17527,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Battlefield 4",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 6886,
+      "date": 1384473600,
+      "platform": 48
+    },
+    {
+      "id": 135878,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 134468,
+      "date": 1385683200,
+      "platform": 48
+    },
+    {
+      "id": 107433,
+      "date": 1383004800,
+      "platform": 9
+    },
+    {
+      "id": 134467,
+      "date": 1384473600,
+      "platform": 48
+    },
+    {
+      "id": 107432,
+      "date": 1383264000,
+      "platform": 9
+    },
+    {
+      "id": 6887,
+      "date": 1385078400,
+      "platform": 49
+    },
+    {
+      "id": 6885,
+      "date": 1383004800,
+      "platform": 12
+    },
+    {
+      "id": 4316,
+      "date": 1383004800,
+      "platform": 6
+    },
+    {
+      "id": 4313,
+      "date": 1383004800,
+      "platform": 9
+    }
+  ]
+}

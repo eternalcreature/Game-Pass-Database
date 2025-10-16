@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 305178,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 306484,
+        "company": {
+          "id": 4616,
+          "name": "Witch Beam"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 306485,
+        "company": {
+          "id": 30389,
+          "name": "Cult Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Tempopo",
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tempopo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 708751,
+      "date": 1744848000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 728413,
+      "date": 1744848000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 718772,
+      "date": 1744848000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 718770,
+      "date": 1744848000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 718771,
+      "date": 1744848000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 722352,
+      "date": 1744848000,
+      "platform": 130
+    }
+  ]
+}

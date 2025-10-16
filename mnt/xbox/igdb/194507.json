@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 194507,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165776,
+        "company": {
+          "id": 40508,
+          "name": "Black Mermaid"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 165777,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Moonscars",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/moonscars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 387560,
+      "date": 1664236800,
+      "platform": 167
+    },
+    {
+      "id": 387561,
+      "date": 1664236800,
+      "platform": 169
+    },
+    {
+      "id": 387562,
+      "date": 1664236800,
+      "platform": 48
+    },
+    {
+      "id": 387563,
+      "date": 1664236800,
+      "platform": 49
+    },
+    {
+      "id": 387564,
+      "date": 1664236800,
+      "platform": 130
+    },
+    {
+      "id": 379072,
+      "date": 1664236800,
+      "platform": 6
+    }
+  ]
+}

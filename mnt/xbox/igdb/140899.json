@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 140899,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 179565,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 179566,
+        "company": {
+          "id": 148,
+          "name": "Gearbox Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Borderlands 3: Ultimate Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/borderlands-3-ultimate-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 217706,
+      "date": 1604966400,
+      "platform": 49
+    },
+    {
+      "id": 217707,
+      "date": 1604966400,
+      "platform": 169
+    },
+    {
+      "id": 217708,
+      "date": 1604966400,
+      "platform": 48
+    },
+    {
+      "id": 320717,
+      "date": 1604966400,
+      "platform": 167
+    },
+    {
+      "id": 575480,
+      "platform": 170
+    },
+    {
+      "id": 519488,
+      "date": 1696550400,
+      "platform": 130
+    },
+    {
+      "id": 534173,
+      "date": 1604880000,
+      "platform": 14
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 134372,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 100617,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 314395,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Battlefield V: Year 2 Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-v-year-2-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 198183,
+      "date": 1572480000,
+      "platform": 48
+    },
+    {
+      "id": 198182,
+      "date": 1572480000,
+      "platform": 49
+    }
+  ]
+}

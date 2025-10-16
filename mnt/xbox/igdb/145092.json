@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 145092,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168879,
+        "company": {
+          "id": 32800,
+          "name": "straka.studio"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 168880,
+        "company": {
+          "id": 22830,
+          "name": "SUPERHOT PRESENTS"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Loot River",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/loot-river",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 354906,
+      "date": 1651536000,
+      "platform": 6
+    },
+    {
+      "id": 544963,
+      "date": 1651536000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 544964,
+      "date": 1702944000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 544965,
+      "date": 1702944000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 544962,
+      "date": 1651536000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

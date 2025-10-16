@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 8354,
+    "game_engines": [
+      {
+        "id": 146,
+        "name": "Beard+Razor"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 20647,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 20646,
+        "company": {
+          "id": 1973,
+          "name": "Twisted Pixel"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Splosion Man",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/splosion-man",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 231452,
+      "date": 1248220800,
+      "platform": 12
+    }
+  ]
+}

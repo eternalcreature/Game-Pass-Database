@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 54789,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53306,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 53307,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "MudRunner",
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mudrunner",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 109665,
+      "date": 1509408000,
+      "platform": 6
+    },
+    {
+      "id": 161220,
+      "date": 1543276800,
+      "platform": 130
+    },
+    {
+      "id": 109666,
+      "date": 1509408000,
+      "platform": 49
+    },
+    {
+      "id": 109662,
+      "date": 1509408000,
+      "platform": 6
+    },
+    {
+      "id": 203278,
+      "date": 1594771200,
+      "platform": 39
+    },
+    {
+      "id": 203277,
+      "date": 1594771200,
+      "platform": 34
+    },
+    {
+      "id": 109664,
+      "date": 1509408000,
+      "platform": 48
+    },
+    {
+      "id": 109663,
+      "date": 1509408000,
+      "platform": 49
+    },
+    {
+      "id": 109667,
+      "date": 1509408000,
+      "platform": 48
+    }
+  ]
+}

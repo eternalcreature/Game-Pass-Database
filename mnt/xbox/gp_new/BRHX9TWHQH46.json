@@ -12,7 +12,7 @@
         "BRHX9TWHQH46"
       ]
     ],
-    "original_release_date": "2016-04-22",
+    "original_release_date": "2016-05-23",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -56,7 +56,30 @@
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-05-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-05-24"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-06-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

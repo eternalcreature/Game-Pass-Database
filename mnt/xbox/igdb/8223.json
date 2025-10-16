@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 8223,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29160,
+        "company": {
+          "id": 163,
+          "name": "Climax Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 203680,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed Chronicles: China",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-chronicles-china--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 117050,
+      "date": 1459814400,
+      "platform": 46
+    },
+    {
+      "id": 29212,
+      "date": 1429574400,
+      "platform": 49
+    },
+    {
+      "id": 120774,
+      "date": 1429574400,
+      "platform": 49
+    },
+    {
+      "id": 29210,
+      "date": 1429574400,
+      "platform": 6
+    },
+    {
+      "id": 29211,
+      "date": 1429574400,
+      "platform": 48
+    },
+    {
+      "id": 41943,
+      "date": 1459814400,
+      "platform": 46
+    }
+  ]
+}

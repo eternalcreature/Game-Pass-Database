@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 172023,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 150075,
+        "company": {
+          "id": 36900,
+          "name": "DreadXP"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 150076,
+        "company": {
+          "id": 26345,
+          "name": "John Szymanski"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 150077,
+        "company": {
+          "id": 37728,
+          "name": "Evan Szymanski"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "My Friendly Neighborhood",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/my-friendly-neighborhood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 772245,
+      "date": 1752710400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 772246,
+      "date": 1752710400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 773692,
+      "date": 1752710400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 773691,
+      "date": 1752710400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 493219,
+      "date": 1689638400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

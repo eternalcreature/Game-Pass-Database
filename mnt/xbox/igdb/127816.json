@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 127816,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 106604,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 106605,
+        "company": {
+          "id": 25102,
+          "name": "Kaizen Game Works"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Paradise Killer",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/paradise-killer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 326706,
+      "date": 1599177600,
+      "platform": 6
+    },
+    {
+      "id": 644190,
+      "date": 1647388800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 644186,
+      "date": 1599177600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 644189,
+      "date": 1647388800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 644188,
+      "date": 1647388800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 644187,
+      "date": 1647388800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 194203,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165328,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Exoprimal",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/exoprimal",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 494996,
+      "date": 1689292800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 494998,
+      "date": 1689292800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 494997,
+      "date": 1689292800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494994,
+      "date": 1689292800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 494995,
+      "date": 1689292800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

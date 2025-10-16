@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 239064,
+    "game_engines": [
+      {
+        "id": 26,
+        "name": "RAGE"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 310634,
+        "company": {
+          "id": 365,
+          "name": "Rockstar North"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 313452,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Grand Theft Auto V",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grand-theft-auto-v--2",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 747077,
+      "date": 1428969600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 662518,
+      "date": 1657843200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 662521,
+      "date": 1655251200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 662519,
+      "date": 1657843200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 662520,
+      "date": 1655251200,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

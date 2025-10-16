@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 3008,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 26,
+        "name": "Quiz/Trivia"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 7535,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 7534,
+        "company": {
+          "id": 771,
+          "name": "Rare"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Banjo-Kazooie: Nuts & Bolts",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/banjo-kazooie-nuts-bolts",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 207999,
+      "date": 1226448000,
+      "platform": 12
+    },
+    {
+      "id": 208002,
+      "date": 1229040000,
+      "platform": 12
+    },
+    {
+      "id": 208001,
+      "date": 1227139200,
+      "platform": 12
+    },
+    {
+      "id": 208000,
+      "date": 1226620800,
+      "platform": 12
+    }
+  ]
+}

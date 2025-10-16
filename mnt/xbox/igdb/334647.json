@@ -1,0 +1,66 @@
+{
+  "general": {
+    "id": 334647,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 310739,
+        "company": {
+          "id": 365,
+          "name": "Rockstar North"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 310740,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Grand Theft Auto V Enhanced",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grand-theft-auto-v-enhanced--3",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 712446,
+      "date": 1741046400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

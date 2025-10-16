@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 36813,
+    "game_engines": [
+      {
+        "id": 47,
+        "name": "id Tech 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50740,
+        "company": {
+          "id": 2145,
+          "name": "Tango Gameworks"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95334,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Evil Within 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-evil-within-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 413058,
+      "date": 1507766400,
+      "platform": 6
+    },
+    {
+      "id": 122813,
+      "date": 1507852800,
+      "platform": 48
+    },
+    {
+      "id": 134227,
+      "date": 1507852800,
+      "platform": 48
+    },
+    {
+      "id": 122815,
+      "date": 1508371200,
+      "platform": 49
+    },
+    {
+      "id": 134228,
+      "date": 1507852800,
+      "platform": 48
+    },
+    {
+      "id": 136366,
+      "date": 1507852800,
+      "platform": 49
+    },
+    {
+      "id": 124829,
+      "date": 1507852800,
+      "platform": 6
+    },
+    {
+      "id": 122816,
+      "date": 1508371200,
+      "platform": 48
+    },
+    {
+      "id": 122814,
+      "date": 1508371200,
+      "platform": 6
+    },
+    {
+      "id": 122812,
+      "date": 1507852800,
+      "platform": 49
+    }
+  ]
+}

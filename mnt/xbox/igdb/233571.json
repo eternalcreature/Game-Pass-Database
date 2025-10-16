@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 233571,
+    "game_engines": [
+      {
+        "id": 528,
+        "name": "Glacier 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 201712,
+        "company": {
+          "id": 290,
+          "name": "IO Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hitman World of Assassination",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hitman-world-of-assassination",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 752364,
+      "date": 1759190400,
+      "platform": 39
+    },
+    {
+      "id": 441085,
+      "date": 1674691200,
+      "platform": 49
+    },
+    {
+      "id": 441086,
+      "date": 1674691200,
+      "platform": 169
+    },
+    {
+      "id": 441082,
+      "date": 1674691200,
+      "platform": 6
+    },
+    {
+      "id": 441083,
+      "date": 1674691200,
+      "platform": 48
+    },
+    {
+      "id": 504375,
+      "date": 1674691200,
+      "platform": 165
+    },
+    {
+      "id": 755556,
+      "date": 1759190400,
+      "platform": 14
+    },
+    {
+      "id": 441084,
+      "date": 1674691200,
+      "platform": 167
+    }
+  ]
+}

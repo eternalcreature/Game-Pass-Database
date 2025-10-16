@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 111469,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 133173,
+        "company": {
+          "id": 21778,
+          "name": "Innersloth"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 154890,
+        "company": {
+          "id": 4539,
+          "name": "PlayEveryWare"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Among Us",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/among-us",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 480619,
+      "date": 1607990400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 480618,
+      "date": 1529020800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 480624,
+      "date": 1639440000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 480620,
+      "date": 1542326400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 480622,
+      "date": 1639440000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 480621,
+      "date": 1639440000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 480623,
+      "date": 1639440000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 480617,
+      "date": 1529020800,
+      "platform": 34,
+      "status": 6
+    }
+  ]
+}

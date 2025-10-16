@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 305180,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 273737,
+        "company": {
+          "id": 25108,
+          "name": "Strange Scaffold"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 281723,
+        "company": {
+          "id": 17541,
+          "name": "Frosty Pop Games Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "I Am Your Beast",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      }
+    ],
+    "url": "https://www.igdb.com/games/i-am-your-beast",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 747826,
+      "date": 1750809600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 629401,
+      "date": 1725926400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 747825,
+      "date": 1750809600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 629912,
+      "date": 1731974400,
+      "platform": 39,
+      "status": 6
+    }
+  ]
+}

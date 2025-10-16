@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 68447,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189743,
+        "company": {
+          "id": 21264,
+          "name": "Pillow Castle Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 290890,
+        "company": {
+          "id": 4697,
+          "name": "Noodlecake Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Superliminal",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/superliminal",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 394400,
+      "date": 1573516800,
+      "platform": 6
+    },
+    {
+      "id": 426922,
+      "date": 1668988800,
+      "platform": 167
+    },
+    {
+      "id": 394401,
+      "date": 1573516800,
+      "platform": 14
+    },
+    {
+      "id": 612187,
+      "date": 1722297600,
+      "platform": 39
+    },
+    {
+      "id": 394402,
+      "date": 1594080000,
+      "platform": 49
+    },
+    {
+      "id": 680420,
+      "date": 1722211200,
+      "platform": 34
+    },
+    {
+      "id": 218479,
+      "date": 1604534400,
+      "platform": 3
+    },
+    {
+      "id": 426923,
+      "date": 1668988800,
+      "platform": 169
+    },
+    {
+      "id": 201540,
+      "date": 1594080000,
+      "platform": 130
+    },
+    {
+      "id": 201541,
+      "date": 1594080000,
+      "platform": 48
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 125373,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 119224,
+        "company": {
+          "id": 3076,
+          "name": "Passtech Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 119223,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Curse of the Dead Gods",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/curse-of-the-dead-gods",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 491611,
+      "date": 1614038400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 491612,
+      "date": 1614038400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 491613,
+      "date": 1583193600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 491614,
+      "date": 1614038400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 491615,
+      "date": 1614038400,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

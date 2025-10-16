@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 19935,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96273,
+        "company": {
+          "id": 10305,
+          "name": "Contingent99"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 132192,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Wizard of Legend",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wizard-of-legend",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 151991,
+      "date": 1526342400,
+      "platform": 6
+    },
+    {
+      "id": 151997,
+      "date": 1526342400,
+      "platform": 130
+    },
+    {
+      "id": 546887,
+      "date": 1698278400,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 151996,
+      "date": 1526342400,
+      "platform": 48
+    },
+    {
+      "id": 151992,
+      "date": 1526342400,
+      "platform": 14
+    },
+    {
+      "id": 151993,
+      "date": 1526342400,
+      "platform": 3
+    },
+    {
+      "id": 151995,
+      "date": 1526342400,
+      "platform": 49
+    }
+  ]
+}

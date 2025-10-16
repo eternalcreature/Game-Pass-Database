@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 37066,
+    "game_engines": [
+      {
+        "id": 19,
+        "name": "Snowdrop"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 310016,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 292369,
+        "company": {
+          "id": 717,
+          "name": "Red Storm Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 292370,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Starlink: Battle for Atlas",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/starlink-battle-for-atlas",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 649529,
+      "date": 1556582400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 153949,
+      "date": 1539648000,
+      "platform": 48
+    },
+    {
+      "id": 153951,
+      "date": 1539648000,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 129536,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 334407,
+        "company": {
+          "id": 12207,
+          "name": "Long Hat House"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 334408,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dandara: Trials of Fear Edition",
+    "parent_game": 27435,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dandara-trials-of-fear-edition",
+    "game_type": 14
+  },
+  "release_dates": [
+    {
+      "id": 780881,
+      "date": 1583366400,
+      "platform": 48
+    },
+    {
+      "id": 780879,
+      "date": 1583366400,
+      "platform": 39
+    },
+    {
+      "id": 780880,
+      "date": 1583366400,
+      "platform": 130
+    },
+    {
+      "id": 780882,
+      "date": 1583366400,
+      "platform": 49
+    },
+    {
+      "id": 193483,
+      "date": 1583366400,
+      "platform": 14
+    },
+    {
+      "id": 780878,
+      "date": 1583366400,
+      "platform": 34
+    },
+    {
+      "id": 474030,
+      "date": 1583366400,
+      "platform": 6
+    },
+    {
+      "id": 193484,
+      "date": 1583366400,
+      "platform": 3
+    }
+  ]
+}

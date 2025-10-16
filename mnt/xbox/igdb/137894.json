@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 137894,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 291344,
+        "company": {
+          "id": 27773,
+          "name": "RyseUp Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 291345,
+        "company": {
+          "id": 12898,
+          "name": "Starbreeze Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Roboquest",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/roboquest",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 654213,
+      "date": 1699315200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 654216,
+      "date": 1675036800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 654214,
+      "date": 1675036800,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 533936,
+      "date": 1699315200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 533935,
+      "date": 1597881600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 654215,
+      "date": 1699315200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 716933,
+      "date": 1748304000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 716934,
+      "date": 1748304000,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

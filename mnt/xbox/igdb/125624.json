@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 125624,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175257,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 175256,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Grounded",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grounded",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 637465,
+      "date": 1604966400,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 566537,
+      "date": 1713225600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 637462,
+      "date": 1595894400,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 566538,
+      "date": 1713225600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 566536,
+      "date": 1664236800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 637466,
+      "date": 1595894400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 566426,
+      "date": 1713225600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 566653,
+      "date": 1664236800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 566535,
+      "date": 1664236800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

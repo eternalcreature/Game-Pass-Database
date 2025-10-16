@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2015-09-30",
-    "release_date": null,
+    "release_date": "2016-02-23",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -63,36 +63,63 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Unity",
+        "Multimedia Fusion"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-09-30",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-09-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-09-30"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 11744,
-      "name": "The Escapists: The Walking Dead",
-      "url": "https://www.igdb.com/games/the-escapists-the-walking-dead--1",
-      "publishers": [
-        "Team17"
-      ],
-      "developers": [
-        "Mouldy Toof Studios"
-      ],
-      "genres": [
-        "Puzzle",
-        "Role-playing (RPG)",
-        "Simulator",
-        "Strategy",
-        "Indie",
-        "Arcade"
-      ],
-      "themes": [
-        "Action",
-        "Survival"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
+      "id": 164669,
+      "name": "The Escapists & The Escapists: The Walking Dead",
+      "url": "https://www.igdb.com/games/the-escapists-and-the-escapists-the-walking-dead",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2016-02-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 117974,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128293,
+        "company": {
+          "id": 12872,
+          "name": "onebitbeyond"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128294,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Swords of Ditto: Mormo's Curse",
+    "parent_game": 36798,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-swords-of-ditto-mormos-curse",
+    "game_type": 14
+  },
+  "release_dates": [
+    {
+      "id": 169118,
+      "date": 1556064000,
+      "platform": 6
+    },
+    {
+      "id": 169120,
+      "date": 1556064000,
+      "platform": 48
+    },
+    {
+      "id": 169119,
+      "date": 1556064000,
+      "platform": 130
+    },
+    {
+      "id": 249003,
+      "date": 1556755200,
+      "platform": 130
+    }
+  ]
+}

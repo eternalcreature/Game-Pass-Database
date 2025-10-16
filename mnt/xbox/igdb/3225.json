@@ -1,0 +1,167 @@
+{
+  "general": {
+    "id": 3225,
+    "game_engines": [
+      {
+        "id": 84,
+        "name": "Custom built engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 64873,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 64874,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 218336,
+        "company": {
+          "id": 1641,
+          "name": "Hello Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "No Man's Sky",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/no-man-s-sky",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 234945,
+      "date": 1565740800,
+      "platform": 163
+    },
+    {
+      "id": 108435,
+      "date": 1470700800,
+      "platform": 48
+    },
+    {
+      "id": 507198,
+      "date": 1677024000,
+      "platform": 390
+    },
+    {
+      "id": 755701,
+      "date": 1749081600,
+      "platform": 508
+    },
+    {
+      "id": 157511,
+      "date": 1532390400,
+      "platform": 49
+    },
+    {
+      "id": 108434,
+      "date": 1470787200,
+      "platform": 48
+    },
+    {
+      "id": 54808,
+      "date": 1470960000,
+      "platform": 6
+    },
+    {
+      "id": 480290,
+      "date": 1685577600,
+      "platform": 14
+    },
+    {
+      "id": 314498,
+      "date": 1565740800,
+      "platform": 385
+    },
+    {
+      "id": 297618,
+      "date": 1604966400,
+      "platform": 169
+    }
+  ]
+}

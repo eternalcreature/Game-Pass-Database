@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 126459,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 279157,
+        "company": {
+          "id": 41,
+          "name": "Riot Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Valorant",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/valorant",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 624660,
+      "date": 1722556800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 601582,
+      "date": 1718323200,
+      "platform": 169,
+      "status": 2
+    },
+    {
+      "id": 601581,
+      "date": 1718323200,
+      "platform": 167,
+      "status": 2
+    },
+    {
+      "id": 624659,
+      "date": 1722556800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 590454,
+      "date": 1586217600,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 590453,
+      "date": 1591056000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

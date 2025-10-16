@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 20329,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 308894,
+        "company": {
+          "id": 6916,
+          "name": "Bedtime Digital Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Figment",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/figment",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 426702,
+      "date": 1668556800,
+      "platform": 49
+    },
+    {
+      "id": 707738,
+      "date": 1506038400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 707737,
+      "date": 1506038400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 707736,
+      "date": 1506038400,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 426703,
+      "date": 1668556800,
+      "platform": 169
+    },
+    {
+      "id": 154380,
+      "date": 1530144000,
+      "platform": 130
+    },
+    {
+      "id": 168876,
+      "date": 1557792000,
+      "platform": 48
+    },
+    {
+      "id": 297256,
+      "date": 1574899200,
+      "platform": 39
+    },
+    {
+      "id": 249780,
+      "date": 1530144000,
+      "platform": 130
+    },
+    {
+      "id": 239697,
+      "date": 1607385600,
+      "platform": 170
+    }
+  ]
+}

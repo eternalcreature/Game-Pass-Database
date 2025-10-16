@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 14146,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 27276,
+        "company": {
+          "id": 7096,
+          "name": "Pixelnest Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 27277,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Steredenn",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/steredenn",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 39775,
+      "date": 1443657600,
+      "platform": 6
+    },
+    {
+      "id": 120693,
+      "date": 1467072000,
+      "platform": 48
+    },
+    {
+      "id": 39776,
+      "date": 1443657600,
+      "platform": 14
+    },
+    {
+      "id": 136321,
+      "date": 1459468800,
+      "platform": 49
+    },
+    {
+      "id": 39777,
+      "date": 1443657600,
+      "platform": 3
+    },
+    {
+      "id": 218516,
+      "date": 1502755200,
+      "platform": 9
+    }
+  ]
+}

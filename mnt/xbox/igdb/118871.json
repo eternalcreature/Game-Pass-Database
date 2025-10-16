@@ -1,0 +1,76 @@
+{
+  "general": {
+    "id": 118871,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83266,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Grid",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/grid",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 177401,
+      "date": 1570665600,
+      "platform": 48
+    },
+    {
+      "id": 177403,
+      "date": 1570665600,
+      "platform": 6
+    },
+    {
+      "id": 177402,
+      "date": 1570665600,
+      "platform": 49
+    },
+    {
+      "id": 307962,
+      "date": 1570752000,
+      "platform": 49
+    },
+    {
+      "id": 177400,
+      "date": 1570665600,
+      "platform": 170
+    }
+  ]
+}

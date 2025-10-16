@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 19545,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 273202,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 273203,
+        "company": {
+          "id": 4598,
+          "name": "Bloober Team"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Observer",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/observer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 609544,
+      "date": 1502755200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 609542,
+      "date": 1502755200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 609539,
+      "date": 1508803200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 609540,
+      "date": 1508803200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 609541,
+      "date": 1549497600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 609543,
+      "date": 1502755200,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

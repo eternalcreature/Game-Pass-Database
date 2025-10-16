@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 279635,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 276503,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 276504,
+        "company": {
+          "id": 1260,
+          "name": "Behaviour Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Casting of Frank Stone",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-casting-of-frank-stone",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 618066,
+      "date": 1725321600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 618064,
+      "date": 1725321600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 618065,
+      "date": 1725321600,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

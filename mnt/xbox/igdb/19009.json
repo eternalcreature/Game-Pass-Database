@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 19009,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35129,
+        "company": {
+          "id": 5999,
+          "name": "ChAIR Entertainment Group"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 87896,
+        "company": {
+          "id": 17463,
+          "name": "Epic Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shadow Complex Remastered",
+    "parent_game": 11328,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shadow-complex-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 136275,
+      "date": 1458086400,
+      "platform": 49
+    },
+    {
+      "id": 50448,
+      "date": 1462233600,
+      "platform": 49
+    },
+    {
+      "id": 50447,
+      "date": 1462233600,
+      "platform": 48
+    },
+    {
+      "id": 402426,
+      "date": 1462233600,
+      "platform": 14
+    },
+    {
+      "id": 148664,
+      "date": 1462233600,
+      "platform": 6
+    }
+  ]
+}

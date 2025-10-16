@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 3191,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13645,
+        "company": {
+          "id": 1009,
+          "name": "RedLynx"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 286723,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 286724,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 303508,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Trials Fusion",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/trials-fusion",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 411489,
+      "date": 1398297600,
+      "platform": 6
+    },
+    {
+      "id": 106568,
+      "date": 1397606400,
+      "platform": 48
+    },
+    {
+      "id": 13886,
+      "date": 1397606400,
+      "platform": 12
+    },
+    {
+      "id": 13887,
+      "date": 1397606400,
+      "platform": 48
+    },
+    {
+      "id": 121947,
+      "date": 1397606400,
+      "platform": 49
+    },
+    {
+      "id": 134304,
+      "date": 1397606400,
+      "platform": 48
+    },
+    {
+      "id": 13885,
+      "date": 1397606400,
+      "platform": 49
+    }
+  ]
+}

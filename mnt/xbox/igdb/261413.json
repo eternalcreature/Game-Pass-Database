@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 261413,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 226959,
+        "company": {
+          "id": 27222,
+          "name": "EA Vancouver"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 226960,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "NHL 24",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nhl-24",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 504549,
+      "date": 1696550400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 504550,
+      "date": 1696550400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 504551,
+      "date": 1696550400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 504552,
+      "date": 1696550400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 11288,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 24502,
+        "company": {
+          "id": 5979,
+          "name": "Big Pixel Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 24503,
+        "company": {
+          "id": 4440,
+          "name": "Adult Swim Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mega Coin Squad",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mega-coin-squad",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 31063,
+      "date": 1408060800,
+      "platform": 3
+    },
+    {
+      "id": 136141,
+      "date": 1432080000,
+      "platform": 49
+    },
+    {
+      "id": 121175,
+      "date": 1408060800,
+      "platform": 6
+    },
+    {
+      "id": 230289,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 31060,
+      "date": 1432080000,
+      "platform": 49
+    },
+    {
+      "id": 31061,
+      "date": 1408060800,
+      "platform": 6
+    },
+    {
+      "id": 31062,
+      "date": 1408060800,
+      "platform": 14
+    }
+  ]
+}

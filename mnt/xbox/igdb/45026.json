@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 45026,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 65961,
+        "company": {
+          "id": 13090,
+          "name": "Digital Continue"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 65960,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Next Up Hero",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/next-up-hero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 154640,
+      "date": 1530144000,
+      "platform": 48
+    },
+    {
+      "id": 250987,
+      "date": 1534377600,
+      "platform": 130
+    },
+    {
+      "id": 413053,
+      "date": 1530144000,
+      "platform": 14
+    },
+    {
+      "id": 413052,
+      "date": 1530144000,
+      "platform": 6
+    },
+    {
+      "id": 154639,
+      "date": 1530144000,
+      "platform": 49
+    }
+  ]
+}

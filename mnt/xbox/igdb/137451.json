@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 137451,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138868,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 138869,
+        "company": {
+          "id": 35000,
+          "name": "Rabbit & Bear Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/eiyuden-chronicle-hundred-heroes",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 516100,
+      "date": 1713830400,
+      "platform": 169
+    },
+    {
+      "id": 516095,
+      "date": 1713830400,
+      "platform": 130
+    },
+    {
+      "id": 516096,
+      "date": 1713830400,
+      "platform": 6
+    },
+    {
+      "id": 516098,
+      "date": 1713830400,
+      "platform": 167
+    },
+    {
+      "id": 516099,
+      "date": 1713830400,
+      "platform": 49
+    },
+    {
+      "id": 516097,
+      "date": 1713830400,
+      "platform": 48
+    }
+  ]
+}

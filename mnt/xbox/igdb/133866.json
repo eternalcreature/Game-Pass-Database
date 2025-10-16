@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 133866,
+    "game_engines": [
+      {
+        "id": 456,
+        "name": "Godot"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 344726,
+        "company": {
+          "id": 26276,
+          "name": "Bytten Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 344727,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cassette Beasts",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/cassette-beasts",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 555073,
+      "date": 1682467200,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 555074,
+      "date": 1684972800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 555075,
+      "date": 1682467200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 555076,
+      "date": 1682467200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 798730,
+      "date": 1736899200,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 798732,
+      "date": 1728172800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 798733,
+      "date": 1682467200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

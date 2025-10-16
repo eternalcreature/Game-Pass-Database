@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 5772,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277703,
+        "company": {
+          "id": 2542,
+          "name": "Image & Form"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SteamWorld Dig",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/steamworld-dig",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 401593,
+      "date": 1386201600,
+      "platform": 6
+    },
+    {
+      "id": 401594,
+      "date": 1386201600,
+      "platform": 14
+    },
+    {
+      "id": 401595,
+      "date": 1386201600,
+      "platform": 3
+    },
+    {
+      "id": 14113,
+      "date": 1395187200,
+      "platform": 48
+    },
+    {
+      "id": 143540,
+      "date": 1375920000,
+      "platform": 37
+    },
+    {
+      "id": 130302,
+      "date": 1433462400,
+      "platform": 49
+    },
+    {
+      "id": 146537,
+      "date": 1409184000,
+      "platform": 41
+    },
+    {
+      "id": 143542,
+      "date": 1384905600,
+      "platform": 37
+    },
+    {
+      "id": 14121,
+      "date": 1375833600,
+      "platform": 37
+    },
+    {
+      "id": 136317,
+      "date": 1433462400,
+      "platform": 49
+    }
+  ]
+}

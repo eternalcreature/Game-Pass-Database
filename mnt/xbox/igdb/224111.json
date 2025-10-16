@@ -1,0 +1,46 @@
+{
+  "general": {
+    "id": 224111,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "My Time at Portia: Deluxe Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/my-time-at-portia-deluxe-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 416425,
+      "date": 1667174400,
+      "platform": 49
+    },
+    {
+      "id": 437797,
+      "date": 1667433600,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 10030,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135323,
+        "company": {
+          "id": 14478,
+          "name": "Infinite Dreams"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sky Force Anniversary",
+    "parent_game": 77475,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sky-force-anniversary",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 29449,
+      "date": 1401926400,
+      "platform": 39
+    },
+    {
+      "id": 143192,
+      "date": 1489622400,
+      "platform": 41
+    },
+    {
+      "id": 706455,
+      "date": 1423008000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 185118,
+      "date": 1473206400,
+      "platform": 46
+    },
+    {
+      "id": 185116,
+      "date": 1473206400,
+      "platform": 9
+    },
+    {
+      "id": 185117,
+      "date": 1473206400,
+      "platform": 48
+    },
+    {
+      "id": 143193,
+      "date": 1489622400,
+      "platform": 41
+    },
+    {
+      "id": 249723,
+      "date": 1541635200,
+      "platform": 130
+    },
+    {
+      "id": 415106,
+      "date": 1430265600,
+      "platform": 14
+    },
+    {
+      "id": 415107,
+      "date": 1430265600,
+      "platform": 3
+    }
+  ]
+}

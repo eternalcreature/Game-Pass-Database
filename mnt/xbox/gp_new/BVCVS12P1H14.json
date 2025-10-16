@@ -12,8 +12,8 @@
         "BVCVS12P1H14"
       ]
     ],
-    "original_release_date": "2013-08-20",
-    "release_date": null,
+    "original_release_date": "2015-01-20",
+    "release_date": "2015-01-20",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -67,7 +67,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "CTG (Core Technology Group)"
+      ],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2015-01-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-12-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-01-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

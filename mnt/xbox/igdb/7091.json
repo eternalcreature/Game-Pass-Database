@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 7091,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 213156,
+        "company": {
+          "id": 197,
+          "name": "THQ"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 213157,
+        "company": {
+          "id": 1304,
+          "name": "Tantalus Media"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "MX vs. ATV: Reflex",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mx-vs-atv-reflex",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 108214,
+      "date": 1265328000,
+      "platform": 9
+    },
+    {
+      "id": 17796,
+      "date": 1265328000,
+      "platform": 6
+    },
+    {
+      "id": 17792,
+      "date": 1265328000,
+      "platform": 12
+    },
+    {
+      "id": 17787,
+      "date": 1259625600,
+      "platform": 12
+    },
+    {
+      "id": 17791,
+      "date": 1259625600,
+      "platform": 6
+    },
+    {
+      "id": 108215,
+      "date": 1259625600,
+      "platform": 9
+    },
+    {
+      "id": 17798,
+      "date": 1260403200,
+      "platform": 9
+    },
+    {
+      "id": 17797,
+      "date": 1260403200,
+      "platform": 12
+    },
+    {
+      "id": 17800,
+      "date": 1260403200,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 280,
+    "game_engines": [
+      {
+        "id": 48,
+        "name": "id Tech 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 546,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 42066,
+        "company": {
+          "id": 72,
+          "name": "Vicarious Visions"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 42065,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 248321,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 248322,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Doom 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/doom-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 405,
+      "date": 1112486400,
+      "platform": 11
+    },
+    {
+      "id": 553558,
+      "date": 1110758400,
+      "platform": 14
+    },
+    {
+      "id": 553559,
+      "date": 1110758400,
+      "platform": 14
+    },
+    {
+      "id": 553555,
+      "date": 1110844800,
+      "platform": 14
+    },
+    {
+      "id": 402,
+      "date": 1091491200,
+      "platform": 6
+    },
+    {
+      "id": 403,
+      "date": 1096848000,
+      "platform": 3
+    }
+  ]
+}

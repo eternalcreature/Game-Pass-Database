@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 3751,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 193269,
+        "company": {
+          "id": 44184,
+          "name": "Magmic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193271,
+        "company": {
+          "id": 22044,
+          "name": "Vega Mobile"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 193270,
+        "company": {
+          "id": 243,
+          "name": "Sony Online Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193279,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Peggle",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/peggle",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 422132,
+      "date": 1275350400,
+      "platform": 34
+    },
+    {
+      "id": 422216,
+      "date": 1236729600,
+      "platform": 12
+    },
+    {
+      "id": 422133,
+      "date": 1242086400,
+      "platform": 39
+    },
+    {
+      "id": 104820,
+      "date": 1258588800,
+      "platform": 9
+    },
+    {
+      "id": 422131,
+      "date": 1197244800,
+      "platform": 14
+    },
+    {
+      "id": 374328,
+      "date": 1289865600,
+      "platform": 38
+    },
+    {
+      "id": 104821,
+      "date": 1266451200,
+      "platform": 9
+    },
+    {
+      "id": 422135,
+      "date": 1283472000,
+      "platform": 240
+    },
+    {
+      "id": 422195,
+      "date": 1222732800,
+      "platform": 55
+    },
+    {
+      "id": 422136,
+      "date": 1250553600,
+      "platform": 73
+    }
+  ]
+}

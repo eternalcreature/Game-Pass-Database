@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 252835,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219361,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Kunitsu-Gami: Path of the Goddess",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kunitsu-gami-path-of-the-goddess",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 620865,
+      "date": 1721347200,
+      "platform": 49
+    },
+    {
+      "id": 622451,
+      "date": 1721347200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 722986,
+      "date": 1749081600,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 601483,
+      "date": 1721347200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 601484,
+      "date": 1721347200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 601485,
+      "date": 1721347200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

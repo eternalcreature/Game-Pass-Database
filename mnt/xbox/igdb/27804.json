@@ -1,0 +1,73 @@
+{
+  "general": {
+    "id": 27804,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 80816,
+        "company": {
+          "id": 7025,
+          "name": "Snapshot Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Phoenix Point",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/phoenix-point",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179279,
+      "date": 1575331200,
+      "platform": 6
+    },
+    {
+      "id": 239709,
+      "date": 1611619200,
+      "platform": 170
+    }
+  ]
+}

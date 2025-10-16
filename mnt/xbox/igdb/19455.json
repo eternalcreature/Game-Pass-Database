@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 19455,
+    "game_engines": [
+      {
+        "id": 174,
+        "name": "PhyreEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 73337,
+        "company": {
+          "id": 794,
+          "name": "Virtuos"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 73336,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 256686,
+        "company": {
+          "id": 19281,
+          "name": "Square Enix Business Division 3"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Final Fantasy XII: The Zodiac Age",
+    "parent_game": 129890,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-xii-the-zodiac-age",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 783876,
+      "date": 1517529600,
+      "platform": 6
+    },
+    {
+      "id": 783875,
+      "date": 1556150400,
+      "platform": 130
+    },
+    {
+      "id": 103100,
+      "date": 1499731200,
+      "platform": 48
+    },
+    {
+      "id": 141252,
+      "date": 1517443200,
+      "platform": 6
+    },
+    {
+      "id": 163295,
+      "date": 1556582400,
+      "platform": 130
+    },
+    {
+      "id": 163296,
+      "date": 1556582400,
+      "platform": 49
+    },
+    {
+      "id": 64889,
+      "date": 1499904000,
+      "platform": 48
+    },
+    {
+      "id": 64890,
+      "date": 1499904000,
+      "platform": 48
+    },
+    {
+      "id": 103101,
+      "date": 1499731200,
+      "platform": 48
+    }
+  ]
+}

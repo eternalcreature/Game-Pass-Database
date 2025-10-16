@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 116533,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 220125,
+        "company": {
+          "id": 13929,
+          "name": "Mad Mimic Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 220126,
+        "company": {
+          "id": 30237,
+          "name": "Neowiz"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dandy Ace",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dandy-ace",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 769262,
+      "date": 1632787200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 769258,
+      "date": 1632787200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 769260,
+      "date": 1616630400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 769261,
+      "date": 1637020800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 769259,
+      "date": 1632787200,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

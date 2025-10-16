@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 113212,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130989,
+        "company": {
+          "id": 453,
+          "name": "Zen Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Operencia: The Stolen Sun",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/operencia-the-stolen-sun",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 188668,
+      "date": 1585612800,
+      "platform": 6
+    },
+    {
+      "id": 166151,
+      "date": 1553817600,
+      "platform": 49
+    },
+    {
+      "id": 188669,
+      "date": 1585612800,
+      "platform": 48
+    },
+    {
+      "id": 188670,
+      "date": 1585612800,
+      "platform": 130
+    },
+    {
+      "id": 220160,
+      "date": 1600128000,
+      "platform": 165
+    },
+    {
+      "id": 681091,
+      "date": 1600128000,
+      "platform": 163
+    }
+  ]
+}

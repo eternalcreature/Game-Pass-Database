@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 1331,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 91054,
+        "company": {
+          "id": 23818,
+          "name": "Ryan C. Gordon"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 91052,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 91057,
+        "company": {
+          "id": 748,
+          "name": "Double Eleven"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 207128,
+        "company": {
+          "id": 854,
+          "name": "Playdead"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Limbo",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/limbo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 154370,
+      "date": 1530144000,
+      "platform": 130
+    },
+    {
+      "id": 186474,
+      "date": 1424822400,
+      "platform": 48
+    },
+    {
+      "id": 401941,
+      "date": 1312243200,
+      "platform": 14
+    },
+    {
+      "id": 401942,
+      "date": 1312243200,
+      "platform": 3
+    },
+    {
+      "id": 107790,
+      "date": 1295481600,
+      "platform": 9
+    },
+    {
+      "id": 146865,
+      "date": 1423612800,
+      "platform": 34
+    },
+    {
+      "id": 164519,
+      "date": 1370304000,
+      "platform": 46
+    },
+    {
+      "id": 147822,
+      "date": 1372809600,
+      "platform": 39
+    },
+    {
+      "id": 107791,
+      "date": 1311033600,
+      "platform": 9
+    },
+    {
+      "id": 186469,
+      "date": 1279670400,
+      "platform": 12
+    }
+  ]
+}

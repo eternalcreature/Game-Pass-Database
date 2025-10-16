@@ -1,0 +1,152 @@
+{
+  "general": {
+    "id": 8965,
+    "game_engines": [
+      {
+        "id": 149,
+        "name": "Proprietary Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 52852,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 97147,
+        "company": {
+          "id": 7912,
+          "name": "Red Hook Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Darkest Dungeon",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/darkest-dungeon",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 564050,
+      "date": 1422921600,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 564049,
+      "date": 1453161600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 587817,
+      "date": 1503532800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 564051,
+      "date": 1422921600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 587821,
+      "date": 1519776000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 587820,
+      "date": 1474934400,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 564048,
+      "date": 1459036800,
+      "platform": 3,
+      "status": 2
+    },
+    {
+      "id": 564047,
+      "date": 1461628800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 587819,
+      "date": 1474934400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 587818,
+      "date": 1516233600,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

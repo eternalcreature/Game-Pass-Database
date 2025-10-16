@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2022-08-31",
-    "release_date": null,
+    "release_date": "2023-08-30",
     "platforms": [
       "PC",
       "XboxOne",
@@ -89,7 +89,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Apex"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-08-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-08-31"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-08-31"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-08-30"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

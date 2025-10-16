@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 346035,
+    "game_engines": [
+      {
+        "id": 1689,
+        "name": "Unity 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 338892,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 338893,
+        "company": {
+          "id": 24108,
+          "name": "Kenny Sun"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ball x Pit",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ball-x-pit",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 820646,
+      "date": 1760486400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 782732,
+      "date": 1760486400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 782733,
+      "date": 1767139200,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 782834,
+      "date": 1760486400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 782832,
+      "date": 1760486400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 782833,
+      "date": 1760486400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

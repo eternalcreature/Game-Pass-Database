@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 113623,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 302092,
+        "company": {
+          "id": 17089,
+          "name": "Exe Create"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 302093,
+        "company": {
+          "id": 1281,
+          "name": "Kemco"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Alvastia Chronicles",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/alvastia-chronicles",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 688409,
+      "date": 1517270400,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 688410,
+      "date": 1550102400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 688411,
+      "date": 1547683200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 688413,
+      "date": 1547769600,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 688414,
+      "date": 1549929600,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 688415,
+      "date": 1547769600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 687600,
+      "date": 1734566400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 688408,
+      "date": 1527120000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 688412,
+      "date": 1550016000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 687597,
+      "date": 1733961600,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

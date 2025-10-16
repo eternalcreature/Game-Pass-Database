@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 9066,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53099,
+        "company": {
+          "id": 1304,
+          "name": "Tantalus Media"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 97090,
+        "company": {
+          "id": 943,
+          "name": "Colossal Order"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 97089,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cities: Skylines",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/cities-skylines",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 121151,
+      "date": 1425945600,
+      "platform": 6
+    },
+    {
+      "id": 422873,
+      "date": 1652745600,
+      "platform": 170
+    },
+    {
+      "id": 492619,
+      "date": 1676419200,
+      "platform": 169
+    },
+    {
+      "id": 109089,
+      "date": 1502755200,
+      "platform": 48
+    },
+    {
+      "id": 27935,
+      "date": 1425945600,
+      "platform": 3
+    },
+    {
+      "id": 27934,
+      "date": 1425945600,
+      "platform": 14
+    },
+    {
+      "id": 71960,
+      "date": 1492732800,
+      "platform": 49
+    },
+    {
+      "id": 27933,
+      "date": 1425945600,
+      "platform": 6
+    },
+    {
+      "id": 449712,
+      "date": 1676419200,
+      "platform": 167
+    }
+  ]
+}

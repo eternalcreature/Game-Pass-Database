@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 229119,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 204392,
+        "company": {
+          "id": 19909,
+          "name": "Petoons Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 204391,
+        "company": {
+          "id": 13848,
+          "name": "Outright Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Peppa Pig: World Adventures",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/peppa-pig-world-adventures",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 432056,
+      "date": 1679011200,
+      "platform": 48
+    },
+    {
+      "id": 432057,
+      "date": 1679011200,
+      "platform": 167
+    },
+    {
+      "id": 432058,
+      "date": 1679011200,
+      "platform": 49
+    },
+    {
+      "id": 432059,
+      "date": 1679011200,
+      "platform": 169
+    },
+    {
+      "id": 432060,
+      "date": 1679011200,
+      "platform": 130
+    },
+    {
+      "id": 436820,
+      "date": 1679011200,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 152243,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 348546,
+        "company": {
+          "id": 20212,
+          "name": "Monomi Park"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Slime Rancher 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/slime-rancher-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 777996,
+      "date": 1758585600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 777993,
+      "date": 1758585600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 777995,
+      "date": 1663804800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 777992,
+      "date": 1758585600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 554534,
+      "date": 1663804800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 797581,
+      "date": 1717718400,
+      "platform": 167,
+      "status": 3
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 134706,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 151011,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 151012,
+        "company": {
+          "id": 12478,
+          "name": "Motive Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Star Wars: Squadrons",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-squadrons",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 212797,
+      "date": 1601596800,
+      "platform": 165
+    },
+    {
+      "id": 212799,
+      "date": 1601596800,
+      "platform": 163
+    },
+    {
+      "id": 404566,
+      "date": 1601510400,
+      "platform": 6
+    },
+    {
+      "id": 757418,
+      "date": 1606262400,
+      "platform": 169,
+      "status": 36
+    },
+    {
+      "id": 757419,
+      "date": 1606262400,
+      "platform": 167,
+      "status": 36
+    },
+    {
+      "id": 200107,
+      "date": 1601596800,
+      "platform": 48
+    },
+    {
+      "id": 314280,
+      "date": 1601596800,
+      "platform": 161
+    },
+    {
+      "id": 314279,
+      "date": 1601596800,
+      "platform": 385
+    },
+    {
+      "id": 650934,
+      "date": 1601596800,
+      "platform": 49
+    }
+  ]
+}

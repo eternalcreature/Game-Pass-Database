@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 8751,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97458,
+        "company": {
+          "id": 4680,
+          "name": "Beam Team Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Stranded Deep",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/stranded-deep",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 159028,
+      "date": 1532044800,
+      "platform": 3
+    },
+    {
+      "id": 159027,
+      "date": 1421971200,
+      "platform": 14
+    },
+    {
+      "id": 159026,
+      "date": 1421971200,
+      "platform": 6
+    },
+    {
+      "id": 193646,
+      "date": 1587427200,
+      "platform": 49
+    },
+    {
+      "id": 193645,
+      "date": 1587427200,
+      "platform": 48
+    },
+    {
+      "id": 307740,
+      "date": 1630368000,
+      "platform": 130
+    },
+    {
+      "id": 338098,
+      "date": 1630368000,
+      "platform": 130
+    }
+  ]
+}

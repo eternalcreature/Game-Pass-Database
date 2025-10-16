@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 7684,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 149900,
+        "company": {
+          "id": 14768,
+          "name": "SeithCG"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 149901,
+        "company": {
+          "id": 14768,
+          "name": "SeithCG"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 149902,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ghost of a Tale",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ghost-of-a-tale",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 167201,
+      "date": 1552348800,
+      "platform": 48
+    },
+    {
+      "id": 149014,
+      "date": 1520899200,
+      "platform": 6
+    },
+    {
+      "id": 167200,
+      "date": 1552348800,
+      "platform": 49
+    },
+    {
+      "id": 219510,
+      "date": 1602115200,
+      "platform": 130
+    },
+    {
+      "id": 338752,
+      "date": 1621036800,
+      "platform": 130
+    },
+    {
+      "id": 312527,
+      "date": 1552348800,
+      "platform": 169
+    }
+  ]
+}

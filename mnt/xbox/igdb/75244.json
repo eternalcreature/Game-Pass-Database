@@ -1,0 +1,57 @@
+{
+  "general": {
+    "id": 75244,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 60553,
+        "company": {
+          "id": 115,
+          "name": "Codemasters"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Onrush",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/onrush",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 153033,
+      "date": 1528156800,
+      "platform": 48
+    },
+    {
+      "id": 153032,
+      "date": 1528156800,
+      "platform": 49
+    }
+  ]
+}

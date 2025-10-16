@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 7327,
+    "game_engines": [
+      {
+        "id": 22,
+        "name": "UbiArt Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 207120,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 207121,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Valiant Hearts: The Great War",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 34,
+        "name": "Educational"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/valiant-hearts-the-great-war",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 373976,
+      "date": 1403654400,
+      "platform": 12
+    },
+    {
+      "id": 298717,
+      "date": 1403654400,
+      "platform": 9
+    },
+    {
+      "id": 776140,
+      "date": 1416960000,
+      "platform": 34
+    },
+    {
+      "id": 20189,
+      "date": 1403654400,
+      "platform": 6
+    },
+    {
+      "id": 20783,
+      "date": 1409788800,
+      "platform": 39
+    },
+    {
+      "id": 130304,
+      "date": 1403654400,
+      "platform": 49
+    },
+    {
+      "id": 248404,
+      "date": 1541635200,
+      "platform": 130
+    },
+    {
+      "id": 552214,
+      "date": 1403654400,
+      "platform": 48
+    },
+    {
+      "id": 298718,
+      "date": 1403654400,
+      "platform": 9
+    },
+    {
+      "id": 298719,
+      "date": 1403568000,
+      "platform": 9
+    }
+  ]
+}

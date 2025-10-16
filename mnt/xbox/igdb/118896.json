@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 118896,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171926,
+        "company": {
+          "id": 965,
+          "name": "Ghost Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 171927,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 171928,
+        "company": {
+          "id": 28050,
+          "name": "Electronic Arts, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Need for Speed Rivals: Complete Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/need-for-speed-rivals-complete-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 360422,
+      "date": 1418256000,
+      "platform": 12
+    },
+    {
+      "id": 360409,
+      "date": 1413849600,
+      "platform": 6
+    },
+    {
+      "id": 360416,
+      "date": 1414108800,
+      "platform": 49
+    },
+    {
+      "id": 360417,
+      "date": 1414108800,
+      "platform": 12
+    },
+    {
+      "id": 360410,
+      "date": 1413849600,
+      "platform": 48
+    },
+    {
+      "id": 360419,
+      "date": 1418256000,
+      "platform": 48
+    },
+    {
+      "id": 360420,
+      "date": 1418256000,
+      "platform": 9
+    },
+    {
+      "id": 303954,
+      "date": 1413849600,
+      "platform": 49
+    },
+    {
+      "id": 360411,
+      "date": 1413849600,
+      "platform": 9
+    },
+    {
+      "id": 360412,
+      "date": 1413849600,
+      "platform": 12
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 231778,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 200749,
+        "company": {
+          "id": 19099,
+          "name": "Ubisoft Blue Byte"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 200750,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 204513,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Anno 1800: Console Edition",
+    "parent_game": 55036,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/anno-1800-console-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 439524,
+      "date": 1678924800,
+      "platform": 169
+    },
+    {
+      "id": 439525,
+      "date": 1678924800,
+      "platform": 167
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 26855,
+    "game_engines": [
+      {
+        "id": 610,
+        "name": "Heaps.io"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97154,
+        "company": {
+          "id": 11960,
+          "name": "Motion Twin"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 159260,
+        "company": {
+          "id": 39329,
+          "name": "Evil Empire"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dead Cells",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-cells",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 532703,
+      "date": 1533513600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 532706,
+      "date": 1533600000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 532710,
+      "date": 1533513600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 487122,
+      "date": 1687996800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 532705,
+      "date": 1533513600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 532702,
+      "date": 1533600000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 532711,
+      "date": 1494374400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 532707,
+      "date": 1529971200,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 532700,
+      "date": 1591056000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 532713,
+      "date": 1533600000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

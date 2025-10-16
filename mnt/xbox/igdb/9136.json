@@ -1,0 +1,116 @@
+{
+  "general": {
+    "id": 9136,
+    "game_engines": [
+      {
+        "id": 601,
+        "name": "Unity 2018"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63615,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 63616,
+        "company": {
+          "id": 11858,
+          "name": "Jason Roberts"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Gorogoa",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gorogoa",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 152815,
+      "date": 1526947200,
+      "platform": 49
+    },
+    {
+      "id": 152814,
+      "date": 1526947200,
+      "platform": 48
+    },
+    {
+      "id": 316591,
+      "date": 1513123200,
+      "platform": 39
+    },
+    {
+      "id": 363437,
+      "date": 1529366400,
+      "platform": 34
+    },
+    {
+      "id": 130340,
+      "date": 1513209600,
+      "platform": 6
+    },
+    {
+      "id": 539450,
+      "date": 1526947200,
+      "platform": 14
+    },
+    {
+      "id": 131191,
+      "date": 1513209600,
+      "platform": 130
+    },
+    {
+      "id": 415059,
+      "date": 1513209600,
+      "platform": 14
+    }
+  ]
+}

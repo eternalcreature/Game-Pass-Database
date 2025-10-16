@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 10031,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 267315,
+        "company": {
+          "id": 5369,
+          "name": "Playtonic"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 229885,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Yooka-Laylee",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/yooka-laylee",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 62785,
+      "date": 1491868800,
+      "platform": 3
+    },
+    {
+      "id": 380043,
+      "date": 1528934400,
+      "platform": 130
+    },
+    {
+      "id": 62781,
+      "date": 1491868800,
+      "platform": 6
+    },
+    {
+      "id": 380042,
+      "date": 1513209600,
+      "platform": 130
+    },
+    {
+      "id": 62786,
+      "date": 1491868800,
+      "platform": 14
+    },
+    {
+      "id": 136467,
+      "date": 1491868800,
+      "platform": 49
+    },
+    {
+      "id": 511592,
+      "date": 1483142400,
+      "platform": 41,
+      "status": 5
+    },
+    {
+      "id": 67777,
+      "date": 1491868800,
+      "platform": 48
+    },
+    {
+      "id": 67776,
+      "date": 1491868800,
+      "platform": 49
+    }
+  ]
+}

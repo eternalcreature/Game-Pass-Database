@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 214397,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184310,
+        "company": {
+          "id": 17716,
+          "name": "DEVM Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 184311,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184309,
+        "company": {
+          "id": 13750,
+          "name": "SMG Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Moving Out 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/moving-out-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 503882,
+      "date": 1692057600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 503878,
+      "date": 1692057600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 503879,
+      "date": 1692057600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 503880,
+      "date": 1692057600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 503881,
+      "date": 1692057600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 503883,
+      "date": 1692057600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

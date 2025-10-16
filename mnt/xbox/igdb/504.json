@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 504,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 1225,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 1224,
+        "company": {
+          "id": 6,
+          "name": "Lionhead Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Fable III",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fable-iii",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 128319,
+      "date": 1305763200,
+      "platform": 6
+    },
+    {
+      "id": 128320,
+      "date": 1305849600,
+      "platform": 6
+    },
+    {
+      "id": 128318,
+      "date": 1305590400,
+      "platform": 6
+    },
+    {
+      "id": 128315,
+      "date": 1288051200,
+      "platform": 12
+    },
+    {
+      "id": 128317,
+      "date": 1288310400,
+      "platform": 12
+    },
+    {
+      "id": 128321,
+      "date": 1305849600,
+      "platform": 6
+    },
+    {
+      "id": 128314,
+      "date": 1288051200,
+      "platform": 12
+    },
+    {
+      "id": 128316,
+      "date": 1288224000,
+      "platform": 12
+    }
+  ]
+}

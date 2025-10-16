@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 15,
+    "game_engines": [
+      {
+        "id": 54,
+        "name": "Gamebryo"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 4156,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95336,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fallout 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fallout-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 102969,
+      "date": 1231977600,
+      "platform": 9
+    },
+    {
+      "id": 592480,
+      "date": 1225152000,
+      "platform": 12
+    },
+    {
+      "id": 592482,
+      "date": 1225411200,
+      "platform": 12
+    },
+    {
+      "id": 592479,
+      "date": 1225411200,
+      "platform": 9
+    },
+    {
+      "id": 592481,
+      "date": 1225411200,
+      "platform": 12
+    },
+    {
+      "id": 592478,
+      "date": 1225411200,
+      "platform": 6
+    },
+    {
+      "id": 102967,
+      "date": 1225152000,
+      "platform": 9
+    },
+    {
+      "id": 102968,
+      "date": 1225411200,
+      "platform": 9
+    },
+    {
+      "id": 592477,
+      "date": 1225152000,
+      "platform": 6
+    }
+  ]
+}

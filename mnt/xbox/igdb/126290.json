@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 126290,
+    "game_engines": [
+      {
+        "id": 118,
+        "name": "Dunia Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 103975,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 264653,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Far Cry 6",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/far-cry-6",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 318163,
+      "date": 1633564800,
+      "platform": 170
+    },
+    {
+      "id": 246924,
+      "date": 1633564800,
+      "platform": 169
+    },
+    {
+      "id": 246922,
+      "date": 1633564800,
+      "platform": 48
+    },
+    {
+      "id": 246923,
+      "date": 1633564800,
+      "platform": 167
+    },
+    {
+      "id": 246926,
+      "date": 1633564800,
+      "platform": 6
+    },
+    {
+      "id": 246925,
+      "date": 1633564800,
+      "platform": 49
+    }
+  ]
+}

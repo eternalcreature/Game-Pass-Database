@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 2175,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 8297,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 8298,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Cave",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-cave",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 4605,
+      "date": 1358812800,
+      "platform": 3
+    },
+    {
+      "id": 144104,
+      "date": 1358812800,
+      "platform": 41
+    },
+    {
+      "id": 460992,
+      "date": 1360886400,
+      "platform": 14
+    },
+    {
+      "id": 144106,
+      "date": 1377648000,
+      "platform": 41
+    },
+    {
+      "id": 6524,
+      "date": 1380758400,
+      "platform": 39
+    },
+    {
+      "id": 229505,
+      "date": 1358899200,
+      "platform": 9
+    },
+    {
+      "id": 229506,
+      "date": 1358812800,
+      "platform": 9
+    },
+    {
+      "id": 370948,
+      "date": 1387324800,
+      "platform": 34
+    },
+    {
+      "id": 4492,
+      "date": 1358812800,
+      "platform": 12
+    },
+    {
+      "id": 6523,
+      "date": 1358812800,
+      "platform": 41
+    }
+  ]
+}

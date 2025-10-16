@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 44545,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 171922,
+        "company": {
+          "id": 2,
+          "name": "BioWare"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 277340,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dragon Age: Inquisition - Game of the Year Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dragon-age-inquisition-game-of-the-year-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 135981,
+      "date": 1444089600,
+      "platform": 49
+    },
+    {
+      "id": 360400,
+      "date": 1444089600,
+      "platform": 48
+    },
+    {
+      "id": 360401,
+      "date": 1444089600,
+      "platform": 6
+    }
+  ]
+}

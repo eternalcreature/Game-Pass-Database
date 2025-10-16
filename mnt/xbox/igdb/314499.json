@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 314499,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 283194,
+        "company": {
+          "id": 27222,
+          "name": "EA Vancouver"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 303461,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "NHL 25",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nhl-25",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652409,
+      "date": 1727395200,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 652410,
+      "date": 1727395200,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 633384,
+      "date": 1728000000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 633385,
+      "date": 1728000000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

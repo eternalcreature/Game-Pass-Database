@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 11491,
+    "game_engines": [
+      {
+        "id": 153,
+        "name": "LyN"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 95707,
+        "company": {
+          "id": 1320,
+          "name": "Straight Right"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95709,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Zombi",
+    "parent_game": 1591,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/zombi--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 192513,
+      "date": 1453334400,
+      "platform": 6
+    },
+    {
+      "id": 192506,
+      "date": 1439856000,
+      "platform": 49
+    },
+    {
+      "id": 192509,
+      "date": 1453334400,
+      "platform": 48
+    },
+    {
+      "id": 192508,
+      "date": 1439856000,
+      "platform": 6
+    },
+    {
+      "id": 192510,
+      "date": 1453334400,
+      "platform": 49
+    },
+    {
+      "id": 304360,
+      "date": 1439856000,
+      "platform": 49
+    },
+    {
+      "id": 192507,
+      "date": 1439856000,
+      "platform": 48
+    }
+  ]
+}

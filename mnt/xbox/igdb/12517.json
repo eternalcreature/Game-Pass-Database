@@ -1,0 +1,142 @@
+{
+  "general": {
+    "id": 12517,
+    "game_engines": [
+      {
+        "id": 79,
+        "name": "GameMaker: Studio"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 134860,
+        "company": {
+          "id": 29538,
+          "name": "8-4"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 171541,
+        "company": {
+          "id": 23459,
+          "name": "temmie"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 171542,
+        "company": {
+          "id": 6545,
+          "name": "tobyfox"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Undertale",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/undertale",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 155763,
+      "date": 1536969600,
+      "platform": 130
+    },
+    {
+      "id": 45798,
+      "date": 1442275200,
+      "platform": 14
+    },
+    {
+      "id": 45799,
+      "date": 1442275200,
+      "platform": 6
+    },
+    {
+      "id": 233933,
+      "date": 1615852800,
+      "platform": 49
+    },
+    {
+      "id": 421552,
+      "date": 1468713600,
+      "platform": 3
+    },
+    {
+      "id": 157718,
+      "date": 1537228800,
+      "platform": 130
+    },
+    {
+      "id": 97199,
+      "date": 1502755200,
+      "platform": 46
+    },
+    {
+      "id": 157719,
+      "date": 1537228800,
+      "platform": 130
+    },
+    {
+      "id": 97200,
+      "date": 1502755200,
+      "platform": 48
+    }
+  ]
+}

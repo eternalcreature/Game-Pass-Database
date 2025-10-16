@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 308978,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 276826,
+        "company": {
+          "id": 17795,
+          "name": "1047 Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Splitgate 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/splitgate-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 752214,
+      "date": 1749168000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 752211,
+      "date": 1749168000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 752212,
+      "date": 1749168000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 752213,
+      "date": 1749168000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 752215,
+      "date": 1749168000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 703053,
+      "date": 1740614400,
+      "platform": 167,
+      "status": 1
+    },
+    {
+      "id": 744751,
+      "date": 1724198400,
+      "platform": 6,
+      "status": 1
+    },
+    {
+      "id": 744752,
+      "date": 1747872000,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 744755,
+      "date": 1747872000,
+      "platform": 49,
+      "status": 2
+    },
+    {
+      "id": 744756,
+      "date": 1747872000,
+      "platform": 169,
+      "status": 2
+    }
+  ]
+}

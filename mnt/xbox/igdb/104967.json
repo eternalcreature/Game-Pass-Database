@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 104967,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 137322,
+        "company": {
+          "id": 24024,
+          "name": "Iron Gate Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 137323,
+        "company": {
+          "id": 12186,
+          "name": "Coffee Stain Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Valheim",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/valheim",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 460199,
+      "date": 1663286400,
+      "platform": 49
+    },
+    {
+      "id": 454056,
+      "date": 1678752000,
+      "platform": 169
+    },
+    {
+      "id": 602691,
+      "date": 1717977600,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 602690,
+      "date": 1612224000,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 554537,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 554536,
+      "date": 1612224000,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 454055,
+      "date": 1678752000,
+      "platform": 49
+    },
+    {
+      "id": 460200,
+      "date": 1663286400,
+      "platform": 169
+    }
+  ]
+}

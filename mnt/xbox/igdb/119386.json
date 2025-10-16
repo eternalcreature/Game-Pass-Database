@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 119386,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 79901,
+        "company": {
+          "id": 12046,
+          "name": "Romero Games Ltd."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 79900,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Empire of Sin",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/empire-of-sin",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 211053,
+      "date": 1606780800,
+      "platform": 48
+    },
+    {
+      "id": 211055,
+      "date": 1606780800,
+      "platform": 14
+    },
+    {
+      "id": 211051,
+      "date": 1606780800,
+      "platform": 130
+    },
+    {
+      "id": 211052,
+      "date": 1606780800,
+      "platform": 49
+    },
+    {
+      "id": 211054,
+      "date": 1606780800,
+      "platform": 6
+    },
+    {
+      "id": 340876,
+      "date": 1606694400,
+      "platform": 130
+    }
+  ]
+}

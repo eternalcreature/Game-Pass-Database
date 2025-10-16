@@ -1,0 +1,181 @@
+{
+  "general": {
+    "id": 118218,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 340374,
+        "company": {
+          "id": 841,
+          "name": "Ubisoft Paris"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 340375,
+        "company": {
+          "id": 38920,
+          "name": "Ubisoft Odesa"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340376,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340377,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340378,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340379,
+        "company": {
+          "id": 17064,
+          "name": "Ubisoft Bordeaux"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340380,
+        "company": {
+          "id": 899,
+          "name": "Ubisoft Milan"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340381,
+        "company": {
+          "id": 15463,
+          "name": "Ubisoft Belgrade"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 340372,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Tom Clancy's Ghost Recon: Breakpoint",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-breakpoint",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 757426,
+      "date": 1605484800,
+      "platform": 167,
+      "status": 36
+    },
+    {
+      "id": 791501,
+      "date": 1577750400,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 791503,
+      "date": 1570147200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 791504,
+      "date": 1570147200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 757425,
+      "date": 1605484800,
+      "platform": 169,
+      "status": 36
+    },
+    {
+      "id": 791502,
+      "date": 1570147200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2017-11-10",
-    "release_date": null,
+    "release_date": "2017-11-10",
     "platforms": [
       "PC"
     ]
@@ -79,33 +79,75 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-11-10",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-10"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 36662,
-      "name": "Need for Speed: Payback",
-      "url": "https://www.igdb.com/games/need-for-speed-payback",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "developers": [
-        "Ghost Games"
-      ],
+      "id": 23161,
+      "name": "Need for Speed: Payback - Deluxe Edition",
+      "url": "https://www.igdb.com/games/need-for-speed-payback-deluxe-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
         "Racing",
-        "Sport"
+        "Sport",
+        "Adventure"
       ],
       "themes": [
-        "Action",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player",
-        "Multiplayer"
+        "Multiplayer",
+        "Co-operative"
       ],
       "player_perspectives": [
+        "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-11-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-07"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

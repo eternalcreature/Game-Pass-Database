@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 13167,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96685,
+        "company": {
+          "id": 4371,
+          "name": "TreeFortress Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 133037,
+        "company": {
+          "id": 6564,
+          "name": "LOOT Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "JumpJet Rex",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/jumpjet-rex",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 38078,
+      "date": 1429574400,
+      "platform": 14
+    },
+    {
+      "id": 38079,
+      "date": 1429574400,
+      "platform": 3
+    },
+    {
+      "id": 120954,
+      "date": 1461888000,
+      "platform": 49
+    },
+    {
+      "id": 244620,
+      "date": 1498608000,
+      "platform": 48
+    },
+    {
+      "id": 38077,
+      "date": 1429574400,
+      "platform": 6
+    }
+  ]
+}

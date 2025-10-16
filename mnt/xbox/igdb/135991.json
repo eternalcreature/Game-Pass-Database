@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 135991,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 163731,
+        "company": {
+          "id": 27257,
+          "name": "Eerie Guest Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 163732,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Hello Neighbor 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hello-neighbor-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 352342,
+      "date": 1670284800,
+      "platform": 167
+    },
+    {
+      "id": 352343,
+      "date": 1670284800,
+      "platform": 48
+    },
+    {
+      "id": 352344,
+      "date": 1670284800,
+      "platform": 6
+    },
+    {
+      "id": 352345,
+      "date": 1670284800,
+      "platform": 169
+    },
+    {
+      "id": 352346,
+      "date": 1670284800,
+      "platform": 49
+    },
+    {
+      "id": 353062,
+      "date": 1670284800,
+      "platform": 130
+    }
+  ]
+}

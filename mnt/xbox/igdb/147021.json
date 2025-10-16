@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 147021,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 135686,
+        "company": {
+          "id": 34198,
+          "name": "Team WIBY"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 135685,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Phantom Abyss",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/phantom-abyss",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 549294,
+      "date": 1706140800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 549436,
+      "date": 1624233600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 549449,
+      "date": 1666224000,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 549450,
+      "date": 1706140800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

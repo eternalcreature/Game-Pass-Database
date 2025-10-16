@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 13555,
+    "game_engines": [
+      {
+        "id": 338,
+        "name": "Z-Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 49426,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 49425,
+        "company": {
+          "id": 5082,
+          "name": "Lab Zero Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Indivisible",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/indivisible",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 325922,
+      "date": 1570492800,
+      "platform": 3
+    },
+    {
+      "id": 325919,
+      "date": 1570492800,
+      "platform": 49
+    },
+    {
+      "id": 325920,
+      "date": 1570492800,
+      "platform": 6
+    },
+    {
+      "id": 325921,
+      "date": 1570492800,
+      "platform": 14
+    },
+    {
+      "id": 325923,
+      "date": 1570492800,
+      "platform": 48
+    },
+    {
+      "id": 194256,
+      "date": 1588032000,
+      "platform": 130
+    }
+  ]
+}

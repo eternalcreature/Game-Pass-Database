@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 74701,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 82784,
+        "company": {
+          "id": 1002,
+          "name": "Respawn Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 158502,
+        "company": {
+          "id": 2095,
+          "name": "Panic Button Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 190228,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Wars Jedi: Fallen Order",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-jedi-fallen-order",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 168147,
+      "date": 1573776000,
+      "platform": 48
+    },
+    {
+      "id": 743571,
+      "date": 1623369600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 743572,
+      "date": 1610409600,
+      "platform": 169,
+      "status": 36
+    },
+    {
+      "id": 743569,
+      "date": 1623369600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 743570,
+      "date": 1610409600,
+      "platform": 167,
+      "status": 36
+    },
+    {
+      "id": 168148,
+      "date": 1573776000,
+      "platform": 49
+    },
+    {
+      "id": 331548,
+      "date": 1573776000,
+      "platform": 6
+    },
+    {
+      "id": 239682,
+      "date": 1606176000,
+      "platform": 170
+    }
+  ]
+}

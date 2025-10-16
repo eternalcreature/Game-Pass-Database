@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 76747,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186252,
+        "company": {
+          "id": 14266,
+          "name": "Mundfish"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 186253,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Atomic Heart",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/atomic-heart",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 454322,
+      "date": 1676937600,
+      "platform": 6
+    },
+    {
+      "id": 454326,
+      "date": 1676937600,
+      "platform": 169
+    },
+    {
+      "id": 454324,
+      "date": 1676937600,
+      "platform": 167
+    },
+    {
+      "id": 454323,
+      "date": 1676937600,
+      "platform": 48
+    },
+    {
+      "id": 454325,
+      "date": 1676937600,
+      "platform": 49
+    }
+  ]
+}

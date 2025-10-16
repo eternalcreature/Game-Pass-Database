@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 125431,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 193518,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 193517,
+        "company": {
+          "id": 1389,
+          "name": "Bossa Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "I Am Fish",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/i-am-fish",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 545283,
+      "date": 1631750400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 545284,
+      "date": 1631750400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 545285,
+      "date": 1631750400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

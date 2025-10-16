@@ -12,8 +12,8 @@
         "9NJ7FH3HB8SR"
       ]
     ],
-    "original_release_date": "2011-11-22",
-    "release_date": null,
+    "original_release_date": "2020-12-02",
+    "release_date": "2021-08-10",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -70,7 +70,28 @@
       "player_perspectives": [
         "Third person",
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2020-12-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-12-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-08-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,43 @@
+{
+  "general": {
+    "id": 219242,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Despot's Game: Challenges",
+    "parent_game": 176088,
+    "themes": [
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/despots-game-challenges",
+    "game_type": 1
+  },
+  "release_dates": [
+    {
+      "id": 492495,
+      "date": 1683849600,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

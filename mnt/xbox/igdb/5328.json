@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 5328,
+    "game_engines": [
+      {
+        "id": 29,
+        "name": "Fox Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189462,
+        "company": {
+          "id": 129,
+          "name": "Konami"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189463,
+        "company": {
+          "id": 170,
+          "name": "Kojima Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Metal Gear Solid V: Ground Zeroes",
+    "parent_game": 1985,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metal-gear-solid-v-ground-zeroes",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 728671,
+      "date": 1395100800,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 728668,
+      "date": 1395273600,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 393771,
+      "date": 1395100800,
+      "platform": 12
+    },
+    {
+      "id": 393773,
+      "date": 1395273600,
+      "platform": 12
+    },
+    {
+      "id": 133873,
+      "date": 1395100800,
+      "platform": 48
+    },
+    {
+      "id": 728667,
+      "date": 1418860800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 728670,
+      "date": 1395273600,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 728669,
+      "date": 1395878400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 393775,
+      "date": 1395100800,
+      "platform": 49
+    },
+    {
+      "id": 393772,
+      "date": 1395273600,
+      "platform": 12
+    }
+  ]
+}

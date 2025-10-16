@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 10960,
+    "game_engines": [
+      {
+        "id": 149,
+        "name": "Proprietary Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 150937,
+        "company": {
+          "id": 5842,
+          "name": "Drool"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Thumper",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      }
+    ],
+    "url": "https://www.igdb.com/games/thumper",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 104715,
+      "date": 1503014400,
+      "platform": 49
+    },
+    {
+      "id": 117725,
+      "date": 1476057600,
+      "platform": 48
+    },
+    {
+      "id": 455046,
+      "date": 1677024000,
+      "platform": 390
+    },
+    {
+      "id": 455047,
+      "date": 1677024000,
+      "platform": 167
+    },
+    {
+      "id": 314205,
+      "date": 1482019200,
+      "platform": 385
+    },
+    {
+      "id": 518617,
+      "date": 1516752000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 518618,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 314206,
+      "date": 1476057600,
+      "platform": 165
+    },
+    {
+      "id": 104714,
+      "date": 1495065600,
+      "platform": 130
+    },
+    {
+      "id": 234962,
+      "date": 1482019200,
+      "platform": 163
+    }
+  ]
+}

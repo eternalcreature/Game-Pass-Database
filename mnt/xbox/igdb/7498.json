@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 7498,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 86710,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 98165,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Tekken 7",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tekken-7",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 106064,
+      "date": 1496361600,
+      "platform": 48
+    },
+    {
+      "id": 119266,
+      "date": 1424217600,
+      "platform": 52
+    },
+    {
+      "id": 64615,
+      "date": 1496361600,
+      "platform": 6
+    },
+    {
+      "id": 257356,
+      "date": 1496275200,
+      "platform": 6
+    },
+    {
+      "id": 504307,
+      "date": 1496361600,
+      "platform": 165
+    },
+    {
+      "id": 504308,
+      "date": 1496361600,
+      "platform": 165
+    },
+    {
+      "id": 504309,
+      "date": 1496361600,
+      "platform": 165
+    },
+    {
+      "id": 64614,
+      "date": 1496361600,
+      "platform": 49
+    },
+    {
+      "id": 106063,
+      "date": 1496361600,
+      "platform": 48
+    },
+    {
+      "id": 64613,
+      "date": 1496361600,
+      "platform": 48
+    }
+  ]
+}

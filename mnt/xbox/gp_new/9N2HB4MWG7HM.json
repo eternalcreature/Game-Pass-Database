@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2013-11-22",
-    "release_date": null,
+    "release_date": "2023-11-28",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -73,17 +73,39 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Slayer"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-11-22",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-03-29"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 10354,
-      "name": "Killer Instinct",
-      "url": "https://www.igdb.com/games/killer-instinct--1",
+      "id": 278293,
+      "name": "Killer Instinct: Anniversary Edition",
+      "url": "https://www.igdb.com/games/killer-instinct-anniversary-edition",
       "publishers": [
-        "Microsoft Studios"
+        "Xbox Game Studios"
       ],
       "developers": [
-        "Double Helix Games",
         "Iron Galaxy Studios"
       ],
       "genres": [
@@ -98,7 +120,28 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [],
+      "game_type": "update",
+      "release_dates": {
+        "release_date": "2023-11-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-11-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-11-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-11-28"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

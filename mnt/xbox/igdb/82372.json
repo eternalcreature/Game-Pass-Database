@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 82372,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 60224,
+        "company": {
+          "id": 8628,
+          "name": "Alawar Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 130585,
+        "company": {
+          "id": 11259,
+          "name": "Warm Lamp Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130586,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Beholder: Complete Edition",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/beholder-complete-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 161426,
+      "date": 1544054400,
+      "platform": 130
+    },
+    {
+      "id": 135794,
+      "date": 1516060800,
+      "platform": 48
+    },
+    {
+      "id": 149135,
+      "date": 1517529600,
+      "platform": 49
+    },
+    {
+      "id": 135793,
+      "date": 1516320000,
+      "platform": 49
+    }
+  ]
+}

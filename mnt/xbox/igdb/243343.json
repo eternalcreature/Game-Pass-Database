@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 243343,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 266522,
+        "company": {
+          "id": 18735,
+          "name": "Brightrock Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 266523,
+        "company": {
+          "id": 30389,
+          "name": "Cult Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Galacticare",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/galacticare",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 594141,
+      "date": 1716422400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 594142,
+      "date": 1716422400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 594143,
+      "date": 1716422400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

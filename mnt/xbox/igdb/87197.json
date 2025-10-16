@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 87197,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 62573,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 62572,
+        "company": {
+          "id": 7096,
+          "name": "Pixelnest Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Steredenn: Binary Stars",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/steredenn-binary-stars",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 419235,
+      "date": 1523318400,
+      "platform": 6
+    },
+    {
+      "id": 419236,
+      "date": 1523318400,
+      "platform": 14
+    },
+    {
+      "id": 419237,
+      "date": 1523318400,
+      "platform": 3
+    },
+    {
+      "id": 548084,
+      "date": 1520467200,
+      "platform": 130
+    }
+  ]
+}

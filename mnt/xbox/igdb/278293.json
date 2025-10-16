@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 278293,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 242685,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 242686,
+        "company": {
+          "id": 7700,
+          "name": "Code Mystics"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 242687,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Killer Instinct: Anniversary Edition",
+    "parent_game": 25662,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/killer-instinct-anniversary-edition",
+    "game_type": 14
+  },
+  "release_dates": [
+    {
+      "id": 540012,
+      "date": 1701129600,
+      "platform": 169
+    },
+    {
+      "id": 540013,
+      "date": 1701129600,
+      "platform": 49
+    },
+    {
+      "id": 540014,
+      "date": 1701129600,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 2031,
+    "game_engines": [
+      {
+        "id": 47,
+        "name": "id Tech 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 95333,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 21684,
+        "company": {
+          "id": 1242,
+          "name": "MachineGames"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Wolfenstein: The New Order",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wolfenstein-the-new-order",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 26326,
+      "date": 1400544000,
+      "platform": 49
+    },
+    {
+      "id": 26322,
+      "date": 1400544000,
+      "platform": 6
+    },
+    {
+      "id": 26325,
+      "date": 1400544000,
+      "platform": 48
+    },
+    {
+      "id": 106908,
+      "date": 1400544000,
+      "platform": 9
+    },
+    {
+      "id": 26323,
+      "date": 1400544000,
+      "platform": 12
+    },
+    {
+      "id": 26333,
+      "date": 1401926400,
+      "platform": 49
+    },
+    {
+      "id": 26324,
+      "date": 1400544000,
+      "platform": 9
+    },
+    {
+      "id": 136452,
+      "date": 1400544000,
+      "platform": 49
+    },
+    {
+      "id": 26332,
+      "date": 1401926400,
+      "platform": 12
+    },
+    {
+      "id": 26330,
+      "date": 1401926400,
+      "platform": 9
+    }
+  ]
+}

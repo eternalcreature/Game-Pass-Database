@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 119159,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 142073,
+        "company": {
+          "id": 2438,
+          "name": "CyberConnect2"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Fuga: Melodies of Steel",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/fuga-melodies-of-steel",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 289820,
+      "date": 1627516800,
+      "platform": 130
+    },
+    {
+      "id": 289817,
+      "date": 1627516800,
+      "platform": 48
+    },
+    {
+      "id": 289818,
+      "date": 1627516800,
+      "platform": 49
+    },
+    {
+      "id": 327720,
+      "date": 1627516800,
+      "platform": 167
+    },
+    {
+      "id": 303447,
+      "date": 1627516800,
+      "platform": 169
+    },
+    {
+      "id": 417881,
+      "date": 1627430400,
+      "platform": 6
+    },
+    {
+      "id": 301362,
+      "date": 1627430400,
+      "platform": 130
+    }
+  ]
+}

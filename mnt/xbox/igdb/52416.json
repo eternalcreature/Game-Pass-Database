@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 52416,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 203682,
+        "company": {
+          "id": 163,
+          "name": "Climax Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 203683,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Assassin's Creed Chronicles: Trilogy Pack",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-chronicles-trilogy-pack",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 176948,
+      "date": 1459900800,
+      "platform": 46
+    },
+    {
+      "id": 163074,
+      "date": 1483142400,
+      "platform": 49
+    },
+    {
+      "id": 304448,
+      "date": 1454976000,
+      "platform": 49
+    },
+    {
+      "id": 450763,
+      "date": 1455062400,
+      "platform": 48
+    },
+    {
+      "id": 324253,
+      "date": 1456358400,
+      "platform": 6
+    }
+  ]
+}

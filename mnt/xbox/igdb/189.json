@@ -1,0 +1,150 @@
+{
+  "general": {
+    "id": 189,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19847,
+        "company": {
+          "id": 292,
+          "name": "Traveller's Tales"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 166600,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184809,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 184810,
+        "company": {
+          "id": 411,
+          "name": "Robosoft Technologies"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "LEGO Indiana Jones: The Original Adventures",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lego-indiana-jones-the-original-adventures",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 600,
+      "date": 1212451200,
+      "platform": 38
+    },
+    {
+      "id": 602,
+      "date": 1212451200,
+      "platform": 5
+    },
+    {
+      "id": 603,
+      "date": 1212451200,
+      "platform": 8
+    },
+    {
+      "id": 140704,
+      "date": 1212364800,
+      "platform": 5
+    },
+    {
+      "id": 140705,
+      "date": 1212624000,
+      "platform": 5
+    },
+    {
+      "id": 140706,
+      "date": 1228953600,
+      "platform": 5
+    },
+    {
+      "id": 598,
+      "date": 1212451200,
+      "platform": 12
+    },
+    {
+      "id": 597,
+      "date": 1212451200,
+      "platform": 6
+    },
+    {
+      "id": 599,
+      "date": 1212451200,
+      "platform": 9
+    },
+    {
+      "id": 107733,
+      "date": 1212451200,
+      "platform": 9
+    }
+  ]
+}

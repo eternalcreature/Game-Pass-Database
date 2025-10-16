@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 238948,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219126,
+        "company": {
+          "id": 41364,
+          "name": "Whitethorn Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 229542,
+        "company": {
+          "id": 49374,
+          "name": "Skaule"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Magical Delicacy",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/magical-delicacy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 626339,
+      "date": 1723680000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 810195,
+      "date": 1759276800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 810196,
+      "date": 1759276800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 601296,
+      "date": 1721088000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 618301,
+      "date": 1721088000,
+      "platform": 169
+    },
+    {
+      "id": 618300,
+      "date": 1721088000,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 125166,
+    "game_engines": [
+      {
+        "id": 491,
+        "name": "Frostbite 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138217,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 168765,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 168894,
+        "company": {
+          "id": 41000,
+          "name": "EA Gothenburg"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 138218,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 314471,
+        "company": {
+          "id": 45638,
+          "name": "Ripple Effect"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Battlefield 2042",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-2042",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 311247,
+      "date": 1637280000,
+      "platform": 169
+    },
+    {
+      "id": 311250,
+      "date": 1637280000,
+      "platform": 49
+    },
+    {
+      "id": 311248,
+      "date": 1637280000,
+      "platform": 6
+    },
+    {
+      "id": 311246,
+      "date": 1637280000,
+      "platform": 167
+    },
+    {
+      "id": 311249,
+      "date": 1637280000,
+      "platform": 48
+    }
+  ]
+}

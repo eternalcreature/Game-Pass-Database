@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 25901,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290026,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 189748,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189749,
+        "company": {
+          "id": 12722,
+          "name": "DeadToast Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "My Friend Pedro",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/my-friend-pedro",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 194100,
+      "date": 1585785600,
+      "platform": 48
+    },
+    {
+      "id": 394410,
+      "date": 1560988800,
+      "platform": 6
+    },
+    {
+      "id": 394411,
+      "date": 1560988800,
+      "platform": 130
+    },
+    {
+      "id": 394412,
+      "date": 1575504000,
+      "platform": 49
+    }
+  ]
+}

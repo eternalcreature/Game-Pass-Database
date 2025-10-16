@@ -73,30 +73,63 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-09-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-09-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 36957,
-      "name": "NBA Live 18",
-      "url": "https://www.igdb.com/games/nba-live-18",
-      "publishers": [
-        "EA Sports"
-      ],
-      "developers": [
-        "EA Orlando"
-      ],
-      "genres": [
-        "Sport"
-      ],
+      "id": 82546,
+      "name": "NBA Live 18: The One Edition",
+      "url": "https://www.igdb.com/games/nba-live-18-the-one-edition",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
       "themes": [],
       "game_modes": [
-        "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-09-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-09-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

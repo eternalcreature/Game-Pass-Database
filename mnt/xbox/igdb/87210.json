@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 87210,
+    "game_engines": [
+      {
+        "id": 1230,
+        "name": "GIANTS Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 94259,
+        "company": {
+          "id": 1527,
+          "name": "Giants Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 94258,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Farming Simulator 19",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/farming-simulator-19",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 180080,
+      "date": 1575331200,
+      "platform": 130
+    },
+    {
+      "id": 180079,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 156107,
+      "date": 1542672000,
+      "platform": 48
+    },
+    {
+      "id": 156106,
+      "date": 1542672000,
+      "platform": 49
+    },
+    {
+      "id": 417139,
+      "date": 1574121600,
+      "platform": 14
+    },
+    {
+      "id": 191237,
+      "date": 1542585600,
+      "platform": 6
+    }
+  ]
+}

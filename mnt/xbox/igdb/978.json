@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 978,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184505,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 184506,
+        "company": {
+          "id": 321,
+          "name": "Tose"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil: Revelations",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-revelations",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 744411,
+      "date": 1327536000,
+      "platform": 37,
+      "status": 6
+    },
+    {
+      "id": 744410,
+      "date": 1327622400,
+      "platform": 37,
+      "status": 6
+    },
+    {
+      "id": 744409,
+      "date": 1328572800,
+      "platform": 37,
+      "status": 6
+    }
+  ]
+}

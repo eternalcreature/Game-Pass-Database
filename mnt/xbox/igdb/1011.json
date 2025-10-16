@@ -1,0 +1,169 @@
+{
+  "general": {
+    "id": 1011,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3861,
+        "company": {
+          "id": 148,
+          "name": "Gearbox Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 18953,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42019,
+        "company": {
+          "id": 2121,
+          "name": "Iron Galaxy Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 95841,
+        "company": {
+          "id": 907,
+          "name": "Sony Computer Entertainment of America"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42020,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Borderlands 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/borderlands-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 390751,
+      "date": 1590710400,
+      "platform": 130
+    },
+    {
+      "id": 21630,
+      "date": 1351123200,
+      "platform": 9
+    },
+    {
+      "id": 449904,
+      "date": 1427414400,
+      "platform": 49
+    },
+    {
+      "id": 21640,
+      "date": 1348099200,
+      "platform": 9
+    },
+    {
+      "id": 147154,
+      "date": 1355875200,
+      "platform": 14
+    },
+    {
+      "id": 21643,
+      "date": 1401235200,
+      "platform": 46
+    },
+    {
+      "id": 21627,
+      "date": 1347926400,
+      "platform": 12
+    },
+    {
+      "id": 21626,
+      "date": 1347926400,
+      "platform": 6
+    },
+    {
+      "id": 21631,
+      "date": 1351123200,
+      "platform": 12
+    },
+    {
+      "id": 101978,
+      "date": 1348185600,
+      "platform": 9
+    }
+  ]
+}

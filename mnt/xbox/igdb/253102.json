@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 253102,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 288092,
+        "company": {
+          "id": 40207,
+          "name": "Super Rare Originals"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 288093,
+        "company": {
+          "id": 48050,
+          "name": "Whale Peak Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Go Mecha Ball",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/go-mecha-ball",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 639404,
+      "date": 1727308800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 638847,
+      "date": 1706140800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 638846,
+      "date": 1706140800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 638845,
+      "date": 1706140800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 638850,
+      "date": 1727308800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

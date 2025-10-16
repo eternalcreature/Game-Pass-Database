@@ -17,8 +17,8 @@
         "9NTFPTBXDDT3"
       ]
     ],
-    "original_release_date": "2023-02-17",
-    "release_date": null,
+    "original_release_date": "2023-02-16",
+    "release_date": "2023-02-17",
     "platforms": [
       "XboxSeriesX",
       "XCloud"
@@ -86,7 +86,30 @@
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [
+        "Katana Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-02-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-02-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-02-16"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

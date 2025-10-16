@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 136604,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105606,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 105605,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Control: Ultimate Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/control-ultimate-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 602822,
+      "date": 1627344000,
+      "platform": 170
+    },
+    {
+      "id": 602821,
+      "date": 1626825600,
+      "platform": 170
+    },
+    {
+      "id": 713537,
+      "date": 1742947200,
+      "platform": 14
+    },
+    {
+      "id": 216110,
+      "date": 1603843200,
+      "platform": 130
+    },
+    {
+      "id": 222273,
+      "date": 1612224000,
+      "platform": 169
+    },
+    {
+      "id": 303462,
+      "date": 1599696000,
+      "platform": 49
+    },
+    {
+      "id": 206510,
+      "date": 1598486400,
+      "platform": 6
+    },
+    {
+      "id": 206511,
+      "date": 1599696000,
+      "platform": 48
+    },
+    {
+      "id": 206512,
+      "date": 1599696000,
+      "platform": 49
+    },
+    {
+      "id": 327759,
+      "date": 1612224000,
+      "platform": 167
+    }
+  ]
+}

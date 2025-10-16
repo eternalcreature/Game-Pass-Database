@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 113114,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 130518,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 104893,
+        "company": {
+          "id": 794,
+          "name": "Virtuos"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 130519,
+        "company": {
+          "id": 14035,
+          "name": "Private Division"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Outer Worlds",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-outer-worlds",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 417117,
+      "date": 1571961600,
+      "platform": 6
+    },
+    {
+      "id": 339479,
+      "date": 1612915200,
+      "platform": 130
+    },
+    {
+      "id": 286695,
+      "date": 1603411200,
+      "platform": 6
+    },
+    {
+      "id": 198647,
+      "date": 1591315200,
+      "platform": 130
+    },
+    {
+      "id": 170788,
+      "date": 1571961600,
+      "platform": 48
+    },
+    {
+      "id": 170789,
+      "date": 1571961600,
+      "platform": 49
+    }
+  ]
+}

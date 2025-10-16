@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 20326,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168494,
+        "company": {
+          "id": 10351,
+          "name": "KeokeN Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 168495,
+        "company": {
+          "id": 13699,
+          "name": "Wired Productions"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Deliver Us the Moon",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deliver-us-the-moon",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 177762,
+      "date": 1570665600,
+      "platform": 6
+    },
+    {
+      "id": 652996,
+      "date": 1721260800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 203150,
+      "date": 1587686400,
+      "platform": 49
+    },
+    {
+      "id": 359122,
+      "date": 1655942400,
+      "platform": 167
+    },
+    {
+      "id": 194164,
+      "date": 1587686400,
+      "platform": 48
+    },
+    {
+      "id": 359121,
+      "date": 1655942400,
+      "platform": 169
+    },
+    {
+      "id": 652994,
+      "date": 1721001600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 652995,
+      "date": 1721088000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 652993,
+      "date": 1654041600,
+      "platform": 170,
+      "status": 6
+    }
+  ]
+}

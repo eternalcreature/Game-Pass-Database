@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2017-11-17",
-    "release_date": null,
+    "release_date": "2017-11-17",
     "platforms": [
       "PC"
     ]
@@ -84,12 +84,35 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-11-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 26401,
-      "name": "Star Wars Battlefront II",
-      "url": "https://www.igdb.com/games/star-wars-battlefront-ii--1",
+      "id": 128334,
+      "name": "Star Wars Battlefront II: Celebration Edition",
+      "url": "https://www.igdb.com/games/star-wars-battlefront-ii-celebration-edition",
       "publishers": [
         "Electronic Arts"
       ],
@@ -101,19 +124,35 @@
         "Adventure"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Science fiction"
+        "Action"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "First person",
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-12-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-12-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-12-05"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

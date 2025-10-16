@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 19220,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44039,
+        "company": {
+          "id": 439,
+          "name": "Sumo Digital"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Snake Pass",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/snake-pass",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 65359,
+      "date": 1490745600,
+      "platform": 130
+    },
+    {
+      "id": 65358,
+      "date": 1490659200,
+      "platform": 130
+    },
+    {
+      "id": 65369,
+      "date": 1490659200,
+      "platform": 6
+    },
+    {
+      "id": 65372,
+      "date": 1490659200,
+      "platform": 48
+    },
+    {
+      "id": 136299,
+      "date": 1490745600,
+      "platform": 49
+    },
+    {
+      "id": 65371,
+      "date": 1490745600,
+      "platform": 49
+    },
+    {
+      "id": 65373,
+      "date": 1490745600,
+      "platform": 48
+    }
+  ]
+}

@@ -12,8 +12,8 @@
         "BRRN3ZC632XS"
       ]
     ],
-    "original_release_date": "2010-02-26",
-    "release_date": null,
+    "original_release_date": "2010-12-16",
+    "release_date": "2010-04-27",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -58,7 +58,30 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Taito Type X"
+      ],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2010-12-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-07-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-06-07"
+        }
+      }
     }
   },
   "steam_store_meta": {}

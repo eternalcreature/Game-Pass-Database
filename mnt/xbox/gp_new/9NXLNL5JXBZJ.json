@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2015-11-03",
-    "release_date": null,
+    "release_date": "2015-11-03",
     "platforms": [
       "PC"
     ]
@@ -80,36 +80,76 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-11-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-03-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-03"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 10965,
-      "name": "Need for Speed",
-      "url": "https://www.igdb.com/games/need-for-speed",
+      "id": 53410,
+      "name": "Need for Speed: Deluxe Edition",
+      "url": "https://www.igdb.com/games/need-for-speed-deluxe-edition",
       "publishers": [
-        "Electronic Arts"
+        "EA",
+        "Numskull Games"
       ],
       "developers": [
-        "Ghost Games"
+        "EA",
+        "Numskull Games"
       ],
       "genres": [
-        "Racing",
-        "Simulator",
-        "Adventure",
-        "Arcade"
+        "Racing"
       ],
-      "themes": [
-        "Action",
-        "Open world"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player",
-        "Multiplayer",
-        "Co-operative"
+        "Multiplayer"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [
+        "Frostbite 3",
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-11-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-03"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,167 @@
+{
+  "general": {
+    "id": 22917,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 108586,
+        "company": {
+          "id": 16175,
+          "name": "Nomada Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 108587,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269310,
+        "company": {
+          "id": 55087,
+          "name": "Mariadiamantes Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 269311,
+        "company": {
+          "id": 55089,
+          "name": "Headless Studio"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 269312,
+        "company": {
+          "id": 27841,
+          "name": "Sonotrigger"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Gris",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gris",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 601172,
+      "date": 1585008000,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 601180,
+      "date": 1574726400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 601178,
+      "date": 1544659200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 601181,
+      "date": 1574899200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 601173,
+      "date": 1565308800,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 601176,
+      "date": 1544659200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 601174,
+      "date": 1544659200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 601182,
+      "date": 1576108800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 601185,
+      "date": 1670889600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 601175,
+      "date": 1544659200,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

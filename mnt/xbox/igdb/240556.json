@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 240556,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 206547,
+        "company": {
+          "id": 46079,
+          "name": "Funday Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 262664,
+        "company": {
+          "id": 54165,
+          "name": "Ghost Ship Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Deep Rock Galactic: Survivor",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deep-rock-galactic-survivor",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 726571,
+      "date": 1758067200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 789154,
+      "date": 1758067200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 560829,
+      "date": 1707868800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 810237,
+      "date": 1762905600,
+      "platform": 39
+    },
+    {
+      "id": 810238,
+      "date": 1762905600,
+      "platform": 34
+    }
+  ]
+}

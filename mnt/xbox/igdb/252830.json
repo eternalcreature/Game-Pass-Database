@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 252830,
+    "game_engines": [
+      {
+        "id": 1125,
+        "name": "Ftech X"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 219210,
+        "company": {
+          "id": 442,
+          "name": "Asobo Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 219211,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Microsoft Flight Simulator 2024",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/microsoft-flight-simulator-2024",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 810260,
+      "date": 1765152000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 810376,
+      "date": 1798675200,
+      "platform": 390,
+      "status": 6
+    },
+    {
+      "id": 602109,
+      "date": 1731974400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 602108,
+      "date": 1731974400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

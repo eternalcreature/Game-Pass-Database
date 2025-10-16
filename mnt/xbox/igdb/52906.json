@@ -1,0 +1,63 @@
+{
+  "general": {
+    "id": 52906,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 140337,
+        "company": {
+          "id": 14776,
+          "name": "Tecmo"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 140338,
+        "company": {
+          "id": 933,
+          "name": "SouthEnd Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Tecmo Bowl Throwback",
+    "parent_game": 16595,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tecmo-bowl-throwback",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 295749,
+      "date": 1272412800,
+      "platform": 12
+    },
+    {
+      "id": 106051,
+      "date": 1275350400,
+      "platform": 9
+    }
+  ]
+}

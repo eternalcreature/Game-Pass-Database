@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 11590,
+    "game_engines": [
+      {
+        "id": 149,
+        "name": "Proprietary Engine"
+      },
+      {
+        "id": 486,
+        "name": "FLEDGE Engine"
+      },
+      {
+        "id": 1180,
+        "name": "FMOD"
+      },
+      {
+        "id": 91,
+        "name": "PathEngine"
+      },
+      {
+        "id": 465,
+        "name": "Nvidia PhysX"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36332,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 36331,
+        "company": {
+          "id": 2172,
+          "name": "Deck13 Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Surge",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-surge",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 715571,
+      "date": 1494806400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 715574,
+      "date": 1494892800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 715575,
+      "date": 1494892800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 715576,
+      "date": 1494892800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 715572,
+      "date": 1494892800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 715573,
+      "date": 1494892800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

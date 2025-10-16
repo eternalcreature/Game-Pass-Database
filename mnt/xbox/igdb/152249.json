@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 152249,
+    "game_engines": [
+      {
+        "id": 195,
+        "name": "Dawn Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 139184,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 277138,
+        "company": {
+          "id": 56463,
+          "name": "Eidos Sherbrooke"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 277136,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Marvel's Guardians of the Galaxy",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/marvels-guardians-of-the-galaxy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 619908,
+      "date": 1635206400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 619906,
+      "date": 1635206400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 619909,
+      "date": 1635206400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 619905,
+      "date": 1635206400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 619907,
+      "date": 1635206400,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

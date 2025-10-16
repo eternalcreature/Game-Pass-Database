@@ -1,0 +1,103 @@
+{
+  "general": {
+    "id": 243749,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 209637,
+        "company": {
+          "id": 2431,
+          "name": "Big Ant Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 209638,
+        "company": {
+          "id": 24760,
+          "name": "Nacon"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cricket 24",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/cricket-24",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 579831,
+      "date": 1711497600,
+      "platform": 130
+    },
+    {
+      "id": 532178,
+      "date": 1696464000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 532179,
+      "date": 1696464000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 532180,
+      "date": 1696464000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 532181,
+      "date": 1696464000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 532182,
+      "date": 1696464000,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

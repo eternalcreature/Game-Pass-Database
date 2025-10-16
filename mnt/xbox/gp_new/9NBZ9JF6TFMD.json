@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2008-10-28",
-    "release_date": null,
+    "release_date": "2021-06-13",
     "platforms": [
       "PC"
     ]
@@ -83,12 +83,35 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Gamebryo"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2008-10-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-10-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-10-28"
+        }
+      }
     },
     "specific": {
-      "id": 15,
-      "name": "Fallout 3",
-      "url": "https://www.igdb.com/games/fallout-3",
+      "id": 21892,
+      "name": "Fallout 3: Game of the Year Edition",
+      "url": "https://www.igdb.com/games/fallout-3-game-of-the-year-edition",
       "publishers": [
         "Bethesda Softworks"
       ],
@@ -97,13 +120,13 @@
       ],
       "genres": [
         "Shooter",
-        "Role-playing (RPG)"
+        "Role-playing (RPG)",
+        "Adventure"
       ],
       "themes": [
         "Action",
         "Science fiction",
         "Survival",
-        "Stealth",
         "Sandbox",
         "Open world"
       ],
@@ -113,7 +136,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Gamebryo"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2009-10-13",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-10-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-10-13"
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 142415,
+    "game_engines": [
+      {
+        "id": 687,
+        "name": "id Tech 7"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 282780,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 282781,
+        "company": {
+          "id": 1242,
+          "name": "MachineGames"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Indiana Jones and the Great Circle",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/indiana-jones-and-the-great-circle",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 787886,
+      "date": 1798675200,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 718071,
+      "date": 1744848000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 718241,
+      "date": 1744675200,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 632224,
+      "date": 1733702400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 632225,
+      "date": 1733702400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 663089,
+      "date": 1733356800,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 663090,
+      "date": 1733356800,
+      "platform": 169,
+      "status": 34
+    }
+  ]
+}

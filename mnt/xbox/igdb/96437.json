@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 96437,
+    "game_engines": [
+      {
+        "id": 1488,
+        "name": "Creation Engine 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138821,
+        "company": {
+          "id": 126,
+          "name": "Bethesda Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 138822,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 325169,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Starfield",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/starfield",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652029,
+      "date": 1693526400,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652030,
+      "date": 1693526400,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 482785,
+      "date": 1693958400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 482784,
+      "date": 1693958400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

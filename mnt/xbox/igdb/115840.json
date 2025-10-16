@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 115840,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98538,
+        "company": {
+          "id": 2248,
+          "name": "Daedalic Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 134762,
+        "company": {
+          "id": 9949,
+          "name": "Daedalic Studio West"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Silence",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/silence",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 195245,
+      "date": 1479168000,
+      "platform": 3
+    },
+    {
+      "id": 591043,
+      "date": 1479168000,
+      "platform": 48
+    },
+    {
+      "id": 195242,
+      "date": 1479168000,
+      "platform": 6
+    },
+    {
+      "id": 195246,
+      "date": 1481241600,
+      "platform": 49
+    },
+    {
+      "id": 195243,
+      "date": 1554249600,
+      "platform": 130
+    },
+    {
+      "id": 249921,
+      "date": 1554940800,
+      "platform": 130
+    },
+    {
+      "id": 195244,
+      "date": 1479168000,
+      "platform": 14
+    }
+  ]
+}

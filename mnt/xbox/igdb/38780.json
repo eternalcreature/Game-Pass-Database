@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 38780,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54392,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 54399,
+        "company": {
+          "id": 940,
+          "name": "Paradox Arctic"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 130610,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130611,
+        "company": {
+          "id": 2450,
+          "name": "Versus Evil"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Pillars of Eternity: Complete Edition",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pillars-of-eternity-complete-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 92868,
+      "date": 1503964800,
+      "platform": 48
+    },
+    {
+      "id": 134695,
+      "date": 1503964800,
+      "platform": 48
+    },
+    {
+      "id": 134694,
+      "date": 1503964800,
+      "platform": 48
+    },
+    {
+      "id": 92832,
+      "date": 1503964800,
+      "platform": 49
+    },
+    {
+      "id": 338983,
+      "date": 1565136000,
+      "platform": 130
+    },
+    {
+      "id": 173584,
+      "date": 1565222400,
+      "platform": 130
+    },
+    {
+      "id": 307952,
+      "date": 1503964800,
+      "platform": 49
+    }
+  ]
+}

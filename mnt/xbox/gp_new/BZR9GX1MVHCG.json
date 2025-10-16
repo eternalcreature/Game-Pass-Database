@@ -12,7 +12,7 @@
         "BZR9GX1MVHCG"
       ]
     ],
-    "original_release_date": "2015-12-07",
+    "original_release_date": "2015-04-27",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -73,7 +73,30 @@
         "First person",
         "Third person",
         "Virtual Reality"
-      ]
+      ],
+      "engine": [
+        "Ego Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-04-27",
+        "PC": {
+          "release_date_ea": "2015-04-27",
+          "release_date_1_0": "2015-12-07"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-04-05"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

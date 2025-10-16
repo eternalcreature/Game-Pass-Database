@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 1081,
+    "game_engines": [
+      {
+        "id": 87,
+        "name": "HeroEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 315260,
+        "company": {
+          "id": 851,
+          "name": "ZeniMax Online Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 315261,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Elder Scrolls Online",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-elder-scrolls-online",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 289880,
+      "date": 1623715200,
+      "platform": 169
+    },
+    {
+      "id": 38071,
+      "date": 1433808000,
+      "platform": 48
+    },
+    {
+      "id": 416956,
+      "date": 1396569600,
+      "platform": 6
+    },
+    {
+      "id": 416957,
+      "date": 1396569600,
+      "platform": 14
+    },
+    {
+      "id": 106165,
+      "date": 1433808000,
+      "platform": 48
+    },
+    {
+      "id": 38070,
+      "date": 1433808000,
+      "platform": 49
+    },
+    {
+      "id": 106166,
+      "date": 1433808000,
+      "platform": 48
+    },
+    {
+      "id": 290323,
+      "date": 1623715200,
+      "platform": 167
+    },
+    {
+      "id": 466108,
+      "date": 1592265600,
+      "platform": 170
+    }
+  ]
+}

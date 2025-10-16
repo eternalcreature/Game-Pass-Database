@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 105049,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 210640,
+        "company": {
+          "id": 917,
+          "name": "Perfect World Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 210641,
+        "company": {
+          "id": 5620,
+          "name": "Intragames"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 210639,
+        "company": {
+          "id": 10809,
+          "name": "Gunfire Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Remnant: From the Ashes",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/remnant-from-the-ashes",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 467846,
+      "date": 1581984000,
+      "platform": 48
+    },
+    {
+      "id": 305495,
+      "date": 1566259200,
+      "platform": 49
+    },
+    {
+      "id": 305493,
+      "date": 1566259200,
+      "platform": 48
+    },
+    {
+      "id": 305494,
+      "date": 1566259200,
+      "platform": 6
+    },
+    {
+      "id": 450264,
+      "date": 1679356800,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 141547,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 114591,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 114592,
+        "company": {
+          "id": 420,
+          "name": "Flying Wild Hog"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Evil West",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/evil-west",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 380736,
+      "date": 1669075200,
+      "platform": 167
+    },
+    {
+      "id": 380735,
+      "date": 1669075200,
+      "platform": 169
+    },
+    {
+      "id": 380737,
+      "date": 1669075200,
+      "platform": 6
+    },
+    {
+      "id": 380739,
+      "date": 1669075200,
+      "platform": 49
+    },
+    {
+      "id": 380738,
+      "date": 1669075200,
+      "platform": 48
+    }
+  ]
+}

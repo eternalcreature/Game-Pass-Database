@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 164867,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184846,
+        "company": {
+          "id": 42904,
+          "name": "Black Salt Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 184847,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dredge",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dredge",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 448375,
+      "date": 1680134400,
+      "platform": 49
+    },
+    {
+      "id": 651308,
+      "date": 1734480000,
+      "platform": 14
+    },
+    {
+      "id": 678292,
+      "date": 1740614400,
+      "platform": 39
+    },
+    {
+      "id": 448374,
+      "date": 1680134400,
+      "platform": 167
+    },
+    {
+      "id": 448376,
+      "date": 1680134400,
+      "platform": 169
+    },
+    {
+      "id": 448373,
+      "date": 1680134400,
+      "platform": 48
+    },
+    {
+      "id": 448371,
+      "date": 1680134400,
+      "platform": 130
+    },
+    {
+      "id": 678293,
+      "date": 1740614400,
+      "platform": 34
+    },
+    {
+      "id": 448372,
+      "date": 1680134400,
+      "platform": 6
+    }
+  ]
+}

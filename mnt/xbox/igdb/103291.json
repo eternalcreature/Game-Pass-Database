@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 103291,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 77211,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 77209,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 77210,
+        "company": {
+          "id": 5961,
+          "name": "The Coalition"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Gears Tactics",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gears-tactics",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 181673,
+      "date": 1588032000,
+      "platform": 6
+    },
+    {
+      "id": 209953,
+      "date": 1604966400,
+      "platform": 49
+    },
+    {
+      "id": 209952,
+      "date": 1604966400,
+      "platform": 169
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 276203,
+    "game_engines": [
+      {
+        "id": 603,
+        "name": "Unity3D"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 281240,
+        "company": {
+          "id": 44896,
+          "name": "Doot"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 281241,
+        "company": {
+          "id": 12239,
+          "name": "Seaven Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 314803,
+        "company": {
+          "id": 61238,
+          "name": "Wholesome Games Presents"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Minami Lane",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/minami-lane",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 764567,
+      "date": 1752019200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 628796,
+      "date": 1709078400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 628797,
+      "date": 1709078400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 627755,
+      "date": 1723680000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 628795,
+      "date": 1709078400,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 800355,
+      "date": 1752019200,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

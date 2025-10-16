@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 130508,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99165,
+        "company": {
+          "id": 25576,
+          "name": "Casey Donnellan Games LLC"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 99166,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kill It With Fire",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kill-it-with-fire",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 243860,
+      "date": 1614816000,
+      "platform": 48
+    },
+    {
+      "id": 243861,
+      "date": 1614816000,
+      "platform": 48
+    },
+    {
+      "id": 243862,
+      "date": 1614902400,
+      "platform": 34
+    },
+    {
+      "id": 243863,
+      "date": 1613520000,
+      "platform": 39
+    },
+    {
+      "id": 243864,
+      "date": 1614816000,
+      "platform": 49
+    },
+    {
+      "id": 212975,
+      "date": 1597276800,
+      "platform": 6
+    },
+    {
+      "id": 240372,
+      "date": 1614816000,
+      "platform": 130
+    }
+  ]
+}

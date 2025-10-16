@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 78113,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 174756,
+        "company": {
+          "id": 2233,
+          "name": "Red Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 174757,
+        "company": {
+          "id": 14023,
+          "name": "Iggymob"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Gungrave G.O.R.E",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gungrave-gore",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 384031,
+      "date": 1669075200,
+      "platform": 48
+    },
+    {
+      "id": 384032,
+      "date": 1669075200,
+      "platform": 169
+    },
+    {
+      "id": 384033,
+      "date": 1669075200,
+      "platform": 6
+    },
+    {
+      "id": 384034,
+      "date": 1669075200,
+      "platform": 49
+    },
+    {
+      "id": 384030,
+      "date": 1669075200,
+      "platform": 167
+    }
+  ]
+}

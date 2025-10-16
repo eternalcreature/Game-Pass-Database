@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2023-03-03",
-    "release_date": null,
+    "release_date": "2023-03-03",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -97,7 +97,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Katana Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-03-03",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-03-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-03-03"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-03-03"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

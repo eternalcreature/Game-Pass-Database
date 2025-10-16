@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 127352,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175253,
+        "company": {
+          "id": 41794,
+          "name": "NetEase Games Montréal"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 175252,
+        "company": {
+          "id": 22935,
+          "name": "24 Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Naraka: Bladepoint",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/naraka-bladepoint",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 365376,
+      "date": 1655942400,
+      "platform": 169
+    },
+    {
+      "id": 491725,
+      "date": 1689206400,
+      "platform": 169
+    },
+    {
+      "id": 389827,
+      "date": 1672444800,
+      "platform": 49
+    },
+    {
+      "id": 491724,
+      "date": 1689206400,
+      "platform": 49
+    },
+    {
+      "id": 488425,
+      "date": 1689206400,
+      "platform": 167
+    },
+    {
+      "id": 365377,
+      "date": 1655942400,
+      "platform": 49
+    },
+    {
+      "id": 289736,
+      "date": 1628726400,
+      "platform": 6
+    }
+  ]
+}

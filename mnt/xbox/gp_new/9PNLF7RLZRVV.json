@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2016-08-02",
-    "release_date": null,
+    "release_date": "2017-06-02",
     "platforms": [
       "PC"
     ]
@@ -60,7 +60,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-08-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-08-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-12-06"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 118603,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 120418,
+        "company": {
+          "id": 26549,
+          "name": "Echodog Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 131893,
+        "company": {
+          "id": 5257,
+          "name": "Digerati Distribution"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Signs of the Sojourner",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/signs-of-the-sojourner",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 201030,
+      "date": 1589414400,
+      "platform": 14
+    },
+    {
+      "id": 201029,
+      "date": 1589414400,
+      "platform": 6
+    },
+    {
+      "id": 231604,
+      "date": 1615852800,
+      "platform": 48
+    },
+    {
+      "id": 231616,
+      "date": 1616112000,
+      "platform": 49
+    },
+    {
+      "id": 231617,
+      "date": 1616025600,
+      "platform": 130
+    },
+    {
+      "id": 339355,
+      "date": 1615939200,
+      "platform": 130
+    }
+  ]
+}

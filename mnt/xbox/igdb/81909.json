@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 81909,
+    "game_engines": [
+      {
+        "id": 750,
+        "name": "Unity 2019"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175024,
+        "company": {
+          "id": 24052,
+          "name": "Exbleative"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 175025,
+        "company": {
+          "id": 27828,
+          "name": "Future Friends Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Exo One",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/exo-one--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 324503,
+      "date": 1637193600,
+      "platform": 169
+    },
+    {
+      "id": 324504,
+      "date": 1637193600,
+      "platform": 6
+    },
+    {
+      "id": 324505,
+      "date": 1637193600,
+      "platform": 49
+    },
+    {
+      "id": 603668,
+      "date": 1719446400,
+      "platform": 48
+    },
+    {
+      "id": 603669,
+      "date": 1719446400,
+      "platform": 167
+    }
+  ]
+}

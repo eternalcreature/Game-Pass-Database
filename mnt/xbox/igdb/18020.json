@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 18020,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 33089,
+        "company": {
+          "id": 9206,
+          "name": "SadSquare Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Visage",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/visage",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 405245,
+      "date": 1603929600,
+      "platform": 6
+    },
+    {
+      "id": 328001,
+      "date": 1636588800,
+      "platform": 167
+    },
+    {
+      "id": 215513,
+      "date": 1604016000,
+      "platform": 48
+    },
+    {
+      "id": 215512,
+      "date": 1604016000,
+      "platform": 49
+    }
+  ]
+}

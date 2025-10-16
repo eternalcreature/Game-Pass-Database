@@ -1,0 +1,156 @@
+{
+  "general": {
+    "id": 25580,
+    "game_engines": [
+      {
+        "id": 532,
+        "name": "GameMaker Studio 2"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 115673,
+        "company": {
+          "id": 4996,
+          "name": "Humble Bundle"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 115674,
+        "company": {
+          "id": 16862,
+          "name": "Hop Frog"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128866,
+        "company": {
+          "id": 19872,
+          "name": "HopFrog"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128867,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Forager",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/forager",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 169335,
+      "date": 1555545600,
+      "platform": 6
+    },
+    {
+      "id": 171993,
+      "date": 1564444800,
+      "platform": 130
+    },
+    {
+      "id": 217274,
+      "date": 1604620800,
+      "platform": 39
+    },
+    {
+      "id": 217275,
+      "date": 1604620800,
+      "platform": 34
+    },
+    {
+      "id": 221585,
+      "date": 1594857600,
+      "platform": 49
+    },
+    {
+      "id": 223209,
+      "date": 1564444800,
+      "platform": 48
+    },
+    {
+      "id": 223210,
+      "date": 1564444800,
+      "platform": 48
+    },
+    {
+      "id": 223211,
+      "date": 1564444800,
+      "platform": 48
+    },
+    {
+      "id": 223212,
+      "date": 1564531200,
+      "platform": 48
+    },
+    {
+      "id": 339751,
+      "date": 1572480000,
+      "platform": 130
+    }
+  ]
+}

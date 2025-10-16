@@ -62,14 +62,38 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Gamebryo"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2008-12-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-12-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-12"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-09-02"
+        }
+      }
     },
     "specific": {
-      "id": 8190,
-      "name": "Defense Grid: The Awakening",
-      "url": "https://www.igdb.com/games/defense-grid-the-awakening",
+      "id": 10184,
+      "name": "Defense Grid 2",
+      "url": "https://www.igdb.com/games/defense-grid-2",
       "publishers": [
-        "Microsoft"
+        "505 Games",
+        "Hidden Path Entertainment"
       ],
       "developers": [
         "Hidden Path Entertainment"
@@ -78,18 +102,41 @@
         "Real Time Strategy (RTS)",
         "Simulator",
         "Strategy",
-        "Tactical",
         "Indie"
       ],
       "themes": [
         "Science fiction"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-09-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-09-23"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-09-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

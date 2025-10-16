@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 136659,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 105775,
+        "company": {
+          "id": 13466,
+          "name": "PHL Collective"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 105776,
+        "company": {
+          "id": 13848,
+          "name": "Outright Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ben 10: Power Trip",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ben-10-power-trip",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 206681,
+      "date": 1602201600,
+      "platform": 130
+    },
+    {
+      "id": 206682,
+      "date": 1602201600,
+      "platform": 49
+    },
+    {
+      "id": 206680,
+      "date": 1602201600,
+      "platform": 48
+    },
+    {
+      "id": 322899,
+      "date": 1634774400,
+      "platform": 170
+    },
+    {
+      "id": 341827,
+      "date": 1599523200,
+      "platform": 130
+    },
+    {
+      "id": 394012,
+      "date": 1664323200,
+      "platform": 167
+    },
+    {
+      "id": 415044,
+      "date": 1602201600,
+      "platform": 6
+    }
+  ]
+}

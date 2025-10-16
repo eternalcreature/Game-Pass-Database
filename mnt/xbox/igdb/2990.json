@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 2990,
+    "game_engines": [
+      {
+        "id": 64,
+        "name": "Adobe Flash Player"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189177,
+        "company": {
+          "id": 1396,
+          "name": "Amanita Design"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Machinarium",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/machinarium",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 168539,
+      "date": 1541030400,
+      "platform": 130
+    },
+    {
+      "id": 107864,
+      "date": 1346889600,
+      "platform": 9
+    },
+    {
+      "id": 363440,
+      "date": 1362096000,
+      "platform": 34
+    },
+    {
+      "id": 107865,
+      "date": 1349740800,
+      "platform": 9
+    },
+    {
+      "id": 148485,
+      "date": 1315440000,
+      "platform": 39
+    },
+    {
+      "id": 393231,
+      "date": 1586995200,
+      "platform": 49
+    },
+    {
+      "id": 457147,
+      "date": 1303948800,
+      "platform": 14
+    },
+    {
+      "id": 393235,
+      "date": 1474416000,
+      "platform": 48
+    },
+    {
+      "id": 393233,
+      "date": 1255651200,
+      "platform": 3
+    },
+    {
+      "id": 223386,
+      "date": 1364256000,
+      "platform": 46
+    }
+  ]
+}

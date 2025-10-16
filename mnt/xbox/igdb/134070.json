@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 134070,
+    "game_engines": [
+      {
+        "id": 1489,
+        "name": "Fusion Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 99454,
+        "company": {
+          "id": 6079,
+          "name": "Hangar 13"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 248843,
+        "company": {
+          "id": 20228,
+          "name": "2K"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mafia: Definitive Edition",
+    "parent_game": 39,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mafia-definitive-edition",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 205309,
+      "date": 1600992000,
+      "platform": 49
+    },
+    {
+      "id": 205310,
+      "date": 1600992000,
+      "platform": 48
+    },
+    {
+      "id": 548114,
+      "date": 1600905600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 303780,
+      "date": 1600905600,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "general": {
+    "id": 1062,
+    "game_engines": [
+      {
+        "id": 752,
+        "name": "The Alan Wake Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 6063,
+        "company": {
+          "id": 756,
+          "name": "E-Frontier"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6060,
+        "company": {
+          "id": 754,
+          "name": "Legacy Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6062,
+        "company": {
+          "id": 755,
+          "name": "Namco Bandai Partners"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6058,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6059,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 73335,
+        "company": {
+          "id": 945,
+          "name": "Nitro Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 73334,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 6061,
+        "company": {
+          "id": 753,
+          "name": "Nordic Games Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Alan Wake",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/alan-wake",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 28332,
+      "date": 1273795200,
+      "platform": 12
+    },
+    {
+      "id": 28334,
+      "date": 1274140800,
+      "platform": 12
+    },
+    {
+      "id": 28335,
+      "date": 1274313600,
+      "platform": 12
+    },
+    {
+      "id": 415123,
+      "date": 1329350400,
+      "platform": 6
+    }
+  ]
+}

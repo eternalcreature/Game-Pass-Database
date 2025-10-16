@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 301506,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269587,
+        "company": {
+          "id": 555,
+          "name": "EA Orlando"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 317499,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Madden NFL 25",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/madden-nfl-25--3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652324,
+      "date": 1723420800,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 652325,
+      "date": 1723766400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 652326,
+      "date": 1723420800,
+      "platform": 48,
+      "status": 34
+    },
+    {
+      "id": 601816,
+      "date": 1723766400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 652332,
+      "date": 1723420800,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 652331,
+      "date": 1723766400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652330,
+      "date": 1723420800,
+      "platform": 49,
+      "status": 34
+    },
+    {
+      "id": 652327,
+      "date": 1723766400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652329,
+      "date": 1723766400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 652328,
+      "date": 1723420800,
+      "platform": 167,
+      "status": 34
+    }
+  ]
+}

@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2022-01-20",
-    "release_date": null,
+    "release_date": "2022-01-20",
     "platforms": [
       "PC"
     ]
@@ -83,7 +83,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Ubisoft Anvil"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-01-20",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-20"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-20"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-01-20"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

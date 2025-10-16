@@ -1,0 +1,139 @@
+{
+  "general": {
+    "id": 5552,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 178293,
+        "company": {
+          "id": 727,
+          "name": "Oddworld Inhabitants"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 178292,
+        "company": {
+          "id": 22594,
+          "name": "Just Add Water"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Oddworld: New 'n' Tasty",
+    "parent_game": 999,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/oddworld-new-n-tasty",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 372074,
+      "date": 1455148800,
+      "platform": 41
+    },
+    {
+      "id": 372075,
+      "date": 1427414400,
+      "platform": 49
+    },
+    {
+      "id": 372078,
+      "date": 1424822400,
+      "platform": 3
+    },
+    {
+      "id": 372080,
+      "date": 1406073600,
+      "platform": 9
+    },
+    {
+      "id": 372076,
+      "date": 1424822400,
+      "platform": 14
+    },
+    {
+      "id": 372081,
+      "date": 1405987200,
+      "platform": 46
+    },
+    {
+      "id": 372082,
+      "date": 1406073600,
+      "platform": 46
+    },
+    {
+      "id": 372083,
+      "date": 1405987200,
+      "platform": 48
+    },
+    {
+      "id": 363460,
+      "date": 1513123200,
+      "platform": 34
+    },
+    {
+      "id": 148436,
+      "date": 1513209600,
+      "platform": 39
+    }
+  ]
+}

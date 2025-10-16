@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 78152,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 109652,
+        "company": {
+          "id": 7260,
+          "name": "Night School Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Afterparty",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/afterparty",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 642119,
+      "date": 1572307200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 642117,
+      "date": 1572307200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 642115,
+      "date": 1572307200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 642116,
+      "date": 1583452800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 642118,
+      "date": 1572307200,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

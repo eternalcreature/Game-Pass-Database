@@ -1,0 +1,129 @@
+{
+  "general": {
+    "id": 9694,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 23117,
+        "company": {
+          "id": 2262,
+          "name": "NIS America"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 34961,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 68752,
+        "company": {
+          "id": 2345,
+          "name": "Abstraction Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Danganronpa 2: Goodbye Despair",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/danganronpa-2-goodbye-despair",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 330058,
+      "date": 1635984000,
+      "platform": 130
+    },
+    {
+      "id": 330060,
+      "date": 1460937600,
+      "platform": 3
+    },
+    {
+      "id": 330061,
+      "date": 1460937600,
+      "platform": 6
+    },
+    {
+      "id": 28764,
+      "date": 1409875200,
+      "platform": 46
+    },
+    {
+      "id": 330062,
+      "date": 1638489600,
+      "platform": 130
+    },
+    {
+      "id": 330059,
+      "date": 1460937600,
+      "platform": 14
+    },
+    {
+      "id": 102330,
+      "date": 1409875200,
+      "platform": 46
+    },
+    {
+      "id": 28761,
+      "date": 1381363200,
+      "platform": 46
+    },
+    {
+      "id": 28760,
+      "date": 1343260800,
+      "platform": 38
+    },
+    {
+      "id": 134534,
+      "date": 1409616000,
+      "platform": 46
+    }
+  ]
+}

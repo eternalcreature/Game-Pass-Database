@@ -1,0 +1,80 @@
+{
+  "general": {
+    "id": 152064,
+    "game_engines": [
+      {
+        "id": 214,
+        "name": "Cobra"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 138924,
+        "company": {
+          "id": 208,
+          "name": "Frontier Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Jurassic World Evolution 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/jurassic-world-evolution-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 306487,
+      "date": 1636416000,
+      "platform": 48
+    },
+    {
+      "id": 306485,
+      "date": 1636416000,
+      "platform": 169
+    },
+    {
+      "id": 306484,
+      "date": 1636416000,
+      "platform": 49
+    },
+    {
+      "id": 306488,
+      "date": 1636416000,
+      "platform": 167
+    },
+    {
+      "id": 306486,
+      "date": 1636416000,
+      "platform": 6
+    }
+  ]
+}

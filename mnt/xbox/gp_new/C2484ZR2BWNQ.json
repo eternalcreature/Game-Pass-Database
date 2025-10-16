@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2015-06-01",
-    "release_date": null,
+    "release_date": "2015-06-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -26,13 +26,23 @@
         "added": "2023-05-25",
         "removed": null
       },
-      "Ultimate": {
-        "added": "2023-05-25",
-        "removed": null
-      },
       "Premium": {
         "added": "2024-08-12",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-05-25",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2017-06-01",
+        "removed": "2019-02-01"
+      },
+      "Ultimate": {
+        "added": "2017-06-01",
+        "removed": "2019-02-01"
       }
     }
   ],
@@ -77,7 +87,28 @@
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-06-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-06-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-06-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

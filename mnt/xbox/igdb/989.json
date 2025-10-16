@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 989,
+    "game_engines": [
+      {
+        "id": 1307,
+        "name": "Halo 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 2381,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 2380,
+        "company": {
+          "id": 620,
+          "name": "Bungie"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Halo 3: ODST",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-3-odst",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 2406,
+      "date": 1253577600,
+      "platform": 12
+    },
+    {
+      "id": 340470,
+      "date": 1432944000,
+      "platform": 49
+    },
+    {
+      "id": 211378,
+      "date": 1600646400,
+      "platform": 6
+    }
+  ]
+}

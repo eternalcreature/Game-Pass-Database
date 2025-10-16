@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 102058,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104563,
+        "company": {
+          "id": 167,
+          "name": "People Can Fly"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 104564,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Outriders",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/outriders",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 224117,
+      "date": 1617235200,
+      "platform": 6
+    },
+    {
+      "id": 224118,
+      "date": 1617235200,
+      "platform": 49
+    },
+    {
+      "id": 224116,
+      "date": 1617235200,
+      "platform": 167
+    },
+    {
+      "id": 224120,
+      "date": 1617235200,
+      "platform": 48
+    },
+    {
+      "id": 224119,
+      "date": 1617235200,
+      "platform": 169
+    },
+    {
+      "id": 228772,
+      "date": 1617235200,
+      "platform": 170
+    }
+  ]
+}

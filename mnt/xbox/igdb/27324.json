@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 27324,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 207009,
+        "company": {
+          "id": 13740,
+          "name": "The Voxel Agents"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Gardens Between",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-gardens-between",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 161785,
+      "date": 1543536000,
+      "platform": 49
+    },
+    {
+      "id": 405829,
+      "date": 1558051200,
+      "platform": 39
+    },
+    {
+      "id": 405830,
+      "date": 1594512000,
+      "platform": 34
+    },
+    {
+      "id": 157353,
+      "date": 1537401600,
+      "platform": 48
+    },
+    {
+      "id": 435163,
+      "date": 1537401600,
+      "platform": 6
+    },
+    {
+      "id": 435161,
+      "date": 1537401600,
+      "platform": 3
+    },
+    {
+      "id": 435162,
+      "date": 1537401600,
+      "platform": 14
+    },
+    {
+      "id": 157350,
+      "date": 1537401600,
+      "platform": 130
+    },
+    {
+      "id": 239672,
+      "date": 1604188800,
+      "platform": 170
+    },
+    {
+      "id": 362458,
+      "date": 1655337600,
+      "platform": 167
+    }
+  ]
+}

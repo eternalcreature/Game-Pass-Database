@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 20955,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 279469,
+        "company": {
+          "id": 17949,
+          "name": "Yeah Us! Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 279470,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Pumped BMX+",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pumped-bmx-plus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 624735,
+      "date": 1442880000,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 624736,
+      "date": 1443657600,
+      "platform": 41,
+      "status": 6
+    },
+    {
+      "id": 624737,
+      "date": 1442534400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 624732,
+      "date": 1442534400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 624733,
+      "date": 1442880000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 624734,
+      "date": 1442880000,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

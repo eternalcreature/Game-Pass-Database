@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 6732,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 128885,
+        "company": {
+          "id": 7320,
+          "name": "Super Awesome Hyper Dimensional Mega Team"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128887,
+        "company": {
+          "id": 4440,
+          "name": "Adult Swim Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Rise & Shine",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rise-and-shine",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 64312,
+      "date": 1484265600,
+      "platform": 6
+    },
+    {
+      "id": 64311,
+      "date": 1484265600,
+      "platform": 49
+    },
+    {
+      "id": 159122,
+      "date": 1495152000,
+      "platform": 3
+    },
+    {
+      "id": 159123,
+      "date": 1492473600,
+      "platform": 48
+    },
+    {
+      "id": 250275,
+      "date": 1538006400,
+      "platform": 130
+    }
+  ]
+}

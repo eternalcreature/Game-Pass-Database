@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 29004,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 71026,
+        "company": {
+          "id": 12931,
+          "name": "Deck Nine"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 50746,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Life is Strange: Before the Storm",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/life-is-strange-before-the-storm",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136121,
+      "date": 1504137600,
+      "platform": 49
+    },
+    {
+      "id": 160293,
+      "date": 1537315200,
+      "platform": 39
+    },
+    {
+      "id": 160292,
+      "date": 1537315200,
+      "platform": 34
+    },
+    {
+      "id": 403060,
+      "date": 1504137600,
+      "platform": 3
+    },
+    {
+      "id": 110765,
+      "date": 1504137600,
+      "platform": 49
+    },
+    {
+      "id": 110766,
+      "date": 1504137600,
+      "platform": 48
+    },
+    {
+      "id": 403058,
+      "date": 1504137600,
+      "platform": 6
+    },
+    {
+      "id": 115805,
+      "date": 1504137600,
+      "platform": 48
+    },
+    {
+      "id": 403059,
+      "date": 1504137600,
+      "platform": 14
+    }
+  ]
+}

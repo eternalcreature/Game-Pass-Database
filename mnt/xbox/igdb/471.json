@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 471,
+    "game_engines": [
+      {
+        "id": 25,
+        "name": "CryEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 241,
+        "company": {
+          "id": 122,
+          "name": "Crytek Frankfurt"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 242,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 252174,
+        "company": {
+          "id": 158,
+          "name": "Crytek UK"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Crysis 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crysis-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 102306,
+      "date": 1301011200,
+      "platform": 9
+    },
+    {
+      "id": 102305,
+      "date": 1300752000,
+      "platform": 9
+    },
+    {
+      "id": 51984,
+      "date": 1300752000,
+      "platform": 12
+    },
+    {
+      "id": 51986,
+      "date": 1301011200,
+      "platform": 6
+    },
+    {
+      "id": 102307,
+      "date": 1301616000,
+      "platform": 9
+    },
+    {
+      "id": 51987,
+      "date": 1301011200,
+      "platform": 12
+    },
+    {
+      "id": 51983,
+      "date": 1300752000,
+      "platform": 6
+    }
+  ]
+}

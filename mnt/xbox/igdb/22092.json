@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 22092,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 38179,
+        "company": {
+          "id": 2952,
+          "name": "Kylotonn Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 38180,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 38456,
+        "company": {
+          "id": 1803,
+          "name": "Bigben Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "WRC 5 FIA World Rally Championship",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wrc-5-fia-world-rally-championship",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 54683,
+      "date": 1444262400,
+      "platform": 6
+    },
+    {
+      "id": 120514,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 54688,
+      "date": 1444694400,
+      "platform": 49
+    },
+    {
+      "id": 54684,
+      "date": 1444694400,
+      "platform": 9
+    },
+    {
+      "id": 106950,
+      "date": 1444694400,
+      "platform": 46
+    },
+    {
+      "id": 106951,
+      "date": 1444953600,
+      "platform": 46
+    },
+    {
+      "id": 54685,
+      "date": 1444694400,
+      "platform": 48
+    },
+    {
+      "id": 54687,
+      "date": 1444694400,
+      "platform": 12
+    },
+    {
+      "id": 54686,
+      "date": 1444694400,
+      "platform": 46
+    }
+  ]
+}

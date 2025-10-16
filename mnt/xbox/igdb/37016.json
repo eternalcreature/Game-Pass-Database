@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 37016,
+    "game_engines": [
+      {
+        "id": 18,
+        "name": "4A Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 170145,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 170144,
+        "company": {
+          "id": 314,
+          "name": "4A Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Metro Exodus",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metro-exodus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 486180,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 642236,
+      "date": 1618358400,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 641882,
+      "date": 1618358400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 191005,
+      "date": 1550188800,
+      "platform": 6
+    },
+    {
+      "id": 191004,
+      "date": 1550188800,
+      "platform": 48
+    },
+    {
+      "id": 297637,
+      "date": 1623974400,
+      "platform": 169
+    },
+    {
+      "id": 297638,
+      "date": 1623974400,
+      "platform": 167
+    },
+    {
+      "id": 191003,
+      "date": 1550188800,
+      "platform": 49
+    }
+  ]
+}

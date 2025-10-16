@@ -1,0 +1,150 @@
+{
+  "general": {
+    "id": 20048,
+    "game_engines": [
+      {
+        "id": 225,
+        "name": "Phoenix Engine (Relic)"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 49564,
+        "company": {
+          "id": 825,
+          "name": "Vigil Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 132928,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 289385,
+        "company": {
+          "id": 10809,
+          "name": "Gunfire Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Darksiders II: Deathinitive Edition",
+    "parent_game": 1269,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/darksiders-ii-deathinitive-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 322882,
+      "date": 1630454400,
+      "platform": 170
+    },
+    {
+      "id": 173799,
+      "date": 1569456000,
+      "platform": 130
+    },
+    {
+      "id": 102373,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 54163,
+      "date": 1446681600,
+      "platform": 6
+    },
+    {
+      "id": 102372,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 54162,
+      "date": 1445904000,
+      "platform": 49
+    },
+    {
+      "id": 643048,
+      "date": 1728950400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 643047,
+      "date": 1728950400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 54161,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 135946,
+      "date": 1446163200,
+      "platform": 49
+    }
+  ]
+}

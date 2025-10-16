@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2009-12-01",
-    "release_date": null,
+    "release_date": "2009-12-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -61,34 +61,64 @@
         "Multiplayer",
         "Split screen"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2009-12-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-12-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-12-01"
+        }
+      }
     },
     "specific": {
-      "id": 7091,
+      "id": 248571,
       "name": "MX vs. ATV: Reflex",
-      "url": "https://www.igdb.com/games/mx-vs-atv-reflex",
+      "url": "https://www.igdb.com/games/mx-vs-atv-reflex--2",
       "publishers": [
         "THQ"
       ],
       "developers": [
-        "THQ",
         "Tantalus Media"
       ],
-      "genres": [
-        "Racing",
-        "Simulator",
-        "Sport"
-      ],
-      "themes": [
-        "Action",
-        "Non-fiction"
-      ],
-      "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Split screen"
-      ],
-      "player_perspectives": []
+      "genres": [],
+      "themes": [],
+      "game_modes": [],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2009-12-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

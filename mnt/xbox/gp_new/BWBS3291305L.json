@@ -12,8 +12,8 @@
         "BWBS3291305L"
       ]
     ],
-    "original_release_date": "2010-11-16",
-    "release_date": null,
+    "original_release_date": "2010-11-17",
+    "release_date": "2013-09-25",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -59,7 +59,28 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2010-11-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2010-11-17"
+        }
+      }
     }
   },
   "steam_store_meta": {}

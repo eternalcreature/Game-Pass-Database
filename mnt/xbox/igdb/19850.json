@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 19850,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 134211,
+        "company": {
+          "id": 832,
+          "name": "Rising Star Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267135,
+        "company": {
+          "id": 11337,
+          "name": "Triple Eh?"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Lumo",
+    "url": "https://www.igdb.com/games/lumo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 595694,
+      "date": 1498089600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 595693,
+      "date": 1467676800,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 595688,
+      "date": 1464048000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 595689,
+      "date": 1464048000,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 595692,
+      "date": 1463961600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 595690,
+      "date": 1510790400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 595691,
+      "date": 1464048000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

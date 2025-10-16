@@ -66,32 +66,63 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2017-09-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-09-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 36847,
-      "name": "NHL 18",
-      "url": "https://www.igdb.com/games/nhl-18",
-      "publishers": [
-        "EA Sports"
-      ],
-      "developers": [
-        "EA Canada"
-      ],
-      "genres": [
-        "Sport"
-      ],
-      "themes": [
-        "Non-fiction"
-      ],
+      "id": 83749,
+      "name": "EA Sports FIFA 18 & NHL 18 Bundle",
+      "url": "https://www.igdb.com/games/ea-sports-fifa-18-and-nhl-18-bundle",
+      "publishers": [],
+      "developers": [],
+      "genres": [],
+      "themes": [],
       "game_modes": [
-        "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2017-11-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-11-07"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

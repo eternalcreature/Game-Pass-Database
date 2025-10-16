@@ -12,8 +12,8 @@
         "9MZCCHNRK9R1"
       ]
     ],
-    "original_release_date": "2020-10-15",
-    "release_date": null,
+    "original_release_date": "2020-10-14",
+    "release_date": "2021-10-14",
     "platforms": [
       "PC",
       "XboxOne",
@@ -86,7 +86,28 @@
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-10-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-10-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-10-14"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

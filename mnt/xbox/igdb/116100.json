@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 116100,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 101372,
+        "company": {
+          "id": 18471,
+          "name": "Veewo Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 101374,
+        "company": {
+          "id": 26201,
+          "name": "Yooreka Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 129795,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Neon Abyss",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/neon-abyss",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 199201,
+      "date": 1594684800,
+      "platform": 49
+    },
+    {
+      "id": 199200,
+      "date": 1594684800,
+      "platform": 130
+    },
+    {
+      "id": 340119,
+      "date": 1594598400,
+      "platform": 130
+    },
+    {
+      "id": 199199,
+      "date": 1594684800,
+      "platform": 48
+    },
+    {
+      "id": 199198,
+      "date": 1594684800,
+      "platform": 6
+    }
+  ]
+}

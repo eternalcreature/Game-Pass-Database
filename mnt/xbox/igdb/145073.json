@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 145073,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 122555,
+        "company": {
+          "id": 32802,
+          "name": "Bunnyhug"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 122556,
+        "company": {
+          "id": 25294,
+          "name": "Coatsink"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Moonglow Bay",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/moonglow-bay",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 576303,
+      "date": 1712793600,
+      "platform": 130
+    },
+    {
+      "id": 314665,
+      "date": 1635206400,
+      "platform": 169
+    },
+    {
+      "id": 314664,
+      "date": 1635206400,
+      "platform": 6
+    },
+    {
+      "id": 583379,
+      "date": 1711843200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 583380,
+      "date": 1711843200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 314666,
+      "date": 1635206400,
+      "platform": 49
+    }
+  ]
+}

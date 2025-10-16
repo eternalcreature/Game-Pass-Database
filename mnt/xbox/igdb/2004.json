@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 2004,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96333,
+        "company": {
+          "id": 108,
+          "name": "Techland"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 96334,
+        "company": {
+          "id": 393,
+          "name": "inXile Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Torment: Tides of Numenera",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/torment-tides-of-numenera",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 768549,
+      "date": 1488153600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 768551,
+      "date": 1488153600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 768556,
+      "date": 1488240000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 768553,
+      "date": 1453766400,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 768550,
+      "date": 1488153600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 768552,
+      "date": 1488240000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 768554,
+      "date": 1488240000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 768555,
+      "date": 1488240000,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

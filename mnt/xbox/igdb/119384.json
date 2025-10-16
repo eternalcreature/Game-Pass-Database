@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 119384,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 80483,
+        "company": {
+          "id": 3078,
+          "name": "En Masse Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 131855,
+        "company": {
+          "id": 8798,
+          "name": "BonusXP"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Dark Crystal: Age of Resistance Tactics",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-dark-crystal-age-of-resistance-tactics",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 181032,
+      "date": 1580774400,
+      "platform": 14
+    },
+    {
+      "id": 181033,
+      "date": 1580774400,
+      "platform": 6
+    },
+    {
+      "id": 181034,
+      "date": 1580774400,
+      "platform": 49
+    },
+    {
+      "id": 181035,
+      "date": 1580774400,
+      "platform": 48
+    },
+    {
+      "id": 181031,
+      "date": 1580774400,
+      "platform": 130
+    },
+    {
+      "id": 339071,
+      "date": 1580688000,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 2136,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 18341,
+        "company": {
+          "id": 2675,
+          "name": "Nex Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 295566,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 295567,
+        "company": {
+          "id": 852,
+          "name": "PlatinumGames"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Bayonetta",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bayonetta",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 101837,
+      "date": 1262908800,
+      "platform": 9
+    },
+    {
+      "id": 22827,
+      "date": 1262649600,
+      "platform": 12
+    },
+    {
+      "id": 22829,
+      "date": 1256774400,
+      "platform": 12
+    },
+    {
+      "id": 22830,
+      "date": 1262822400,
+      "platform": 12
+    },
+    {
+      "id": 22825,
+      "date": 1262908800,
+      "platform": 12
+    },
+    {
+      "id": 22831,
+      "date": 1262822400,
+      "platform": 9
+    },
+    {
+      "id": 695626,
+      "date": 1491868800,
+      "platform": 6
+    },
+    {
+      "id": 101838,
+      "date": 1262649600,
+      "platform": 9
+    },
+    {
+      "id": 101839,
+      "date": 1256774400,
+      "platform": 9
+    }
+  ]
+}

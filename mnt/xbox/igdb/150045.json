@@ -1,0 +1,145 @@
+{
+  "general": {
+    "id": 150045,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 136553,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 184602,
+        "company": {
+          "id": 321,
+          "name": "Tose"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Resident Evil: Revelations",
+    "parent_game": 978,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-revelations--1",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 608484,
+      "date": 1369353600,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 608479,
+      "date": 1503964800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 608477,
+      "date": 1369267200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 608476,
+      "date": 1369353600,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 608480,
+      "date": 1504137600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 608474,
+      "date": 1369008000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 608488,
+      "date": 1503964800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 608485,
+      "date": 1369267200,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 608475,
+      "date": 1369094400,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 608482,
+      "date": 1369353600,
+      "platform": 41,
+      "status": 6
+    }
+  ]
+}

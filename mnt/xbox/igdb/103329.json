@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 103329,
+    "game_engines": [
+      {
+        "id": 35,
+        "name": "Northlight Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104672,
+        "company": {
+          "id": 445,
+          "name": "505 Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 104673,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Control",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      }
+    ],
+    "url": "https://www.igdb.com/games/control",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 305057,
+      "date": 1627344000,
+      "platform": 170
+    },
+    {
+      "id": 328084,
+      "date": 1612224000,
+      "platform": 167
+    },
+    {
+      "id": 166814,
+      "date": 1566864000,
+      "platform": 48
+    },
+    {
+      "id": 166816,
+      "date": 1566864000,
+      "platform": 6
+    },
+    {
+      "id": 586645,
+      "date": 1612224000,
+      "platform": 169
+    },
+    {
+      "id": 587555,
+      "date": 1612137600,
+      "platform": 169
+    },
+    {
+      "id": 166815,
+      "date": 1566864000,
+      "platform": 49
+    }
+  ]
+}

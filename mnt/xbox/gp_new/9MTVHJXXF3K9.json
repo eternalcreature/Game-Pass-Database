@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2016-02-23",
-    "release_date": null,
+    "release_date": "2016-02-23",
     "platforms": [
       "PC"
     ]
@@ -77,24 +77,41 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-02-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-23"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 11148,
-      "name": "Plants vs. Zombies: Garden Warfare 2",
-      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "developers": [
-        "PopCap Games"
-      ],
+      "id": 81997,
+      "name": "Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition",
+      "url": "https://www.igdb.com/games/plants-vs-zombies-garden-warfare-2-deluxe-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
-        "Shooter"
+        "Shooter",
+        "Strategy"
       ],
       "themes": [
-        "Action",
-        "Comedy"
+        "Action"
       ],
       "game_modes": [
         "Single player",
@@ -103,7 +120,28 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2016-02-22",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-05-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-02-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

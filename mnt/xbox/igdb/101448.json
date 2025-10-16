@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 101448,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290037,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 130429,
+        "company": {
+          "id": 15532,
+          "name": "Sunhead Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 130430,
+        "company": {
+          "id": 26341,
+          "name": "Humble Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 123212,
+        "company": {
+          "id": 11608,
+          "name": "X.D. Network Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Carto",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/carto",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 208317,
+      "date": 1603756800,
+      "platform": 14
+    },
+    {
+      "id": 208319,
+      "date": 1603756800,
+      "platform": 49
+    },
+    {
+      "id": 208316,
+      "date": 1603756800,
+      "platform": 6
+    },
+    {
+      "id": 208318,
+      "date": 1603756800,
+      "platform": 130
+    },
+    {
+      "id": 208320,
+      "date": 1603756800,
+      "platform": 48
+    }
+  ]
+}

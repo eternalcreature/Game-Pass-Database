@@ -1,0 +1,94 @@
+{
+  "general": {
+    "id": 5452,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 13208,
+        "company": {
+          "id": 395,
+          "name": "Sonic Team"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 267400,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sonic CD",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sonic-cd",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 596576,
+      "date": 839548800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 596578,
+      "date": 750902400,
+      "platform": 78,
+      "status": 6
+    },
+    {
+      "id": 596579,
+      "date": 748742400,
+      "platform": 78,
+      "status": 6
+    },
+    {
+      "id": 596574,
+      "date": 843696000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 596575,
+      "date": 844300800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 596577,
+      "date": 754012800,
+      "platform": 78,
+      "status": 6
+    }
+  ]
+}

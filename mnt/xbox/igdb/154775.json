@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 154775,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269871,
+        "company": {
+          "id": 24760,
+          "name": "Nacon"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269872,
+        "company": {
+          "id": 709,
+          "name": "Teyon"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "RoboCop: Rogue City",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/robocop-rogue-city",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 508295,
+      "date": 1698883200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 508297,
+      "date": 1698883200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 508296,
+      "date": 1698883200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 723265,
+      "date": 1745971200,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

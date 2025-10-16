@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 194404,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165766,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 165767,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Quarry",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-quarry",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 348804,
+      "date": 1654819200,
+      "platform": 48
+    },
+    {
+      "id": 348806,
+      "date": 1654819200,
+      "platform": 49
+    },
+    {
+      "id": 348805,
+      "date": 1654819200,
+      "platform": 169
+    },
+    {
+      "id": 348802,
+      "date": 1654819200,
+      "platform": 6
+    },
+    {
+      "id": 348803,
+      "date": 1654819200,
+      "platform": 167
+    }
+  ]
+}

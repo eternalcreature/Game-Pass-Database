@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 255936,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 222257,
+        "company": {
+          "id": 783,
+          "name": "Kalypso Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 223072,
+        "company": {
+          "id": 48499,
+          "name": "Claymore Game Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Commandos: Origins",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/commandos-origins",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 700739,
+      "date": 1744156800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 700738,
+      "date": 1744156800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 700740,
+      "date": 1744156800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 700741,
+      "date": 1744156800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 700742,
+      "date": 1744156800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

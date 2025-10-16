@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 6655,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 290013,
+        "company": {
+          "id": 9786,
+          "name": "22nd Century Toys"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 96782,
+        "company": {
+          "id": 5960,
+          "name": "Le Cartel Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 96783,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mother Russia Bleeds",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mother-russia-bleeds",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 405799,
+      "date": 1473033600,
+      "platform": 6
+    },
+    {
+      "id": 405800,
+      "date": 1473033600,
+      "platform": 14
+    },
+    {
+      "id": 405801,
+      "date": 1473033600,
+      "platform": 3
+    },
+    {
+      "id": 161211,
+      "date": 1542240000,
+      "platform": 130
+    },
+    {
+      "id": 161210,
+      "date": 1480723200,
+      "platform": 48
+    }
+  ]
+}

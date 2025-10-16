@@ -1,0 +1,60 @@
+{
+  "general": {
+    "id": 68365,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 66695,
+        "company": {
+          "id": 13656,
+          "name": "D.W.S."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Until None Remain VR",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/until-none-remain-vr",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 504665,
+      "platform": 385
+    },
+    {
+      "id": 421909,
+      "date": 1504224000,
+      "platform": 6
+    },
+    {
+      "id": 513684,
+      "platform": 163
+    }
+  ]
+}

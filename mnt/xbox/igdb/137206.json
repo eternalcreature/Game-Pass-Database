@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 137206,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 318303,
+        "company": {
+          "id": 28635,
+          "name": "Slavic Magic"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 318304,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Manor Lords",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/manor-lords",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 758339,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 758340,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 530828,
+      "date": 1714089600,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

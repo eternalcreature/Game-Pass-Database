@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 1723,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 271715,
+        "company": {
+          "id": 2344,
+          "name": "Inti Creates"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 271716,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mega Man 10",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mega-man-10",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 606615,
+      "date": 1267747200,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 549610,
+      "date": 1526947200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 549609,
+      "date": 1502150400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 606617,
+      "date": 1268092800,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 606618,
+      "date": 1269993600,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 549607,
+      "date": 1502150400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 606619,
+      "date": 1269993600,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 549608,
+      "date": 1502150400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 606616,
+      "date": 1267401600,
+      "platform": 5,
+      "status": 6
+    },
+    {
+      "id": 606612,
+      "date": 1268092800,
+      "platform": 9,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 8750,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129842,
+        "company": {
+          "id": 4679,
+          "name": "Metanet Software"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "N++",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/n-plus-plus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 406788,
+      "date": 1472083200,
+      "platform": 14
+    },
+    {
+      "id": 406787,
+      "date": 1472083200,
+      "platform": 6
+    },
+    {
+      "id": 406789,
+      "date": 1472083200,
+      "platform": 3
+    },
+    {
+      "id": 396256,
+      "date": 1507075200,
+      "platform": 49
+    },
+    {
+      "id": 533130,
+      "date": 1527120000,
+      "platform": 130
+    },
+    {
+      "id": 37166,
+      "date": 1438041600,
+      "platform": 48
+    }
+  ]
+}

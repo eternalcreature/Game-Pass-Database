@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 16368,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 334374,
+        "company": {
+          "id": 8066,
+          "name": "Talawa Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 334375,
+        "company": {
+          "id": 5359,
+          "name": "Teotl Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Unmechanical",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/unmechanical",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 51357,
+      "date": 1448841600,
+      "platform": 3
+    },
+    {
+      "id": 51358,
+      "date": 1410739200,
+      "platform": 34
+    },
+    {
+      "id": 51354,
+      "date": 1423612800,
+      "platform": 9
+    },
+    {
+      "id": 51356,
+      "date": 1448841600,
+      "platform": 14
+    },
+    {
+      "id": 51349,
+      "date": 1344470400,
+      "platform": 6
+    },
+    {
+      "id": 51351,
+      "date": 1422576000,
+      "platform": 12
+    },
+    {
+      "id": 51350,
+      "date": 1363564800,
+      "platform": 39
+    },
+    {
+      "id": 51352,
+      "date": 1423526400,
+      "platform": 9
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "general": {
+    "id": 35282,
+    "game_engines": [
+      {
+        "id": 59,
+        "name": "Impact Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97130,
+        "company": {
+          "id": 11975,
+          "name": "WhisperGames"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 97128,
+        "company": {
+          "id": 2172,
+          "name": "Deck13 Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 118696,
+        "company": {
+          "id": 7764,
+          "name": "Mayflower Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 118966,
+        "company": {
+          "id": 14002,
+          "name": "DANGEN Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 133673,
+        "company": {
+          "id": 12815,
+          "name": "Radical Fish Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "CrossCode",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crosscode",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 794890,
+      "date": 1537401600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 794889,
+      "date": 1537401600,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 794891,
+      "date": 1537401600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 794892,
+      "date": 1431734400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 199155,
+      "date": 1594252800,
+      "platform": 49
+    },
+    {
+      "id": 339666,
+      "date": 1602028800,
+      "platform": 130
+    },
+    {
+      "id": 199153,
+      "date": 1594252800,
+      "platform": 48
+    },
+    {
+      "id": 199154,
+      "date": 1594252800,
+      "platform": 130
+    },
+    {
+      "id": 297022,
+      "date": 1624838400,
+      "platform": 167
+    },
+    {
+      "id": 297024,
+      "date": 1624924800,
+      "platform": 167
+    }
+  ]
+}

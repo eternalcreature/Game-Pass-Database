@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 125174,
+    "game_engines": [
+      {
+        "id": 149,
+        "name": "Proprietary Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 175219,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Overwatch 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/overwatch-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 509028,
+      "date": 1691625600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 509035,
+      "date": 1664841600,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 509034,
+      "date": 1691625600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 509036,
+      "date": 1691625600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 509027,
+      "date": 1664841600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 509030,
+      "date": 1691625600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 509029,
+      "date": 1664841600,
+      "platform": 48,
+      "status": 3
+    },
+    {
+      "id": 667808,
+      "date": 1664841600,
+      "platform": 130,
+      "status": 3
+    },
+    {
+      "id": 509031,
+      "date": 1664841600,
+      "platform": 167,
+      "status": 3
+    },
+    {
+      "id": 509033,
+      "date": 1664841600,
+      "platform": 49,
+      "status": 3
+    }
+  ]
+}

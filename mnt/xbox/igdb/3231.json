@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 3231,
+    "game_engines": [
+      {
+        "id": 174,
+        "name": "PhyreEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 37349,
+        "company": {
+          "id": 1398,
+          "name": "Capybara Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 37350,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Below",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/below",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 161822,
+      "date": 1544745600,
+      "platform": 6
+    },
+    {
+      "id": 194149,
+      "date": 1586217600,
+      "platform": 48
+    },
+    {
+      "id": 502485,
+      "date": 1544745600,
+      "platform": 49
+    }
+  ]
+}

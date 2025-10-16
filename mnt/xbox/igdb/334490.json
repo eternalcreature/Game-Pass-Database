@@ -1,0 +1,144 @@
+{
+  "general": {
+    "id": 334490,
+    "game_engines": [
+      {
+        "id": 490,
+        "name": "Bedrock Engine"
+      },
+      {
+        "id": 217,
+        "name": "Lightweight Java Game Library"
+      },
+      {
+        "id": 380,
+        "name": "C++"
+      },
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 313308,
+        "company": {
+          "id": 58,
+          "name": "Mojang Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 313309,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Minecraft Triple Bundle",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/minecraft-triple-bundle",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 712971,
+      "date": 1741046400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 720030,
+      "date": 1741046400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 720031,
+      "date": 1741046400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 720032,
+      "date": 1741046400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 720033,
+      "date": 1741046400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 720034,
+      "date": 1741046400,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

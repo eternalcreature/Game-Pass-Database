@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 302704,
+    "game_engines": [
+      {
+        "id": 1785,
+        "name": "id Tech 8"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269683,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 269684,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Doom: The Dark Ages",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/doom-the-dark-ages",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 694057,
+      "date": 1747267200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 694059,
+      "date": 1747267200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 694060,
+      "date": 1747094400,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 694058,
+      "date": 1747267200,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

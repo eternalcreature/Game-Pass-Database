@@ -1,0 +1,39 @@
+{
+  "general": {
+    "id": 298938,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 263716,
+        "company": {
+          "id": 44873,
+          "name": "pacnsacdave"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Metroid: Dark Alliance",
+    "parent_game": 2367,
+    "url": "https://www.igdb.com/games/metroid-dark-alliance",
+    "game_type": 5
+  },
+  "release_dates": [
+    {
+      "id": 587052,
+      "date": 1517097600,
+      "platform": 18
+    }
+  ]
+}

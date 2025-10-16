@@ -1,0 +1,123 @@
+{
+  "general": {
+    "id": 104971,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 334191,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 334192,
+        "company": {
+          "id": 21381,
+          "name": "Numskull Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "AI: The Somnium Files",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ai-the-somnium-files",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 445980,
+      "date": 1568678400,
+      "platform": 130
+    },
+    {
+      "id": 169786,
+      "date": 1568851200,
+      "platform": 48
+    },
+    {
+      "id": 339025,
+      "date": 1568851200,
+      "platform": 130
+    },
+    {
+      "id": 315198,
+      "date": 1632960000,
+      "platform": 49
+    },
+    {
+      "id": 169783,
+      "date": 1568678400,
+      "platform": 48
+    },
+    {
+      "id": 410082,
+      "date": 1568678400,
+      "platform": 6
+    },
+    {
+      "id": 169785,
+      "date": 1568678400,
+      "platform": 130
+    },
+    {
+      "id": 169788,
+      "date": 1568937600,
+      "platform": 48
+    },
+    {
+      "id": 169787,
+      "date": 1568851200,
+      "platform": 130
+    }
+  ]
+}

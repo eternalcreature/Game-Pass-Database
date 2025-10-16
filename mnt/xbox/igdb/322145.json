@@ -1,0 +1,66 @@
+{
+  "general": {
+    "id": 322145,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 295460,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Warcraft III: Reforged - Version 2.0",
+    "parent_game": 111650,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/warcraft-iii-reforged-version-2-dot-0",
+    "game_type": 14
+  },
+  "release_dates": [
+    {
+      "id": 665240,
+      "date": 1731456000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 665241,
+      "date": 1731456000,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

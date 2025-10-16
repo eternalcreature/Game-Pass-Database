@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 119239,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189599,
+        "company": {
+          "id": 6987,
+          "name": "HandyGames"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 311077,
+        "company": {
+          "id": 20455,
+          "name": "Purple Lamp Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 311078,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "parent_game": 2765,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 620335,
+      "date": 1611187200,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 620336,
+      "date": 1607385600,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 620341,
+      "date": 1592870400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 620337,
+      "date": 1611187200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 620338,
+      "date": 1592870400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 620339,
+      "date": 1592870400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 620340,
+      "date": 1592870400,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

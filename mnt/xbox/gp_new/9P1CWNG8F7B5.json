@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2013-11-15",
-    "release_date": null,
+    "release_date": "2013-11-15",
     "platforms": [
       "PC"
     ]
@@ -81,35 +81,79 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-11-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-19"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-21"
+        }
+      }
     },
     "specific": {
-      "id": 2074,
-      "name": "Need for Speed: Rivals",
-      "url": "https://www.igdb.com/games/need-for-speed-rivals",
+      "id": 118896,
+      "name": "Need for Speed Rivals: Complete Edition",
+      "url": "https://www.igdb.com/games/need-for-speed-rivals-complete-edition",
       "publishers": [
-        "Electronic Arts"
+        "Electronic Arts, Inc."
       ],
       "developers": [
-        "Criterion Games",
         "Ghost Games"
       ],
       "genres": [
-        "Racing",
-        "Adventure"
+        "Racing"
       ],
       "themes": [
-        "Action",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player",
-        "Multiplayer"
+        "Multiplayer",
+        "Co-operative"
       ],
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-10-21",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-10-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-10-21"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-10-21"
+        }
+      }
     }
   },
   "steam_store_meta": {}

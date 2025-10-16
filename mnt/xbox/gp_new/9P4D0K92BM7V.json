@@ -26,7 +26,7 @@
       ]
     ],
     "original_release_date": "2019-08-27",
-    "release_date": null,
+    "release_date": "2021-02-02",
     "platforms": [
       "XboxSeriesX",
       "XCloud"
@@ -100,12 +100,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Northlight Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-08-27",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-08-27"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-08-27"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-02-01"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 103329,
-      "name": "Control",
-      "url": "https://www.igdb.com/games/control",
+      "id": 136604,
+      "name": "Control: Ultimate Edition",
+      "url": "https://www.igdb.com/games/control-ultimate-edition",
       "publishers": [
         "505 Games"
       ],
@@ -118,17 +141,35 @@
       ],
       "themes": [
         "Action",
-        "Fantasy",
-        "Science fiction",
-        "Horror",
-        "Thriller"
+        "Science fiction"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2020-08-27",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-08-27"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-10"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-02-02"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 121709,
+    "game_engines": [
+      {
+        "id": 603,
+        "name": "Unity3D"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104546,
+        "company": {
+          "id": 26544,
+          "name": "Tomas Sala"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 104547,
+        "company": {
+          "id": 13699,
+          "name": "Wired Productions"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Falconeer",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-falconeer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 407306,
+      "date": 1604966400,
+      "platform": 3
+    },
+    {
+      "id": 212702,
+      "date": 1604966400,
+      "platform": 49
+    },
+    {
+      "id": 212703,
+      "date": 1604966400,
+      "platform": 169
+    },
+    {
+      "id": 732948,
+      "date": 1604966400,
+      "platform": 163
+    },
+    {
+      "id": 212704,
+      "date": 1604966400,
+      "platform": 6
+    }
+  ]
+}

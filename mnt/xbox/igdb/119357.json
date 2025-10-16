@@ -1,0 +1,184 @@
+{
+  "general": {
+    "id": 119357,
+    "game_engines": [
+      {
+        "id": 754,
+        "name": "Ubisoft Anvil"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 155290,
+        "company": {
+          "id": 15790,
+          "name": "Ubisoft Québec"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 155291,
+        "company": {
+          "id": 697,
+          "name": "Ubisoft Bucharest"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155292,
+        "company": {
+          "id": 822,
+          "name": "Ubisoft Singapore"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155293,
+        "company": {
+          "id": 3928,
+          "name": "Ubisoft Chengdu"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155294,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155296,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155297,
+        "company": {
+          "id": 3655,
+          "name": "Ubisoft Pune"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155298,
+        "company": {
+          "id": 702,
+          "name": "Ubisoft Montpellier"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 155295,
+        "company": {
+          "id": 38920,
+          "name": "Ubisoft Odesa"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 302993,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Immortals Fenyx Rising",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/immortals-fenyx-rising",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 209942,
+      "date": 1606953600,
+      "platform": 169
+    },
+    {
+      "id": 209943,
+      "date": 1606953600,
+      "platform": 49
+    },
+    {
+      "id": 210480,
+      "date": 1606953600,
+      "platform": 170
+    },
+    {
+      "id": 209940,
+      "date": 1606953600,
+      "platform": 48
+    },
+    {
+      "id": 209944,
+      "date": 1606953600,
+      "platform": 167
+    },
+    {
+      "id": 209947,
+      "date": 1606953600,
+      "platform": 6
+    },
+    {
+      "id": 248564,
+      "date": 1606953600,
+      "platform": 130
+    },
+    {
+      "id": 339567,
+      "date": 1606867200,
+      "platform": 130
+    }
+  ]
+}

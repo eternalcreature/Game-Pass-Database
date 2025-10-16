@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 8730,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 21538,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 21537,
+        "company": {
+          "id": 208,
+          "name": "Frontier Developments"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "ScreamRide",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/screamride",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 121158,
+      "date": 1425340800,
+      "platform": 12
+    },
+    {
+      "id": 26109,
+      "date": 1425340800,
+      "platform": 12
+    },
+    {
+      "id": 26111,
+      "date": 1425340800,
+      "platform": 49
+    },
+    {
+      "id": 26112,
+      "date": 1425600000,
+      "platform": 49
+    }
+  ]
+}

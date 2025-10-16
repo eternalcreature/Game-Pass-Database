@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 153050,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 139653,
+        "company": {
+          "id": 19214,
+          "name": "Magic Cube"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Merge & Blade",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/merge-and-blade",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 292224,
+      "date": 1624924800,
+      "platform": 6
+    },
+    {
+      "id": 456732,
+      "date": 1677542400,
+      "platform": 49
+    },
+    {
+      "id": 292225,
+      "platform": 130
+    }
+  ]
+}

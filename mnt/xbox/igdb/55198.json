@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 55198,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54597,
+        "company": {
+          "id": 2502,
+          "name": "Cardboard Computer"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 54598,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kentucky Route Zero: TV Edition",
+    "parent_game": 5614,
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kentucky-route-zero-tv-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 505273,
+      "date": 1692230400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 505271,
+      "date": 1580169600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 505274,
+      "date": 1580169600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 505272,
+      "date": 1580169600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 505275,
+      "date": 1580169600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

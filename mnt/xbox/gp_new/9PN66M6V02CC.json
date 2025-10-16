@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2023-03-28",
-    "release_date": null,
+    "release_date": "2023-03-28",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -72,7 +72,28 @@
         "Co-operative",
         "Split screen"
       ],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-03-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-03-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-03-28"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

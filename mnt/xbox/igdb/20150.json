@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 20150,
+    "game_engines": [
+      {
+        "id": 84,
+        "name": "Custom built engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 129661,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 129659,
+        "company": {
+          "id": 10318,
+          "name": "Askiisoft"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 276145,
+        "company": {
+          "id": 27224,
+          "name": "Netflix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 276146,
+        "company": {
+          "id": 10318,
+          "name": "Askiisoft"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Katana Zero",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/katana-zero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 617248,
+      "date": 1715817600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 622256,
+      "date": 1716249600,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 622252,
+      "date": 1555545600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 622253,
+      "date": 1555545600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 622254,
+      "date": 1555545600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 622255,
+      "date": 1602633600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

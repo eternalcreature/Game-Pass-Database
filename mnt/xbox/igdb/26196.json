@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 26196,
+    "game_engines": [
+      {
+        "id": 1442,
+        "name": "Vicarious Visions Alchemy"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 63307,
+        "company": {
+          "id": 741,
+          "name": "Toys for Bob"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63305,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 261187,
+        "company": {
+          "id": 72,
+          "name": "Vicarious Visions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Crash Bandicoot N. Sane Trilogy",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crash-bandicoot-n-sane-trilogy",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 152364,
+      "date": 1530230400,
+      "platform": 49
+    },
+    {
+      "id": 580901,
+      "date": 1530230400,
+      "platform": 130
+    },
+    {
+      "id": 116997,
+      "date": 1501718400,
+      "platform": 48
+    },
+    {
+      "id": 102271,
+      "date": 1498780800,
+      "platform": 48
+    },
+    {
+      "id": 102272,
+      "date": 1498780800,
+      "platform": 48
+    },
+    {
+      "id": 580903,
+      "date": 1539820800,
+      "platform": 130
+    },
+    {
+      "id": 580902,
+      "date": 1530230400,
+      "platform": 130
+    },
+    {
+      "id": 152363,
+      "date": 1530230400,
+      "platform": 6
+    }
+  ]
+}

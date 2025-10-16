@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 119374,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 315838,
+        "company": {
+          "id": 45304,
+          "name": "Square Enix Creative Business Unit I"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 315839,
+        "company": {
+          "id": 4501,
+          "name": "DotEmu"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 315835,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 315836,
+        "company": {
+          "id": 250,
+          "name": "Square"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 315837,
+        "company": {
+          "id": 831,
+          "name": "Access Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Final Fantasy VIII Remastered",
+    "parent_game": 425,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-viii-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 242430,
+      "date": 1567468800,
+      "platform": 48
+    },
+    {
+      "id": 242427,
+      "date": 1567468800,
+      "platform": 130
+    },
+    {
+      "id": 242429,
+      "date": 1567468800,
+      "platform": 6
+    },
+    {
+      "id": 242428,
+      "date": 1567468800,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "general": {
+    "id": 267011,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 271843,
+        "company": {
+          "id": 233,
+          "name": "Piranha Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "MechWarrior 5: Clans",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mechwarrior-5-clans",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652513,
+      "date": 1729123200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652514,
+      "date": 1729123200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 649352,
+      "date": 1729123200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

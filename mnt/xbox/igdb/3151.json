@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 3151,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 86838,
+        "company": {
+          "id": 22442,
+          "name": "Hard Copy Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Electronic Super Joy",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/electronic-super-joy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 179094,
+      "date": 1574899200,
+      "platform": 130
+    },
+    {
+      "id": 341798,
+      "date": 1574899200,
+      "platform": 130
+    },
+    {
+      "id": 135993,
+      "date": 1453248000,
+      "platform": 49
+    },
+    {
+      "id": 236239,
+      "date": 1466467200,
+      "platform": 48
+    },
+    {
+      "id": 403970,
+      "date": 1377216000,
+      "platform": 6
+    },
+    {
+      "id": 403971,
+      "date": 1377216000,
+      "platform": 14
+    },
+    {
+      "id": 403972,
+      "date": 1377216000,
+      "platform": 3
+    }
+  ]
+}

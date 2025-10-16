@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 1217,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 2907,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 2906,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Shenmue",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shenmue",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 29774,
+      "date": 946425600,
+      "platform": 23
+    },
+    {
+      "id": 214784,
+      "date": 1534809600,
+      "platform": 48
+    },
+    {
+      "id": 214785,
+      "date": 1534809600,
+      "platform": 49
+    },
+    {
+      "id": 29775,
+      "date": 973641600,
+      "platform": 23
+    },
+    {
+      "id": 29776,
+      "date": 975628800,
+      "platform": 23
+    },
+    {
+      "id": 214783,
+      "date": 1534809600,
+      "platform": 6
+    }
+  ]
+}

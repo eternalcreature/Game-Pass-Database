@@ -1,0 +1,144 @@
+{
+  "general": {
+    "id": 140427,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 169132,
+        "company": {
+          "id": 6918,
+          "name": "PM Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 167680,
+        "company": {
+          "id": 2473,
+          "name": "Pathea Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "My Time at Sandrock",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/my-time-at-sandrock",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 516616,
+      "date": 1698883200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 516614,
+      "date": 1698883200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 516613,
+      "date": 1698883200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 516615,
+      "date": 1698883200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 516617,
+      "date": 1698883200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 516618,
+      "date": 1698883200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 482658,
+      "date": 1653436800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 533020,
+      "date": 1698883200,
+      "platform": 169
+    },
+    {
+      "id": 533019,
+      "date": 1698883200,
+      "platform": 49
+    }
+  ]
+}

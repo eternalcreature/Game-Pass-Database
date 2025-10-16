@@ -12,8 +12,8 @@
         "9PGPPZW59JB8"
       ]
     ],
-    "original_release_date": "2017-04-11",
-    "release_date": null,
+    "original_release_date": "2016-12-31",
+    "release_date": "2019-10-08",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -83,12 +83,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-12-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-04-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2017-04-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 10031,
-      "name": "Yooka-Laylee",
-      "url": "https://www.igdb.com/games/yooka-laylee",
+      "id": 119259,
+      "name": "Yooka-Laylee and the Impossible Lair",
+      "url": "https://www.igdb.com/games/yooka-laylee-and-the-impossible-lair",
       "publishers": [
         "Team17"
       ],
@@ -101,19 +124,39 @@
         "Indie"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer",
-        "Co-operative",
-        "Split screen"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person"
-      ]
+        "Third person",
+        "Bird view / Isometric",
+        "Side view"
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-10-07",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-10-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-10-08"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

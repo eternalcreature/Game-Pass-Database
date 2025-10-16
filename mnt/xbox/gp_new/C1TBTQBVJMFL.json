@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2019-02-15",
-    "release_date": null,
+    "release_date": "2019-02-15",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -73,7 +73,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "4A Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-02-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-02-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-02-15"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-06-18"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 1082,
+    "game_engines": [
+      {
+        "id": 14,
+        "name": "MT Framework"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56753,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 183909,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Resident Evil 6",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-6",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 105206,
+      "date": 1349136000,
+      "platform": 9
+    },
+    {
+      "id": 381948,
+      "date": 1349136000,
+      "platform": 12
+    },
+    {
+      "id": 381950,
+      "date": 1349308800,
+      "platform": 12
+    },
+    {
+      "id": 381947,
+      "date": 1349308800,
+      "platform": 9
+    },
+    {
+      "id": 381949,
+      "date": 1349136000,
+      "platform": 12
+    },
+    {
+      "id": 105207,
+      "date": 1349136000,
+      "platform": 9
+    },
+    {
+      "id": 585548,
+      "date": 1363824000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

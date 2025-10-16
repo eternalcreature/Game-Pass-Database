@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 2640,
+    "game_engines": [
+      {
+        "id": 310,
+        "name": "Blam! Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 6306,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 6307,
+        "company": {
+          "id": 722,
+          "name": "343 Industries"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Halo: Combat Evolved Anniversary",
+    "parent_game": 740,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halo-combat-evolved-anniversary",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 5608,
+      "date": 1321315200,
+      "platform": 12
+    },
+    {
+      "id": 417666,
+      "date": 1583193600,
+      "platform": 6
+    },
+    {
+      "id": 168649,
+      "date": 1415664000,
+      "platform": 49
+    }
+  ]
+}

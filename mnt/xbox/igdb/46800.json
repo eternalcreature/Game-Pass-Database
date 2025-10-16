@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 46800,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 144307,
+        "company": {
+          "id": 15688,
+          "name": "Blindside Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 144308,
+        "company": {
+          "id": 36607,
+          "name": "Shipwright Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 167332,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 144306,
+        "company": {
+          "id": 743,
+          "name": "Tripwire Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Maneater",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/maneater",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 297984,
+      "date": 1621900800,
+      "platform": 6
+    },
+    {
+      "id": 181577,
+      "date": 1590105600,
+      "platform": 6
+    },
+    {
+      "id": 221411,
+      "date": 1605139200,
+      "platform": 167
+    },
+    {
+      "id": 221412,
+      "date": 1605744000,
+      "platform": 167
+    },
+    {
+      "id": 240557,
+      "date": 1621900800,
+      "platform": 130
+    },
+    {
+      "id": 338711,
+      "date": 1621900800,
+      "platform": 130
+    },
+    {
+      "id": 192635,
+      "date": 1590105600,
+      "platform": 49
+    },
+    {
+      "id": 192634,
+      "date": 1590105600,
+      "platform": 48
+    },
+    {
+      "id": 212148,
+      "date": 1608163200,
+      "platform": 48
+    },
+    {
+      "id": 212149,
+      "date": 1608163200,
+      "platform": 49
+    }
+  ]
+}

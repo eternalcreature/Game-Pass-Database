@@ -1,0 +1,147 @@
+{
+  "general": {
+    "id": 1942,
+    "game_engines": [
+      {
+        "id": 24,
+        "name": "REDengine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 17436,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 17769,
+        "company": {
+          "id": 3119,
+          "name": "cdp.pl"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 17771,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 17768,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 42142,
+        "company": {
+          "id": 908,
+          "name": "CD Projekt RED"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 64293,
+        "company": {
+          "id": 5696,
+          "name": "D3T Limited"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 196544,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-witcher-3-wild-hunt",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 226672,
+      "date": 1611792000,
+      "platform": 130
+    },
+    {
+      "id": 431187,
+      "date": 1670976000,
+      "platform": 169
+    },
+    {
+      "id": 430627,
+      "date": 1670976000,
+      "platform": 167
+    },
+    {
+      "id": 23745,
+      "date": 1431993600,
+      "platform": 48
+    },
+    {
+      "id": 23743,
+      "date": 1431993600,
+      "platform": 6
+    },
+    {
+      "id": 23744,
+      "date": 1431993600,
+      "platform": 49
+    }
+  ]
+}

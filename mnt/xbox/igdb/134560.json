@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 134560,
+    "game_engines": [
+      {
+        "id": 1847,
+        "name": "Unity 2022"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186343,
+        "company": {
+          "id": 39493,
+          "name": "Level Infinite"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 186344,
+        "company": {
+          "id": 458,
+          "name": "Funcom"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 186345,
+        "company": {
+          "id": 11424,
+          "name": "The Outsiders"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Metal: Hellsinger",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/metal-hellsinger",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 364135,
+      "date": 1663200000,
+      "platform": 169
+    },
+    {
+      "id": 364136,
+      "date": 1663200000,
+      "platform": 167
+    },
+    {
+      "id": 364137,
+      "date": 1663200000,
+      "platform": 6
+    },
+    {
+      "id": 429726,
+      "date": 1670457600,
+      "platform": 48
+    },
+    {
+      "id": 430673,
+      "date": 1670457600,
+      "platform": 49
+    }
+  ]
+}

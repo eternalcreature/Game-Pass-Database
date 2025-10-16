@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 18686,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 34516,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 70490,
+        "company": {
+          "id": 9388,
+          "name": "Four Circle Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "10 Second Ninja X",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/10-second-ninja-x",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 419822,
+      "date": 1468886400,
+      "platform": 6
+    },
+    {
+      "id": 301376,
+      "date": 1627603200,
+      "platform": 130
+    },
+    {
+      "id": 338212,
+      "date": 1627603200,
+      "platform": 130
+    },
+    {
+      "id": 692087,
+      "date": 1468886400,
+      "platform": 48
+    },
+    {
+      "id": 692088,
+      "date": 1468886400,
+      "platform": 46
+    },
+    {
+      "id": 692089,
+      "date": 1468886400,
+      "platform": 49
+    }
+  ]
+}

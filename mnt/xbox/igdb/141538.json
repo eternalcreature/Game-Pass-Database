@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 141538,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 174517,
+        "company": {
+          "id": 41542,
+          "name": "Krafton"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 276113,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 279279,
+        "company": {
+          "id": 30458,
+          "name": "Striking Distance Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Callisto Protocol",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-callisto-protocol",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 617210,
+      "date": 1669939200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 617207,
+      "date": 1669939200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 617208,
+      "date": 1669939200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 617209,
+      "date": 1669939200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 617211,
+      "date": 1669939200,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 44074,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 79795,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Evil Genius 2: World Domination",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/evil-genius-2-world-domination",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 226576,
+      "date": 1617062400,
+      "platform": 6
+    },
+    {
+      "id": 324832,
+      "date": 1638230400,
+      "platform": 169
+    },
+    {
+      "id": 324833,
+      "date": 1638230400,
+      "platform": 49
+    },
+    {
+      "id": 324835,
+      "date": 1638230400,
+      "platform": 48
+    },
+    {
+      "id": 324834,
+      "date": 1638230400,
+      "platform": 167
+    }
+  ]
+}

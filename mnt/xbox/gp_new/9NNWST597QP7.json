@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2018-02-28",
-    "release_date": null,
+    "release_date": "2019-11-29",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -72,36 +72,71 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-02-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-02-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-29"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 15823,
-      "name": "Where the Water Tastes Like Wine",
-      "url": "https://www.igdb.com/games/where-the-water-tastes-like-wine",
+      "id": 134369,
+      "name": "Where the Water Tastes Like Wine: Xbox Edition",
+      "url": "https://www.igdb.com/games/where-the-water-tastes-like-wine-xbox-edition",
       "publishers": [
-        "Good Shepherd Entertainment",
         "Serenity Forge"
       ],
       "developers": [
-        "Dim Bulb Games",
-        "Serenity Forge"
+        "Dim Bulb Games"
       ],
       "genres": [
-        "Puzzle",
         "Role-playing (RPG)",
-        "Adventure",
-        "Indie"
+        "Adventure"
       ],
-      "themes": [
-        "Historical"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2019-11-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-11-29"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

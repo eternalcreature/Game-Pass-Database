@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2007-09-25",
-    "release_date": null,
+    "release_date": "2020-07-14",
     "platforms": [
       "PC"
     ]
@@ -80,7 +80,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Halo 3"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2007-09-25",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-07-13"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2007-09-25"
+        }
+      }
     }
   },
   "steam_store_meta": {}

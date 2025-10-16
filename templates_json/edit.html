@@ -731,6 +731,31 @@
                     </div>
                 </div>
 
+                {% set rd = data.igdb_meta.main.release_dates %}
+                {% if rd %}
+                <div class="igdb-field">
+                    <div class="igdb-field-label">Release Dates</div>
+                    <div class="igdb-list">
+                        {% for platform, info in rd.items() %}
+                        {% if platform != "release_date" %}
+                        {% if info.release_date_ea or info.release_date_1_0 %}
+                        <div class="igdb-list-item">
+                            <strong>{{ platform }}:</strong>
+                            {% if info.release_date_ea %}
+                            EA: {{ info.release_date_ea }}
+                            {% endif %}
+                            {% if info.release_date_1_0 %}
+                            {% if info.release_date_ea %} / {% endif %}
+                            1.0: {{ info.release_date_1_0 }}
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
                 {% if data.igdb_meta.main.publishers %}
                 <div class="igdb-field">
                     <div class="igdb-field-label">Publishers</div>

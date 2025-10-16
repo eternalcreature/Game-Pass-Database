@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 119390,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277761,
+        "company": {
+          "id": 837,
+          "name": "LEVEL-5"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 277762,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 277763,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Ni no Kuni: Wrath of the White Witch Remastered",
+    "parent_game": 1864,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ni-no-kuni-wrath-of-the-white-witch-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 374706,
+      "date": 1568937600,
+      "platform": 130
+    },
+    {
+      "id": 389814,
+      "date": 1663200000,
+      "platform": 49
+    },
+    {
+      "id": 171137,
+      "date": 1568937600,
+      "platform": 6
+    },
+    {
+      "id": 171126,
+      "date": 1568937600,
+      "platform": 48
+    }
+  ]
+}

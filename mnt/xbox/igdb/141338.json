@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 141338,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 120228,
+        "company": {
+          "id": 29,
+          "name": "Rockstar Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Red Dead Online",
+    "parent_game": 25076,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/red-dead-online",
+    "game_type": 4
+  },
+  "release_dates": [
+    {
+      "id": 231065,
+      "date": 1557878400,
+      "platform": 49
+    },
+    {
+      "id": 231066,
+      "date": 1557878400,
+      "platform": 48
+    },
+    {
+      "id": 231067,
+      "date": 1572912000,
+      "platform": 6
+    },
+    {
+      "id": 231068,
+      "date": 1574121600,
+      "platform": 170
+    },
+    {
+      "id": 296862,
+      "date": 1624233600,
+      "platform": 169
+    },
+    {
+      "id": 303483,
+      "date": 1606780800,
+      "platform": 49
+    }
+  ]
+}

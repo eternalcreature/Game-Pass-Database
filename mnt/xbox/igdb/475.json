@@ -1,0 +1,184 @@
+{
+  "general": {
+    "id": 475,
+    "game_engines": [
+      {
+        "id": 515,
+        "name": "Ronin"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42077,
+        "company": {
+          "id": 389,
+          "name": "Universomo"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 1186,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 42076,
+        "company": {
+          "id": 390,
+          "name": "THQ Wireless"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 182974,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 182975,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 273139,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 273142,
+        "company": {
+          "id": 10,
+          "name": "LucasArts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 273141,
+        "company": {
+          "id": 385,
+          "name": "Krome Studios"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Star Wars: The Force Unleashed",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-the-force-unleashed",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 1068,
+      "date": 1257465600,
+      "platform": 6
+    },
+    {
+      "id": 461486,
+      "date": 1264723200,
+      "platform": 14
+    },
+    {
+      "id": 1074,
+      "date": 1221523200,
+      "platform": 38
+    },
+    {
+      "id": 105818,
+      "date": 1221782400,
+      "platform": 9
+    },
+    {
+      "id": 1069,
+      "date": 1221523200,
+      "platform": 9
+    },
+    {
+      "id": 1073,
+      "date": 1221523200,
+      "platform": 39
+    },
+    {
+      "id": 1070,
+      "date": 1221523200,
+      "platform": 8
+    },
+    {
+      "id": 105817,
+      "date": 1221523200,
+      "platform": 9
+    },
+    {
+      "id": 1071,
+      "date": 1221523200,
+      "platform": 12
+    },
+    {
+      "id": 380289,
+      "date": 1266883200,
+      "platform": 14
+    }
+  ]
+}

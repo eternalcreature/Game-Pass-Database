@@ -12,8 +12,8 @@
         "9NRPTTJ94PCK"
       ]
     ],
-    "original_release_date": "2019-02-01",
-    "release_date": null,
+    "original_release_date": "2023-10-17",
+    "release_date": "2019-02-01",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -61,20 +61,79 @@
       ],
       "themes": [],
       "game_modes": [],
-      "player_perspectives": []
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2023-10-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 273304,
-      "name": "Wargroove + Wargroove 2 Bundle",
-      "url": "https://www.igdb.com/games/wargroove-plus-wargroove-2-bundle",
-      "publishers": [],
-      "developers": [],
-      "genres": [
-        "Strategy"
+      "id": 27441,
+      "name": "Wargroove",
+      "url": "https://www.igdb.com/games/wargroove",
+      "publishers": [
+        "Chucklefish Games"
       ],
-      "themes": [],
-      "game_modes": [],
-      "player_perspectives": []
+      "developers": [
+        "Chucklefish Games"
+      ],
+      "genres": [
+        "Strategy",
+        "Turn-based strategy (TBS)",
+        "Tactical",
+        "Indie"
+      ],
+      "themes": [
+        "Fantasy",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric",
+        "Side view"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-01-02",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-02-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-01-02"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

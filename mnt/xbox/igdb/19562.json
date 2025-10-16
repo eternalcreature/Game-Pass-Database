@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 19562,
+    "game_engines": [
+      {
+        "id": 354,
+        "name": "RE Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 184327,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Resident Evil 7: Biohazard",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/resident-evil-7-biohazard",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 800710,
+      "date": 1772150400,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 390798,
+      "date": 1485388800,
+      "platform": 165
+    },
+    {
+      "id": 382616,
+      "date": 1485388800,
+      "platform": 49
+    },
+    {
+      "id": 382618,
+      "date": 1485388800,
+      "platform": 6
+    },
+    {
+      "id": 382623,
+      "date": 1485388800,
+      "platform": 48
+    },
+    {
+      "id": 382619,
+      "date": 1485216000,
+      "platform": 6
+    },
+    {
+      "id": 382649,
+      "date": 1655078400,
+      "platform": 169
+    },
+    {
+      "id": 382617,
+      "date": 1485216000,
+      "platform": 48
+    },
+    {
+      "id": 382620,
+      "date": 1655164800,
+      "platform": 167
+    },
+    {
+      "id": 382622,
+      "date": 1655078400,
+      "platform": 167
+    }
+  ]
+}

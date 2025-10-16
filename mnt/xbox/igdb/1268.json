@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 1268,
+    "game_engines": [
+      {
+        "id": 25,
+        "name": "CryEngine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 5254,
+        "company": {
+          "id": 122,
+          "name": "Crytek Frankfurt"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 5255,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 9903,
+        "company": {
+          "id": 158,
+          "name": "Crytek UK"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Crysis 3",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crysis-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 614373,
+      "date": 1361232000,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 614372,
+      "date": 1361232000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 614374,
+      "date": 1361491200,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 614375,
+      "date": 1361404800,
+      "platform": 9,
+      "status": 6
+    },
+    {
+      "id": 614377,
+      "date": 1361232000,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 614378,
+      "date": 1361232000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 614376,
+      "platform": 41,
+      "status": 5
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 37001,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104503,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 128505,
+        "company": {
+          "id": 5052,
+          "name": "Moon Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128506,
+        "company": {
+          "id": 5442,
+          "name": "iam8bit"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ori and the Will of the Wisps",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ori-and-the-will-of-the-wisps",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 414519,
+      "date": 1583798400,
+      "platform": 6
+    },
+    {
+      "id": 211066,
+      "date": 1600300800,
+      "platform": 130
+    },
+    {
+      "id": 217321,
+      "date": 1583884800,
+      "platform": 49
+    },
+    {
+      "id": 217323,
+      "date": 1604966400,
+      "platform": 169
+    }
+  ]
+}

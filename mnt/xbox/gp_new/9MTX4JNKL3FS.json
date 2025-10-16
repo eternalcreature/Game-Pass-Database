@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2021-01-21",
-    "release_date": null,
+    "release_date": "2022-10-13",
     "platforms": [
       "PC"
     ]
@@ -74,7 +74,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-01-21",
+        "PC": {
+          "release_date_ea": "2021-01-21",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

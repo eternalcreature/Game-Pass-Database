@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 11233,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190222,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 190223,
+        "company": {
+          "id": 4356,
+          "name": "Giant Sparrow"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "What Remains of Edith Finch",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/what-remains-of-edith-finch",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 301008,
+      "date": 1629072000,
+      "platform": 14
+    },
+    {
+      "id": 315988,
+      "date": 1629072000,
+      "platform": 39
+    },
+    {
+      "id": 68357,
+      "date": 1493078400,
+      "platform": 48
+    },
+    {
+      "id": 335965,
+      "date": 1562198400,
+      "platform": 130
+    },
+    {
+      "id": 376422,
+      "date": 1658966400,
+      "platform": 167
+    },
+    {
+      "id": 376423,
+      "date": 1658966400,
+      "platform": 169
+    },
+    {
+      "id": 93183,
+      "date": 1500422400,
+      "platform": 49
+    },
+    {
+      "id": 651216,
+      "date": 1492992000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 248414,
+      "date": 1562198400,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 128097,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 168341,
+        "company": {
+          "id": 33065,
+          "name": "Snoozy Kazoo"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 168342,
+        "company": {
+          "id": 15257,
+          "name": "Graffiti Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Turnip Boy Commits Tax Evasion",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/turnip-boy-commits-tax-evasion",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 431762,
+      "date": 1671494400,
+      "platform": 48
+    },
+    {
+      "id": 354692,
+      "date": 1650240000,
+      "platform": 169
+    },
+    {
+      "id": 236975,
+      "date": 1619049600,
+      "platform": 6
+    },
+    {
+      "id": 454880,
+      "date": 1650326400,
+      "platform": 49
+    },
+    {
+      "id": 354691,
+      "date": 1650240000,
+      "platform": 49
+    },
+    {
+      "id": 366381,
+      "date": 1653350400,
+      "platform": 39
+    },
+    {
+      "id": 236974,
+      "date": 1619049600,
+      "platform": 14
+    },
+    {
+      "id": 236973,
+      "date": 1619049600,
+      "platform": 3
+    },
+    {
+      "id": 236972,
+      "date": 1619049600,
+      "platform": 130
+    },
+    {
+      "id": 578509,
+      "date": 1652918400,
+      "platform": 34
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 105447,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 126728,
+        "company": {
+          "id": 26499,
+          "name": "Phoenixx Inc."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 230752,
+        "company": {
+          "id": 15341,
+          "name": "Team Ladybug"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 230753,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Touhou Luna Nights",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/touhou-luna-nights",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 513552,
+      "date": 1608076800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 513553,
+      "date": 1608163200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 513554,
+      "date": 1706140800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 513555,
+      "date": 1551052800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 513556,
+      "date": 1551052800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 513558,
+      "date": 1599091200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 513559,
+      "date": 1706140800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 513560,
+      "date": 1706140800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 513557,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

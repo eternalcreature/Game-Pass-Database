@@ -12,7 +12,7 @@
         "C3CF8LR1RFKH"
       ]
     ],
-    "original_release_date": "2013-08-27",
+    "original_release_date": "2013-11-15",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -63,7 +63,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Ignite Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2013-11-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-11-22"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

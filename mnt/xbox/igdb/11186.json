@@ -1,0 +1,101 @@
+{
+  "general": {
+    "id": 11186,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 36483,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 49007,
+        "company": {
+          "id": 221,
+          "name": "Splash Damage"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 49006,
+        "company": {
+          "id": 5961,
+          "name": "The Coalition"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Gears of War 4",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gears-of-war-4",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 603501,
+      "date": 1476144000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 603500,
+      "date": 1476144000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

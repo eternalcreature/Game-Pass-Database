@@ -1,0 +1,107 @@
+{
+  "general": {
+    "id": 125625,
+    "game_engines": [
+      {
+        "id": 601,
+        "name": "Unity 2018"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 235043,
+        "company": {
+          "id": 22612,
+          "name": "Upstream Arcade"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 235044,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "West of Dead",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/west-of-dead",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 204450,
+      "date": 1596585600,
+      "platform": 130
+    },
+    {
+      "id": 204451,
+      "date": 1596585600,
+      "platform": 48
+    },
+    {
+      "id": 341925,
+      "date": 1598400000,
+      "platform": 130
+    },
+    {
+      "id": 199857,
+      "date": 1592438400,
+      "platform": 49
+    },
+    {
+      "id": 248428,
+      "date": 1598400000,
+      "platform": 130
+    },
+    {
+      "id": 527458,
+      "date": 1592438400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

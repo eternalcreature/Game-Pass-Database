@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2016-05-09",
-    "release_date": null,
+    "release_date": "2019-02-26",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -85,21 +85,43 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Clausewitz Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-05-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-05-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-02-26"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 11582,
-      "name": "Stellaris",
-      "url": "https://www.igdb.com/games/stellaris",
+      "id": 111150,
+      "name": "Stellaris: Console Edition",
+      "url": "https://www.igdb.com/games/stellaris-console-edition",
       "publishers": [
-        "DMM GAMES",
         "Paradox Interactive"
       ],
       "developers": [
-        "Paradox Development Studio"
+        "Paradox Development Studio",
+        "Tantalus Media"
       ],
       "genres": [
-        "Real Time Strategy (RTS)",
         "Simulator",
         "Strategy"
       ],
@@ -111,9 +133,28 @@
         "Single player",
         "Multiplayer"
       ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "port",
+      "release_dates": {
+        "release_date": "2019-02-26",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-02-26"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

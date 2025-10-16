@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 51524,
+    "game_engines": [
+      {
+        "id": 12,
+        "name": "Telltale Tool"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 68565,
+        "company": {
+          "id": 294,
+          "name": "Telltale Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 272165,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 272319,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Walking Dead: The Final Season",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-walking-dead-the-final-season",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 153441,
+      "date": 1534204800,
+      "platform": 49
+    },
+    {
+      "id": 153442,
+      "date": 1534204800,
+      "platform": 48
+    },
+    {
+      "id": 156951,
+      "date": 1534204800,
+      "platform": 130
+    },
+    {
+      "id": 412120,
+      "date": 1534118400,
+      "platform": 6
+    }
+  ]
+}

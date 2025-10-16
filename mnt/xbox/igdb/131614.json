@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 131614,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 111116,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 111117,
+        "company": {
+          "id": 10601,
+          "name": "Kitty Calis"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 111119,
+        "company": {
+          "id": 10603,
+          "name": "doseone"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 111120,
+        "company": {
+          "id": 21623,
+          "name": "Terri Vellmann"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 111118,
+        "company": {
+          "id": 10602,
+          "name": "Jan Willem Nijman"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Disc Room",
+    "parent_game": 22700,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/disc-room--1",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 342085,
+      "date": 1603929600,
+      "platform": 130
+    },
+    {
+      "id": 364401,
+      "date": 1654560000,
+      "platform": 49
+    },
+    {
+      "id": 213614,
+      "date": 1603324800,
+      "platform": 6
+    },
+    {
+      "id": 215269,
+      "date": 1603324800,
+      "platform": 130
+    },
+    {
+      "id": 215270,
+      "date": 1603324800,
+      "platform": 14
+    },
+    {
+      "id": 215271,
+      "date": 1603324800,
+      "platform": 3
+    }
+  ]
+}

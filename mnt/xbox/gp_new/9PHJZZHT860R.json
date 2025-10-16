@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2019-05-28",
-    "release_date": null,
+    "release_date": "2021-02-25",
     "platforms": [
       "PC"
     ]
@@ -79,7 +79,28 @@
         "First person",
         "Third person",
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-05-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-07-30"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-05-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

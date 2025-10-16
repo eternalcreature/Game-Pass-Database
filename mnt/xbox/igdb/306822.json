@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 306822,
+    "game_engines": [
+      {
+        "id": 1230,
+        "name": "GIANTS Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 272361,
+        "company": {
+          "id": 1527,
+          "name": "Giants Software"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Farming Simulator 25",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/farming-simulator-25",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 608065,
+      "date": 1731369600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 608066,
+      "date": 1731369600,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 608067,
+      "date": 1731369600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 608068,
+      "date": 1731369600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

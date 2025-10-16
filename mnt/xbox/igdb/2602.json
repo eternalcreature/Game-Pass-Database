@@ -1,0 +1,113 @@
+{
+  "general": {
+    "id": 2602,
+    "game_engines": [
+      {
+        "id": 752,
+        "name": "The Alan Wake Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22875,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 22874,
+        "company": {
+          "id": 753,
+          "name": "Nordic Games Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 292110,
+        "company": {
+          "id": 305,
+          "name": "Remedy Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Alan Wake's American Nightmare",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/alan-wake-s-american-nightmare",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 778056,
+      "date": 1340928000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 778055,
+      "date": 1352937600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 778057,
+      "date": 1329868800,
+      "platform": 12,
+      "status": 6
+    },
+    {
+      "id": 656409,
+      "date": 1337644800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

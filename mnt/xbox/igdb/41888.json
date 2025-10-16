@@ -1,0 +1,65 @@
+{
+  "general": {
+    "id": 41888,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 314456,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 314457,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Battlefield 3: Premium Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battlefield-3-premium-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 707538,
+      "date": 1347321600,
+      "platform": 6
+    },
+    {
+      "id": 707539,
+      "date": 1347321600,
+      "platform": 9
+    },
+    {
+      "id": 707540,
+      "date": 1347321600,
+      "platform": 12
+    }
+  ]
+}

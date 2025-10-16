@@ -1,0 +1,67 @@
+{
+  "general": {
+    "id": 129143,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 123528,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 123529,
+        "company": {
+          "id": 393,
+          "name": "inXile Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Wasteland Remastered",
+    "parent_game": 3100,
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wasteland-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 187473,
+      "date": 1582588800,
+      "platform": 6
+    },
+    {
+      "id": 187474,
+      "date": 1582588800,
+      "platform": 49
+    }
+  ]
+}

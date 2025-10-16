@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 152604,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 287135,
+        "company": {
+          "id": 6958,
+          "name": "Digital Melody"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 287131,
+        "company": {
+          "id": 24060,
+          "name": "PlayWay"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 287132,
+        "company": {
+          "id": 7981,
+          "name": "Red Dot Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 287134,
+        "company": {
+          "id": 24060,
+          "name": "PlayWay"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Car Mechanic Simulator 2021",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 34,
+        "name": "Educational"
+      }
+    ],
+    "url": "https://www.igdb.com/games/car-mechanic-simulator-2021",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 642416,
+      "date": 1685577600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 642413,
+      "date": 1651449600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 642414,
+      "date": 1651449600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 642417,
+      "date": 1623196800,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 642418,
+      "date": 1518480000,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 642415,
+      "date": 1628726400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 642412,
+      "date": 1628640000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

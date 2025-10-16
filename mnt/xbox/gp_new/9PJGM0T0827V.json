@@ -12,8 +12,8 @@
         "9PJGM0T0827V"
       ]
     ],
-    "original_release_date": "2020-10-16",
-    "release_date": null,
+    "original_release_date": "2020-11-05",
+    "release_date": "2020-11-06",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -100,7 +100,30 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Ego Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-11-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-06"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-10"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 4784,
+    "game_engines": [
+      {
+        "id": 58,
+        "name": "Ignite Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 11512,
+        "company": {
+          "id": 277,
+          "name": "EA Canada"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 11511,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "EA Sports UFC",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ea-sports-ufc",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 24753,
+      "date": 1405555200,
+      "platform": 48
+    },
+    {
+      "id": 102809,
+      "date": 1403222400,
+      "platform": 48
+    },
+    {
+      "id": 24754,
+      "date": 1405555200,
+      "platform": 49
+    },
+    {
+      "id": 102808,
+      "date": 1402963200,
+      "platform": 48
+    },
+    {
+      "id": 122007,
+      "date": 1403136000,
+      "platform": 48
+    },
+    {
+      "id": 117988,
+      "date": 1402963200,
+      "platform": 49
+    },
+    {
+      "id": 149853,
+      "date": 1429574400,
+      "platform": 39
+    }
+  ]
+}

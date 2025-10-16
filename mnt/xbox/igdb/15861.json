@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 15861,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 29948,
+        "company": {
+          "id": 85,
+          "name": "Double Fine Productions"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Massive Chalice",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/massive-chalice",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 43596,
+      "date": 1433116800,
+      "platform": 49
+    },
+    {
+      "id": 136138,
+      "date": 1433116800,
+      "platform": 49
+    },
+    {
+      "id": 43597,
+      "date": 1433116800,
+      "platform": 6
+    },
+    {
+      "id": 258073,
+      "date": 1433116800,
+      "platform": 3
+    },
+    {
+      "id": 258071,
+      "date": 1433116800,
+      "platform": 14
+    }
+  ]
+}

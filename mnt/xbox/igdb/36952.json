@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 36952,
+    "game_engines": [
+      {
+        "id": 172,
+        "name": "id Tech 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 56487,
+        "company": {
+          "id": 184,
+          "name": "id Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 59233,
+        "company": {
+          "id": 2095,
+          "name": "Panic Button Games"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 133306,
+        "company": {
+          "id": 16565,
+          "name": "Bethesda Softworks"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 133305,
+        "company": {
+          "id": 1242,
+          "name": "MachineGames"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Wolfenstein II: The New Colossus",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wolfenstein-ii-the-new-colossus",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 407075,
+      "date": 1508976000,
+      "platform": 6
+    },
+    {
+      "id": 151718,
+      "date": 1530230400,
+      "platform": 130
+    },
+    {
+      "id": 153262,
+      "date": 1511395200,
+      "platform": 48
+    },
+    {
+      "id": 121455,
+      "date": 1509062400,
+      "platform": 49
+    },
+    {
+      "id": 121457,
+      "date": 1509062400,
+      "platform": 48
+    },
+    {
+      "id": 153261,
+      "date": 1511395200,
+      "platform": 49
+    }
+  ]
+}

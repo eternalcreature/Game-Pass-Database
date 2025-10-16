@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 196655,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167369,
+        "company": {
+          "id": 13189,
+          "name": "No More Robots"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 262393,
+        "company": {
+          "id": 6064,
+          "name": "Tendershoot"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/slayers-x-terminal-aftermath-vengance-of-the-slayer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 596514,
+      "date": 1715731200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 596515,
+      "date": 1715731200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 494404,
+      "date": 1685577600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 494405,
+      "date": 1685577600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 494406,
+      "date": 1685577600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 593898,
+      "date": 1715644800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

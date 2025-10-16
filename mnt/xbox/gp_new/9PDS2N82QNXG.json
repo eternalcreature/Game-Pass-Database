@@ -21,8 +21,8 @@
         "9PDS2N82QNXG"
       ]
     ],
-    "original_release_date": "2022-11-17",
-    "release_date": null,
+    "original_release_date": "2022-11-16",
+    "release_date": "2023-12-07",
     "platforms": [
       "PC"
     ]
@@ -90,12 +90,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-11-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-11-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-11-16"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 204360,
-      "name": "Goat Simulator 3",
-      "url": "https://www.igdb.com/games/goat-simulator-3",
+      "id": 204913,
+      "name": "Goat Simulator 3: Pre-Udder Edition",
+      "url": "https://www.igdb.com/games/goat-simulator-3-pre-udder-edition",
       "publishers": [
         "Coffee Stain Publishing"
       ],
@@ -103,22 +126,38 @@
         "Coffee Stain Studios"
       ],
       "genres": [
-        "Simulator",
         "Adventure"
       ],
       "themes": [
-        "Action",
-        "Comedy",
-        "Sandbox"
+        "Comedy"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
         "Co-operative"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-11-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-11-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-11-17"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

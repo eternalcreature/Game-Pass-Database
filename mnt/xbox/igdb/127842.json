@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 127842,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167278,
+        "company": {
+          "id": 4602,
+          "name": "BlitWorks"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 262101,
+        "company": {
+          "id": 11360,
+          "name": "Playdigious"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 324976,
+        "company": {
+          "id": 28445,
+          "name": "SouthPaw Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 324977,
+        "company": {
+          "id": 30237,
+          "name": "Neowiz"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Skul: The Hero Slayer",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/skul-the-hero-slayer",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 755359,
+      "date": 1611100800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 755360,
+      "date": 1581984000,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 755362,
+      "date": 1581984000,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 755364,
+      "date": 1581984000,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 755363,
+      "date": 1611100800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 755361,
+      "date": 1611100800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 340379,
+      "date": 1634774400,
+      "platform": 49
+    },
+    {
+      "id": 326801,
+      "date": 1634688000,
+      "platform": 48
+    },
+    {
+      "id": 583341,
+      "date": 1717459200,
+      "platform": 39
+    },
+    {
+      "id": 337543,
+      "date": 1634774400,
+      "platform": 130
+    }
+  ]
+}

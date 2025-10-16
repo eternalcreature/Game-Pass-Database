@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 322702,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 322941,
+        "company": {
+          "id": 41364,
+          "name": "Whitethorn Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 322942,
+        "company": {
+          "id": 61500,
+          "name": "North Star Video Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Spray Paint Simulator",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spray-paint-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 775991,
+      "date": 1753142400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 738017,
+      "date": 1748476800,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 738016,
+      "date": 1748476800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 738020,
+      "date": 1748476800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 738018,
+      "date": 1748476800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 738019,
+      "date": 1748476800,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

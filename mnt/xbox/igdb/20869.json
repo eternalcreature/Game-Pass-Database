@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 20869,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 178750,
+        "company": {
+          "id": 795,
+          "name": "Ninja Theory"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 178751,
+        "company": {
+          "id": 37,
+          "name": "Capcom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "DmC: Devil May Cry - Definitive Edition",
+    "parent_game": 1254,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dmc-devil-may-cry-definitive-edition",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 372903,
+      "date": 1425945600,
+      "platform": 49
+    },
+    {
+      "id": 372902,
+      "date": 1425945600,
+      "platform": 49
+    },
+    {
+      "id": 373062,
+      "date": 1424217600,
+      "platform": 48
+    },
+    {
+      "id": 373063,
+      "date": 1425945600,
+      "platform": 48
+    }
+  ]
+}

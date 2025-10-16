@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 11525,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 27066,
+        "company": {
+          "id": 1975,
+          "name": "2K Sports"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 27065,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "NBA 2K16",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/nba-2k16",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 38617,
+      "date": 1443484800,
+      "platform": 49
+    },
+    {
+      "id": 38616,
+      "date": 1443484800,
+      "platform": 12
+    },
+    {
+      "id": 38614,
+      "date": 1443484800,
+      "platform": 9
+    },
+    {
+      "id": 38613,
+      "date": 1443484800,
+      "platform": 6
+    },
+    {
+      "id": 38615,
+      "date": 1443484800,
+      "platform": 48
+    },
+    {
+      "id": 120619,
+      "date": 1443484800,
+      "platform": 48
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 19000,
+    "game_engines": [
+      {
+        "id": 12,
+        "name": "Telltale Tool"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 134342,
+        "company": {
+          "id": 294,
+          "name": "Telltale Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 134343,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Walking Dead: A New Frontier",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-walking-dead-a-new-frontier",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 157398,
+      "date": 1546214400,
+      "platform": 130
+    },
+    {
+      "id": 60880,
+      "date": 1482192000,
+      "platform": 6
+    },
+    {
+      "id": 60876,
+      "date": 1482192000,
+      "platform": 34
+    },
+    {
+      "id": 147775,
+      "date": 1482278400,
+      "platform": 39
+    },
+    {
+      "id": 60881,
+      "date": 1482192000,
+      "platform": 48
+    },
+    {
+      "id": 60879,
+      "date": 1482192000,
+      "platform": 14
+    },
+    {
+      "id": 136386,
+      "date": 1482192000,
+      "platform": 49
+    },
+    {
+      "id": 60882,
+      "date": 1482192000,
+      "platform": 49
+    },
+    {
+      "id": 248972,
+      "date": 1579564800,
+      "platform": 130
+    },
+    {
+      "id": 340980,
+      "date": 1579564800,
+      "platform": 130
+    }
+  ]
+}

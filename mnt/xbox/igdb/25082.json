@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 25082,
+    "game_engines": [
+      {
+        "id": 279,
+        "name": "HPL Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 133178,
+        "company": {
+          "id": 36,
+          "name": "Frictional Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Amnesia: Collection",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/amnesia-collection",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 165946,
+      "date": 1538092800,
+      "platform": 49
+    },
+    {
+      "id": 165945,
+      "date": 1479772800,
+      "platform": 48
+    },
+    {
+      "id": 518807,
+      "date": 1448755200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 220066,
+      "date": 1568246400,
+      "platform": 130
+    },
+    {
+      "id": 339013,
+      "date": 1568160000,
+      "platform": 130
+    }
+  ]
+}

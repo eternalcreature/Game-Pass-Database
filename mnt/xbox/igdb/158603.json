@@ -1,0 +1,124 @@
+{
+  "general": {
+    "id": 158603,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 284361,
+        "company": {
+          "id": 3957,
+          "name": "M2H"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 284362,
+        "company": {
+          "id": 5680,
+          "name": "Blackmill Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Isonzo",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/isonzo",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 635887,
+      "date": 1694044800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 636057,
+      "date": 1663027200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 636058,
+      "date": 1663027200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 636059,
+      "date": 1663027200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 636060,
+      "date": 1663027200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 636061,
+      "date": 1663027200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 636062,
+      "date": 1694044800,
+      "platform": 3,
+      "status": 6
+    }
+  ]
+}

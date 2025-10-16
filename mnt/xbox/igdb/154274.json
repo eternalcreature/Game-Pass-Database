@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 154274,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 183625,
+        "company": {
+          "id": 38016,
+          "name": "Implausible Industries"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 170192,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Research and Destroy",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/research-and-destroy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 381138,
+      "date": 1650931200,
+      "platform": 130
+    },
+    {
+      "id": 356584,
+      "date": 1650931200,
+      "platform": 49
+    },
+    {
+      "id": 356585,
+      "date": 1650931200,
+      "platform": 169
+    },
+    {
+      "id": 356624,
+      "date": 1650844800,
+      "platform": 6
+    },
+    {
+      "id": 356625,
+      "date": 1650844800,
+      "platform": 48
+    },
+    {
+      "id": 356626,
+      "date": 1650844800,
+      "platform": 167
+    }
+  ]
+}

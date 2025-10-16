@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2018-05-31",
-    "release_date": null,
+    "release_date": "2023-04-27",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -90,24 +90,45 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Taito Type-X2",
+        "Sega ALLS"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2018-05-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 51448,
-      "name": "BlazBlue: Cross Tag Battle",
-      "url": "https://www.igdb.com/games/blazblue-cross-tag-battle",
+      "id": 136605,
+      "name": "BlazBlue: Cross Tag Battle - Special Edition",
+      "url": "https://www.igdb.com/games/blazblue-cross-tag-battle-special-edition",
       "publishers": [
         "Arc System Works",
-        "Arc System Works America",
         "PQube"
       ],
       "developers": [
         "Arc System Works"
       ],
       "genres": [
-        "Fighting",
-        "Adventure",
-        "Arcade"
+        "Fighting"
       ],
       "themes": [
         "Action",
@@ -119,7 +140,31 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "Taito Type-X2",
+        "Sega ALLS"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2018-06-04",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-06-04"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-04-27"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-04-27"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

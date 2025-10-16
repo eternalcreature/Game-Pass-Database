@@ -20,7 +20,7 @@
       ]
     ],
     "original_release_date": "2025-07-11",
-    "release_date": null,
+    "release_date": "2025-07-11",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -99,12 +99,35 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2025-07-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 334243,
-      "name": "Tony Hawk's Pro Skater 3+4",
-      "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4",
+      "id": 334422,
+      "name": "Tony Hawk's Pro Skater 3 + 4: Digital Deluxe Edition",
+      "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4-digital-deluxe-edition",
       "publishers": [
         "Activision"
       ],
@@ -125,7 +148,28 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2025-07-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-07-11"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

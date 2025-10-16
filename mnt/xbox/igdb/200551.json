@@ -1,0 +1,121 @@
+{
+  "general": {
+    "id": 200551,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 315566,
+        "company": {
+          "id": 15932,
+          "name": "miHoYo"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 315567,
+        "company": {
+          "id": 41907,
+          "name": "HoYoverse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 315568,
+        "company": {
+          "id": 40242,
+          "name": "Cognosphere"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Zenless Zone Zero",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/zenless-zone-zero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 622684,
+      "date": 1716768000,
+      "platform": 39,
+      "status": 2
+    },
+    {
+      "id": 622683,
+      "date": 1719878400,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 622682,
+      "date": 1718841600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 622681,
+      "date": 1706486400,
+      "platform": 34,
+      "status": 2
+    },
+    {
+      "id": 745753,
+      "date": 1749168000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 601757,
+      "date": 1720051200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 601756,
+      "date": 1720051200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

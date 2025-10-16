@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 18735,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 34610,
+        "company": {
+          "id": 769,
+          "name": "Team NINJA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 95621,
+        "company": {
+          "id": 14776,
+          "name": "Tecmo"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ninja Gaiden Black",
+    "parent_game": 5972,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ninja-gaiden-black",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 49652,
+      "date": 1127174400,
+      "platform": 11
+    }
+  ]
+}

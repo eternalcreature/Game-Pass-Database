@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 9730,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 39137,
+        "company": {
+          "id": 5212,
+          "name": "Campo Santo"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 39136,
+        "company": {
+          "id": 5213,
+          "name": "Panic"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Firewatch",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/firewatch",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 38734,
+      "date": 1454976000,
+      "platform": 48
+    },
+    {
+      "id": 460873,
+      "date": 1481760000,
+      "platform": 14
+    },
+    {
+      "id": 136016,
+      "date": 1474416000,
+      "platform": 49
+    },
+    {
+      "id": 152658,
+      "date": 1476403200,
+      "platform": 49
+    },
+    {
+      "id": 38733,
+      "date": 1454976000,
+      "platform": 3
+    },
+    {
+      "id": 161671,
+      "date": 1545004800,
+      "platform": 130
+    },
+    {
+      "id": 152656,
+      "date": 1454976000,
+      "platform": 14
+    },
+    {
+      "id": 152657,
+      "date": 1475193600,
+      "platform": 49
+    },
+    {
+      "id": 38731,
+      "date": 1454976000,
+      "platform": 6
+    }
+  ]
+}

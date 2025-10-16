@@ -1,0 +1,140 @@
+{
+  "general": {
+    "id": 3772,
+    "game_engines": [
+      {
+        "id": 106,
+        "name": "ROMU"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 279394,
+        "company": {
+          "id": 427,
+          "name": "Bugbear Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 279395,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 302268,
+        "company": {
+          "id": 17665,
+          "name": "Handy Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Wreckfest",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wreckfest",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 547589,
+      "date": 1390435200,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 399713,
+      "date": 1655769600,
+      "platform": 130
+    },
+    {
+      "id": 624632,
+      "date": 1620086400,
+      "platform": 167
+    },
+    {
+      "id": 427073,
+      "date": 1668470400,
+      "platform": 34
+    },
+    {
+      "id": 172155,
+      "date": 1566864000,
+      "platform": 48
+    },
+    {
+      "id": 172154,
+      "date": 1566864000,
+      "platform": 49
+    },
+    {
+      "id": 427072,
+      "date": 1668470400,
+      "platform": 39
+    },
+    {
+      "id": 328151,
+      "date": 1638316800,
+      "platform": 170
+    },
+    {
+      "id": 547097,
+      "date": 1528934400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

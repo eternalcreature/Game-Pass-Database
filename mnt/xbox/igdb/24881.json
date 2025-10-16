@@ -1,0 +1,133 @@
+{
+  "general": {
+    "id": 24881,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44542,
+        "company": {
+          "id": 7081,
+          "name": "Licorice"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129700,
+        "company": {
+          "id": 7080,
+          "name": "Noio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 195791,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kingdom: New Lands",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kingdom-new-lands",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136098,
+      "date": 1470700800,
+      "platform": 49
+    },
+    {
+      "id": 58631,
+      "date": 1470700800,
+      "platform": 3
+    },
+    {
+      "id": 58629,
+      "date": 1470700800,
+      "platform": 6
+    },
+    {
+      "id": 111231,
+      "date": 1505347200,
+      "platform": 130
+    },
+    {
+      "id": 58632,
+      "date": 1470700800,
+      "platform": 49
+    },
+    {
+      "id": 150191,
+      "date": 1489017600,
+      "platform": 39
+    },
+    {
+      "id": 348717,
+      "date": 1516060800,
+      "platform": 48
+    },
+    {
+      "id": 401852,
+      "date": 1470700800,
+      "platform": 14
+    }
+  ]
+}

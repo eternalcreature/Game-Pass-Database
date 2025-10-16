@@ -1,0 +1,96 @@
+{
+  "general": {
+    "id": 137948,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 110944,
+        "company": {
+          "id": 25294,
+          "name": "Coatsink"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 129213,
+        "company": {
+          "id": 13848,
+          "name": "Outright Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Transformers: Battlegrounds",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/transformers-battlegrounds",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 214936,
+      "date": 1603411200,
+      "platform": 48
+    },
+    {
+      "id": 214937,
+      "date": 1603411200,
+      "platform": 130
+    },
+    {
+      "id": 214935,
+      "date": 1603411200,
+      "platform": 49
+    },
+    {
+      "id": 328160,
+      "date": 1638316800,
+      "platform": 170
+    },
+    {
+      "id": 339629,
+      "date": 1603324800,
+      "platform": 130
+    },
+    {
+      "id": 412331,
+      "date": 1603324800,
+      "platform": 6
+    }
+  ]
+}

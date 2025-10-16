@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 164290,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 273901,
+        "company": {
+          "id": 4133,
+          "name": "11 bit studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Frostpunk 2",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/frostpunk-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 776326,
+      "date": 1758153600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 776325,
+      "date": 1758153600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 609136,
+      "date": 1726790400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 609137,
+      "date": 1726790400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 16136,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96430,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 135267,
+        "company": {
+          "id": 10595,
+          "name": "Do My Best Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Final Station",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-final-station",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 136368,
+      "date": 1472774400,
+      "platform": 49
+    },
+    {
+      "id": 117369,
+      "date": 1472515200,
+      "platform": 48
+    },
+    {
+      "id": 148209,
+      "date": 1519689600,
+      "platform": 130
+    },
+    {
+      "id": 120049,
+      "date": 1472774400,
+      "platform": 49
+    },
+    {
+      "id": 417785,
+      "date": 1472515200,
+      "platform": 6
+    },
+    {
+      "id": 417786,
+      "date": 1472515200,
+      "platform": 14
+    },
+    {
+      "id": 417787,
+      "date": 1472515200,
+      "platform": 3
+    },
+    {
+      "id": 147883,
+      "date": 1519344000,
+      "platform": 130
+    },
+    {
+      "id": 55189,
+      "date": 1472515200,
+      "platform": 49
+    }
+  ]
+}

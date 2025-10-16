@@ -1,0 +1,115 @@
+{
+  "general": {
+    "id": 20871,
+    "game_engines": [
+      {
+        "id": 36,
+        "name": "Asura"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 43658,
+        "company": {
+          "id": 318,
+          "name": "Rebellion Developments"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Zombie Army Trilogy",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/zombie-army-trilogy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 107061,
+      "date": 1425600000,
+      "platform": 48
+    },
+    {
+      "id": 55050,
+      "date": 1425600000,
+      "platform": 6
+    },
+    {
+      "id": 107060,
+      "date": 1425340800,
+      "platform": 48
+    },
+    {
+      "id": 55051,
+      "date": 1425600000,
+      "platform": 48
+    },
+    {
+      "id": 55052,
+      "date": 1425600000,
+      "platform": 49
+    },
+    {
+      "id": 191764,
+      "date": 1585612800,
+      "platform": 130
+    },
+    {
+      "id": 341887,
+      "date": 1585526400,
+      "platform": 130
+    },
+    {
+      "id": 136470,
+      "date": 1425600000,
+      "platform": 49
+    }
+  ]
+}

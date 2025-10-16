@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 219442,
+    "game_engines": [
+      {
+        "id": 2,
+        "name": "Frostbite"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 189958,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 189957,
+        "company": {
+          "id": 347,
+          "name": "Criterion Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Need for Speed: Unbound",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/need-for-speed-unbound",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 428711,
+      "date": 1669939200,
+      "platform": 6
+    },
+    {
+      "id": 428277,
+      "date": 1669680000,
+      "platform": 169
+    },
+    {
+      "id": 428710,
+      "date": 1669680000,
+      "platform": 167
+    }
+  ]
+}

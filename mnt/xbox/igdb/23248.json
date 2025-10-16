@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 23248,
+    "game_engines": [
+      {
+        "id": 578,
+        "name": "Liquid Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 166239,
+        "company": {
+          "id": 4133,
+          "name": "11 bit studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Frostpunk",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      }
+    ],
+    "url": "https://www.igdb.com/games/frostpunk",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 436597,
+      "date": 1570752000,
+      "platform": 48
+    },
+    {
+      "id": 436596,
+      "date": 1570752000,
+      "platform": 49
+    },
+    {
+      "id": 305011,
+      "date": 1524528000,
+      "platform": 14
+    },
+    {
+      "id": 305010,
+      "date": 1524528000,
+      "platform": 6
+    }
+  ]
+}

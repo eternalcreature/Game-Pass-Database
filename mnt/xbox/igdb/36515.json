@@ -1,0 +1,147 @@
+{
+  "general": {
+    "id": 36515,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53302,
+        "company": {
+          "id": 9607,
+          "name": "Bandai Namco Entertainment Europe"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 53300,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 53299,
+        "company": {
+          "id": 396,
+          "name": "Dimps"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 53301,
+        "company": {
+          "id": 9608,
+          "name": "Bandai Namco Entertainment America"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Sword Art Online: Fatal Bullet",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sword-art-online-fatal-bullet",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 124326,
+      "date": 1519344000,
+      "platform": 48
+    },
+    {
+      "id": 134771,
+      "date": 1518912000,
+      "platform": 48
+    },
+    {
+      "id": 113858,
+      "date": 1518048000,
+      "platform": 6
+    },
+    {
+      "id": 124330,
+      "date": 1519344000,
+      "platform": 49
+    },
+    {
+      "id": 124328,
+      "date": 1519344000,
+      "platform": 6
+    },
+    {
+      "id": 124329,
+      "date": 1519344000,
+      "platform": 48
+    },
+    {
+      "id": 124327,
+      "date": 1519344000,
+      "platform": 49
+    },
+    {
+      "id": 113859,
+      "date": 1518048000,
+      "platform": 49
+    },
+    {
+      "id": 124331,
+      "date": 1519344000,
+      "platform": 6
+    }
+  ]
+}

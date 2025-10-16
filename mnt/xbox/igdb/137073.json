@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 137073,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 218465,
+        "company": {
+          "id": 27639,
+          "name": "Neverjam"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 310523,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "SpiderHeck",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/spiderheck",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 381819,
+      "date": 1663804800,
+      "platform": 48
+    },
+    {
+      "id": 389451,
+      "date": 1663804800,
+      "platform": 49
+    },
+    {
+      "id": 389452,
+      "date": 1663804800,
+      "platform": 169
+    },
+    {
+      "id": 389453,
+      "date": 1663804800,
+      "platform": 6
+    },
+    {
+      "id": 389955,
+      "date": 1663804800,
+      "platform": 167
+    },
+    {
+      "id": 442286,
+      "date": 1663804800,
+      "platform": 130
+    }
+  ]
+}

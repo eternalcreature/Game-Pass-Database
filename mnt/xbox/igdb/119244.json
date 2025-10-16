@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 119244,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 83214,
+        "company": {
+          "id": 10075,
+          "name": "THQ Nordic"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 83215,
+        "company": {
+          "id": 6542,
+          "name": "Airship Syndicate"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Darksiders Genesis",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/darksiders-genesis",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 567742,
+      "date": 1575504000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 567743,
+      "date": 1581638400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 567744,
+      "date": 1581638400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 567741,
+      "date": 1581638400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 567740,
+      "date": 1575504000,
+      "platform": 170,
+      "status": 6
+    },
+    {
+      "id": 624563,
+      "date": 1581638400,
+      "platform": 49
+    }
+  ]
+}

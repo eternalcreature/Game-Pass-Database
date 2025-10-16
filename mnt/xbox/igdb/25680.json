@@ -1,0 +1,142 @@
+{
+  "general": {
+    "id": 25680,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96439,
+        "company": {
+          "id": 5048,
+          "name": "Curve Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 128275,
+        "company": {
+          "id": 11788,
+          "name": "Pewter Games Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 128276,
+        "company": {
+          "id": 11788,
+          "name": "Pewter Games Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Little Acre",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-little-acre",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 62823,
+      "date": 1481587200,
+      "platform": 3
+    },
+    {
+      "id": 136373,
+      "date": 1481587200,
+      "platform": 49
+    },
+    {
+      "id": 62822,
+      "date": 1481587200,
+      "platform": 14
+    },
+    {
+      "id": 117164,
+      "date": 1481587200,
+      "platform": 48
+    },
+    {
+      "id": 62825,
+      "date": 1481587200,
+      "platform": 49
+    },
+    {
+      "id": 62821,
+      "date": 1481587200,
+      "platform": 6
+    },
+    {
+      "id": 62826,
+      "date": 1481587200,
+      "platform": 48
+    },
+    {
+      "id": 223299,
+      "date": 1556150400,
+      "platform": 130
+    },
+    {
+      "id": 317647,
+      "date": 1497916800,
+      "platform": 39
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 274920,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 258264,
+        "company": {
+          "id": 53529,
+          "name": "Nokta Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Supermarket Simulator",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 28,
+        "name": "Business"
+      }
+    ],
+    "url": "https://www.igdb.com/games/supermarket-simulator--3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 817750,
+      "date": 1759881600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 759393,
+      "date": 1750291200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 759392,
+      "date": 1750291200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 566186,
+      "date": 1708387200,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

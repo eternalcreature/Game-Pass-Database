@@ -1,0 +1,136 @@
+{
+  "general": {
+    "id": 115278,
+    "game_engines": [
+      {
+        "id": 1743,
+        "name": "Eclipse Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 74454,
+        "company": {
+          "id": 2187,
+          "name": "XSEED Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 74455,
+        "company": {
+          "id": 8207,
+          "name": "Marvelous USA, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 158368,
+        "company": {
+          "id": 9066,
+          "name": "Marvelous Europe Ltd."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 290917,
+        "company": {
+          "id": 35126,
+          "name": "HAKAMA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 290916,
+        "company": {
+          "id": 6071,
+          "name": "Marvelous"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Rune Factory 4 Special",
+    "parent_game": 6874,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rune-factory-4-special",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 774899,
+      "date": 1582761600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 774898,
+      "date": 1582588800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 774900,
+      "date": 1564012800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 774901,
+      "date": 1638835200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 774903,
+      "date": 1638835200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 774902,
+      "date": 1638835200,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}

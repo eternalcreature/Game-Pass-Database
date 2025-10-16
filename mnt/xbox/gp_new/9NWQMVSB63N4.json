@@ -12,8 +12,8 @@
         "9NWQMVSB63N4"
       ]
     ],
-    "original_release_date": "2004-11-09",
-    "release_date": null,
+    "original_release_date": "2014-11-11",
+    "release_date": "2020-03-03",
     "platforms": [
       "PC"
     ]
@@ -78,25 +78,50 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Saber3D",
+        "Halo 2",
+        "Halo Reach"
+      ],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2014-11-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-05-12"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-11-17"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 125009,
-      "name": "Halo 2: Anniversary",
-      "url": "https://www.igdb.com/games/halo-2-anniversary",
+      "id": 2640,
+      "name": "Halo: Combat Evolved Anniversary",
+      "url": "https://www.igdb.com/games/halo-combat-evolved-anniversary",
       "publishers": [
-        "Xbox Game Studios"
+        "Microsoft Studios"
       ],
       "developers": [
-        "343 Industries",
-        "Bungie"
+        "343 Industries"
       ],
       "genres": [
         "Shooter"
       ],
       "themes": [
         "Action",
-        "Science fiction"
+        "Science fiction",
+        "Warfare"
       ],
       "game_modes": [
         "Single player",
@@ -106,7 +131,30 @@
       ],
       "player_perspectives": [
         "First person"
-      ]
+      ],
+      "engine": [
+        "Blam! Engine"
+      ],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2011-11-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-03-03"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-11"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-11-15"
+        }
+      }
     }
   },
   "steam_store_meta": {}

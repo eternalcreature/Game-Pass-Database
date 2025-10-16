@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 9182,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 96284,
+        "company": {
+          "id": 11262,
+          "name": "Gearbox Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 96285,
+        "company": {
+          "id": 1924,
+          "name": "Compulsion Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "We Happy Few",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/we-happy-few",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 576554,
+      "date": 1533859200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 576555,
+      "date": 1533859200,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 576556,
+      "date": 1469491200,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 576551,
+      "date": 1533859200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 576552,
+      "date": 1533859200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 576553,
+      "date": 1469491200,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

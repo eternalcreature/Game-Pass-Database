@@ -12,7 +12,7 @@
         "9PJPV2PC3MWR"
       ]
     ],
-    "original_release_date": "2021-09-01",
+    "original_release_date": "2021-12-01",
     "release_date": null,
     "platforms": [
       "PC",
@@ -92,7 +92,30 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2021-12-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-02"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-01"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

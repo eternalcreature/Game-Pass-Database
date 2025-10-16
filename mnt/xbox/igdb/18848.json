@@ -1,0 +1,72 @@
+{
+  "general": {
+    "id": 18848,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 34809,
+        "company": {
+          "id": 9576,
+          "name": "VSS, Inc."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 34808,
+        "company": {
+          "id": 9575,
+          "name": "Wizard Video Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Texas Chainsaw Massacre",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-texas-chainsaw-massacre",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 561930,
+      "date": 441676800,
+      "platform": 59,
+      "status": 6
+    }
+  ]
+}

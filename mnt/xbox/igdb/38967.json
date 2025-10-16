@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 38967,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98859,
+        "company": {
+          "id": 4741,
+          "name": "Forever Entertainment S.A."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 135664,
+        "company": {
+          "id": 17972,
+          "name": "Big Cheese Studio"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 197123,
+        "company": {
+          "id": 24060,
+          "name": "PlayWay"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cooking Simulator",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/cooking-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 245324,
+      "date": 1621468800,
+      "platform": 48
+    },
+    {
+      "id": 210836,
+      "date": 1597363200,
+      "platform": 49
+    },
+    {
+      "id": 304269,
+      "date": 1597363200,
+      "platform": 49
+    },
+    {
+      "id": 299530,
+      "date": 1559779200,
+      "platform": 6
+    },
+    {
+      "id": 195662,
+      "date": 1589414400,
+      "platform": 130
+    },
+    {
+      "id": 249380,
+      "date": 1589414400,
+      "platform": 130
+    },
+    {
+      "id": 341897,
+      "date": 1589414400,
+      "platform": 130
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 204910,
+    "game_engines": [
+      {
+        "id": 490,
+        "name": "Bedrock Engine"
+      },
+      {
+        "id": 217,
+        "name": "Lightweight Java Game Library"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 313312,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 313313,
+        "company": {
+          "id": 58,
+          "name": "Mojang Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Minecraft: Java & Bedrock Edition",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      },
+      {
+        "id": 41,
+        "name": "4X (explore, expand, exploit, and exterminate)"
+      }
+    ],
+    "url": "https://www.igdb.com/games/minecraft-java-and-bedrock-edition",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 720040,
+      "date": 1654560000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

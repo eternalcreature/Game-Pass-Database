@@ -1,0 +1,99 @@
+{
+  "general": {
+    "id": 26381,
+    "game_engines": [
+      {
+        "id": 574,
+        "name": "Apex"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54650,
+        "company": {
+          "id": 437,
+          "name": "Avalanche Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 54651,
+        "company": {
+          "id": 5093,
+          "name": "Expansive Worlds"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "TheHunter: Call of the Wild",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/thehunter-call-of-the-wild",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 67665,
+      "date": 1487203200,
+      "platform": 6
+    },
+    {
+      "id": 113946,
+      "date": 1506902400,
+      "platform": 49
+    },
+    {
+      "id": 359687,
+      "date": 1506902400,
+      "platform": 48
+    }
+  ]
+}

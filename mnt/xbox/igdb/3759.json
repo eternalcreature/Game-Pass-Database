@@ -1,0 +1,78 @@
+{
+  "general": {
+    "id": 3759,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 9710,
+        "company": {
+          "id": 1893,
+          "name": "PopCap Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Feeding Frenzy",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/feeding-frenzy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 8488,
+      "date": 1076457600,
+      "platform": 11
+    },
+    {
+      "id": 8487,
+      "date": 1076457600,
+      "platform": 14
+    },
+    {
+      "id": 8486,
+      "date": 1076457600,
+      "platform": 6
+    },
+    {
+      "id": 196977,
+      "date": 1142380800,
+      "platform": 12
+    },
+    {
+      "id": 229696,
+      "date": 1142380800,
+      "platform": 9
+    }
+  ]
+}

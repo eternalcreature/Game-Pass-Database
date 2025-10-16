@@ -17,8 +17,8 @@
         "9NT52LH4Q2S5"
       ]
     ],
-    "original_release_date": "2019-04-16",
-    "release_date": null,
+    "original_release_date": "2019-01-15",
+    "release_date": "2022-10-31",
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -71,37 +71,70 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-01-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-01-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-04-16"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 43165,
-      "name": "My Time at Portia",
-      "url": "https://www.igdb.com/games/my-time-at-portia",
-      "publishers": [
-        "Team17"
-      ],
-      "developers": [
-        "Pathea Games"
-      ],
+      "id": 224111,
+      "name": "My Time at Portia: Deluxe Edition",
+      "url": "https://www.igdb.com/games/my-time-at-portia-deluxe-edition",
+      "publishers": [],
+      "developers": [],
       "genres": [
         "Role-playing (RPG)",
         "Simulator",
-        "Adventure",
-        "Indie"
+        "Adventure"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Survival",
-        "Sandbox",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": [
-        "Third person"
-      ]
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-10-31",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-10-31"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

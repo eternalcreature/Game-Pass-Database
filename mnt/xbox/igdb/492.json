@@ -1,0 +1,100 @@
+{
+  "general": {
+    "id": 492,
+    "game_engines": [
+      {
+        "id": 351,
+        "name": "Unreal Engine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 3948,
+        "company": {
+          "id": 53,
+          "name": "Microsoft Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 87893,
+        "company": {
+          "id": 17463,
+          "name": "Epic Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Gears of War 3",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/gears-of-war-3",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 77301,
+      "date": 1316476800,
+      "platform": 12
+    },
+    {
+      "id": 77302,
+      "date": 1316649600,
+      "platform": 12
+    },
+    {
+      "id": 77299,
+      "date": 1316476800,
+      "platform": 12
+    },
+    {
+      "id": 77300,
+      "date": 1316476800,
+      "platform": 12
+    }
+  ]
+}

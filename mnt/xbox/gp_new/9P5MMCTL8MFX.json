@@ -18,7 +18,7 @@
       ]
     ],
     "original_release_date": "2015-11-17",
-    "release_date": null,
+    "release_date": "2015-11-17",
     "platforms": [
       "PC"
     ]
@@ -83,24 +83,48 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Frostbite"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2015-11-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 2113,
-      "name": "Star Wars Battlefront",
-      "url": "https://www.igdb.com/games/star-wars-battlefront--1",
+      "id": 53663,
+      "name": "Star Wars Battlefront: Ultimate Edition",
+      "url": "https://www.igdb.com/games/star-wars-battlefront-ultimate-edition",
       "publishers": [
-        "Electronic Arts"
+        "Electronic Arts, Inc."
       ],
       "developers": [
         "EA Digital Illusions CE"
       ],
       "genres": [
-        "Shooter"
+        "Shooter",
+        "Simulator",
+        "Adventure"
       ],
       "themes": [
-        "Action",
-        "Science fiction"
+        "Action"
       ],
       "game_modes": [
         "Single player",
@@ -110,7 +134,28 @@
       "player_perspectives": [
         "First person",
         "Third person"
-      ]
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2015-11-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2015-11-17"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

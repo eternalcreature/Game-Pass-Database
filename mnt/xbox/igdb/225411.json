@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 225411,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 331110,
+        "company": {
+          "id": 16437,
+          "name": "Team17"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Golf With Your Friends: Caddy Pack",
+    "parent_game": 24985,
+    "themes": [
+      {
+        "id": 35,
+        "name": "Kids"
+      }
+    ],
+    "url": "https://www.igdb.com/games/golf-with-your-friends-caddy-pack",
+    "game_type": 13
+  },
+  "release_dates": [
+    {
+      "id": 773400,
+      "date": 1589846400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 773404,
+      "date": 1589846400,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 773399,
+      "date": 1589846400,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 773402,
+      "date": 1589846400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 773401,
+      "date": 1589846400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 773403,
+      "date": 1589846400,
+      "platform": 14,
+      "status": 6
+    }
+  ]
+}

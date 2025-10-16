@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 188063,
+    "game_engines": [
+      {
+        "id": 118,
+        "name": "Dunia Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 213602,
+        "company": {
+          "id": 3655,
+          "name": "Ubisoft Pune"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 300591,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Far Cry 3: Blood Dragon - Classic Edition",
+    "parent_game": 2001,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/far-cry-3-blood-dragon-classic-edition",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 344144,
+      "date": 1639612800,
+      "platform": 49
+    },
+    {
+      "id": 344145,
+      "date": 1639612800,
+      "platform": 48
+    }
+  ]
+}

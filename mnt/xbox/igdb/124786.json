@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 124786,
+    "game_engines": [
+      {
+        "id": 28,
+        "name": "Infinity Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 207681,
+        "company": {
+          "id": 2501,
+          "name": "Overhaul Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 207679,
+        "company": {
+          "id": 5071,
+          "name": "Beamdog"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 207680,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/baldurs-gate-and-baldurs-gate-ii-enhanced-editions",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 216547,
+      "date": 1571097600,
+      "platform": 130
+    },
+    {
+      "id": 216548,
+      "date": 1571097600,
+      "platform": 48
+    },
+    {
+      "id": 216549,
+      "date": 1571097600,
+      "platform": 49
+    }
+  ]
+}

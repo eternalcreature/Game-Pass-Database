@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 97257,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 154950,
+        "company": {
+          "id": 15386,
+          "name": "EggNut"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 195796,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Tails Noir",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/tails-noir--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 246231,
+      "date": 1623110400,
+      "platform": 6
+    },
+    {
+      "id": 246232,
+      "date": 1623110400,
+      "platform": 3
+    },
+    {
+      "id": 322544,
+      "date": 1635379200,
+      "platform": 48
+    },
+    {
+      "id": 322545,
+      "date": 1635379200,
+      "platform": 49
+    },
+    {
+      "id": 322546,
+      "date": 1635379200,
+      "platform": 167
+    },
+    {
+      "id": 246230,
+      "date": 1623110400,
+      "platform": 14
+    },
+    {
+      "id": 340243,
+      "date": 1623110400,
+      "platform": 49
+    },
+    {
+      "id": 340244,
+      "date": 1623110400,
+      "platform": 169
+    },
+    {
+      "id": 344285,
+      "date": 1644364800,
+      "platform": 130
+    },
+    {
+      "id": 322547,
+      "date": 1635379200,
+      "platform": 169
+    }
+  ]
+}

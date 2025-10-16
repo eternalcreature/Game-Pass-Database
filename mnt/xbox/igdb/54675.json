@@ -1,0 +1,109 @@
+{
+  "general": {
+    "id": 54675,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 82559,
+        "company": {
+          "id": 13285,
+          "name": "White Owls Inc."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 186635,
+        "company": {
+          "id": 2120,
+          "name": "Grounding Inc"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 135646,
+        "company": {
+          "id": 12500,
+          "name": "The Irregular Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 192498,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Good Life",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-good-life--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 312427,
+      "date": 1634256000,
+      "platform": 48
+    },
+    {
+      "id": 312428,
+      "date": 1634256000,
+      "platform": 6
+    },
+    {
+      "id": 312426,
+      "date": 1634256000,
+      "platform": 49
+    },
+    {
+      "id": 312429,
+      "date": 1634256000,
+      "platform": 130
+    },
+    {
+      "id": 339244,
+      "date": 1634169600,
+      "platform": 130
+    }
+  ]
+}

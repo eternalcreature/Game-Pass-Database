@@ -1,0 +1,119 @@
+{
+  "general": {
+    "id": 134602,
+    "game_engines": [
+      {
+        "id": 239,
+        "name": "Irrlicht"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 167621,
+        "company": {
+          "id": 2147,
+          "name": "Young Horses"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Bugsnax",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 7,
+        "name": "Virtual Reality"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bugsnax",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 489938,
+      "date": 1605139200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 489940,
+      "date": 1651104000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 489937,
+      "date": 1605139200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 489939,
+      "date": 1605139200,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 489936,
+      "date": 1651104000,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 489941,
+      "date": 1651104000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 489935,
+      "date": 1605139200,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 787359,
+      "date": 1731369600,
+      "platform": 163,
+      "status": 6
+    }
+  ]
+}

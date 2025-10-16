@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 9047,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 286509,
+        "company": {
+          "id": 4930,
+          "name": "Spiderling Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Besiege",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/besiege",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 640888,
+      "date": 1733961600,
+      "platform": 167
+    },
+    {
+      "id": 640886,
+      "date": 1733961600,
+      "platform": 130
+    },
+    {
+      "id": 640887,
+      "date": 1733961600,
+      "platform": 48
+    },
+    {
+      "id": 189178,
+      "date": 1581984000,
+      "platform": 14
+    },
+    {
+      "id": 189179,
+      "date": 1581984000,
+      "platform": 3
+    },
+    {
+      "id": 343042,
+      "date": 1644451200,
+      "platform": 169
+    },
+    {
+      "id": 343041,
+      "date": 1644451200,
+      "platform": 49
+    },
+    {
+      "id": 189177,
+      "date": 1581984000,
+      "platform": 6
+    }
+  ]
+}

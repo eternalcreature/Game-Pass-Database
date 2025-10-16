@@ -13,7 +13,7 @@
       ]
     ],
     "original_release_date": "2011-05-16",
-    "release_date": null,
+    "release_date": "2014-11-14",
     "platforms": [
       "XboxOne",
       "XboxSeriesX",
@@ -100,7 +100,31 @@
       ],
       "player_perspectives": [
         "Side view"
-      ]
+      ],
+      "engine": [
+        "XNA Game Studio",
+        "FNA"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2011-05-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2011-05-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-14"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2013-03-27"
+        }
+      }
     }
   },
   "steam_store_meta": {}

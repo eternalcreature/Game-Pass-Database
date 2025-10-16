@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 80698,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 285088,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 285089,
+        "company": {
+          "id": 781,
+          "name": "M2"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 285090,
+        "company": {
+          "id": 16367,
+          "name": "Sega CS1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 285091,
+        "company": {
+          "id": 4981,
+          "name": "Sega Enterprises, Ltd."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 285092,
+        "company": {
+          "id": 10180,
+          "name": "Team Shinobi"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Sega Vintage Collection: Golden Axe",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sega-vintage-collection-golden-axe",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 231434,
+      "date": 1338336000,
+      "platform": 12
+    }
+  ]
+}

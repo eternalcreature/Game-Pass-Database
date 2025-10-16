@@ -95,28 +95,46 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Foundation Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2020-09-04",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     },
     "specific": {
-      "id": 26950,
-      "name": "Marvel's Avengers",
-      "url": "https://www.igdb.com/games/marvels-avengers",
-      "publishers": [
-        "Crystal Dynamics",
-        "Square Enix"
-      ],
+      "id": 259466,
+      "name": "Marvel's Avengers Definitive Edition",
+      "url": "https://www.igdb.com/games/marvels-avengers-definitive-edition",
+      "publishers": [],
       "developers": [
         "Crystal Dynamics",
         "Eidos Montr\u00e9al"
       ],
       "genres": [
         "Role-playing (RPG)",
-        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "themes": [
-        "Action",
-        "Science fiction"
+        "Action"
       ],
       "game_modes": [
         "Single player",
@@ -125,7 +143,30 @@
       ],
       "player_perspectives": [
         "Third person"
-      ]
+      ],
+      "engine": [
+        "Foundation Engine"
+      ],
+      "game_type": "expanded_game",
+      "release_dates": {
+        "release_date": "2020-09-04",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2020-09-04"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

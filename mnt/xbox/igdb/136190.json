@@ -1,0 +1,70 @@
+{
+  "general": {
+    "id": 136190,
+    "game_engines": [
+      {
+        "id": 1743,
+        "name": "Eclipse Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 117177,
+        "company": {
+          "id": 6071,
+          "name": "Marvelous"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 117178,
+        "company": {
+          "id": 819,
+          "name": "Neverland"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Rune Factory 4 Special: Archival Edition",
+    "parent_game": 6874,
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/rune-factory-4-special-archival-edition",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 225388,
+      "date": 1582848000,
+      "platform": 130
+    }
+  ]
+}

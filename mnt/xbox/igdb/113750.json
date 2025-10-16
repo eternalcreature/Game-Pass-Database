@@ -1,0 +1,85 @@
+{
+  "general": {
+    "id": 113750,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 82628,
+        "company": {
+          "id": 21439,
+          "name": "Tinogames"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Neoverse",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/neoverse",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 356948,
+      "date": 1650240000,
+      "platform": 39
+    },
+    {
+      "id": 314369,
+      "date": 1611187200,
+      "platform": 130
+    },
+    {
+      "id": 222143,
+      "date": 1608163200,
+      "platform": 49
+    },
+    {
+      "id": 314370,
+      "date": 1614816000,
+      "platform": 48
+    },
+    {
+      "id": 412202,
+      "date": 1581984000,
+      "platform": 14
+    },
+    {
+      "id": 422105,
+      "date": 1546992000,
+      "platform": 6
+    }
+  ]
+}

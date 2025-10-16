@@ -1,0 +1,126 @@
+{
+  "general": {
+    "id": 1564,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 19207,
+        "company": {
+          "id": 263,
+          "name": "Namco"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 19206,
+        "company": {
+          "id": 732,
+          "name": "Project Soul"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 99597,
+        "company": {
+          "id": 6330,
+          "name": "Namco Bandai Games"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "SoulCalibur",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/soulcalibur",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 596549,
+      "date": 1326931200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 22186,
+      "date": 915062400,
+      "platform": 52
+    },
+    {
+      "id": 22188,
+      "date": 933811200,
+      "platform": 23
+    },
+    {
+      "id": 22187,
+      "date": 915062400,
+      "platform": 52
+    },
+    {
+      "id": 231448,
+      "date": 1214956800,
+      "platform": 12
+    },
+    {
+      "id": 22189,
+      "date": 936835200,
+      "platform": 23
+    },
+    {
+      "id": 596548,
+      "date": 1384905600,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 22190,
+      "date": 944006400,
+      "platform": 23
+    },
+    {
+      "id": 22185,
+      "date": 901756800,
+      "platform": 52
+    }
+  ]
+}

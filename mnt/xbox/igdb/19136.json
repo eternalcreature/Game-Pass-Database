@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 19136,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 72673,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 134733,
+        "company": {
+          "id": 453,
+          "name": "Zen Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "CastleStorm",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/castlestorm",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 50628,
+      "date": 1399420800,
+      "platform": 39
+    },
+    {
+      "id": 138179,
+      "date": 1388016000,
+      "platform": 41
+    },
+    {
+      "id": 50630,
+      "date": 1411430400,
+      "platform": 48
+    },
+    {
+      "id": 50624,
+      "date": 1375056000,
+      "platform": 6
+    },
+    {
+      "id": 204538,
+      "date": 1369785600,
+      "platform": 12
+    },
+    {
+      "id": 204539,
+      "date": 1383609600,
+      "platform": 9
+    },
+    {
+      "id": 138180,
+      "date": 1388016000,
+      "platform": 41
+    },
+    {
+      "id": 50626,
+      "date": 1383609600,
+      "platform": 46
+    },
+    {
+      "id": 50629,
+      "date": 1411430400,
+      "platform": 49
+    },
+    {
+      "id": 50627,
+      "date": 1388016000,
+      "platform": 41
+    }
+  ]
+}

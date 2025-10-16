@@ -1,0 +1,120 @@
+{
+  "general": {
+    "id": 11078,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 42441,
+        "company": {
+          "id": 2187,
+          "name": "XSEED Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 132221,
+        "company": {
+          "id": 28729,
+          "name": "WayForward"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Shantae: Half-Genie Hero",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shantae-half-genie-hero",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 61900,
+      "date": 1482192000,
+      "platform": 46
+    },
+    {
+      "id": 61902,
+      "date": 1482192000,
+      "platform": 48
+    },
+    {
+      "id": 61901,
+      "date": 1482192000,
+      "platform": 41
+    },
+    {
+      "id": 61898,
+      "date": 1482192000,
+      "platform": 49
+    },
+    {
+      "id": 80748,
+      "date": 1496880000,
+      "platform": 130
+    },
+    {
+      "id": 136278,
+      "date": 1482192000,
+      "platform": 49
+    },
+    {
+      "id": 76210,
+      "date": 1496880000,
+      "platform": 130
+    },
+    {
+      "id": 61903,
+      "date": 1482192000,
+      "platform": 46
+    },
+    {
+      "id": 692455,
+      "date": 1635811200,
+      "platform": 167
+    },
+    {
+      "id": 61904,
+      "date": 1482192000,
+      "platform": 41
+    }
+  ]
+}

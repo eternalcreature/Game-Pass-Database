@@ -1,0 +1,132 @@
+{
+  "general": {
+    "id": 11057,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 27981,
+        "company": {
+          "id": 1975,
+          "name": "2K Sports"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 27982,
+        "company": {
+          "id": 694,
+          "name": "Visual Concepts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 56755,
+        "company": {
+          "id": 774,
+          "name": "QLOC"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 220276,
+        "company": {
+          "id": 20228,
+          "name": "2K"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "WWE 2K16",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "url": "https://www.igdb.com/games/wwe-2k16",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 40369,
+      "date": 1446163200,
+      "platform": 9
+    },
+    {
+      "id": 40373,
+      "date": 1446076800,
+      "platform": 9
+    },
+    {
+      "id": 40375,
+      "date": 1446076800,
+      "platform": 12
+    },
+    {
+      "id": 40372,
+      "date": 1446163200,
+      "platform": 12
+    },
+    {
+      "id": 40368,
+      "date": 1445904000,
+      "platform": 12
+    },
+    {
+      "id": 40371,
+      "date": 1446163200,
+      "platform": 49
+    },
+    {
+      "id": 106968,
+      "date": 1446163200,
+      "platform": 48
+    },
+    {
+      "id": 106967,
+      "date": 1445904000,
+      "platform": 48
+    },
+    {
+      "id": 40376,
+      "date": 1446076800,
+      "platform": 49
+    },
+    {
+      "id": 346899,
+      "date": 1457568000,
+      "platform": 6
+    }
+  ]
+}

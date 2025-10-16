@@ -1,0 +1,87 @@
+{
+  "general": {
+    "id": 3185,
+    "game_engines": [
+      {
+        "id": 58,
+        "name": "Ignite Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 209294,
+        "company": {
+          "id": 454,
+          "name": "EA Sports"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 209295,
+        "company": {
+          "id": 555,
+          "name": "EA Orlando"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Madden NFL 25",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 32,
+        "name": "Non-fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/madden-nfl-25",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 133856,
+      "date": 1385683200,
+      "platform": 48
+    },
+    {
+      "id": 133855,
+      "date": 1384473600,
+      "platform": 48
+    },
+    {
+      "id": 464154,
+      "date": 1385078400,
+      "platform": 49
+    }
+  ]
+}

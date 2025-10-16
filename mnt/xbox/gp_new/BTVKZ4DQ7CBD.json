@@ -12,7 +12,7 @@
         "BTVKZ4DQ7CBD"
       ]
     ],
-    "original_release_date": "2008-06-25",
+    "original_release_date": "2023-11-14",
     "release_date": null,
     "platforms": [
       "XboxOne",
@@ -66,7 +66,28 @@
       ],
       "player_perspectives": [
         "Bird view / Isometric"
-      ]
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2023-11-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-11-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-07-24"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-07-24"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
     }
   },
   "steam_store_meta": {}

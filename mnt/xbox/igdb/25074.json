@@ -1,0 +1,117 @@
+{
+  "general": {
+    "id": 25074,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190809,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 190810,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pac-Man Museum",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 40,
+        "name": "Party"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pac-man-museum",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 59178,
+      "date": 1393286400,
+      "platform": 6
+    },
+    {
+      "id": 204528,
+      "date": 1403654400,
+      "platform": 9
+    },
+    {
+      "id": 204533,
+      "date": 1393372800,
+      "platform": 12
+    },
+    {
+      "id": 204527,
+      "date": 1393372800,
+      "platform": 9
+    },
+    {
+      "id": 204529,
+      "date": 1393372800,
+      "platform": 9
+    },
+    {
+      "id": 204530,
+      "date": 1403654400,
+      "platform": 12
+    },
+    {
+      "id": 204531,
+      "date": 1393372800,
+      "platform": 12
+    },
+    {
+      "id": 204532,
+      "date": 1393372800,
+      "platform": 12
+    },
+    {
+      "id": 204526,
+      "date": 1393286400,
+      "platform": 9
+    },
+    {
+      "id": 511616,
+      "date": 1419984000,
+      "platform": 41,
+      "status": 5
+    }
+  ]
+}

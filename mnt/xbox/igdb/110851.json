@@ -1,0 +1,55 @@
+{
+  "general": {
+    "id": 110851,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 247385,
+        "company": {
+          "id": 16725,
+          "name": "Project Support Engineering"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Maneater",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/maneater--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 550845,
+      "date": 184032000,
+      "platform": 52,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 141704,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 220685,
+        "company": {
+          "id": 30539,
+          "name": "Visai Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Venba",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 44,
+        "name": "Romance"
+      }
+    ],
+    "url": "https://www.igdb.com/games/venba",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 808351,
+      "date": 1753660800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 485749,
+      "date": 1690761600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 482548,
+      "date": 1690761600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 482549,
+      "date": 1690761600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 485747,
+      "date": 1690761600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 485748,
+      "date": 1690761600,
+      "platform": 49,
+      "status": 6
+    }
+  ]
+}

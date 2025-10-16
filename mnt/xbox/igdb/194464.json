@@ -1,0 +1,104 @@
+{
+  "general": {
+    "id": 194464,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 165738,
+        "company": {
+          "id": 40493,
+          "name": "Coin Crew Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 165736,
+        "company": {
+          "id": 5442,
+          "name": "iam8bit"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 165737,
+        "company": {
+          "id": 16242,
+          "name": "Skybound Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Escape Academy",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/escape-academy",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 418371,
+      "date": 1657670400,
+      "platform": 6
+    },
+    {
+      "id": 364098,
+      "date": 1657756800,
+      "platform": 49
+    },
+    {
+      "id": 364100,
+      "date": 1657756800,
+      "platform": 48
+    },
+    {
+      "id": 364101,
+      "date": 1657756800,
+      "platform": 167
+    },
+    {
+      "id": 364099,
+      "date": 1657756800,
+      "platform": 169
+    }
+  ]
+}

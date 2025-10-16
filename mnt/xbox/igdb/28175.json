@@ -1,0 +1,97 @@
+{
+  "general": {
+    "id": 28175,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 60459,
+        "company": {
+          "id": 248,
+          "name": "Bandai Namco Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 60458,
+        "company": {
+          "id": 14527,
+          "name": "Soleil"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Naruto to Boruto: Shinobi Striker",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/naruto-to-boruto-shinobi-striker",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 152888,
+      "date": 1535587200,
+      "platform": 48
+    },
+    {
+      "id": 152887,
+      "date": 1535673600,
+      "platform": 48
+    },
+    {
+      "id": 152885,
+      "date": 1535673600,
+      "platform": 6
+    },
+    {
+      "id": 152886,
+      "date": 1535673600,
+      "platform": 49
+    },
+    {
+      "id": 256586,
+      "date": 1535587200,
+      "platform": 6
+    }
+  ]
+}

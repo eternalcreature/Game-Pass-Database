@@ -1,0 +1,105 @@
+{
+  "general": {
+    "id": 14593,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 228860,
+        "company": {
+          "id": 7263,
+          "name": "Team Cherry"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hollow Knight",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/hollow-knight",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 714899,
+      "date": 1537833600,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 714898,
+      "date": 1537833600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 716337,
+      "date": 1514678400,
+      "platform": 41,
+      "status": 5
+    },
+    {
+      "id": 499741,
+      "date": 1487894400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 499739,
+      "date": 1491868800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 607803,
+      "date": 1528761600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 499738,
+      "date": 1487894400,
+      "platform": 3,
+      "status": 6
+    }
+  ]
+}

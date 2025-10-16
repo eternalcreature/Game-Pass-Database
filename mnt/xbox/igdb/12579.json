@@ -1,0 +1,142 @@
+{
+  "general": {
+    "id": 12579,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 44782,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 42559,
+        "company": {
+          "id": 2262,
+          "name": "NIS America"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Danganronpa V3: Killing Harmony",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 20,
+        "name": "Thriller"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/danganronpa-v3-killing-harmony--1",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 662718,
+      "date": 1506384000,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 662713,
+      "date": 1506384000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 662716,
+      "date": 1506384000,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 662711,
+      "date": 1649635200,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 662715,
+      "date": 1484179200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 662720,
+      "date": 1649635200,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 662719,
+      "date": 1506643200,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 662717,
+      "date": 1484179200,
+      "platform": 46,
+      "status": 6
+    },
+    {
+      "id": 662714,
+      "date": 1506643200,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 662712,
+      "date": 1638489600,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

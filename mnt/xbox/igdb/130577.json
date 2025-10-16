@@ -1,0 +1,131 @@
+{
+  "general": {
+    "id": 130577,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 170167,
+        "company": {
+          "id": 3730,
+          "name": "Sunny Side Up"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 221172,
+        "company": {
+          "id": 3730,
+          "name": "Sunny Side Up"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 221173,
+        "company": {
+          "id": 17165,
+          "name": "SK Telecom"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Little Witch in the Woods",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/little-witch-in-the-woods",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 791693,
+      "date": 1757894400,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 791694,
+      "date": 1757894400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 803913,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 803912,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 486853,
+      "date": 1652745600,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 486854,
+      "date": 1652745600,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 486851,
+      "date": 1652745600,
+      "platform": 14,
+      "status": 3
+    },
+    {
+      "id": 486852,
+      "date": 1652745600,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

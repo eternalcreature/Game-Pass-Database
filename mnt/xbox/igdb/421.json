@@ -1,0 +1,157 @@
+{
+  "general": {
+    "id": 421,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 253948,
+        "company": {
+          "id": 3061,
+          "name": "Square USA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 253621,
+        "company": {
+          "id": 250,
+          "name": "Square"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 174431,
+        "company": {
+          "id": 252,
+          "name": "Square Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 308118,
+        "company": {
+          "id": 52975,
+          "name": "Square Product Development Division 1"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 308119,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Final Fantasy IX",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/final-fantasy-ix",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 705616,
+      "date": 1274832000,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705612,
+      "date": 1276560000,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705609,
+      "date": 962928000,
+      "platform": 7,
+      "status": 6
+    },
+    {
+      "id": 705608,
+      "date": 982281600,
+      "platform": 7,
+      "status": 6
+    },
+    {
+      "id": 705615,
+      "date": 1274832000,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705617,
+      "date": 1274313600,
+      "platform": 38,
+      "status": 35
+    },
+    {
+      "id": 705614,
+      "date": 1274313600,
+      "platform": 9,
+      "status": 35
+    },
+    {
+      "id": 705620,
+      "date": 1274832000,
+      "platform": 38,
+      "status": 35
+    },
+    {
+      "id": 705611,
+      "date": 978220800,
+      "platform": 7,
+      "status": 6
+    },
+    {
+      "id": 705619,
+      "date": 1274832000,
+      "platform": 38,
+      "status": 35
+    }
+  ]
+}

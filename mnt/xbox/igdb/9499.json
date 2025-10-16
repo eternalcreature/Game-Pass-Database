@@ -1,0 +1,138 @@
+{
+  "general": {
+    "id": 9499,
+    "game_engines": [
+      {
+        "id": 1230,
+        "name": "GIANTS Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 22788,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 22787,
+        "company": {
+          "id": 1527,
+          "name": "Giants Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Farming Simulator 15",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 34,
+        "name": "Educational"
+      },
+      {
+        "id": 35,
+        "name": "Kids"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/farming-simulator-15",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 119230,
+      "date": 1414627200,
+      "platform": 6
+    },
+    {
+      "id": 28167,
+      "date": 1414627200,
+      "platform": 6
+    },
+    {
+      "id": 133654,
+      "date": 1431993600,
+      "platform": 48
+    },
+    {
+      "id": 28168,
+      "date": 1431993600,
+      "platform": 48
+    },
+    {
+      "id": 28170,
+      "date": 1414627200,
+      "platform": 14
+    },
+    {
+      "id": 136010,
+      "date": 1431993600,
+      "platform": 49
+    },
+    {
+      "id": 103006,
+      "date": 1431993600,
+      "platform": 9
+    },
+    {
+      "id": 103007,
+      "date": 1431993600,
+      "platform": 9
+    },
+    {
+      "id": 133653,
+      "date": 1431993600,
+      "platform": 48
+    },
+    {
+      "id": 28169,
+      "date": 1431993600,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 185241,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 158601,
+        "company": {
+          "id": 17638,
+          "name": "Magic Design Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 192700,
+        "company": {
+          "id": 11262,
+          "name": "Gearbox Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Have a Nice Death",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/have-a-nice-death",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 473406,
+      "date": 1679443200,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 707254,
+      "date": 1701734400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 707252,
+      "date": 1679443200,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 707253,
+      "date": 1701734400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 707255,
+      "date": 1701734400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 707256,
+      "date": 1701734400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 473405,
+      "date": 1646697600,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

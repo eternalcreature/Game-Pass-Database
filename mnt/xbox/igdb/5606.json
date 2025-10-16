@@ -1,0 +1,201 @@
+{
+  "general": {
+    "id": 5606,
+    "game_engines": [
+      {
+        "id": 10,
+        "name": "AnvilNext"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 16225,
+        "company": {
+          "id": 38,
+          "name": "Ubisoft Montreal"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 63932,
+        "company": {
+          "id": 398,
+          "name": "Ubisoft Shanghai"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63928,
+        "company": {
+          "id": 847,
+          "name": "Ubisoft Toronto"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63929,
+        "company": {
+          "id": 39,
+          "name": "Ubisoft Annecy"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63927,
+        "company": {
+          "id": 822,
+          "name": "Ubisoft Singapore"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63930,
+        "company": {
+          "id": 2921,
+          "name": "Ubisoft Kyiv"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 63931,
+        "company": {
+          "id": 3928,
+          "name": "Ubisoft Chengdu"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 201772,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 194932,
+        "company": {
+          "id": 15790,
+          "name": "Ubisoft Québec"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Assassin's Creed Unity",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/assassins-creed-unity",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 107354,
+      "date": 1415664000,
+      "platform": 48
+    },
+    {
+      "id": 150812,
+      "date": 1415836800,
+      "platform": 48
+    },
+    {
+      "id": 20941,
+      "date": 1415836800,
+      "platform": 6
+    },
+    {
+      "id": 410662,
+      "date": 1415664000,
+      "platform": 6
+    },
+    {
+      "id": 135856,
+      "date": 1415664000,
+      "platform": 49
+    },
+    {
+      "id": 150818,
+      "date": 1416441600,
+      "platform": 48
+    },
+    {
+      "id": 150815,
+      "date": 1415836800,
+      "platform": 48
+    },
+    {
+      "id": 222633,
+      "date": 1607990400,
+      "platform": 170
+    },
+    {
+      "id": 150817,
+      "date": 1416441600,
+      "platform": 49
+    },
+    {
+      "id": 150816,
+      "date": 1415836800,
+      "platform": 6
+    }
+  ]
+}

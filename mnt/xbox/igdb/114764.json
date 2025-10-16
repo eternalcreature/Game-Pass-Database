@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 114764,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 190129,
+        "company": {
+          "id": 23394,
+          "name": "NASPAPA GAMES"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 190130,
+        "company": {
+          "id": 23125,
+          "name": "PLAYISM"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Deeeer Simulator",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deeeer-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 184831,
+      "date": 1579564800,
+      "platform": 6
+    },
+    {
+      "id": 253841,
+      "date": 1579478400,
+      "platform": 6
+    },
+    {
+      "id": 339279,
+      "date": 1637712000,
+      "platform": 130
+    },
+    {
+      "id": 341221,
+      "date": 1637625600,
+      "platform": 49
+    },
+    {
+      "id": 306531,
+      "date": 1637798400,
+      "platform": 48
+    },
+    {
+      "id": 306532,
+      "date": 1637798400,
+      "platform": 49
+    },
+    {
+      "id": 306533,
+      "date": 1637798400,
+      "platform": 130
+    },
+    {
+      "id": 341222,
+      "date": 1637625600,
+      "platform": 169
+    }
+  ]
+}

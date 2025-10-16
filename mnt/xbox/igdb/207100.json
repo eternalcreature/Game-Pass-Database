@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 207100,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 177646,
+        "company": {
+          "id": 197,
+          "name": "THQ"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 177644,
+        "company": {
+          "id": 891,
+          "name": "Halfbrick Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 177645,
+        "company": {
+          "id": 2155,
+          "name": "Syfy Kids"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "De Blob 2",
+    "parent_game": 4796,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/de-blob-2--1",
+    "game_type": 11
+  },
+  "release_dates": [
+    {
+      "id": 563319,
+      "date": 1298592000,
+      "platform": 20,
+      "status": 6
+    },
+    {
+      "id": 563316,
+      "date": 1298332800,
+      "platform": 20,
+      "status": 6
+    },
+    {
+      "id": 563317,
+      "date": 1298332800,
+      "platform": 159,
+      "status": 6
+    },
+    {
+      "id": 563318,
+      "date": 1298592000,
+      "platform": 159,
+      "status": 6
+    }
+  ]
+}

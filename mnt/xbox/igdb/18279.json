@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 18279,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 97027,
+        "company": {
+          "id": 517,
+          "name": "Paradox Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 97026,
+        "company": {
+          "id": 1419,
+          "name": "Harebrained Schemes"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "BattleTech",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/battletech",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 418169,
+      "date": 1524528000,
+      "platform": 3
+    },
+    {
+      "id": 150271,
+      "date": 1524528000,
+      "platform": 14
+    },
+    {
+      "id": 150272,
+      "date": 1524528000,
+      "platform": 6
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "general": {
+    "id": 26765,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 64409,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 255074,
+        "company": {
+          "id": 53134,
+          "name": "Square Enix Business Division 11"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 255075,
+        "company": {
+          "id": 53031,
+          "name": "Square Enix Business Division 6"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 254443,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 254444,
+        "company": {
+          "id": 1383,
+          "name": "ACQUIRE Corp."
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 254445,
+        "company": {
+          "id": 35895,
+          "name": "Team Asano"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 254446,
+        "company": {
+          "id": 53042,
+          "name": "Square Enix Business Division 9"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Octopath Traveler",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/octopath-traveler",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 235376,
+      "date": 1616544000,
+      "platform": 49
+    },
+    {
+      "id": 239588,
+      "date": 1588032000,
+      "platform": 170
+    },
+    {
+      "id": 304311,
+      "date": 1616630400,
+      "platform": 49
+    },
+    {
+      "id": 148780,
+      "date": 1531440000,
+      "platform": 130
+    },
+    {
+      "id": 205071,
+      "date": 1559865600,
+      "platform": 6
+    },
+    {
+      "id": 600664,
+      "date": 1717545600,
+      "platform": 48
+    },
+    {
+      "id": 600665,
+      "date": 1717545600,
+      "platform": 167
+    }
+  ]
+}

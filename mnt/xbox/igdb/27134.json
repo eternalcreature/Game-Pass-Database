@@ -1,0 +1,128 @@
+{
+  "general": {
+    "id": 27134,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 226553,
+        "company": {
+          "id": 12186,
+          "name": "Coffee Stain Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 226554,
+        "company": {
+          "id": 12074,
+          "name": "Ghost Ship Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Deep Rock Galactic",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/deep-rock-galactic",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 502379,
+      "date": 1519776000,
+      "platform": 49,
+      "status": 3
+    },
+    {
+      "id": 502381,
+      "date": 1662681600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 502377,
+      "date": 1641254400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 502375,
+      "date": 1519776000,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 502378,
+      "date": 1589328000,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 502380,
+      "date": 1589328000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 502376,
+      "date": 1641254400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 502374,
+      "date": 1589328000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

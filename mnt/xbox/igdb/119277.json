@@ -1,0 +1,125 @@
+{
+  "general": {
+    "id": 119277,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 176184,
+        "company": {
+          "id": 41907,
+          "name": "HoYoverse"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 193586,
+        "company": {
+          "id": 40242,
+          "name": "Cognosphere"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 231330,
+        "company": {
+          "id": 15932,
+          "name": "miHoYo"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Genshin Impact",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/genshin-impact",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 208455,
+      "date": 1601251200,
+      "platform": 39
+    },
+    {
+      "id": 208457,
+      "date": 1601251200,
+      "platform": 34
+    },
+    {
+      "id": 208456,
+      "date": 1601251200,
+      "platform": 6
+    },
+    {
+      "id": 208454,
+      "date": 1601251200,
+      "platform": 48
+    },
+    {
+      "id": 782295,
+      "date": 1754438400,
+      "platform": 48,
+      "status": 4
+    },
+    {
+      "id": 632156,
+      "date": 1732060800,
+      "platform": 169
+    },
+    {
+      "id": 240505,
+      "date": 1619568000,
+      "platform": 167
+    }
+  ]
+}

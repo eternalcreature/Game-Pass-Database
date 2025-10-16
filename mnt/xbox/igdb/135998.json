@@ -1,0 +1,95 @@
+{
+  "general": {
+    "id": 135998,
+    "game_engines": [
+      {
+        "id": 366,
+        "name": "Autodesk Stingray"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 294285,
+        "company": {
+          "id": 860,
+          "name": "Fatshark"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Warhammer 40,000: Darktide",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/warhammer-40000-darktide",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 506668,
+      "date": 1669766400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 662631,
+      "date": 1732665600,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 662630,
+      "date": 1733184000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 506669,
+      "date": 1696377600,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

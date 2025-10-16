@@ -1,0 +1,75 @@
+{
+  "general": {
+    "id": 128334,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 143336,
+        "company": {
+          "id": 94,
+          "name": "EA Digital Illusions CE"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 225084,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Star Wars Battlefront II: Celebration Edition",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/star-wars-battlefront-ii-celebration-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 247569,
+      "date": 1575504000,
+      "platform": 49
+    },
+    {
+      "id": 247568,
+      "date": 1575504000,
+      "platform": 48
+    },
+    {
+      "id": 247570,
+      "date": 1575504000,
+      "platform": 6
+    }
+  ]
+}

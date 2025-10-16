@@ -1,0 +1,127 @@
+{
+  "general": {
+    "id": 4838,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 35216,
+        "company": {
+          "id": 1217,
+          "name": "Spike Chunsoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 35215,
+        "company": {
+          "id": 2168,
+          "name": "Drinkbox Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Guacamelee!",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/guacamelee",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 50584,
+      "date": 1365552000,
+      "platform": 9
+    },
+    {
+      "id": 50585,
+      "date": 1395878400,
+      "platform": 9
+    },
+    {
+      "id": 447034,
+      "date": 1392681600,
+      "platform": 14
+    },
+    {
+      "id": 50582,
+      "date": 1365465600,
+      "platform": 46
+    },
+    {
+      "id": 50586,
+      "date": 1395878400,
+      "platform": 46
+    },
+    {
+      "id": 447033,
+      "date": 1392681600,
+      "platform": 3
+    },
+    {
+      "id": 447032,
+      "date": 1375920000,
+      "platform": 6
+    },
+    {
+      "id": 50587,
+      "date": 1365552000,
+      "platform": 46
+    },
+    {
+      "id": 50583,
+      "date": 1365465600,
+      "platform": 9
+    }
+  ]
+}

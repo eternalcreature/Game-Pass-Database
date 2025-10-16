@@ -1,0 +1,72 @@
+{
+  "general": {
+    "id": 54787,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 53297,
+        "company": {
+          "id": 3226,
+          "name": "Armature Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 53298,
+        "company": {
+          "id": 1010,
+          "name": "Microsoft Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "ReCore: Definitive Edition",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/recore-definitive-edition",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 109649,
+      "date": 1503964800,
+      "platform": 49
+    },
+    {
+      "id": 401268,
+      "date": 1536883200,
+      "platform": 6
+    }
+  ]
+}
