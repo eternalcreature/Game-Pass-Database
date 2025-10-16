@@ -173,10 +173,11 @@ def save(pid):
 
 @app.route("/open_in_vscode/<pid>", methods=["POST"])
 def open_in_vscode(pid):
-    file_path = rf"C:\wololo\mnt\xbox\gp_new\{pid}.json"
-    if os.path.exists(file_path):
+    # file_path = rf"C:\wololo\mnt\xbox\gp_new\{pid}.json"
+    filepath = os.path.join(DATA_DIR, f"{pid}.json")
+    if os.path.exists(filepath):
         try:
-            subprocess.Popen(["code", file_path], shell=True)
+            subprocess.Popen(["code", filepath], shell=True)
             return jsonify({"success": True})
         except Exception as e:
             return jsonify({"success": False, "error": str(e)})
