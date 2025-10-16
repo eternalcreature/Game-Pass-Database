@@ -3,7 +3,7 @@
     "base_id": 8965,
     "specific_id": 8965,
     "title": "Darkest Dungeon",
-    "store_title": "Darkest Dungeon\u00ae",
+    "store_title": "Darkest Dungeon®",
     "pid": "BXKVN6G9C5WJ",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -31,13 +31,23 @@
         "added": "2023-02-02",
         "removed": "2025-02-01"
       },
-      "Ultimate": {
-        "added": "2023-02-02",
-        "removed": "2025-02-01"
-      },
       "Premium": {
         "added": "2024-08-12",
         "removed": "2025-02-01"
+      },
+      "Ultimate": {
+        "added": "2023-02-02",
+        "removed": "2025-02-01"
+      }
+    },
+    {
+      "Console": {
+        "added": "2021-06-10",
+        "removed": "2022-06-15"
+      },
+      "Ultimate": {
+        "added": "2021-06-10",
+        "removed": "2022-06-15"
       }
     }
   ],
