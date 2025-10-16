@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime
 from utils.igdb_updater import update_igdb
+import subprocess
 
 app = Flask(__name__, template_folder="templates_json/")
 app.config["JSON_SORT_KEYS"] = False
@@ -168,6 +169,19 @@ def save(pid):
 
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
+
+
+@app.route("/open_in_vscode/<pid>", methods=["POST"])
+def open_in_vscode(pid):
+    file_path = rf"C:\wololo\mnt\xbox\gp_new\{pid}.json"
+    if os.path.exists(file_path):
+        try:
+            subprocess.Popen(["code", file_path], shell=True)
+            return jsonify({"success": True})
+        except Exception as e:
+            return jsonify({"success": False, "error": str(e)})
+    else:
+        return jsonify({"success": False, "error": "File not found"})
 
 
 if __name__ == "__main__":
