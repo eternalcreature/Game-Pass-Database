@@ -27,21 +27,31 @@
   },
   "availabilities": [
     {
-      "Essential": {
-        "added": "2024-12-04",
-        "removed": null
-      },
-      "Ultimate": {
-        "added": "2023-04-04",
-        "removed": null
-      },
       "Console": {
         "added": "2023-04-04",
+        "removed": null
+      },
+      "Essential": {
+        "added": "2024-12-04",
         "removed": null
       },
       "Premium": {
         "added": "2024-08-12",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-04-04",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2019-06-27",
+        "removed": "2023-03-15"
+      },
+      "Ultimate": {
+        "added": "2019-06-27",
+        "removed": "2023-03-15"
       }
     }
   ],
