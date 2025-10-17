@@ -3,7 +3,7 @@
     "base_id": 169996,
     "specific_id": 206684,
     "title": "Bassmaster Fishing 2022",
-    "store_title": "Bassmaster\u00ae Fishing 2022: Super Deluxe Edition",
+    "store_title": "Bassmaster® Fishing 2022: Super Deluxe Edition",
     "pid": "9NGQF80BG3QG",
     "alternate_xbox_id": null,
     "related_skus": [],
@@ -22,7 +22,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-10-28",
+        "removed": "2022-10-31"
+      },
+      "PC": {
+        "added": "2021-10-28",
+        "removed": "2022-10-31"
+      },
+      "Console": {
+        "added": "2021-10-28",
+        "removed": "2022-10-31"
+      }
+    }
   ],
   "flags": {
     "indie": false,

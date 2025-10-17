@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "base_id": 34468,
+    "base_id": 24537,
     "specific_id": 34468,
     "title": "The Last Door: Season 2 - Collector's Edition",
     "store_title": "The Last Door: Season 2 Collector's Edition",
@@ -19,7 +19,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": "2020-06-15"
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2020-06-15"
+      }
+    }
   ],
   "flags": {
     "indie": true,
@@ -42,6 +51,51 @@
   },
   "igdb_meta": {
     "main": {
+      "id": 24537,
+      "name": "The Last Door: Season 2",
+      "url": "https://www.igdb.com/games/the-last-door-season-2",
+      "publishers": [
+        "Phoenix Online Publishing"
+      ],
+      "developers": [
+        "The Game Kitchen"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2016-03-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-03-29"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 34468,
       "name": "The Last Door: Season 2 - Collector's Edition",
       "url": "https://www.igdb.com/games/the-last-door-season-2-collectors-edition",

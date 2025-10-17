@@ -3,7 +3,7 @@
     "base_id": 114287,
     "specific_id": 114287,
     "title": "FIFA 20",
-    "store_title": "EA SPORTS\u2122 FIFA 20",
+    "store_title": "EA SPORTS™ FIFA 20",
     "pid": "9NC9RS1V6ZLQ",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -24,7 +24,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": "2022-07-01"
+      },
+      "PC": {
+        "added": "2021-03-18",
+        "removed": "2022-07-01"
+      }
+    }
   ],
   "flags": {
     "indie": false,

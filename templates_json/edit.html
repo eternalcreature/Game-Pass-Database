@@ -936,6 +936,17 @@
                     </div>
                 </div>
                 {% endif %}
+
+                {% if data.igdb_meta.main.engine %}
+                <div class="igdb-field">
+                    <div class="igdb-field-label">Engine </div>
+                    <div class="igdb-list">
+                        {% for engine in data.igdb_meta.main.engine %}
+                        <span class="igdb-list-item">{{ engine }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
             </div>
             {% endif %}
 
@@ -954,6 +965,11 @@
                 </div>
 
                 <div class="igdb-field">
+                    <div class="igdb-field-label">Type</div>
+                    <div class="igdb-field-value">{{ data.igdb_meta.specific.game_type }}</div>
+                </div>
+
+                <div class="igdb-field">
                     <div class="igdb-field-label">URL</div>
                     <div class="igdb-field-value">
                         <a href="{{ data.igdb_meta.specific.url }}" target="_blank" style="color: #667eea;">{{
@@ -961,71 +977,34 @@
                     </div>
                 </div>
 
-                {% if data.igdb_meta.specific.publishers %}
+
+
+                {% set rd = data.igdb_meta.specific.release_dates %}
+                {% if rd %}
                 <div class="igdb-field">
-                    <div class="igdb-field-label">Publishers</div>
+                    <div class="igdb-field-label">Release Dates</div>
                     <div class="igdb-list">
-                        {% for publisher in data.igdb_meta.specific.publishers %}
-                        <span class="igdb-list-item">{{ publisher }}</span>
+                        {% for platform, info in rd.items() %}
+                        {% if platform != "release_date" %}
+                        {% if info.release_date_ea or info.release_date_1_0 %}
+                        <div class="igdb-list-item">
+                            <strong>{{ platform }}:</strong>
+                            {% if info.release_date_ea %}
+                            EA: {{ info.release_date_ea }}
+                            {% endif %}
+                            {% if info.release_date_1_0 %}
+                            {% if info.release_date_ea %} / {% endif %}
+                            1.0: {{ info.release_date_1_0 }}
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                        {% endif %}
                         {% endfor %}
                     </div>
                 </div>
                 {% endif %}
 
-                {% if data.igdb_meta.specific.developers %}
-                <div class="igdb-field">
-                    <div class="igdb-field-label">Developers</div>
-                    <div class="igdb-list">
-                        {% for developer in data.igdb_meta.specific.developers %}
-                        <span class="igdb-list-item">{{ developer }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endif %}
 
-                {% if data.igdb_meta.specific.genres %}
-                <div class="igdb-field">
-                    <div class="igdb-field-label">Genres</div>
-                    <div class="igdb-list">
-                        {% for genre in data.igdb_meta.specific.genres %}
-                        <span class="igdb-list-item">{{ genre }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endif %}
-
-                {% if data.igdb_meta.specific.themes %}
-                <div class="igdb-field">
-                    <div class="igdb-field-label">Themes</div>
-                    <div class="igdb-list">
-                        {% for theme in data.igdb_meta.specific.themes %}
-                        <span class="igdb-list-item">{{ theme }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endif %}
-
-                {% if data.igdb_meta.specific.game_modes %}
-                <div class="igdb-field">
-                    <div class="igdb-field-label">Game Modes</div>
-                    <div class="igdb-list">
-                        {% for mode in data.igdb_meta.specific.game_modes %}
-                        <span class="igdb-list-item">{{ mode }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endif %}
-
-                {% if data.igdb_meta.specific.player_perspectives %}
-                <div class="igdb-field">
-                    <div class="igdb-field-label">Player Perspectives</div>
-                    <div class="igdb-list">
-                        {% for perspective in data.igdb_meta.specific.player_perspectives %}
-                        <span class="igdb-list-item">{{ perspective }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endif %}
             </div>
             {% endif %}
 

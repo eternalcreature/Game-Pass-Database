@@ -3,7 +3,7 @@
     "base_id": 14172,
     "specific_id": 14172,
     "title": "Everspace",
-    "store_title": "EVERSPACE\u2122",
+    "store_title": "EVERSPACE™",
     "pid": "9NBLGGH4SF90",
     "alternate_xbox_id": null,
     "related_skus": [],
@@ -22,7 +22,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": "2020-06-15"
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2020-06-15"
+      },
+      "Console": {
+        "added": "2019-06-09",
+        "removed": "2020-06-15"
+      }
+    }
   ],
   "flags": {
     "indie": true,

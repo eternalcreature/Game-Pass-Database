@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "base_id": 111650,
-    "specific_id": 322145,
+    "specific_id": 111650,
     "title": "Warcraft III: Reforged",
     "store_title": "Warcraft\u00ae III: Reforged",
     "pid": "9NWB9PL1L2PQ",
@@ -95,9 +95,9 @@
       }
     },
     "specific": {
-      "id": 322145,
-      "name": "Warcraft III: Reforged - Version 2.0",
-      "url": "https://www.igdb.com/games/warcraft-iii-reforged-version-2-dot-0",
+      "id": 111650,
+      "name": "Warcraft III: Reforged",
+      "url": "https://www.igdb.com/games/warcraft-iii-reforged",
       "publishers": [
         "Blizzard Entertainment"
       ],
@@ -119,12 +119,12 @@
         "Bird view / Isometric"
       ],
       "engine": [],
-      "game_type": "update",
+      "game_type": "remake",
       "release_dates": {
-        "release_date": "2024-11-13",
+        "release_date": "2020-01-28",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2024-11-13"
+          "release_date_1_0": "2020-01-28"
         },
         "Xbox One": {
           "release_date_ea": null,
