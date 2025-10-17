@@ -3,7 +3,7 @@
     "base_id": 198200,
     "specific_id": 198200,
     "title": "F1 22",
-    "store_title": "F1\u00ae 22",
+    "store_title": "F1® 22",
     "pid": "9NLG03K3M699",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -28,7 +28,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2023-03-02",
+        "removed": "2025-02-28"
+      },
+      "PC": {
+        "added": "2023-03-02",
+        "removed": "2025-02-28"
+      }
+    }
   ],
   "flags": {
     "indie": false,

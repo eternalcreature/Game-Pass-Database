@@ -3,7 +3,7 @@
     "base_id": 105543,
     "specific_id": 105543,
     "title": "Fishing Sim World: Pro Tour",
-    "store_title": "Fishing Sim World\u00ae: Pro Tour",
+    "store_title": "Fishing Sim World®: Pro Tour",
     "pid": "9NM7LC8MJXKS",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -24,7 +24,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2020-01-30",
+        "removed": "2021-01-29"
+      },
+      "PC": {
+        "added": "2020-01-30",
+        "removed": "2021-01-29"
+      }
+    }
   ],
   "flags": {
     "indie": false,
