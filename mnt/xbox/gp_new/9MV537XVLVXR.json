@@ -21,7 +21,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2020-02-13",
+        "removed": "2021-01-29"
+      },
+      "PC": {
+        "added": "2020-02-13",
+        "removed": "2021-01-29"
+      },
+      "Console": {
+        "added": "2020-02-13",
+        "removed": "2021-01-29"
+      }
+    }
   ],
   "flags": {
     "indie": true,

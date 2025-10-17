@@ -3,7 +3,7 @@
     "base_id": 188661,
     "specific_id": 188661,
     "title": "MLB The Show 22",
-    "store_title": "MLB\u00ae The Show\u2122 22 Xbox Series X|S",
+    "store_title": "MLB® The Show™ 22 Xbox Series X|S",
     "pid": "9MV4MFL2CZRG",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -25,7 +25,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2022-04-05",
+        "removed": "2023-03-31"
+      },
+      "Console": {
+        "added": "2022-04-05",
+        "removed": "2023-03-31"
+      }
+    }
   ],
   "flags": {
     "indie": false,

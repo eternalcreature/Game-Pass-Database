@@ -3,7 +3,7 @@
     "base_id": 143615,
     "specific_id": 143615,
     "title": "Knockout City",
-    "store_title": "Knockout City\u2122",
+    "store_title": "Knockout City™",
     "pid": "9N4NXGCCV2NP",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -24,7 +24,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-05-21",
+        "removed": "2022-05-31"
+      },
+      "PC": {
+        "added": "2021-05-21",
+        "removed": "2022-05-31"
+      },
+      "EA Play": {
+        "added": "2021-05-31",
+        "removed": "2022-05-31"
+      }
+    }
   ],
   "flags": {
     "indie": true,

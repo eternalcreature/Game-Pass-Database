@@ -1,26 +1,34 @@
 {
   "basic_info": {
-    "base_id": 1384,
+    "base_id": null,
     "specific_id": 1384,
-    "title": "Hotline Miami",
+    "title": null,
     "store_title": "Hotline Miami",
-    "pid": "9MV27QPRQRRF",
+    "pid": "9PPCS86WS28Z",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9MV27QPRQRRF"
+        "9PPCS86WS28Z"
       ]
     ],
     "original_release_date": "2012-10-23",
-    "release_date": "2023-10-23",
+    "release_date": null,
     "platforms": [
-      "XboxSeriesX",
-      "XCloud"
+      "PC"
     ]
   },
   "availabilities": [
-    {}
+    {
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2021-05-16"
+      },
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": "2021-05-16"
+      }
+    }
   ],
   "flags": {
     "indie": true,
@@ -29,21 +37,64 @@
   },
   "xbox_store_meta": {
     "capabilities": {
-      "SinglePlayer": "Single player",
-      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
-      "XblAchievements": "Xbox achievements",
-      "XblPresence": "Xbox presence",
-      "XblCloudSaves": "Xbox cloud saves"
+      "SinglePlayer": "Single player"
     },
     "categories": [
-      "Action & adventure",
-      "Shooter"
+      "Action & adventure"
     ],
     "publisher": "Devolver Digital",
     "developer": "Dennaton Games"
   },
   "igdb_meta": {
-    "main": {
+    "main_game": {
+      "id": 1384,
+      "name": "Hotline Miami",
+      "url": "https://www.igdb.com/games/hotline-miami",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Dennaton Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [
+        "GameMaker: Studio"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2012-10-23",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2012-10-23"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "version": {
       "id": 1384,
       "name": "Hotline Miami",
       "url": "https://www.igdb.com/games/hotline-miami",

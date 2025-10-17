@@ -1,16 +1,15 @@
 {
   "basic_info": {
-    "base_id": 152123,
+    "base_id": 20910,
     "specific_id": 152123,
-    "title": "World War Z: Aftermath",
+    "title": "World War Z",
     "store_title": "World War Z: Aftermath",
     "pid": "9PBF1FL7K192",
     "alternate_xbox_id": null,
     "related_skus": [
       "9PLCL2VB2SC0",
       "9N015DFDMVK6",
-      "BWQ5FC9WDJ6H",
-      "9N8NZMCCC1KG"
+      "BWQ5FC9WDJ6H"
     ],
     "sku_groups": [
       [
@@ -18,12 +17,11 @@
         "9PBF1FL7K192"
       ],
       [
-        "9N8NZMCCC1KG",
         "9PLCL2VB2SC0",
         "BWQ5FC9WDJ6H"
       ]
     ],
-    "original_release_date": "2021-09-21",
+    "original_release_date": "2019-04-16",
     "release_date": "2021-09-21",
     "platforms": [
       "PC"
@@ -35,13 +33,23 @@
         "added": "2023-12-05",
         "removed": null
       },
-      "Ultimate": {
-        "added": "2023-12-05",
-        "removed": null
-      },
       "Premium": {
         "added": "2025-10-01",
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2023-12-05",
+        "removed": null
+      }
+    },
+    {
+      "PC": {
+        "added": "2019-10-10",
+        "removed": "2022-08-31"
+      },
+      "Ultimate": {
+        "added": "2019-10-10",
+        "removed": "2022-08-31"
       }
     }
   ],
@@ -65,6 +73,57 @@
   },
   "igdb_meta": {
     "main": {
+      "id": 20910,
+      "name": "World War Z",
+      "url": "https://www.igdb.com/games/world-war-z",
+      "publishers": [
+        "Focus Entertainment",
+        "Paramount Digital Entertainment"
+      ],
+      "developers": [
+        "Saber Interactive"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [
+        "Swarm Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-04-16",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-04-16"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-04-16"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 152123,
       "name": "World War Z: Aftermath",
       "url": "https://www.igdb.com/games/world-war-z-aftermath",

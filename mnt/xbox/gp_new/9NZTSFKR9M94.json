@@ -1,10 +1,10 @@
 {
   "basic_info": {
-    "base_id": 36911,
-    "specific_id": 85144,
-    "title": "Dragon Ball FighterZ",
-    "store_title": "DRAGON BALL FIGHTERZ - FighterZ Edition (Windows)",
-    "pid": "9N22XXKKV3XF",
+    "base_id": null,
+    "specific_id": 36911,
+    "title": null,
+    "store_title": "DRAGON BALL FIGHTERZ (Windows)",
+    "pid": "9NZTSFKR9M94",
     "alternate_xbox_id": null,
     "related_skus": [
       "9P1BKCL3NVVG",
@@ -12,7 +12,7 @@
     ],
     "sku_groups": [
       [
-        "9N22XXKKV3XF"
+        "9NZTSFKR9M94"
       ],
       [
         "9P1BKCL3NVVG"
@@ -22,13 +22,22 @@
       ]
     ],
     "original_release_date": "2018-01-26",
-    "release_date": "2022-02-24",
+    "release_date": null,
     "platforms": [
       "PC"
     ]
   },
   "availabilities": [
-    {}
+    {
+      "PC": {
+        "added": "2022-02-24",
+        "removed": "2023-03-01"
+      },
+      "Ultimate": {
+        "added": "2022-02-24",
+        "removed": "2023-03-01"
+      }
+    }
   ],
   "flags": {
     "indie": false,
@@ -41,16 +50,18 @@
       "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
       "SinglePlayer": "Single player",
       "CapabilityVRR": "Variable Refresh Rate",
-      "PcGamePad": "PC Game Pad"
+      "PcGamePad": "PC Game Pad",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
     },
     "categories": [
       "Fighting"
     ],
-    "publisher": "BANDAI NAMCO Entertainment Inc.",
+    "publisher": "BANDAI NAMCO Entertainment America Inc.",
     "developer": "ARC SYSTEM WORKS CO.,LTD."
   },
   "igdb_meta": {
-    "main": {
+    "main_game": {
       "id": 36911,
       "name": "Dragon Ball FighterZ",
       "url": "https://www.igdb.com/games/dragon-ball-fighterz",
@@ -99,23 +110,34 @@
         }
       }
     },
-    "specific": {
-      "id": 85144,
-      "name": "Dragon Ball FighterZ: FighterZ Edition",
-      "url": "https://www.igdb.com/games/dragon-ball-fighterz-fighterz-edition",
-      "publishers": [],
-      "developers": [],
+    "version": {
+      "id": 36911,
+      "name": "Dragon Ball FighterZ",
+      "url": "https://www.igdb.com/games/dragon-ball-fighterz",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "developers": [
+        "Arc System Works"
+      ],
       "genres": [
         "Fighting"
       ],
       "themes": [
-        "Action"
+        "Action",
+        "Fantasy",
+        "Science fiction"
       ],
       "game_modes": [
+        "Single player",
         "Multiplayer"
       ],
-      "player_perspectives": [],
-      "engine": [],
+      "player_perspectives": [
+        "Side view"
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
       "game_type": "main_game",
       "release_dates": {
         "release_date": "2018-01-26",
@@ -129,7 +151,7 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2024-02-29"
         },
         "Xbox 360": {
           "release_date_ea": null,

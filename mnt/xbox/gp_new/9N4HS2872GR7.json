@@ -3,7 +3,7 @@
     "base_id": 352,
     "specific_id": 352,
     "title": "Battlefield: Bad Company 2",
-    "store_title": "Battlefield: Bad Company\u2122 2",
+    "store_title": "Battlefield: Bad Company™ 2",
     "pid": "9N4HS2872GR7",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -24,7 +24,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-03-18",
+        "removed": "2023-11-30"
+      },
+      "PC": {
+        "added": "2021-03-18",
+        "removed": "2023-11-30"
+      },
+      "EA Play": {
+        "added": "2021-03-18",
+        "removed": "2023-11-30"
+      }
+    }
   ],
   "flags": {
     "indie": false,

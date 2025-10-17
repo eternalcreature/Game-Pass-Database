@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 116145,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186633,
+        "company": {
+          "id": 41542,
+          "name": "Krafton"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Mistover",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/mistover",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 174736,
+      "date": 1570665600,
+      "platform": 6
+    },
+    {
+      "id": 175135,
+      "date": 1570665600,
+      "platform": 130
+    },
+    {
+      "id": 387749,
+      "date": 1570665600,
+      "platform": 48
+    },
+    {
+      "id": 387750,
+      "date": 1570665600,
+      "platform": 48
+    },
+    {
+      "id": 387751,
+      "date": 1570665600,
+      "platform": 48
+    },
+    {
+      "id": 339040,
+      "date": 1570579200,
+      "platform": 130
+    }
+  ]
+}

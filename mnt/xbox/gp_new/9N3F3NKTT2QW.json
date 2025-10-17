@@ -3,7 +3,7 @@
     "base_id": 205780,
     "specific_id": 205780,
     "title": "FIFA 23",
-    "store_title": "EA SPORTS\u2122 FIFA 23",
+    "store_title": "EA SPORTS™ FIFA 23",
     "pid": "9N3F3NKTT2QW",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -28,7 +28,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2023-05-16",
+        "removed": "2024-09-15"
+      },
+      "PC": {
+        "added": "2023-05-16",
+        "removed": "2024-09-15"
+      },
+      "EA Play": {
+        "added": "2023-05-16",
+        "removed": "2024-09-15"
+      }
+    }
   ],
   "flags": {
     "indie": false,

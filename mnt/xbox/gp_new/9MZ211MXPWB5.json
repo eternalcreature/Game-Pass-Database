@@ -3,7 +3,7 @@
     "base_id": 144072,
     "specific_id": 146134,
     "title": "Hot Wheels Unleashed",
-    "store_title": "HOT WHEELS UNLEASHED\u2122 - Windows Edition",
+    "store_title": "HOT WHEELS UNLEASHED™ - Windows Edition",
     "pid": "9MZ211MXPWB5",
     "alternate_xbox_id": null,
     "related_skus": [
@@ -28,7 +28,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2023-02-07",
+        "removed": "2024-03-31"
+      },
+      "PC": {
+        "added": "2023-02-07",
+        "removed": "2024-03-31"
+      }
+    }
   ],
   "flags": {
     "indie": false,

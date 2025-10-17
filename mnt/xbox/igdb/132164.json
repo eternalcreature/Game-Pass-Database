@@ -1,0 +1,111 @@
+{
+  "general": {
+    "id": 132164,
+    "game_engines": [
+      {
+        "id": 482,
+        "name": "CryEngine 3"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 252180,
+        "company": {
+          "id": 249,
+          "name": "Crytek"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 252181,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Crysis Remastered",
+    "parent_game": 296,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crysis-remastered",
+    "game_type": 9
+  },
+  "release_dates": [
+    {
+      "id": 311655,
+      "date": 1631836800,
+      "platform": 6
+    },
+    {
+      "id": 203961,
+      "date": 1595462400,
+      "platform": 130
+    },
+    {
+      "id": 209038,
+      "date": 1600387200,
+      "platform": 6
+    },
+    {
+      "id": 209039,
+      "date": 1600387200,
+      "platform": 49
+    },
+    {
+      "id": 209037,
+      "date": 1600387200,
+      "platform": 48
+    },
+    {
+      "id": 307940,
+      "date": 1600387200,
+      "platform": 49
+    }
+  ]
+}

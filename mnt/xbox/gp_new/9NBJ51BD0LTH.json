@@ -30,15 +30,26 @@
         "added": "2022-07-05",
         "removed": "2025-04-01"
       },
-      "Ultimate": {
-        "added": "2022-07-05",
-        "removed": "2025-04-01"
-      },
       "Premium": {
         "added": "2024-08-12",
         "removed": "2025-04-01"
+      },
+      "Ultimate": {
+        "added": "2022-07-05",
+        "removed": "2025-04-01"
       }
-    }
+    },
+    {
+      "Console": {
+        "added": "2020-04-22",
+        "removed": "2021-12-31"
+      },
+      "Ultimate": {
+        "added": "2020-04-22",
+        "removed": "2021-12-31"
+      }
+    },
+    {}
   ],
   "flags": {
     "indie": false,

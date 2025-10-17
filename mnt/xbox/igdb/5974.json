@@ -1,0 +1,112 @@
+{
+  "general": {
+    "id": 5974,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 14361,
+        "company": {
+          "id": 769,
+          "name": "Team NINJA"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 14360,
+        "company": {
+          "id": 4,
+          "name": "Eidos Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 112705,
+        "company": {
+          "id": 24352,
+          "name": "Tecmo Koei Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 212602,
+        "company": {
+          "id": 14776,
+          "name": "Tecmo"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ninja Gaiden Sigma",
+    "parent_game": 18735,
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ninja-gaiden-sigma",
+    "game_type": 10
+  },
+  "release_dates": [
+    {
+      "id": 108413,
+      "date": 1181779200,
+      "platform": 9
+    },
+    {
+      "id": 108414,
+      "date": 1183680000,
+      "platform": 9
+    },
+    {
+      "id": 241225,
+      "date": 1623283200,
+      "platform": 6
+    },
+    {
+      "id": 241229,
+      "date": 1623283200,
+      "platform": 48
+    },
+    {
+      "id": 241228,
+      "date": 1623283200,
+      "platform": 49
+    },
+    {
+      "id": 108415,
+      "date": 1183420800,
+      "platform": 9
+    },
+    {
+      "id": 241227,
+      "date": 1623283200,
+      "platform": 130
+    }
+  ]
+}

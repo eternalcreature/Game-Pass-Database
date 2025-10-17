@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 240432,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 206237,
+        "company": {
+          "id": 46049,
+          "name": "Mainframe Industries"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 269097,
+        "company": {
+          "id": 55024,
+          "name": "New Tales"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Pax Dei",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pax-dei",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 813345,
+      "date": 1760572800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 600224,
+      "date": 1718668800,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

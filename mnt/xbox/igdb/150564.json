@@ -1,0 +1,88 @@
+{
+  "general": {
+    "id": 150564,
+    "game_engines": [
+      {
+        "id": 575,
+        "name": "CryEngine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 145559,
+        "company": {
+          "id": 249,
+          "name": "Crytek"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 145560,
+        "company": {
+          "id": 946,
+          "name": "Saber Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Crysis Remastered Trilogy",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/crysis-remastered-trilogy",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 318972,
+      "date": 1631836800,
+      "platform": 6
+    },
+    {
+      "id": 308366,
+      "date": 1634256000,
+      "platform": 49
+    },
+    {
+      "id": 308367,
+      "date": 1634256000,
+      "platform": 48
+    },
+    {
+      "id": 318971,
+      "date": 1634256000,
+      "platform": 130
+    }
+  ]
+}

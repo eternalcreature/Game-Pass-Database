@@ -1,0 +1,137 @@
+{
+  "general": {
+    "id": 12908,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 59312,
+        "company": {
+          "id": 295,
+          "name": "Origin Systems"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267674,
+        "company": {
+          "id": 31302,
+          "name": "ZIOSoft"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267677,
+        "company": {
+          "id": 1124,
+          "name": "Floodgate Entertainment"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 294927,
+        "company": {
+          "id": 200,
+          "name": "Electronic Arts Victor"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 294929,
+        "company": {
+          "id": 22058,
+          "name": "Infinity Co., Ltd."
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 298191,
+        "company": {
+          "id": 2620,
+          "name": "Looking Glass Technologies"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 298192,
+        "company": {
+          "id": 3,
+          "name": "Looking Glass Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ultima Underworld: The Stygian Abyss",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 23,
+        "name": "Stealth"
+      }
+    ],
+    "url": "https://www.igdb.com/games/ultima-underworld-the-stygian-abyss",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 510257,
+      "date": 754704000,
+      "platform": 118,
+      "status": 6
+    },
+    {
+      "id": 510256,
+      "date": 700272000,
+      "platform": 13,
+      "status": 6
+    },
+    {
+      "id": 510260,
+      "date": 1022630400,
+      "platform": 405,
+      "status": 6
+    },
+    {
+      "id": 510258,
+      "date": 756086400,
+      "platform": 149,
+      "status": 6
+    },
+    {
+      "id": 673319,
+      "date": 725760000,
+      "platform": 13,
+      "status": 6
+    }
+  ]
+}
