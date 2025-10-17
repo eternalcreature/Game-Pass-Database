@@ -1,0 +1,118 @@
+{
+  "general": {
+    "id": 96391,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 64234,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 101054,
+        "company": {
+          "id": 5696,
+          "name": "D3T Limited"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 101055,
+        "company": {
+          "id": 830,
+          "name": "Sega AM2"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 239364,
+        "company": {
+          "id": 15878,
+          "name": "Sega Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shenmue I & II",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 31,
+        "name": "Drama"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/shenmue-i-and-ii",
+    "game_type": 3
+  },
+  "release_dates": [
+    {
+      "id": 154916,
+      "date": 1534809600,
+      "platform": 48
+    },
+    {
+      "id": 156570,
+      "date": 1542844800,
+      "platform": 48
+    },
+    {
+      "id": 154917,
+      "date": 1534809600,
+      "platform": 48
+    },
+    {
+      "id": 154913,
+      "date": 1534809600,
+      "platform": 6
+    },
+    {
+      "id": 154915,
+      "date": 1534809600,
+      "platform": 49
+    },
+    {
+      "id": 154914,
+      "date": 1534809600,
+      "platform": 49
+    }
+  ]
+}

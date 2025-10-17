@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": 273304,
+    "base_id": 27441,
     "specific_id": 27441,
-    "title": "Wargroove + Wargroove 2 Bundle",
+    "title": "Wargroove",
     "store_title": "Wargroove",
     "pid": "9NRPTTJ94PCK",
     "alternate_xbox_id": null,
@@ -15,13 +15,26 @@
     "original_release_date": "2023-10-17",
     "release_date": "2019-02-01",
     "platforms": [
+      "PC",
       "XboxOne",
-      "XboxSeriesX",
-      "PC"
+      "XboxSeriesX"
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Console": {
+        "added": "2019-05-02",
+        "removed": "2021-04-15"
+      },
+      "PC": {
+        "added": "2019-06-09",
+        "removed": "2021-04-15"
+      },
+      "Ultimate": {
+        "added": "2019-05-02",
+        "removed": "2021-04-15"
+      }
+    }
   ],
   "flags": {
     "indie": true,
@@ -51,40 +64,6 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 273304,
-      "name": "Wargroove + Wargroove 2 Bundle",
-      "url": "https://www.igdb.com/games/wargroove-plus-wargroove-2-bundle",
-      "publishers": [],
-      "developers": [],
-      "genres": [
-        "Strategy"
-      ],
-      "themes": [],
-      "game_modes": [],
-      "player_perspectives": [],
-      "engine": [],
-      "game_type": "bundle",
-      "release_dates": {
-        "release_date": "2023-10-17",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
-    "specific": {
       "id": 27441,
       "name": "Wargroove",
       "url": "https://www.igdb.com/games/wargroove",

@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "base_id": null,
+    "specific_id": 43165,
+    "title": null,
+    "store_title": "My Time At Portia",
+    "pid": "BX1FZX1X4132",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NBLSN1JP7TH"
+    ],
+    "sku_groups": [
+      [
+        "9NBLSN1JP7TH"
+      ],
+      [
+        "BX1FZX1X4132"
+      ]
+    ],
+    "original_release_date": "2019-04-16",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2019-07-03",
+        "removed": "2024-10-01"
+      },
+      "Ultimate": {
+        "added": "2019-07-03",
+        "removed": "2024-10-01"
+      },
+      "Premium": {
+        "added": "2024-08-12",
+        "removed": "2024-10-01"
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "GameStreaming": "Cloud enabled",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves",
+      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+    },
+    "categories": [
+      "Role playing"
+    ],
+    "publisher": "Team17 Digital Ltd",
+    "developer": "Pathea Games"
+  },
+  "igdb_meta": {
+    "main_game": {
+      "id": 43165,
+      "name": "My Time at Portia",
+      "url": "https://www.igdb.com/games/my-time-at-portia",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Pathea Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-01-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-01-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-04-16"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "version": {
+      "id": 43165,
+      "name": "My Time at Portia",
+      "url": "https://www.igdb.com/games/my-time-at-portia",
+      "publishers": [
+        "Team17"
+      ],
+      "developers": [
+        "Pathea Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Survival",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2019-01-15",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-01-15"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2019-04-16"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    }
+  },
+  "steam_store_meta": {}
+}

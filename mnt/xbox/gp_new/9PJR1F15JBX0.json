@@ -19,7 +19,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2019-10-22",
+        "removed": "2020-10-15"
+      },
+      "PC": {
+        "added": "2019-10-22",
+        "removed": "2020-10-15"
+      }
+    }
   ],
   "flags": {
     "indie": true,

@@ -28,7 +28,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2020-10-01",
+        "removed": NaN
+      },
+      "Console": {
+        "added": "2020-10-01",
+        "removed": NaN
+      }
+    }
   ],
   "flags": {
     "indie": false,

@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "base_id": null,
+    "specific_id": 96391,
+    "title": null,
+    "store_title": "Shenmue I & II",
+    "pid": "BZZP5HFC3PGJ",
+    "alternate_xbox_id": null,
+    "related_skus": [
+      "9NXQQ04PB82T"
+    ],
+    "sku_groups": [
+      [
+        "9NXQQ04PB82T"
+      ],
+      [
+        "BZZP5HFC3PGJ"
+      ]
+    ],
+    "original_release_date": "1999-12-29",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX"
+    ]
+  },
+  "availabilities": [
+    {}
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": [],
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "SEGA Europe Ltd",
+    "developer": "D3T"
+  },
+  "igdb_meta": {
+    "main_game": {
+      "id": 1217,
+      "name": "Shenmue",
+      "url": "https://www.igdb.com/games/shenmue",
+      "publishers": [
+        "Sega"
+      ],
+      "developers": [
+        "Sega AM2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Simulator",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Fantasy",
+        "Historical",
+        "Sandbox",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "1999-12-29",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-21"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "version": {
+      "id": 96391,
+      "name": "Shenmue I & II",
+      "url": "https://www.igdb.com/games/shenmue-i-and-ii",
+      "publishers": [
+        "Sega",
+        "Sega Games"
+      ],
+      "developers": [
+        "Sega AM2"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Drama",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "bundle",
+      "release_dates": {
+        "release_date": "2018-08-21",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-21"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2018-08-21"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    }
+  },
+  "steam_store_meta": {}
+}

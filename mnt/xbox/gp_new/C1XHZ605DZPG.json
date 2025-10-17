@@ -1,24 +1,19 @@
 {
   "basic_info": {
-    "base_id": 43165,
-    "specific_id": 224111,
-    "title": "My Time at Portia",
-    "store_title": "My Time at Portia Deluxe Edition",
-    "pid": "9NT52LH4Q2S5",
+    "base_id": null,
+    "specific_id": 974,
+    "title": null,
+    "store_title": "resident evil 4 (2005)",
+    "pid": "C1XHZ605DZPG",
     "alternate_xbox_id": null,
-    "related_skus": [
-      "9NBLSN1JP7TH"
-    ],
+    "related_skus": [],
     "sku_groups": [
       [
-        "9NBLSN1JP7TH"
-      ],
-      [
-        "9NT52LH4Q2S5"
+        "C1XHZ605DZPG"
       ]
     ],
-    "original_release_date": "2019-01-15",
-    "release_date": "2022-10-31",
+    "original_release_date": "2005-01-11",
+    "release_date": null,
     "platforms": [
       "XboxOne",
       "XboxSeriesX"
@@ -28,43 +23,37 @@
     {}
   ],
   "flags": {
-    "indie": true,
+    "indie": false,
     "first_party": false,
     "f2p": false
   },
   "xbox_store_meta": {
-    "capabilities": {
-      "SinglePlayer": "Single player"
-    },
+    "capabilities": [],
     "categories": [
-      "Role playing"
+      "Action & adventure"
     ],
-    "publisher": "Team17",
-    "developer": "Pathea Games"
+    "publisher": "CAPCOM CO., LTD.",
+    "developer": "CAPCOM CO., LTD."
   },
   "igdb_meta": {
-    "main": {
-      "id": 43165,
-      "name": "My Time at Portia",
-      "url": "https://www.igdb.com/games/my-time-at-portia",
+    "main_game": {
+      "id": 974,
+      "name": "Resident Evil 4",
+      "url": "https://www.igdb.com/games/resident-evil-4",
       "publishers": [
-        "Team17"
+        "Capcom"
       ],
       "developers": [
-        "Pathea Games"
+        "Capcom Production Studio 4"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Simulator",
-        "Adventure",
-        "Indie"
+        "Shooter",
+        "Adventure"
       ],
       "themes": [
         "Action",
-        "Fantasy",
-        "Survival",
-        "Sandbox",
-        "Open world"
+        "Horror",
+        "Survival"
       ],
       "game_modes": [
         "Single player"
@@ -72,19 +61,17 @@
       "player_perspectives": [
         "Third person"
       ],
-      "engine": [
-        "Unity"
-      ],
+      "engine": [],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2019-01-15",
+        "release_date": "2005-01-11",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-01-15"
+          "release_date_1_0": null
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-04-16"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
@@ -96,35 +83,42 @@
         }
       }
     },
-    "specific": {
-      "id": 224111,
-      "name": "My Time at Portia: Deluxe Edition",
-      "url": "https://www.igdb.com/games/my-time-at-portia-deluxe-edition",
-      "publishers": [],
-      "developers": [],
+    "version": {
+      "id": 974,
+      "name": "Resident Evil 4",
+      "url": "https://www.igdb.com/games/resident-evil-4",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Production Studio 4"
+      ],
       "genres": [
-        "Role-playing (RPG)",
-        "Simulator",
+        "Shooter",
         "Adventure"
       ],
       "themes": [
-        "Action"
+        "Action",
+        "Horror",
+        "Survival"
       ],
       "game_modes": [
         "Single player"
       ],
-      "player_perspectives": [],
+      "player_perspectives": [
+        "Third person"
+      ],
       "engine": [],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2022-10-31",
+        "release_date": "2005-01-11",
         "PC": {
           "release_date_ea": null,
           "release_date_1_0": null
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2022-10-31"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,

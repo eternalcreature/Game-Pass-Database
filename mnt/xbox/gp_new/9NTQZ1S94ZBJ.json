@@ -25,7 +25,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-03-04",
+        "removed": "2021-08-31"
+      },
+      "Console": {
+        "added": "2021-03-04",
+        "removed": "2021-08-31"
+      }
+    }
   ],
   "flags": {
     "indie": false,

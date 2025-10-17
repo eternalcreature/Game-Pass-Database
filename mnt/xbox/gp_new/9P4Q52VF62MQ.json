@@ -28,7 +28,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2021-03-02",
+        "removed": "2023-02-28"
+      },
+      "PC": {
+        "added": "2021-03-02",
+        "removed": "2023-02-28"
+      },
+      "EA Play": {
+        "added": "2021-03-02",
+        "removed": "2023-02-28"
+      }
+    }
   ],
   "flags": {
     "indie": false,
