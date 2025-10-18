@@ -21,7 +21,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2019-12-19",
+        "removed": "2021-03-15"
+      },
+      "Console": {
+        "added": "2019-12-19",
+        "removed": "2021-03-15"
+      }
+    }
   ],
   "flags": {
     "indie": false,

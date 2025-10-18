@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 854,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 119806,
+        "company": {
+          "id": 294,
+          "name": "Telltale Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sam & Max: Beyond Time and Space",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/sam-max-beyond-time-and-space",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 59489,
+      "date": 1237161600,
+      "platform": 5
+    },
+    {
+      "id": 142941,
+      "date": 1268092800,
+      "platform": 5
+    },
+    {
+      "id": 105391,
+      "date": 1318896000,
+      "platform": 9
+    },
+    {
+      "id": 105392,
+      "date": 1322611200,
+      "platform": 9
+    },
+    {
+      "id": 1845,
+      "date": 1207785600,
+      "platform": 6
+    },
+    {
+      "id": 231421,
+      "date": 1255478400,
+      "platform": 12
+    },
+    {
+      "id": 340269,
+      "date": 1638921600,
+      "platform": 49
+    }
+  ]
+}

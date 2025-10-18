@@ -2,7 +2,7 @@
   "basic_info": {
     "base_id": null,
     "specific_id": 96391,
-    "title": null,
+    "title": "Shenmue I & II",
     "store_title": "Shenmue I & II",
     "pid": "BZZP5HFC3PGJ",
     "alternate_xbox_id": null,
@@ -25,7 +25,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2019-06-09",
+        "removed": "2020-03-01"
+      },
+      "Console": {
+        "added": "2019-06-09",
+        "removed": "2020-03-01"
+      }
+    }
   ],
   "flags": {
     "indie": false,

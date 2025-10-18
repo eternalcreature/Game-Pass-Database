@@ -20,7 +20,20 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2020-11-10",
+        "removed": "2021-04-16"
+      },
+      "Console": {
+        "added": "2020-11-10",
+        "removed": "2021-04-16"
+      },
+      "EA Play": {
+        "added": "2020-11-10",
+        "removed": "2021-04-16"
+      }
+    }
   ],
   "flags": {
     "indie": false,

@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 185631,
-    "title": null,
+    "base_id": 854,
+    "specific_id": null,
+    "title": "None",
     "store_title": "Sam&Max Beyond Time...",
     "pid": "BZQ63HW1R8SP",
     "alternate_xbox_id": null,
@@ -20,7 +20,16 @@
     ]
   },
   "availabilities": [
-    {}
+    {
+      "Ultimate": {
+        "added": "2017-06-01",
+        "removed": "2018-05-01"
+      },
+      "Console": {
+        "added": "2017-06-01",
+        "removed": "2018-05-01"
+      }
+    }
   ],
   "flags": {
     "indie": true,
@@ -134,6 +143,53 @@
         "Xbox 360": {
           "release_date_ea": null,
           "release_date_1_0": null
+        }
+      }
+    },
+    "main": {
+      "id": 854,
+      "name": "Sam & Max: Beyond Time and Space",
+      "url": "https://www.igdb.com/games/sam-max-beyond-time-and-space",
+      "publishers": [
+        "Telltale Games"
+      ],
+      "developers": [
+        "Telltale Games"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Adventure"
+      ],
+      "themes": [
+        "Science fiction",
+        "Comedy",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2008-04-10",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2008-04-10"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-08"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": "2009-10-14"
         }
       }
     }
