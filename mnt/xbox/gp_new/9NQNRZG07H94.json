@@ -1,9 +1,9 @@
 {
   "basic_info": {
-    "base_id": 9278,
+    "base_id": 329138,
     "specific_id": 9278,
-    "title": "Endless Legend",
-    "store_title": "ENDLESS\u2122 Legend 2 (Game Preview)",
+    "title": "Endless Legend 2",
+    "store_title": "ENDLESS™ Legend 2 (Game Preview)",
     "pid": "9NQNRZG07H94",
     "alternate_xbox_id": null,
     "related_skus": [],
@@ -50,41 +50,37 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 9278,
-      "name": "Endless Legend",
-      "url": "https://www.igdb.com/games/endless-legend",
+      "id": 329138,
+      "name": "Endless Legend 2",
+      "url": "https://www.igdb.com/games/endless-legend-2",
       "publishers": [
-        "Sega"
+        "Hooded Horse"
       ],
       "developers": [
         "Amplitude Studios"
       ],
       "genres": [
-        "Role-playing (RPG)",
+        "Simulator",
         "Strategy",
-        "Turn-based strategy (TBS)",
-        "Indie"
+        "Turn-based strategy (TBS)"
       ],
       "themes": [
-        "Fantasy",
         "4X (explore, expand, exploit, and exterminate)"
       ],
       "game_modes": [
         "Single player",
-        "Multiplayer"
+        "Co-operative"
       ],
       "player_perspectives": [
         "Bird view / Isometric"
       ],
-      "engine": [
-        "Unity"
-      ],
+      "engine": [],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2014-09-18",
+        "release_date": "2025-09-22",
         "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2014-09-18"
+          "release_date_ea": "2025-09-22",
+          "release_date_1_0": null
         },
         "Xbox One": {
           "release_date_ea": null,
