@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "base_id": 180445,
+    "base_id": 137989,
     "specific_id": 137989,
     "title": "Party Animals",
     "store_title": "Party Animals",
@@ -12,7 +12,7 @@
         "9MZ08RDQ4DM1"
       ]
     ],
-    "original_release_date": null,
+    "original_release_date": "2023-09-20",
     "release_date": "2023-09-20",
     "platforms": [
       "XboxOne",
@@ -61,32 +61,51 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 180445,
+      "id": 137989,
       "name": "Party Animals",
-      "url": "https://www.igdb.com/games/party-animals--1",
-      "publishers": [],
-      "developers": [],
-      "genres": [
-        "Puzzle"
+      "url": "https://www.igdb.com/games/party-animals",
+      "publishers": [
+        "Source Technology"
       ],
-      "themes": [],
-      "game_modes": [],
-      "player_perspectives": [],
-      "engine": [],
+      "developers": [
+        "Recreate Games"
+      ],
+      "genres": [
+        "Fighting",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Kids",
+        "Party"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [
+        "Unity"
+      ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": null,
+        "release_date": "2023-09-20",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2023-09-20"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2023-09-20"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2023-09-20"
         },
         "Xbox 360": {
           "release_date_ea": null,

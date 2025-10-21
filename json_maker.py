@@ -8,6 +8,7 @@ import asyncio
 import json
 import sys
 import os
+import webbrowser
 
 
 # ---- Main conversion ----

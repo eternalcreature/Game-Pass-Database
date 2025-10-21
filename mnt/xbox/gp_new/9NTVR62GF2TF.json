@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": 237681,
+    "base_id": 135655,
     "specific_id": 237681,
-    "title": "Shadow Warrior 3: Definitive Edition",
+    "title": "Shadow Warrior 3",
     "store_title": "Shadow Warrior 3: Definitive Edition",
     "pid": "9NTVR62GF2TF",
     "alternate_xbox_id": null,
@@ -17,7 +17,7 @@
         "9P6N45QZR81R"
       ]
     ],
-    "original_release_date": "2023-02-16",
+    "original_release_date": "2022-03-01",
     "release_date": "2023-02-16",
     "platforms": [
       "PC"
@@ -55,6 +55,60 @@
   },
   "igdb_meta": {
     "main": {
+      "id": 135655,
+      "name": "Shadow Warrior 3",
+      "url": "https://www.igdb.com/games/shadow-warrior-3",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Flying Wild Hog"
+      ],
+      "genres": [
+        "Shooter",
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Science fiction",
+        "Horror",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2022-03-01",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-03-01"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2022-03-01"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2023-02-16"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 237681,
       "name": "Shadow Warrior 3: Definitive Edition",
       "url": "https://www.igdb.com/games/shadow-warrior-3-definitive-edition",

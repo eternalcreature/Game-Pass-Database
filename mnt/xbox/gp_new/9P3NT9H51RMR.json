@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "base_id": 252683,
+    "base_id": 194464,
     "specific_id": 194464,
     "title": "Escape Academy: Escape From the Past",
     "store_title": "Escape Academy",
@@ -12,12 +12,12 @@
         "9P3NT9H51RMR"
       ]
     ],
-    "original_release_date": "2023-06-19",
+    "original_release_date": "2022-07-14",
     "release_date": "2022-07-14",
     "platforms": [
+      "PC",
       "XboxOne",
       "XboxSeriesX",
-      "PC",
       "XCloud"
     ]
   },
@@ -71,37 +71,47 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 252683,
-      "name": "Escape Academy: Escape From the Past",
-      "url": "https://www.igdb.com/games/escape-academy-escape-from-the-past",
-      "publishers": [],
-      "developers": [],
+      "id": 194464,
+      "name": "Escape Academy",
+      "url": "https://www.igdb.com/games/escape-academy",
+      "publishers": [
+        "Skybound Games",
+        "iam8bit"
+      ],
+      "developers": [
+        "Coin Crew Games"
+      ],
       "genres": [
         "Puzzle",
         "Adventure"
       ],
-      "themes": [],
+      "themes": [
+        "Mystery"
+      ],
       "game_modes": [
         "Single player",
         "Multiplayer",
-        "Co-operative"
+        "Co-operative",
+        "Split screen"
       ],
-      "player_perspectives": [],
+      "player_perspectives": [
+        "First person"
+      ],
       "engine": [],
-      "game_type": "expansion",
+      "game_type": "main_game",
       "release_dates": {
-        "release_date": "2023-06-19",
+        "release_date": "2022-07-13",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2023-06-19"
+          "release_date_1_0": "2022-07-13"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2022-07-14"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": "2023-06-19"
+          "release_date_1_0": "2022-07-14"
         },
         "Xbox 360": {
           "release_date_ea": null,

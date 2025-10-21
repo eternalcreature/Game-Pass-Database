@@ -3,6 +3,7 @@ from utils.igdb_retriever import get_IGDB_data
 from utils.igdb_best_match import search_igdb_best
 from utils.xbox_store_parser import XboxStoreParser
 from utils.igdb_parser import IGDBParser
+import webbrowser
 
 from typing import Dict, List, Optional
 from collections import defaultdict
@@ -147,5 +148,8 @@ class JSONMaker:
 
             with open(f"mnt/xbox/gp_new/{pid}.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
+
+            webbrowser.open(f"http://127.0.0.1:5000/edit/{pid}")
+            input()
 
         return all_jsons

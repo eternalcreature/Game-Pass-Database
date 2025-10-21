@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": 68365,
+    "base_id": 83848,
     "specific_id": 83848,
-    "title": "Until None Remain VR",
+    "title": "Those Who Remain",
     "store_title": "Those Who Remain",
     "pid": "9MWSQ6NPV189",
     "alternate_xbox_id": null,
@@ -17,7 +17,7 @@
         "9NFC3G481KKQ"
       ]
     ],
-    "original_release_date": "2017-09-01",
+    "original_release_date": "2020-05-28",
     "release_date": "2020-05-28",
     "platforms": [
       "XboxOne",
@@ -63,38 +63,44 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 68365,
-      "name": "Until None Remain VR",
-      "url": "https://www.igdb.com/games/until-none-remain-vr",
+      "id": 83848,
+      "name": "Those Who Remain",
+      "url": "https://www.igdb.com/games/those-who-remain",
       "publishers": [
-        "D.W.S."
+        "Camel 101"
       ],
       "developers": [
-        "D.W.S."
+        "Camel 101"
       ],
       "genres": [
-        "Shooter",
+        "Adventure",
         "Indie"
       ],
       "themes": [
         "Action",
-        "Science fiction"
+        "Horror",
+        "Thriller",
+        "Mystery"
       ],
       "game_modes": [
-        "Multiplayer"
+        "Single player"
       ],
-      "player_perspectives": [],
-      "engine": [],
+      "player_perspectives": [
+        "First person"
+      ],
+      "engine": [
+        "Unity"
+      ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2017-09-01",
+        "release_date": "2020-05-28",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2017-09-01"
+          "release_date_1_0": "2020-05-28"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2020-05-28"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,

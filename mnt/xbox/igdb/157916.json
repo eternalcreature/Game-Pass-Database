@@ -1,0 +1,110 @@
+{
+  "general": {
+    "id": 157916,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 256289,
+        "company": {
+          "id": 3049,
+          "name": "Triangle Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 256290,
+        "company": {
+          "id": 41724,
+          "name": "Curve Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "From Space",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/from-space",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 437806,
+      "date": 1667433600,
+      "platform": 130
+    },
+    {
+      "id": 416530,
+      "date": 1667433600,
+      "platform": 6
+    },
+    {
+      "id": 527113,
+      "date": 1697068800,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 527114,
+      "date": 1697068800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 527115,
+      "date": 1697068800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 527116,
+      "date": 1697068800,
+      "platform": 48,
+      "status": 6
+    }
+  ]
+}
