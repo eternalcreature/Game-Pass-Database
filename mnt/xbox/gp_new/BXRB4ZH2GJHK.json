@@ -3,7 +3,7 @@
     "base_id": 119262,
     "specific_id": 119262,
     "title": "Tom Clancy's Rainbow Six Extraction",
-    "store_title": "Tom Clancy\u2019s Rainbow Six\u00ae Extraction",
+    "store_title": "Tom Clancy’s Rainbow Six® Extraction",
     "pid": "BXRB4ZH2GJHK",
     "alternate_xbox_id": null,
     "related_skus": [],
@@ -22,21 +22,31 @@
   },
   "availabilities": [
     {
-      "Ubisoft+ Classics": {
-        "added": "2025-10-01",
-        "removed": null
-      },
       "Console": {
         "added": "2025-10-01",
         "removed": null
       },
-      "Ultimate": {
+      "Ubisoft+ Classics": {
         "added": "2025-10-01",
         "removed": null
       },
       "Ubisoft+ Premium": {
         "added": null,
         "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-01",
+        "removed": null
+      }
+    },
+    {
+      "Console": {
+        "added": "2022-01-20",
+        "removed": "2023-04-15"
+      },
+      "Ultimate": {
+        "added": "2022-01-20",
+        "removed": "2023-04-15"
       }
     }
   ],

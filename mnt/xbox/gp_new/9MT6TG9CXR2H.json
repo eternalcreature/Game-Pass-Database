@@ -1,8 +1,8 @@
 {
   "basic_info": {
-    "base_id": 199168,
+    "base_id": 7706,
     "specific_id": 199168,
-    "title": "This War of Mine: Final Cut",
+    "title": "This War of Mine",
     "store_title": "This War of Mine: Final Cut",
     "pid": "9MT6TG9CXR2H",
     "alternate_xbox_id": null,
@@ -12,11 +12,11 @@
         "9MT6TG9CXR2H"
       ]
     ],
-    "original_release_date": "2022-05-10",
+    "original_release_date": "2014-11-14",
     "release_date": "2022-05-10",
     "platforms": [
-      "XboxSeriesX",
       "PC",
+      "XboxSeriesX",
       "XCloud"
     ]
   },
@@ -63,6 +63,60 @@
   },
   "igdb_meta": {
     "main": {
+      "id": 7706,
+      "name": "This War of Mine",
+      "url": "https://www.igdb.com/games/this-war-of-mine",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "11 bit studios"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival",
+        "Stealth",
+        "Drama",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Side view"
+      ],
+      "engine": [
+        "Liquid Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-11-14",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-11-14"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2016-01-26"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 199168,
       "name": "This War of Mine: Final Cut",
       "url": "https://www.igdb.com/games/this-war-of-mine-final-cut",

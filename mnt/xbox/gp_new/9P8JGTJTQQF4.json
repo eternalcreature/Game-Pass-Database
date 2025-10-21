@@ -2,7 +2,7 @@
   "basic_info": {
     "base_id": 250504,
     "specific_id": 127350,
-    "title": "Weird West: Definitive Edition",
+    "title": "Weird West",
     "store_title": "Weird West",
     "pid": "9P8JGTJTQQF4",
     "alternate_xbox_id": null,
@@ -17,7 +17,7 @@
         "9P8JGTJTQQF4"
       ]
     ],
-    "original_release_date": "2023-03-31",
+    "original_release_date": "2022-03-31",
     "release_date": "2022-03-31",
     "platforms": [
       "PC"
@@ -56,9 +56,9 @@
   },
   "igdb_meta": {
     "main": {
-      "id": 250504,
-      "name": "Weird West: Definitive Edition",
-      "url": "https://www.igdb.com/games/weird-west-definitive-edition",
+      "id": 127350,
+      "name": "Weird West",
+      "url": "https://www.igdb.com/games/weird-west",
       "publishers": [
         "Devolver Digital"
       ],
@@ -72,7 +72,8 @@
         "Indie"
       ],
       "themes": [
-        "Action"
+        "Action",
+        "Fantasy"
       ],
       "game_modes": [
         "Single player"
@@ -80,21 +81,23 @@
       "player_perspectives": [
         "Bird view / Isometric"
       ],
-      "engine": [],
+      "engine": [
+        "Unreal Engine 4"
+      ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2023-03-31",
+        "release_date": "2022-03-31",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2023-03-31"
+          "release_date_1_0": "2022-03-31"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2022-03-31"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": "2023-05-08"
+          "release_date_1_0": "2022-03-31"
         },
         "Xbox 360": {
           "release_date_ea": null,
