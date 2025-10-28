@@ -53,111 +53,59 @@
     "developer": "sunset visitor 斜陽過客"
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 218282,
-      "name": "1000xResist",
-      "url": "https://www.igdb.com/games/1000xresist",
-      "publishers": [
-        "Fellow Traveller"
-      ],
-      "developers": [
-        "sunset visitor 斜陽過客"
-      ],
-      "genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Science fiction",
-        "Horror"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "First person",
-        "Third person",
-        "Bird view / Isometric",
-        "Side view"
-      ],
-      "engine": [
-        "Unity"
-      ],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2024-05-09",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2024-05-09"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-11-04"
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
-    "version": {
-      "id": 218282,
-      "name": "1000xResist",
-      "url": "https://www.igdb.com/games/1000xresist",
-      "publishers": [
-        "Fellow Traveller"
-      ],
-      "developers": [
-        "sunset visitor 斜陽過客"
-      ],
-      "genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Science fiction",
-        "Horror"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "First person",
-        "Third person",
-        "Bird view / Isometric",
-        "Side view"
-      ],
-      "engine": [
-        "Unity"
-      ],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2024-05-09",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2024-05-09"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-11-04"
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
     "main": {
+      "id": 218282,
+      "name": "1000xResist",
+      "url": "https://www.igdb.com/games/1000xresist",
+      "publishers": [
+        "Fellow Traveller"
+      ],
+      "developers": [
+        "sunset visitor 斜陽過客"
+      ],
+      "genres": [
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Horror"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person",
+        "Third person",
+        "Bird view / Isometric",
+        "Side view"
+      ],
+      "engine": [
+        "Unity"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2024-05-09",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2024-05-09"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-11-04"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 218282,
       "name": "1000xResist",
       "url": "https://www.igdb.com/games/1000xresist",

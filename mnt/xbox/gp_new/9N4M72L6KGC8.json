@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "base_id": 117000,
+    "specific_id": 117000,
+    "title": "Superball",
+    "store_title": "Superball",
+    "pid": "9N4M72L6KGC8",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N4M72L6KGC8"
+      ]
+    ],
+    "original_release_date": "2025-10-28",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud",
+      "Handheld"
+    ]
+  },
+  "availabilities": [
+    {
+      "Essential": {
+        "added": "2025-10-28",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-10-28",
+        "removed": null
+      },
+      "Console": {
+        "added": "2025-10-28",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-28",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-10-28",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": true
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-3)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-10)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Sports",
+      "Action & adventure",
+      "Multi-Player Online Battle Arena"
+    ],
+    "publisher": "Logoi Games",
+    "developer": "Pathea Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 117000,
+      "name": "Superball",
+      "url": "https://www.igdb.com/games/superball--2",
+      "publishers": [
+        "Pathea Games"
+      ],
+      "developers": [
+        "Pathea Games"
+      ],
+      "genres": [
+        "Sport",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-10-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
+      "id": 117000,
+      "name": "Superball",
+      "url": "https://www.igdb.com/games/superball--2",
+      "publishers": [
+        "Pathea Games"
+      ],
+      "developers": [
+        "Pathea Games"
+      ],
+      "genres": [
+        "Sport",
+        "Strategy",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Science fiction"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-10-28",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-28"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    }
+  },
+  "steam_store_meta": {}
+}

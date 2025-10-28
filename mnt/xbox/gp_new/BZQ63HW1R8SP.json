@@ -46,106 +46,6 @@
     "developer": "Telltale Games"
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 185631,
-      "name": "Sam & Max: Beyond Time and Space",
-      "url": "https://www.igdb.com/games/sam-and-max-beyond-time-and-space",
-      "publishers": [
-        "Skunkape"
-      ],
-      "developers": [
-        "Skunkape"
-      ],
-      "genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Science fiction",
-        "Comedy",
-        "Party",
-        "Mystery"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Third person"
-      ],
-      "engine": [],
-      "game_type": "remaster",
-      "release_dates": {
-        "release_date": "2021-12-08",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2021-12-08"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": "2021-12-08"
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
-    "version": {
-      "id": 185631,
-      "name": "Sam & Max: Beyond Time and Space",
-      "url": "https://www.igdb.com/games/sam-and-max-beyond-time-and-space",
-      "publishers": [
-        "Skunkape"
-      ],
-      "developers": [
-        "Skunkape"
-      ],
-      "genres": [
-        "Point-and-click",
-        "Puzzle",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Science fiction",
-        "Comedy",
-        "Party",
-        "Mystery"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Third person"
-      ],
-      "engine": [],
-      "game_type": "remaster",
-      "release_dates": {
-        "release_date": "2021-12-08",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2021-12-08"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": "2021-12-08"
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
     "main": {
       "id": 854,
       "name": "Sam & Max: Beyond Time and Space",
@@ -190,6 +90,56 @@
         "Xbox 360": {
           "release_date_ea": null,
           "release_date_1_0": "2009-10-14"
+        }
+      }
+    },
+    "specific": {
+      "id": 185631,
+      "name": "Sam & Max: Beyond Time and Space",
+      "url": "https://www.igdb.com/games/sam-and-max-beyond-time-and-space",
+      "publishers": [
+        "Skunkape"
+      ],
+      "developers": [
+        "Skunkape"
+      ],
+      "genres": [
+        "Point-and-click",
+        "Puzzle",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Science fiction",
+        "Comedy",
+        "Party",
+        "Mystery"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "remaster",
+      "release_dates": {
+        "release_date": "2021-12-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2021-12-08"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
         }
       }
     }

@@ -73,68 +73,6 @@
     "developer": "Compulsion Games Inc"
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 9182,
-      "name": "We Happy Few",
-      "url": "https://www.igdb.com/games/we-happy-few",
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "developers": [
-        "Compulsion Games"
-      ],
-      "genres": [
-        "Shooter",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Action",
-        "Fantasy",
-        "Horror",
-        "Survival",
-        "Historical",
-        "Stealth",
-        "Open world"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "First person"
-      ]
-    },
-    "version": {
-      "id": 9182,
-      "name": "We Happy Few",
-      "url": "https://www.igdb.com/games/we-happy-few",
-      "publishers": [
-        "Gearbox Publishing"
-      ],
-      "developers": [
-        "Compulsion Games"
-      ],
-      "genres": [
-        "Shooter",
-        "Adventure",
-        "Indie"
-      ],
-      "themes": [
-        "Action",
-        "Fantasy",
-        "Horror",
-        "Survival",
-        "Historical",
-        "Stealth",
-        "Open world"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "First person"
-      ]
-    },
     "main": {
       "id": 9182,
       "name": "We Happy Few",
@@ -188,6 +126,37 @@
           "release_date_1_0": null
         }
       }
+    },
+    "specific": {
+      "id": 9182,
+      "name": "We Happy Few",
+      "url": "https://www.igdb.com/games/we-happy-few",
+      "publishers": [
+        "Gearbox Publishing"
+      ],
+      "developers": [
+        "Compulsion Games"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Survival",
+        "Historical",
+        "Stealth",
+        "Open world"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "First person"
+      ]
     }
   },
   "steam_store_meta": {}

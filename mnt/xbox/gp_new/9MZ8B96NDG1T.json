@@ -1,18 +1,18 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 240432,
-    "title": null,
-    "store_title": "Pax Dei",
-    "pid": "9PHGK0538TXM",
+    "base_id": 235823,
+    "specific_id": null,
+    "title": "Super Fantasy Kingdom",
+    "store_title": "Super Fantasy Kingdom (Game Preview)",
+    "pid": "9MZ8B96NDG1T",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9PHGK0538TXM"
+        "9MZ8B96NDG1T"
       ]
     ],
-    "original_release_date": "2025-10-16",
+    "original_release_date": "2025-10-24",
     "release_date": null,
     "platforms": [
       "PC"
@@ -21,15 +21,11 @@
   "availabilities": [
     {
       "PC": {
-        "added": "2025-10-16",
+        "added": "2025-10-24",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-10-16",
-        "removed": null
-      },
-      "Premium": {
-        "added": "2025-10-16",
+        "added": "2025-10-24",
         "removed": null
       }
     }
@@ -41,55 +37,51 @@
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineCoop": "Online co-op (2-1000)",
-      "XblOnlineMultiPlayer": "Online multiplayer  (2-1000)",
-      "XblAchievements": "Xbox achievements"
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves"
     },
     "categories": [
-      "Role playing",
-      "Action & adventure"
+      "Strategy",
+      "Simulation",
+      "Role playing"
     ],
-    "publisher": "Mainframe Industries",
-    "developer": "Mainframe Industries"
+    "publisher": "Hooded Horse",
+    "developer": "Super Fantasy Games"
   },
   "igdb_meta": {
     "main": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 235823,
+      "name": "Super Fantasy Kingdom",
+      "url": "https://www.igdb.com/games/super-fantasy-kingdom",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Hooded Horse"
       ],
       "developers": [
-        "Mainframe Industries"
+        "Super Fantasy Games"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Simulator",
+        "Strategy"
       ],
       "themes": [
         "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Sandbox"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "Bird view / Isometric"
       ],
-      "engine": [
-        "Unreal Engine 5"
-      ],
+      "engine": [],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2025-10-24",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-24"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -106,42 +98,36 @@
       }
     },
     "specific": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 235823,
+      "name": "Super Fantasy Kingdom",
+      "url": "https://www.igdb.com/games/super-fantasy-kingdom",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Hooded Horse"
       ],
       "developers": [
-        "Mainframe Industries"
+        "Super Fantasy Games"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Simulator",
+        "Strategy"
       ],
       "themes": [
         "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Sandbox"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "Bird view / Isometric"
       ],
-      "engine": [
-        "Unreal Engine 5"
-      ],
+      "engine": [],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2025-10-24",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-24"
         },
         "Xbox One": {
           "release_date_ea": null,

@@ -1,0 +1,91 @@
+{
+  "general": {
+    "id": 335439,
+    "game_engines": [
+      {
+        "id": 1689,
+        "name": "Unity 6"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 311367,
+        "company": {
+          "id": 4441,
+          "name": "FuturLab"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "PowerWash Simulator 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/powerwash-simulator-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 824817,
+      "date": 1761177600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 824814,
+      "date": 1761177600,
+      "platform": 508,
+      "status": 6
+    },
+    {
+      "id": 824815,
+      "date": 1761177600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 824816,
+      "date": 1761177600,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

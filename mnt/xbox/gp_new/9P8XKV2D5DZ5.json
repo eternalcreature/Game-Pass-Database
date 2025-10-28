@@ -1,92 +1,82 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 3171,
-    "title": null,
-    "store_title": "The Saboteur™",
-    "pid": "9PMVJR05PFJW",
+    "base_id": 200611,
+    "specific_id": null,
+    "title": "Dome Keeper",
+    "store_title": "Dome Keeper",
+    "pid": "9P8XKV2D5DZ5",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9PMVJR05PFJW"
+        "9P8XKV2D5DZ5"
       ]
     ],
-    "original_release_date": "2009-12-08",
+    "original_release_date": "2022-09-27",
     "release_date": null,
     "platforms": [
-      "PC"
+      "PC",
+      "XboxSeriesX"
     ]
   },
   "availabilities": [
-    {
-      "PC": {
-        "added": "2021-03-18",
-        "removed": null
-      },
-      "Ultimate": {
-        "added": "2021-03-18",
-        "removed": null
-      },
-      "EA Play": {
-        "added": "2021-03-18",
-        "removed": null
-      }
-    }
+    {}
   ],
   "flags": {
-    "indie": false,
+    "indie": true,
     "first_party": false,
     "f2p": false
   },
   "xbox_store_meta": {
-    "capabilities": [],
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XPA": "Xbox Play Anywhere"
+    },
     "categories": [
       "Action & adventure"
     ],
-    "publisher": "Electronic Arts",
-    "developer": "Pandemic Studios"
+    "publisher": "Raw Fury",
+    "developer": "Bippinbits"
   },
   "igdb_meta": {
     "main": {
-      "id": 3171,
-      "name": "The Saboteur",
-      "url": "https://www.igdb.com/games/the-saboteur",
+      "id": 200611,
+      "name": "Dome Keeper",
+      "url": "https://www.igdb.com/games/dome-keeper",
       "publishers": [
-        "Electronic Arts"
+        "Raw Fury"
       ],
       "developers": [
-        "Pandemic Studios"
+        "Bippinbits"
       ],
       "genres": [
-        "Shooter",
-        "Role-playing (RPG)",
         "Tactical",
-        "Adventure"
+        "Indie",
+        "Arcade"
       ],
       "themes": [
         "Action",
-        "Historical",
-        "Stealth",
-        "Sandbox",
-        "Open world",
-        "Warfare"
+        "Science fiction",
+        "Survival"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "Side view"
       ],
       "engine": [
-        "Havok Physics"
+        "Godot Engine",
+        "HTML5"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2009-12-04",
+        "release_date": "2021-04-27",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2009-12-08"
+          "release_date_1_0": "2021-04-27"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -94,53 +84,50 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-12-09"
         },
         "Xbox 360": {
           "release_date_ea": null,
-          "release_date_1_0": "2009-12-08"
+          "release_date_1_0": null
         }
       }
     },
     "specific": {
-      "id": 3171,
-      "name": "The Saboteur",
-      "url": "https://www.igdb.com/games/the-saboteur",
+      "id": 200611,
+      "name": "Dome Keeper",
+      "url": "https://www.igdb.com/games/dome-keeper",
       "publishers": [
-        "Electronic Arts"
+        "Raw Fury"
       ],
       "developers": [
-        "Pandemic Studios"
+        "Bippinbits"
       ],
       "genres": [
-        "Shooter",
-        "Role-playing (RPG)",
         "Tactical",
-        "Adventure"
+        "Indie",
+        "Arcade"
       ],
       "themes": [
         "Action",
-        "Historical",
-        "Stealth",
-        "Sandbox",
-        "Open world",
-        "Warfare"
+        "Science fiction",
+        "Survival"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "Side view"
       ],
       "engine": [
-        "Havok Physics"
+        "Godot Engine",
+        "HTML5"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2009-12-04",
+        "release_date": "2021-04-27",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2009-12-08"
+          "release_date_1_0": "2021-04-27"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -148,11 +135,11 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-12-09"
         },
         "Xbox 360": {
           "release_date_ea": null,
-          "release_date_1_0": "2009-12-08"
+          "release_date_1_0": null
         }
       }
     }

@@ -1,95 +1,93 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 240432,
-    "title": null,
-    "store_title": "Pax Dei",
-    "pid": "9PHGK0538TXM",
+    "base_id": 329130,
+    "specific_id": 329130,
+    "title": "Ninja Gaiden 4",
+    "store_title": "NINJA GAIDEN 4 Standard Edition",
+    "pid": "9N7358JZPX1Z",
     "alternate_xbox_id": null,
-    "related_skus": [],
+    "related_skus": [
+      "9P0SQ1S72G4J"
+    ],
     "sku_groups": [
       [
-        "9PHGK0538TXM"
+        "9N7358JZPX1Z",
+        "9P0SQ1S72G4J"
       ]
     ],
-    "original_release_date": "2025-10-16",
+    "original_release_date": "2025-10-21",
     "release_date": null,
     "platforms": [
-      "PC"
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
     ]
   },
   "availabilities": [
     {
-      "PC": {
-        "added": "2025-10-16",
+      "Console": {
+        "added": "2025-10-21",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-10-16",
+        "added": "2025-10-21",
         "removed": null
       },
-      "Premium": {
-        "added": "2025-10-16",
+      "PC": {
+        "added": "2025-10-21",
         "removed": null
       }
     }
   ],
   "flags": {
-    "indie": true,
-    "first_party": false,
+    "indie": false,
+    "first_party": true,
     "f2p": false
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineCoop": "Online co-op (2-1000)",
-      "XblOnlineMultiPlayer": "Online multiplayer  (2-1000)",
-      "XblAchievements": "Xbox achievements"
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
-      "Role playing",
       "Action & adventure"
     ],
-    "publisher": "Mainframe Industries",
-    "developer": "Mainframe Industries"
+    "publisher": "Xbox Game Studios",
+    "developer": "PlatinumGames Inc. / Team NINJA / KOEI TECMO GAMES CO., LTD.)"
   },
   "igdb_meta": {
     "main": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 329130,
+      "name": "Ninja Gaiden 4",
+      "url": "https://www.igdb.com/games/ninja-gaiden-4",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Xbox Game Studios"
       ],
       "developers": [
-        "Mainframe Industries"
+        "PlatinumGames",
+        "Team NINJA"
       ],
       "genres": [
-        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "themes": [
-        "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
         "Third person"
       ],
       "engine": [
-        "Unreal Engine 5"
+        "Platinum Engine"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2025-10-21",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-21"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -97,7 +95,7 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-10-21"
         },
         "Xbox 360": {
           "release_date_ea": null,
@@ -106,42 +104,38 @@
       }
     },
     "specific": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 329130,
+      "name": "Ninja Gaiden 4",
+      "url": "https://www.igdb.com/games/ninja-gaiden-4",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Xbox Game Studios"
       ],
       "developers": [
-        "Mainframe Industries"
+        "PlatinumGames",
+        "Team NINJA"
       ],
       "genres": [
-        "Role-playing (RPG)",
+        "Hack and slash/Beat 'em up",
         "Adventure"
       ],
       "themes": [
-        "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Action"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
         "Third person"
       ],
       "engine": [
-        "Unreal Engine 5"
+        "Platinum Engine"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2025-10-21",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-21"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -149,7 +143,7 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-10-21"
         },
         "Xbox 360": {
           "release_date_ea": null,

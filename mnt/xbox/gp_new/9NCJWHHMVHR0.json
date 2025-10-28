@@ -60,89 +60,48 @@
     "developer": "Double Fine Productions"
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 348217,
-      "name": "Keeper",
-      "url": "https://www.igdb.com/games/keeper--5",
-      "publishers": [
-        "Double Fine Productions",
-        "Xbox Game Studios"
-      ],
-      "developers": [
-        "Double Fine Productions"
-      ],
-      "genres": [
-        "Adventure"
-      ],
-      "themes": [],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [],
-      "engine": [],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2025-10-17",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-10-17"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-10-17"
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
-    "version": {
-      "id": 348217,
-      "name": "Keeper",
-      "url": "https://www.igdb.com/games/keeper--5",
-      "publishers": [
-        "Double Fine Productions",
-        "Xbox Game Studios"
-      ],
-      "developers": [
-        "Double Fine Productions"
-      ],
-      "genres": [
-        "Adventure"
-      ],
-      "themes": [],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [],
-      "engine": [],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2025-10-17",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-10-17"
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-10-17"
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
     "main": {
+      "id": 348217,
+      "name": "Keeper",
+      "url": "https://www.igdb.com/games/keeper--5",
+      "publishers": [
+        "Double Fine Productions",
+        "Xbox Game Studios"
+      ],
+      "developers": [
+        "Double Fine Productions"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-10-17",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-17"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-17"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 348217,
       "name": "Keeper",
       "url": "https://www.igdb.com/games/keeper--5",

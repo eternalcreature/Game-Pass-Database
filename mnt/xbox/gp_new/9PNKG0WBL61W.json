@@ -1,35 +1,41 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 240432,
-    "title": null,
-    "store_title": "Pax Dei",
-    "pid": "9PHGK0538TXM",
+    "base_id": 217592,
+    "specific_id": 217592,
+    "title": "None",
+    "store_title": "Pacific Drive",
+    "pid": "9PNKG0WBL61W",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9PHGK0538TXM"
+        "9PNKG0WBL61W"
       ]
     ],
-    "original_release_date": "2025-10-16",
+    "original_release_date": "2024-02-22",
     "release_date": null,
     "platforms": [
-      "PC"
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
     ]
   },
   "availabilities": [
     {
-      "PC": {
-        "added": "2025-10-16",
+      "Console": {
+        "added": "2025-10-23",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-10-16",
+        "added": "2025-10-23",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-10-23",
         "removed": null
       },
       "Premium": {
-        "added": "2025-10-16",
+        "added": "2025-10-23",
         "removed": null
       }
     }
@@ -41,55 +47,59 @@
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineCoop": "Online co-op (2-1000)",
-      "XblOnlineMultiPlayer": "Online multiplayer  (2-1000)",
-      "XblAchievements": "Xbox achievements"
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
+      "Racing & flying",
       "Role playing",
       "Action & adventure"
     ],
-    "publisher": "Mainframe Industries",
-    "developer": "Mainframe Industries"
+    "publisher": "Kepler Interactive",
+    "developer": "Ironwood Studios "
   },
   "igdb_meta": {
     "main": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 217592,
+      "name": "Pacific Drive",
+      "url": "https://www.igdb.com/games/pacific-drive",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Kepler Interactive"
       ],
       "developers": [
-        "Mainframe Industries"
+        "Ironwood Studios"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "themes": [
-        "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Mystery"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "First person"
       ],
       "engine": [
-        "Unreal Engine 5"
+        "Unreal Engine 4"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2024-02-22",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2024-02-22"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -106,42 +116,41 @@
       }
     },
     "specific": {
-      "id": 240432,
-      "name": "Pax Dei",
-      "url": "https://www.igdb.com/games/pax-dei",
+      "id": 217592,
+      "name": "Pacific Drive",
+      "url": "https://www.igdb.com/games/pacific-drive",
       "publishers": [
-        "Mainframe Industries",
-        "New Tales"
+        "Kepler Interactive"
       ],
       "developers": [
-        "Mainframe Industries"
+        "Ironwood Studios"
       ],
       "genres": [
-        "Role-playing (RPG)",
-        "Adventure"
+        "Simulator",
+        "Adventure",
+        "Indie"
       ],
       "themes": [
-        "Fantasy",
-        "Sandbox",
-        "Open world"
+        "Action",
+        "Science fiction",
+        "Survival",
+        "Mystery"
       ],
       "game_modes": [
-        "Multiplayer",
-        "Co-operative",
-        "Massively Multiplayer Online (MMO)"
+        "Single player"
       ],
       "player_perspectives": [
-        "Third person"
+        "First person"
       ],
       "engine": [
-        "Unreal Engine 5"
+        "Unreal Engine 4"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2024-06-18",
+        "release_date": "2024-02-22",
         "PC": {
-          "release_date_ea": "2024-06-18",
-          "release_date_1_0": "2025-10-16"
+          "release_date_ea": null,
+          "release_date_1_0": "2024-02-22"
         },
         "Xbox One": {
           "release_date_ea": null,

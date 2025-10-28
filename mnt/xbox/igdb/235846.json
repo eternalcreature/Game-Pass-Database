@@ -1,0 +1,106 @@
+{
+  "general": {
+    "id": 235846,
+    "game_engines": [
+      {
+        "id": 507,
+        "name": "Godot Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 204139,
+        "company": {
+          "id": 6116,
+          "name": "Chasing Carrots"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 331680,
+        "company": {
+          "id": 41607,
+          "name": "Erabit Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Halls of Torment",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/halls-of-torment",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 636890,
+      "date": 1724630400,
+      "platform": 34,
+      "status": 6
+    },
+    {
+      "id": 645264,
+      "date": 1727136000,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 824578,
+      "date": 1761609600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 484173,
+      "date": 1684886400,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 484172,
+      "date": 1684886400,
+      "platform": 3,
+      "status": 3
+    },
+    {
+      "id": 636891,
+      "date": 1728518400,
+      "platform": 39,
+      "status": 6
+    },
+    {
+      "id": 638935,
+      "date": 1727136000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

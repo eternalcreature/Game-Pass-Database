@@ -1,0 +1,77 @@
+{
+  "general": {
+    "id": 210624,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 180929,
+        "company": {
+          "id": 11662,
+          "name": "Annapurna Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 180940,
+        "company": {
+          "id": 42442,
+          "name": "DINOGOD"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Bounty Star",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/bounty-star",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 788796,
+      "date": 1761177600,
+      "platform": 6
+    },
+    {
+      "id": 788797,
+      "date": 1761177600,
+      "platform": 167
+    },
+    {
+      "id": 788798,
+      "date": 1761177600,
+      "platform": 169
+    }
+  ]
+}

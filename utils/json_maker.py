@@ -115,9 +115,9 @@ class JSONMaker:
 
             data = {
                 "basic_info": {
-                    "base_id": self._IGDB_data.get("id"),
+                    "base_id": igdb_parent_data.get("id"),
                     "specific_id": igdb_match,
-                    "title": self._IGDB_data.get("name"),
+                    "title": igdb_parent_data.get("name"),
                     "store_title": xbox_data["store_title"],
                     "pid": pid,
                     "alternate_xbox_id": alternate_xbox_id,
@@ -140,8 +140,8 @@ class JSONMaker:
                     "developer": xbox_data["developer"],
                 },
                 "igdb_meta": {
-                    "main_game": igdb_parent_data,
-                    "version": igdb_version_data,
+                    "main": igdb_parent_data,
+                    "specific": igdb_version_data,
                 },  # IGDBParser placeholder
                 "steam_store_meta": {},  # SteamParser placeholder
             }

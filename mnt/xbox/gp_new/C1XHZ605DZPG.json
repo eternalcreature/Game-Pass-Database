@@ -45,101 +45,54 @@
     "developer": "CAPCOM CO., LTD."
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 974,
-      "name": "Resident Evil 4",
-      "url": "https://www.igdb.com/games/resident-evil-4",
-      "publishers": [
-        "Capcom"
-      ],
-      "developers": [
-        "Capcom Production Studio 4"
-      ],
-      "genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "themes": [
-        "Action",
-        "Horror",
-        "Survival"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Third person"
-      ],
-      "engine": [],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2005-01-11",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
-    "version": {
-      "id": 974,
-      "name": "Resident Evil 4",
-      "url": "https://www.igdb.com/games/resident-evil-4",
-      "publishers": [
-        "Capcom"
-      ],
-      "developers": [
-        "Capcom Production Studio 4"
-      ],
-      "genres": [
-        "Shooter",
-        "Adventure"
-      ],
-      "themes": [
-        "Action",
-        "Horror",
-        "Survival"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Third person"
-      ],
-      "engine": [],
-      "game_type": "main_game",
-      "release_dates": {
-        "release_date": "2005-01-11",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    },
     "main": {
+      "id": 974,
+      "name": "Resident Evil 4",
+      "url": "https://www.igdb.com/games/resident-evil-4",
+      "publishers": [
+        "Capcom"
+      ],
+      "developers": [
+        "Capcom Production Studio 4"
+      ],
+      "genres": [
+        "Shooter",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2005-01-11",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": {
       "id": 974,
       "name": "Resident Evil 4",
       "url": "https://www.igdb.com/games/resident-evil-4",

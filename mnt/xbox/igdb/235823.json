@@ -1,0 +1,68 @@
+{
+  "general": {
+    "id": 235823,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 275617,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 333315,
+        "company": {
+          "id": 66050,
+          "name": "Super Fantasy Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Super Fantasy Kingdom",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/super-fantasy-kingdom",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 812837,
+      "date": 1761264000,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

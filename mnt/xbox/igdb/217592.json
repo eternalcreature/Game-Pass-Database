@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 217592,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 221410,
+        "company": {
+          "id": 37893,
+          "name": "Kepler Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 221409,
+        "company": {
+          "id": 43201,
+          "name": "Ironwood Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pacific Drive",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pacific-drive",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 589921,
+      "date": 1708560000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 589922,
+      "date": 1708560000,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

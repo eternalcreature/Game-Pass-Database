@@ -1,0 +1,122 @@
+{
+  "general": {
+    "id": 200611,
+    "game_engines": [
+      {
+        "id": 507,
+        "name": "Godot Engine"
+      },
+      {
+        "id": 414,
+        "name": "HTML5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 181656,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 291282,
+        "company": {
+          "id": 32080,
+          "name": "Bippinbits"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dome Keeper",
+    "player_perspectives": [
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dome-keeper",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 826984,
+      "date": 1765238400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 654001,
+      "date": 1619481600,
+      "platform": 6,
+      "status": 1
+    },
+    {
+      "id": 653997,
+      "date": 1664236800,
+      "platform": 3,
+      "status": 6
+    },
+    {
+      "id": 654002,
+      "date": 1619481600,
+      "platform": 82,
+      "status": 1
+    },
+    {
+      "id": 653998,
+      "date": 1619481600,
+      "platform": 3,
+      "status": 1
+    },
+    {
+      "id": 653999,
+      "date": 1664236800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 654000,
+      "date": 1664236800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

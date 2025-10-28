@@ -1,42 +1,38 @@
 {
   "basic_info": {
-    "base_id": null,
-    "specific_id": 43165,
-    "title": null,
-    "store_title": "My Time At Portia",
-    "pid": "BX1FZX1X4132",
+    "base_id": 335439,
+    "specific_id": null,
+    "title": "PowerWash Simulator 2",
+    "store_title": "PowerWash Simulator 2",
+    "pid": "9P45GGDTFNSM",
     "alternate_xbox_id": null,
-    "related_skus": [
-      "9NBLSN1JP7TH"
-    ],
+    "related_skus": [],
     "sku_groups": [
       [
-        "9NBLSN1JP7TH"
-      ],
-      [
-        "BX1FZX1X4132"
+        "9P45GGDTFNSM"
       ]
     ],
-    "original_release_date": "2019-04-16",
+    "original_release_date": "2025-10-23",
     "release_date": null,
     "platforms": [
-      "XboxOne",
-      "XboxSeriesX"
+      "PC",
+      "XboxSeriesX",
+      "XCloud"
     ]
   },
   "availabilities": [
     {
       "Console": {
-        "added": "2019-07-03",
-        "removed": "2024-10-01"
+        "added": "2025-10-23",
+        "removed": null
       },
       "Ultimate": {
-        "added": "2019-07-03",
-        "removed": "2024-10-01"
+        "added": "2025-10-23",
+        "removed": null
       },
-      "Premium": {
-        "added": "2024-08-12",
-        "removed": "2024-10-01"
+      "PC": {
+        "added": "2025-10-23",
+        "removed": null
       }
     }
   ],
@@ -47,67 +43,69 @@
   },
   "xbox_store_meta": {
     "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
       "SinglePlayer": "Single player",
-      "GameStreaming": "Cloud enabled",
+      "SharedSplitScreen": "Shared/split screen",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
       "XblAchievements": "Xbox achievements",
       "XblPresence": "Xbox presence",
-      "XblClubs": "Xbox clubs",
       "XblCloudSaves": "Xbox cloud saves",
-      "FPSBoostEnabledXS": "FPS Boost Series X | S"
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
-      "Role playing"
+      "Simulation"
     ],
-    "publisher": "Team17 Digital Ltd",
-    "developer": "Pathea Games"
+    "publisher": "FuturLab Limited",
+    "developer": "FuturLab Limited"
   },
   "igdb_meta": {
     "main": {
-      "id": 43165,
-      "name": "My Time at Portia",
-      "url": "https://www.igdb.com/games/my-time-at-portia",
+      "id": 335439,
+      "name": "PowerWash Simulator 2",
+      "url": "https://www.igdb.com/games/powerwash-simulator-2",
       "publishers": [
-        "Team17"
+        "FuturLab"
       ],
       "developers": [
-        "Pathea Games"
+        "FuturLab"
       ],
       "genres": [
-        "Role-playing (RPG)",
         "Simulator",
-        "Adventure",
         "Indie"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Survival",
-        "Sandbox",
-        "Open world"
+        "Sandbox"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
       ],
       "player_perspectives": [
-        "Third person"
+        "First person"
       ],
       "engine": [
-        "Unity"
+        "Unity 6"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2019-01-15",
+        "release_date": "2025-10-23",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-01-15"
+          "release_date_1_0": "2025-10-23"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-04-16"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-10-23"
         },
         "Xbox 360": {
           "release_date_ea": null,
@@ -116,51 +114,48 @@
       }
     },
     "specific": {
-      "id": 43165,
-      "name": "My Time at Portia",
-      "url": "https://www.igdb.com/games/my-time-at-portia",
+      "id": 335439,
+      "name": "PowerWash Simulator 2",
+      "url": "https://www.igdb.com/games/powerwash-simulator-2",
       "publishers": [
-        "Team17"
+        "FuturLab"
       ],
       "developers": [
-        "Pathea Games"
+        "FuturLab"
       ],
       "genres": [
-        "Role-playing (RPG)",
         "Simulator",
-        "Adventure",
         "Indie"
       ],
       "themes": [
-        "Action",
-        "Fantasy",
-        "Survival",
-        "Sandbox",
-        "Open world"
+        "Sandbox"
       ],
       "game_modes": [
-        "Single player"
+        "Single player",
+        "Multiplayer",
+        "Co-operative",
+        "Split screen"
       ],
       "player_perspectives": [
-        "Third person"
+        "First person"
       ],
       "engine": [
-        "Unity"
+        "Unity 6"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2019-01-15",
+        "release_date": "2025-10-23",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-01-15"
+          "release_date_1_0": "2025-10-23"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-04-16"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-10-23"
         },
         "Xbox 360": {
           "release_date_ea": null,

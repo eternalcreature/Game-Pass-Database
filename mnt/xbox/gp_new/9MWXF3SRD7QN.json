@@ -58,58 +58,6 @@
     "developer": "Kenny Sun"
   },
   "igdb_meta": {
-    "main_game": {
-      "id": 346035,
-      "name": "Ball x Pit",
-      "url": "https://www.igdb.com/games/ball-x-pit",
-      "publishers": [
-        "Devolver Digital"
-      ],
-      "developers": [
-        "Kenny Sun"
-      ],
-      "genres": [
-        "Shooter",
-        "Indie",
-        "Arcade"
-      ],
-      "themes": [
-        "Action",
-        "Survival"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
-    },
-    "version": {
-      "id": 346035,
-      "name": "Ball x Pit",
-      "url": "https://www.igdb.com/games/ball-x-pit",
-      "publishers": [
-        "Devolver Digital"
-      ],
-      "developers": [
-        "Kenny Sun"
-      ],
-      "genres": [
-        "Shooter",
-        "Indie",
-        "Arcade"
-      ],
-      "themes": [
-        "Action",
-        "Survival"
-      ],
-      "game_modes": [
-        "Single player"
-      ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ]
-    },
     "main": {
       "id": 346035,
       "name": "Ball x Pit",
@@ -158,6 +106,32 @@
           "release_date_1_0": null
         }
       }
+    },
+    "specific": {
+      "id": 346035,
+      "name": "Ball x Pit",
+      "url": "https://www.igdb.com/games/ball-x-pit",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "developers": [
+        "Kenny Sun"
+      ],
+      "genres": [
+        "Shooter",
+        "Indie",
+        "Arcade"
+      ],
+      "themes": [
+        "Action",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ]
     }
   },
   "steam_store_meta": {}
