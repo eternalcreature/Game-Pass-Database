@@ -108,7 +108,6 @@ class JSONMaker:
             self._IGDB_version_data = self.fetch_IGDB_data(igdb_match)
 
             igdb_parent_data = IGDBParser(self._IGDB_data).to_dict()
-            igdb_version_data = IGDBParser(self._IGDB_version_data).to_dict()
 
             related_skus = [p for p in self._pids if p != pid]
             alternate_xbox_id = self.get_alternate_title_id(pid)
@@ -141,10 +140,13 @@ class JSONMaker:
                 },
                 "igdb_meta": {
                     "main": igdb_parent_data,
-                    "specific": igdb_version_data,
+                    "specific": None,
                 },  # IGDBParser placeholder
                 "steam_store_meta": {},  # SteamParser placeholder
             }
+            if self._row.igdb != igdb_match:
+                igdb_version_data = IGDBParser(self._IGDB_version_data).to_dict()
+                data["igdb_meta"]["specific"] = igdb_version_data
 
             with open(f"mnt/xbox/gp_new/{pid}.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)

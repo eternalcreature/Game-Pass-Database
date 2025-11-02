@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 152246,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 352159,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 352160,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Outer Worlds 2",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-outer-worlds-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 753167,
+      "date": 1761696000,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 753166,
+      "date": 1761696000,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 753168,
+      "date": 1761696000,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 753372,
+      "date": 1761264000,
+      "platform": 6,
+      "status": 34
+    },
+    {
+      "id": 753373,
+      "date": 1761264000,
+      "platform": 167,
+      "status": 34
+    },
+    {
+      "id": 753374,
+      "date": 1761264000,
+      "platform": 169,
+      "status": 34
+    }
+  ]
+}

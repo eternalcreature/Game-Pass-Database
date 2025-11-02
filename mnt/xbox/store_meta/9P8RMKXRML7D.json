@@ -1,0 +1,149 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3.6,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [
+    "9PJK9C50MB67"
+  ],
+  "capabilities": {
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Intense Violence",
+      "Blood and Gore",
+      "Strong Language"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "The Outer Worlds 2 is the eagerly-awaited sequel to the award-winning first-person sci-fi RPG from Obsidian Entertainment (just look at the exciting number of dashes in this sentence!). Time to clear your calendar – get ready for an action-packed adventure with a new crew, new weapons, and new enemies in a new colony! So much newness!\n\nAs a daring and most likely good-looking Earth Directorate agent, you must uncover the source of devastating rifts threatening to destroy all of humanity. Your investigation leads to Arcadia, home of skip drive technology, where the fate of the colony, and ultimately the entire galaxy, rests on your decisions—your strengths, your flaws, your crew, and the factions you choose to trust.\n\nExplore a New Frontier\nThe Arcadia colony is engulfed in a factional war, as the Protectorate’s so-called benevolent rule is challenged by the rebellion of their religious order and a corporate invasion. As destructive rifts spread across the colony, each faction fights to control or close them for their own ends. Navigate diverse zones, uncover hidden lore, and shape the fate of a system on the brink!\n\nYour Commander, Your Way\nBuild your character with the abilities and choices that reflect your playstyle. The colony reacts to your every move, crafting a narrative that’s yours to own—whether you’re a disciple of diplomacy, an astute strategist, a crusader for chaos, or something different altogether. And yes, you can dumb!\n\nEnlist Your Companions\nRecruit companions with unique traits, backgrounds and goals. Whether you choose to help them achieve their ambitions or steer them toward your own objectives, your influence shapes their growth (or death), making them an integral part of the immersive story you create together.",
+  "developerName": "Obsidian Entertainment",
+  "editions": [],
+  "hasAddOns": true,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer",
+    "InAppPurchase",
+    "HasFirstPartyIAP"
+  ],
+  "maxInstallSize": 85724303360,
+  "optimalSatisfyingPassId": "CFQ7TTC0K6L8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9P8RMKXRML7D",
+  "productKind": "Game",
+  "publisherName": "Xbox Game Studios",
+  "ratingCount": 204,
+  "releaseDate": "9998-10-30T00:00:00.0000000Z",
+  "shortDescription": "The Outer Worlds 2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian Entertainment.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9SG2DG5XJM2M",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "11/28/2025 16:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 69.99,
+        "msrp": 69.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9X6C85Z587Q1",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "11/28/2025 16:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 69.99,
+        "msrp": 69.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "The Outer Worlds 2",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-10-29T17:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-10-29T17:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-10-29T17:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "THEOUTERWORLDS2",
+    "xboxTitleId": 1879711255,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller",
+      "CustomTouchOverlay"
+    ],
+    "supportsTouch": true
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}
