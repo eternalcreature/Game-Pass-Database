@@ -1,42 +1,44 @@
 {
   "basic_info": {
-    "base_id": 11582,
-    "specific_id": 111150,
-    "title": "Stellaris",
-    "store_title": "Stellaris: Console Edition",
-    "pid": "BWL72GR7Z7GK",
+    "base_id": 365487,
+    "specific_id": 367571,
+    "title": "Football Manager 26",
+    "store_title": "Football Manager 26 Console",
+    "pid": "9NMNZ4CK59DM",
     "alternate_xbox_id": null,
     "related_skus": [
-      "9NXQPGMR917R"
+      "9PD0Z90216RJ"
     ],
     "sku_groups": [
       [
-        "BWL72GR7Z7GK"
+        "9NMNZ4CK59DM"
       ],
       [
-        "9NXQPGMR917R"
+        "9PD0Z90216RJ"
       ]
     ],
-    "original_release_date": "2016-05-09",
-    "release_date": "2019-02-26",
+    "original_release_date": "2025-11-04",
+    "release_date": null,
     "platforms": [
+      "PC",
       "XboxOne",
       "XboxSeriesX",
-      "XCloud"
+      "XCloud",
+      "Handheld"
     ]
   },
   "availabilities": [
     {
       "Console": {
-        "added": "2019-08-19",
+        "added": "2025-11-04",
         "removed": null
       },
       "Ultimate": {
-        "added": "2019-08-19",
+        "added": "2025-11-04",
         "removed": null
       },
-      "Premium": {
-        "added": "2024-08-12",
+      "PC": {
+        "added": "2025-11-04",
         "removed": null
       }
     }
@@ -48,62 +50,60 @@
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-32)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
       "SinglePlayer": "Single player",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "60fps": "60 fps+",
       "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
       "ConsoleCrossGen": "Smart Delivery",
-      "GameStreaming": "Cloud enabled",
       "XblAchievements": "Xbox achievements",
-      "XblPresence": "Xbox presence"
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
       "Simulation",
-      "Strategy"
+      "Sports"
     ],
-    "publisher": "Paradox Interactive",
-    "developer": "Paradox Development Studio, Tantalus Media"
+    "publisher": "SEGA",
+    "developer": "Sports Interactive"
   },
   "igdb_meta": {
     "main": {
-      "id": 11582,
-      "name": "Stellaris",
-      "url": "https://www.igdb.com/games/stellaris",
+      "id": 365487,
+      "name": "Football Manager 26",
+      "url": "https://www.igdb.com/games/football-manager-26",
       "publishers": [
-        "DMM GAMES",
-        "Paradox Interactive"
+        "Sega"
       ],
       "developers": [
-        "Paradox Development Studio"
+        "Sports Interactive"
       ],
       "genres": [
-        "Real Time Strategy (RTS)",
         "Simulator",
+        "Sport",
         "Strategy"
       ],
-      "themes": [
-        "Science fiction",
-        "4X (explore, expand, exploit, and exterminate)"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player",
         "Multiplayer"
       ],
-      "player_perspectives": [
-        "Bird view / Isometric"
-      ],
+      "player_perspectives": [],
       "engine": [
-        "Clausewitz Engine"
+        "Unity"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2016-05-09",
+        "release_date": "2025-11-05",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2016-05-09"
+          "release_date_1_0": "2025-11-05"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-02-26"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
@@ -116,44 +116,43 @@
       }
     },
     "specific": {
-      "id": 111150,
-      "name": "Stellaris: Console Edition",
-      "url": "https://www.igdb.com/games/stellaris-console-edition",
+      "id": 367571,
+      "name": "Football Manager 26 Console",
+      "url": "https://www.igdb.com/games/football-manager-26-console",
       "publishers": [
-        "Paradox Interactive"
+        "Sega"
       ],
       "developers": [
-        "Paradox Development Studio",
-        "Tantalus Media"
+        "Sports Interactive"
       ],
       "genres": [
         "Simulator",
+        "Sport",
         "Strategy"
       ],
-      "themes": [
-        "Science fiction",
-        "4X (explore, expand, exploit, and exterminate)"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player",
         "Multiplayer"
       ],
       "player_perspectives": [],
-      "engine": [],
+      "engine": [
+        "Unity"
+      ],
       "game_type": "port",
       "release_dates": {
-        "release_date": "2019-02-26",
+        "release_date": "2025-11-04",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-11-04"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-02-26"
+          "release_date_1_0": "2025-11-04"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-11-04"
         },
         "Xbox 360": {
           "release_date_ea": null,

@@ -1,0 +1,160 @@
+{
+  "accessibilityCapabilities": {
+    "audio": [],
+    "gameplay": [],
+    "input": [
+      "Adjustable input sensitivity",
+      "Playable without rapid button presses",
+      "Basic input remapping",
+      "Playable without motion controls",
+      "Playable without touch controls",
+      "Stick inversion"
+    ],
+    "publisherInformationUri": null,
+    "visual": []
+  },
+  "availableOn": [
+    "PC",
+    "XboxSeriesX",
+    "XCloud",
+    "Handheld"
+  ],
+  "averageRating": 2.8,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "XblAchievements": "Xbox achievements",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Platformer",
+    "Action & adventure"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For all ages",
+    "disclaimers": [],
+    "descriptors": [],
+    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "EVERYONE",
+    "ratingAge": 1,
+    "ratingDescription": "For all ages"
+  },
+  "description": "Cascade into insanity in this brutally challenging journey into the sky. Armed with nothing but a fragile shell and a slimy yolk, can you take a lone egg to new heights? \n\nIt's No Yolk\n\nYou’re an egg – and you’ll feel every wobble, roll, and crack. Master the art of egg physics as you navigate challenging climbing environments with a twist. Synchronize your jump with your roll-cycle, and when you’re at the tip, leap for maximum height! Miss a jump, and you could be back at the bottom, dripping yolk. \n\nAn Egg-Centric Adventure\n\nExplore a variety of egg themed environments and carefully crafted levels. Each area is packed with interactive elements, delivering fresh challenges and unique atmospheres - think chainsaws and angry roosters! Bear in mind, not everything wants you to reach the top... \n\nEgg-Spress Yourself\n\nWhy settle for plain? Unlock decorative shells and roll through the world in style. Every jump might reveal a hidden secret, and gathering stamps on your journey to the top will earn you rewards—just don’t fall and lose it all! Customize your egg, flaunt your flair, and become the fanciest egg on the farm!",
+  "developerName": "Egobounds",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 2454884352,
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9PDKDBQGG2N2",
+  "productKind": "Game",
+  "publisherName": "Alibi Games",
+  "ratingCount": 57,
+  "releaseDate": "2025-11-06T15:00:00.0000000Z",
+  "shortDescription": "Scramble across dangerous levels where one crack may send you back to the start.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9RH9GRMTF2HK",
+        "discountPercentage": 15.010005,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "11/20/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 12.74,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9TNFZKPDQKC8",
+        "discountPercentage": 15.010005,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "11/20/2025 09:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 12.74,
+        "msrp": 14.99,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Egging On",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-11-06T15:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-11-06T15:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-11-06T15:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "EGGINGON",
+    "xboxTitleId": 1673618851,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

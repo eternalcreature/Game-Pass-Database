@@ -30,7 +30,7 @@ async def async_main():
         today = date.today()
         games = (
             session.query(GameData)
-            .filter(GameData.release <= today)
+            .filter(GameData.added <= today)
             .order_by(GameData.game)
             .all()
         )

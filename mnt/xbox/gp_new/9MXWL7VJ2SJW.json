@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "base_id": 25936,
+    "specific_id": 25936,
+    "title": "Dead Static Drive",
+    "store_title": "Dead Static Drive",
+    "pid": "9MXWL7VJ2SJW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXWL7VJ2SJW"
+      ]
+    ],
+    "original_release_date": "2025-11-05",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-05",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-05",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-05",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblAchievements": "Xbox achievements",
+      "XblPresence": "Xbox presence",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "Reuben Games",
+    "developer": "Reuben Games"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 25936,
+      "name": "Dead Static Drive",
+      "url": "https://www.igdb.com/games/dead-static-drive",
+      "publishers": [
+        "Team Fanclub"
+      ],
+      "developers": [
+        "Team Fanclub"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Survival"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [
+        "Unreal Engine 4"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-11-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-11-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

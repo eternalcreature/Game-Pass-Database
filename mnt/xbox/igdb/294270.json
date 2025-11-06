@@ -1,0 +1,92 @@
+{
+  "general": {
+    "id": 294270,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 354997,
+        "company": {
+          "id": 59132,
+          "name": "Egobounds"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 354998,
+        "company": {
+          "id": 58571,
+          "name": "Alibi Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 354999,
+        "company": {
+          "id": 34947,
+          "name": "IndieArk"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Egging On",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/egging-on",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 825035,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 826994,
+      "date": 1762387200,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 826993,
+      "date": 1762387200,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

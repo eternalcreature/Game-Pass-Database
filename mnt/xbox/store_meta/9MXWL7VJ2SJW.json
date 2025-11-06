@@ -1,0 +1,153 @@
+{
+  "availableOn": [
+    "PC",
+    "XboxOne",
+    "XboxSeriesX",
+    "XCloud"
+  ],
+  "averageRating": 3,
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    }
+  ],
+  "bundledProductIds": [],
+  "bundlesBySeed": [],
+  "capabilities": {
+    "Capability4k": "4K Ultra HD",
+    "SinglePlayer": "Single player",
+    "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
+    "XblAchievements": "Xbox achievements",
+    "XblPresence": "Xbox presence",
+    "XblCloudSaves": "Xbox cloud saves",
+    "XPA": "Xbox Play Anywhere"
+  },
+  "categories": [
+    "Action & adventure",
+    "Role playing"
+  ],
+  "contentRating": {
+    "boardName": "ESRB",
+    "description": "For ages 17 and up",
+    "disclaimers": [],
+    "descriptors": [
+      "Violence",
+      "Blood",
+      "Crude Humor"
+    ],
+    "imageUri": "https://store-images.microsoft.com/image/global.53975.image.32437939-2f27-4e79-8431-5f5866f32908.3dc74b18-4153-423c-b367-bdcfd34ac658",
+    "imageLinkUri": "https://www.esrb.org/ratings-guide/",
+    "interactiveDescriptions": [],
+    "rating": "MATURE 17+",
+    "ratingAge": 17,
+    "ratingDescription": "For ages 17 and up"
+  },
+  "description": "Dead Static Drive is Grand Theft Cthulhu—a survival-horror road trip through a nightmare version of 1980s Americana. Scavenge, fight, and sneak your way across small towns and eerie highways as reality begins to unravel.\n\nPlay as Hearst, a wayward traveler searching for their missing parents—and answers—in a world collapsing under the weight of something ancient and wrong. Trust is your most valuable resource, and you’ll need to rely on others to survive. Evade the police. Protect those around you. And help stop a violent, paranoid man whose delusions are putting everyone at risk—including his own children.\n\nYou didn’t grow up here. You don’t know the streets, the faces, or the things people see after dark. All you have is a strange letter, with no return address, and a growing sense that something’s gone terribly wrong.\n\nYour parents live out this way. Or lived. You haven’t heard from them in too long. Now there’s smoke on the horizon and strange news on the wind.\n\nYou came to find your family. You came to understand what’s happening. If you don’t keep moving, you won’t get the chance to do either.\n\nSomething stirs beneath the pavement.",
+  "developerName": "Reuben Games",
+  "editions": [],
+  "hasAddOns": false,
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8"
+  ],
+  "legalNotices": [
+    "LegalNoticeCallistoAndPurchase",
+    "DataSharingDisclaimer"
+  ],
+  "maxInstallSize": 3599282176,
+  "optimalSatisfyingPassId": "CFQ7TTC0K6L8",
+  "optimalSkuId": "0010",
+  "preferredSkuId": "0010",
+  "productFamily": "Games",
+  "productId": "9MXWL7VJ2SJW",
+  "productKind": "Game",
+  "publisherName": "Reuben Games",
+  "ratingCount": 101,
+  "releaseDate": "2025-11-05T00:00:00.0000000Z",
+  "shortDescription": "Grand Theft Cthulhu.",
+  "showSupportedLanguageDisclaimer": false,
+  "specificPrices": {
+    "purchaseable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "9S14JFNF5362",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate",
+          "Redeem"
+        ],
+        "endDateUtc": "12/04/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 26.49,
+        "msrp": 26.49,
+        "currency": "USD"
+      }
+    ],
+    "giftable": [
+      {
+        "skuId": "0010",
+        "availabilityId": "B041HCVD04GM",
+        "discountPercentage": 0,
+        "eligibilityInfo": {
+          "eligibility": "None",
+          "type": "Unknown"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "endDateUtc": "12/04/2025 23:59:59",
+        "hasXPriceOffer": false,
+        "listPrice": 26.49,
+        "msrp": 26.49,
+        "currency": "USD"
+      }
+    ],
+    "totalPurchaseablePricesCount": 1
+  },
+  "title": "Dead Static Drive",
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-11-05T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-11-05T00:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-11-05T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "DEADSTATICDRIVE",
+    "xboxTitleId": 1864660438,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
+  "isAvailableOnGarrison": true,
+  "hasUbisoftCrossEntitlementProduct": false
+}

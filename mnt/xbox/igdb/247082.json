@@ -1,0 +1,98 @@
+{
+  "general": {
+    "id": 247082,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 266298,
+        "company": {
+          "id": 32921,
+          "name": "LimboLane"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 266299,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Great God Grove",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      },
+      {
+        "id": 43,
+        "name": "Mystery"
+      }
+    ],
+    "url": "https://www.igdb.com/games/great-god-grove",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 656954,
+      "date": 1731628800,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 663250,
+      "date": 1731628800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 663251,
+      "date": 1731628800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "base_id": 294270,
+    "specific_id": 294270,
+    "title": "Egging On",
+    "store_title": "Egging On",
+    "pid": "9PDKDBQGG2N2",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PDKDBQGG2N2"
+      ]
+    ],
+    "original_release_date": "2025-11-06",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxSeriesX",
+      "XCloud",
+      "Handheld"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-06",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Platformer",
+      "Action & adventure"
+    ],
+    "publisher": "Alibi Games",
+    "developer": "Egobounds"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 294270,
+      "name": "Egging On",
+      "url": "https://www.igdb.com/games/egging-on",
+      "publishers": [
+        "Alibi Games"
+      ],
+      "developers": [
+        "Egobounds"
+      ],
+      "genres": [
+        "Platform",
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-11-06",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-11-06"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-11-06"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

@@ -1,0 +1,130 @@
+{
+  "general": {
+    "id": 7325,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 265395,
+        "company": {
+          "id": 23,
+          "name": "Feral Interactive"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265392,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 265393,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 265394,
+        "company": {
+          "id": 291,
+          "name": "Nixxes Software"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 265396,
+        "company": {
+          "id": 552,
+          "name": "Crystal Dynamics"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Lara Croft and the Temple of Osiris",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 22,
+        "name": "Historical"
+      }
+    ],
+    "url": "https://www.igdb.com/games/lara-croft-and-the-temple-of-osiris",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 591476,
+      "date": 1608595200,
+      "platform": 170
+    },
+    {
+      "id": 408913,
+      "date": 1417996800,
+      "platform": 6
+    },
+    {
+      "id": 23759,
+      "date": 1418083200,
+      "platform": 48
+    },
+    {
+      "id": 591477,
+      "date": 1687996800,
+      "platform": 130
+    },
+    {
+      "id": 23758,
+      "date": 1418083200,
+      "platform": 49
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "general": {
+    "id": 25936,
+    "game_engines": [
+      {
+        "id": 439,
+        "name": "Unreal Engine 4"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 104651,
+        "company": {
+          "id": 27255,
+          "name": "Team Fanclub"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dead Static Drive",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 21,
+        "name": "Survival"
+      }
+    ],
+    "url": "https://www.igdb.com/games/dead-static-drive",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 826751,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 826750,
+      "date": 1762300800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 826752,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

@@ -1,42 +1,40 @@
 {
   "basic_info": {
     "base_id": 11582,
-    "specific_id": 111150,
+    "specific_id": 11582,
     "title": "Stellaris",
-    "store_title": "Stellaris: Console Edition",
-    "pid": "BWL72GR7Z7GK",
+    "store_title": "Stellaris",
+    "pid": "9NXQPGMR917R",
     "alternate_xbox_id": null,
     "related_skus": [
-      "9NXQPGMR917R"
+      "BWL72GR7Z7GK"
     ],
     "sku_groups": [
       [
-        "BWL72GR7Z7GK"
+        "9NXQPGMR917R"
       ],
       [
-        "9NXQPGMR917R"
+        "BWL72GR7Z7GK"
       ]
     ],
     "original_release_date": "2016-05-09",
-    "release_date": "2019-02-26",
+    "release_date": null,
     "platforms": [
-      "XboxOne",
-      "XboxSeriesX",
-      "XCloud"
+      "PC"
     ]
   },
   "availabilities": [
     {
-      "Console": {
-        "added": "2019-08-19",
+      "PC": {
+        "added": "2019-10-10",
         "removed": null
       },
       "Ultimate": {
-        "added": "2019-08-19",
+        "added": "2019-10-10",
         "removed": null
       },
       "Premium": {
-        "added": "2024-08-12",
+        "added": "2025-10-01",
         "removed": null
       }
     }
@@ -48,20 +46,18 @@
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblOnlineCoop": "Online co-op",
+      "XblOnlineMultiPlayer": "Online multiplayer ",
       "SinglePlayer": "Single player",
-      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
-      "ConsoleCrossGen": "Smart Delivery",
-      "GameStreaming": "Cloud enabled",
       "XblAchievements": "Xbox achievements",
-      "XblPresence": "Xbox presence"
+      "XblPresence": "Xbox presence",
+      "XblClubs": "Xbox clubs"
     },
     "categories": [
-      "Simulation",
       "Strategy"
     ],
     "publisher": "Paradox Interactive",
-    "developer": "Paradox Development Studio, Tantalus Media"
+    "developer": "Paradox Development Studio"
   },
   "igdb_meta": {
     "main": {
@@ -115,52 +111,7 @@
         }
       }
     },
-    "specific": {
-      "id": 111150,
-      "name": "Stellaris: Console Edition",
-      "url": "https://www.igdb.com/games/stellaris-console-edition",
-      "publishers": [
-        "Paradox Interactive"
-      ],
-      "developers": [
-        "Paradox Development Studio",
-        "Tantalus Media"
-      ],
-      "genres": [
-        "Simulator",
-        "Strategy"
-      ],
-      "themes": [
-        "Science fiction",
-        "4X (explore, expand, exploit, and exterminate)"
-      ],
-      "game_modes": [
-        "Single player",
-        "Multiplayer"
-      ],
-      "player_perspectives": [],
-      "engine": [],
-      "game_type": "port",
-      "release_dates": {
-        "release_date": "2019-02-26",
-        "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox One": {
-          "release_date_ea": null,
-          "release_date_1_0": "2019-02-26"
-        },
-        "Xbox Series X|S": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        },
-        "Xbox 360": {
-          "release_date_ea": null,
-          "release_date_1_0": null
-        }
-      }
-    }
+    "specific": null
   },
   "steam_store_meta": {}
 }

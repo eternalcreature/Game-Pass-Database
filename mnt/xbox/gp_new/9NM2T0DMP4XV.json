@@ -1,0 +1,100 @@
+{
+  "basic_info": {
+    "base_id": 309324,
+    "specific_id": 309324,
+    "title": "Whiskerwood",
+    "store_title": "Whiskerwood (Game Preview)",
+    "pid": "9NM2T0DMP4XV",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NM2T0DMP4XV"
+      ]
+    ],
+    "original_release_date": "2025-11-06",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-11-06",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-06",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Strategy",
+      "Simulation"
+    ],
+    "publisher": "Hooded Horse",
+    "developer": "Minakata Dynamics"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 309324,
+      "name": "Whiskerwood",
+      "url": "https://www.igdb.com/games/whiskerwood",
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "developers": [
+        "Minakata Dynamics"
+      ],
+      "genres": [
+        "Simulator",
+        "Strategy"
+      ],
+      "themes": [],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [
+        "Unreal Engine 5"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-11-06",
+        "PC": {
+          "release_date_ea": "2025-11-06",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

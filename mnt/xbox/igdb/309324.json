@@ -1,0 +1,64 @@
+{
+  "general": {
+    "id": 309324,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 277438,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 277439,
+        "company": {
+          "id": 31792,
+          "name": "Minakata Dynamics"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Whiskerwood",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/whiskerwood",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 831742,
+      "date": 1762387200,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

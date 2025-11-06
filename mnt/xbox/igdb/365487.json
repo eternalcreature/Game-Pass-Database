@@ -1,0 +1,72 @@
+{
+  "general": {
+    "id": 365487,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 343422,
+        "company": {
+          "id": 486,
+          "name": "Sports Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 343423,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Football Manager 26",
+    "url": "https://www.igdb.com/games/football-manager-26",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 803497,
+      "date": 1762300800,
+      "platform": 14,
+      "status": 6
+    },
+    {
+      "id": 800007,
+      "date": 1762300800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

@@ -12,6 +12,7 @@ import logging
 import pandas as pd
 
 import os, json
+from datetime import datetime
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
@@ -95,6 +96,10 @@ class JSONMaker:
         all_jsons = []
 
         for pid, store_data in zip(self._pids, self._store_data_list):
+            print(f"{self._row.added = }")
+            # if self._row.added > datetime.now():
+            #    print("the game has not been added to GP")
+            #    continue
             if os.path.exists(f"mnt/xbox/gp_new/{pid}.json"):
                 print(f"mnt/xbox/gp_new/{pid}.json already exists")
                 continue
