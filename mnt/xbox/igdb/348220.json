@@ -1,0 +1,141 @@
+{
+  "general": {
+    "id": 348220,
+    "game_engines": [
+      {
+        "id": 123,
+        "name": "IW Engine"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 324609,
+        "company": {
+          "id": 428,
+          "name": "Treyarch"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 324610,
+        "company": {
+          "id": 66,
+          "name": "Activision"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 324611,
+        "company": {
+          "id": 71,
+          "name": "Raven Software"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Call of Duty: Black Ops 7",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 39,
+        "name": "Warfare"
+      }
+    ],
+    "url": "https://www.igdb.com/games/call-of-duty-black-ops-7",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 816022,
+      "date": 1759622400,
+      "platform": 167,
+      "status": 2
+    },
+    {
+      "id": 816021,
+      "date": 1759622400,
+      "platform": 48,
+      "status": 2
+    },
+    {
+      "id": 816020,
+      "date": 1759622400,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 816023,
+      "date": 1759622400,
+      "platform": 49,
+      "status": 2
+    },
+    {
+      "id": 816024,
+      "date": 1759622400,
+      "platform": 169,
+      "status": 2
+    },
+    {
+      "id": 787848,
+      "date": 1763078400,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 787849,
+      "date": 1763078400,
+      "platform": 48,
+      "status": 6
+    },
+    {
+      "id": 787850,
+      "date": 1763078400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 787851,
+      "date": 1763078400,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 787852,
+      "date": 1763078400,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

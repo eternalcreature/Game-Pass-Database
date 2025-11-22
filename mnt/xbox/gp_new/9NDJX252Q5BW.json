@@ -1,0 +1,103 @@
+{
+  "basic_info": {
+    "base_id": 324570,
+    "specific_id": 324570,
+    "title": "Moonlighter 2: The Endless Vault",
+    "store_title": "Moonlighter 2: The Endless Vault (Game Preview)",
+    "pid": "9NDJX252Q5BW",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9NDJX252Q5BW"
+      ]
+    ],
+    "original_release_date": "2025-11-19",
+    "release_date": null,
+    "platforms": [
+      "PC"
+    ]
+  },
+  "availabilities": [
+    {
+      "PC": {
+        "added": "2025-11-19",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-19",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "SinglePlayer": "Single player",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XblCloudSaves": "Xbox cloud saves"
+    },
+    "categories": [
+      "Action & adventure",
+      "Role playing"
+    ],
+    "publisher": "11 bit studios",
+    "developer": " Digital Sun"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 324570,
+      "name": "Moonlighter 2: The Endless Vault",
+      "url": "https://www.igdb.com/games/moonlighter-2-the-endless-vault",
+      "publishers": [
+        "11 bit studios"
+      ],
+      "developers": [
+        "Digital Sun Games"
+      ],
+      "genres": [
+        "Role-playing (RPG)",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Business"
+      ],
+      "game_modes": [
+        "Single player"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-11-19",
+        "PC": {
+          "release_date_ea": "2025-11-19",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

@@ -1,113 +1,112 @@
 {
   "basic_info": {
-    "base_id": 11582,
-    "specific_id": 11582,
-    "title": "Stellaris",
-    "store_title": "Stellaris",
-    "pid": "9NXQPGMR917R",
+    "base_id": 247082,
+    "specific_id": 247082,
+    "title": "Great God Grove",
+    "store_title": "Great God Grove",
+    "pid": "9N36BLQF3FX6",
     "alternate_xbox_id": null,
-    "related_skus": [
-      "BWL72GR7Z7GK",
-      "9MW2X7FQ4ZG9"
-    ],
+    "related_skus": [],
     "sku_groups": [
       [
-        "9NXQPGMR917R"
-      ],
-      [
-        "BWL72GR7Z7GK"
-      ],
-      [
-        "9MW2X7FQ4ZG9"
+        "9N36BLQF3FX6"
       ]
     ],
-    "original_release_date": "2016-05-09",
+    "original_release_date": "2024-11-15",
     "release_date": null,
     "platforms": [
-      "PC"
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
     ]
   },
   "availabilities": [
     {
-      "PC": {
-        "added": "2019-10-10",
+      "Console": {
+        "added": "2025-11-11",
         "removed": null
       },
       "Ultimate": {
-        "added": "2019-10-10",
+        "added": "2025-11-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-11",
         "removed": null
       },
       "Premium": {
-        "added": "2025-10-01",
+        "added": "2025-11-11",
         "removed": null
       }
     }
   ],
   "flags": {
-    "indie": false,
+    "indie": true,
     "first_party": false,
     "f2p": false
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineCoop": "Online co-op",
-      "XblOnlineMultiPlayer": "Online multiplayer ",
       "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
       "XblAchievements": "Xbox achievements",
       "XblPresence": "Xbox presence",
-      "XblClubs": "Xbox clubs"
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
-      "Strategy"
+      "Action & adventure",
+      "Puzzle & trivia"
     ],
-    "publisher": "Paradox Interactive",
-    "developer": "Paradox Development Studio"
+    "publisher": "Fellow Traveller",
+    "developer": "LimboLane"
   },
   "igdb_meta": {
     "main": {
-      "id": 11582,
-      "name": "Stellaris",
-      "url": "https://www.igdb.com/games/stellaris",
+      "id": 247082,
+      "name": "Great God Grove",
+      "url": "https://www.igdb.com/games/great-god-grove",
       "publishers": [
-        "DMM GAMES",
-        "Paradox Interactive"
+        "Fellow Traveller",
+        "LimboLane"
       ],
       "developers": [
-        "Paradox Development Studio"
+        "LimboLane"
       ],
       "genres": [
-        "Real Time Strategy (RTS)",
-        "Simulator",
-        "Strategy"
+        "Puzzle",
+        "Adventure",
+        "Indie"
       ],
       "themes": [
-        "Science fiction",
-        "4X (explore, expand, exploit, and exterminate)"
+        "Fantasy",
+        "Comedy",
+        "Mystery"
       ],
       "game_modes": [
-        "Single player",
-        "Multiplayer"
+        "Single player"
       ],
       "player_perspectives": [
+        "First person",
         "Bird view / Isometric"
       ],
       "engine": [
-        "Clausewitz Engine"
+        "Unity"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2016-05-09",
+        "release_date": "2024-11-15",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2016-05-09"
+          "release_date_1_0": "2024-11-15"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": "2019-02-26"
+          "release_date_1_0": null
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2024-11-15"
         },
         "Xbox 360": {
           "release_date_ea": null,

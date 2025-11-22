@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 305156,
+    "game_engines": [
+      {
+        "id": 1847,
+        "name": "Unity 2022"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 269933,
+        "company": {
+          "id": 55211,
+          "name": "Pine Creek Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 269934,
+        "company": {
+          "id": 4697,
+          "name": "Noodlecake Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Winter Burrow",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "url": "https://www.igdb.com/games/winter-burrow",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 810613,
+      "date": 1762905600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 810611,
+      "date": 1762905600,
+      "platform": 130,
+      "status": 6
+    },
+    {
+      "id": 810614,
+      "date": 1762905600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 810612,
+      "date": 1762905600,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

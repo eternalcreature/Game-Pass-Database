@@ -1,41 +1,43 @@
 {
   "basic_info": {
-    "base_id": 204533,
-    "specific_id": 204533,
-    "title": "Kulebra and the Souls of Limbo",
-    "store_title": "Kulebra and the Souls of Limbo",
-    "pid": "9PFT2MJKJHWX",
+    "base_id": 338902,
+    "specific_id": 338902,
+    "title": "Cloverpit",
+    "store_title": "CloverPit",
+    "pid": "9p8v7hr160b4",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9PFT2MJKJHWX"
+        "9p8v7hr160b4"
       ]
     ],
-    "original_release_date": "2025-05-16",
-    "release_date": "2025-05-16",
+    "original_release_date": "2025-09-26",
+    "release_date": null,
     "platforms": [
+      "XboxOne",
       "XboxSeriesX",
       "PC",
-      "XCloud"
+      "XCloud",
+      "Handheld"
     ]
   },
   "availabilities": [
     {
       "Console": {
-        "added": "2025-05-16",
-        "removed": null
-      },
-      "PC": {
-        "added": "2025-05-16",
+        "added": "2025-11-20",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-05-16",
+        "added": "2025-11-20",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-20",
         "removed": null
       },
       "Premium": {
-        "added": "2025-11-19",
+        "added": "2025-11-20",
         "removed": null
       }
     }
@@ -47,68 +49,76 @@
   },
   "xbox_store_meta": {
     "capabilities": {
+      "Capability4k": "4K Ultra HD",
       "SinglePlayer": "Single player",
       "60fps": "60 fps+",
       "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
       "XblAchievements": "Xbox achievements",
       "XblCloudSaves": "Xbox cloud saves",
       "XPA": "Xbox Play Anywhere"
     },
     "categories": [
-      "Action & adventure",
-      "Puzzle & trivia"
+      "Strategy",
+      "Card & board",
+      "Simulation"
     ],
-    "publisher": "Fellow Traveller",
-    "developer": "Galla Games"
+    "publisher": "Future Friends Games",
+    "developer": "Panik Arcade"
   },
   "igdb_meta": {
     "main": {
-      "id": 204533,
-      "name": "Kulebra and the Souls of Limbo",
-      "url": "https://www.igdb.com/games/kulebra-and-the-souls-of-limbo",
+      "id": 338902,
+      "name": "Cloverpit",
+      "url": "https://www.igdb.com/games/cloverpit",
       "publishers": [
-        "Fellow Traveller"
+        "Future Friends Games"
       ],
       "developers": [
-        "Galla"
+        "Panik Arcade"
       ],
       "genres": [
-        "Puzzle",
-        "Adventure",
-        "Indie"
+        "Simulator",
+        "Strategy",
+        "Indie",
+        "Card & Board Game"
       ],
       "themes": [
-        "Comedy",
-        "Mystery"
+        "Action",
+        "Horror",
+        "Comedy"
       ],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "Side view"
+        "First person"
       ],
-      "engine": [],
+      "engine": [
+        "Unity"
+      ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2025-05-16",
+        "release_date": "2025-09-26",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2025-05-16"
+          "release_date_1_0": "2025-09-26"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-11-20"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": "2025-05-16"
+          "release_date_1_0": "2025-11-20"
         },
         "Xbox 360": {
           "release_date_ea": null,
           "release_date_1_0": null
         }
       }
-    }
+    },
+    "specific": null
   },
   "steam_store_meta": {}
 }

@@ -1,0 +1,134 @@
+{
+  "general": {
+    "id": 234256,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 202291,
+        "company": {
+          "id": 1062,
+          "name": "Ivory Tower"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 202292,
+        "company": {
+          "id": 104,
+          "name": "Ubisoft Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "The Crew: Motorfest",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 38,
+        "name": "Open world"
+      }
+    ],
+    "url": "https://www.igdb.com/games/the-crew-motorfest",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 652283,
+      "date": 1694390400,
+      "platform": 169,
+      "status": 34
+    },
+    {
+      "id": 506173,
+      "date": 1694649600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 496092,
+      "date": 1689897600,
+      "platform": 6,
+      "status": 2
+    },
+    {
+      "id": 652275,
+      "date": 1694649600,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 652276,
+      "date": 1689897600,
+      "platform": 167,
+      "status": 2
+    },
+    {
+      "id": 652278,
+      "date": 1694649600,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 652279,
+      "date": 1689897600,
+      "platform": 49,
+      "status": 2
+    },
+    {
+      "id": 652281,
+      "date": 1694649600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 652282,
+      "date": 1689897600,
+      "platform": 169,
+      "status": 2
+    },
+    {
+      "id": 652271,
+      "date": 1694390400,
+      "platform": 6,
+      "status": 34
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "general": {
+    "id": 120304,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 358236,
+        "company": {
+          "id": 54821,
+          "name": "TinyBuild Riga"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 255021,
+        "company": {
+          "id": 1389,
+          "name": "Bossa Studios"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 255020,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 255019,
+        "company": {
+          "id": 11989,
+          "name": "HakJak Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pigeon Simulator",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/pigeon-simulator",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 832929,
+      "date": 1762819200,
+      "platform": 6
+    },
+    {
+      "id": 832930,
+      "date": 1762819200,
+      "platform": 169
+    },
+    {
+      "id": 567186,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

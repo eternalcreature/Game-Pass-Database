@@ -1,0 +1,114 @@
+{
+  "general": {
+    "id": 72497,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 336946,
+        "company": {
+          "id": 6420,
+          "name": "Rogue Snail"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 336947,
+        "company": {
+          "id": 11262,
+          "name": "Gearbox Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Relic Hunters Legend",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      },
+      {
+        "id": 18,
+        "name": "Science fiction"
+      }
+    ],
+    "url": "https://www.igdb.com/games/relic-hunters-legend",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 787443,
+      "date": 1755129600,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 785889,
+      "date": 1755129600,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 510814,
+      "date": 1695600000,
+      "platform": 6,
+      "status": 3
+    }
+  ]
+}

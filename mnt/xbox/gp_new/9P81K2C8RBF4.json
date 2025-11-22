@@ -1,25 +1,21 @@
 {
   "basic_info": {
-    "base_id": 314243,
-    "specific_id": 314243,
-    "title": "Revenge of the Savage Planet",
-    "store_title": "Revenge of the Savage Planet",
-    "pid": "9PFTV8DKNCHX",
+    "base_id": 72497,
+    "specific_id": 72497,
+    "title": "Relic Hunters Legend",
+    "store_title": "Relic Hunters Legend",
+    "pid": "9P81K2C8RBF4",
     "alternate_xbox_id": null,
-    "related_skus": [
-      "9PC5942D83RQ"
-    ],
+    "related_skus": [],
     "sku_groups": [
       [
-        "9PC5942D83RQ"
-      ],
-      [
-        "9PFTV8DKNCHX"
+        "9P81K2C8RBF4"
       ]
     ],
-    "original_release_date": "2025-05-05",
+    "original_release_date": "2023-09-23",
     "release_date": null,
     "platforms": [
+      "PC",
       "XboxSeriesX",
       "XCloud"
     ]
@@ -27,83 +23,91 @@
   "availabilities": [
     {
       "Console": {
-        "added": "2025-05-08",
-        "removed": null
-      },
-      "PC": {
-        "added": "2025-06-09",
+        "added": "2025-11-12",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-05-08",
+        "added": "2025-11-12",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-12",
         "removed": null
       },
       "Premium": {
-        "added": "2025-11-19",
+        "added": "2025-11-12",
         "removed": null
       }
     }
   ],
   "flags": {
-    "indie": false,
+    "indie": true,
     "first_party": false,
     "f2p": false
   },
   "xbox_store_meta": {
     "capabilities": {
-      "XblOnlineCoop": "Online co-op (2-2)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
       "Capability4k": "4K Ultra HD",
       "SinglePlayer": "Single player",
-      "SharedSplitScreen": "Shared/split screen",
       "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
       "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
       "XblAchievements": "Xbox achievements",
-      "XblCloudSaves": "Xbox cloud saves"
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
     },
     "categories": [
+      "Role playing",
       "Action & adventure",
-      "Platformer"
+      "Shooter"
     ],
-    "publisher": "Raccoon Logic Studios Inc.",
-    "developer": "Raccoon Logic Studios Inc."
+    "publisher": "Rogue Snail",
+    "developer": "Rogue Snail"
   },
   "igdb_meta": {
     "main": {
-      "id": 314243,
-      "name": "Revenge of the Savage Planet",
-      "url": "https://www.igdb.com/games/revenge-of-the-savage-planet",
+      "id": 72497,
+      "name": "Relic Hunters Legend",
+      "url": "https://www.igdb.com/games/relic-hunters-legend",
       "publishers": [
-        "Raccoon Logic"
+        "Gearbox Publishing"
       ],
       "developers": [
-        "Raccoon Logic"
+        "Rogue Snail"
       ],
       "genres": [
         "Shooter",
-        "Adventure"
+        "Role-playing (RPG)",
+        "Adventure",
+        "Indie"
       ],
       "themes": [
         "Action",
+        "Fantasy",
         "Science fiction"
       ],
       "game_modes": [
         "Single player",
         "Multiplayer",
         "Co-operative",
-        "Split screen"
+        "Massively Multiplayer Online (MMO)"
       ],
       "player_perspectives": [
-        "Third person"
+        "Third person",
+        "Bird view / Isometric"
       ],
       "engine": [
-        "Unreal Engine 5"
+        "Unity"
       ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2025-05-05",
+        "release_date": "2023-09-25",
         "PC": {
-          "release_date_ea": null,
-          "release_date_1_0": "2025-05-05"
+          "release_date_ea": "2023-09-25",
+          "release_date_1_0": "2025-08-14"
         },
         "Xbox One": {
           "release_date_ea": null,
@@ -111,14 +115,15 @@
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": "2025-05-05"
+          "release_date_1_0": "2025-08-14"
         },
         "Xbox 360": {
           "release_date_ea": null,
           "release_date_1_0": null
         }
       }
-    }
+    },
+    "specific": null
   },
   "steam_store_meta": {}
 }

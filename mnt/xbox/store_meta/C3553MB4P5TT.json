@@ -2,10 +2,21 @@
   "availableOn": [
     "XboxOne",
     "XboxSeriesX",
-    "PC"
+    "PC",
+    "XCloud"
   ],
   "averageRating": 3.5,
-  "badges": [],
+  "badges": [
+    {
+      "type": 3
+    },
+    {
+      "type": 2
+    },
+    {
+      "type": 9
+    }
+  ],
   "bundledProductIds": [],
   "bundlesBySeed": [
     "BP2KHSW1H0LV"
@@ -42,21 +53,30 @@
   "franchiseId": "TOMBRAIDER",
   "franchiseName": "Tomb Raider",
   "hasAddOns": true,
-  "includedWithPassesProductIds": [],
+  "hhVerified": {
+    "deviceEvaluation": 2
+  },
+  "includedWithPassesProductIds": [
+    "CFQ7TTC0K6L8",
+    "CFQ7TTC0KGQ8",
+    "CFQ7TTC0P85B"
+  ],
   "legalNotices": [
+    "LegalNoticeDiaAndPurchase",
     "DataSharingDisclaimer",
     "InAppPurchase",
     "HasFirstPartyIAP",
     "XboxLiveGoldRequiredForOnline"
   ],
   "maxInstallSize": 3248463872,
+  "optimalSatisfyingPassId": "CFQ7TTC0P85B",
   "optimalSkuId": "0001",
   "preferredSkuId": "0001",
   "productFamily": "Games",
   "productId": "C3553MB4P5TT",
   "productKind": "Game",
   "publisherName": "Crystal Dynamics",
-  "ratingCount": 279,
+  "ratingCount": 280,
   "releaseDate": "2014-12-09T00:00:00.0000000Z",
   "shortDescription": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
   "showSupportedLanguageDisclaimer": false,
@@ -64,7 +84,7 @@
     "purchaseable": [
       {
         "skuId": "0001",
-        "availabilityId": "9W5WQS463XL4",
+        "availabilityId": "9NB1C3BG35HK",
         "discountPercentage": 0,
         "eligibilityInfo": {
           "eligibility": "None",
@@ -78,9 +98,51 @@
           "Curate",
           "Redeem"
         ],
-        "endDateUtc": "12/30/9998 00:00:00",
+        "endDateUtc": "11/19/2025 19:59:59",
         "hasXPriceOffer": false,
         "listPrice": 19.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "B4KGW2N3NLJD",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9RB52WWFLZ9F",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Purchase",
+          "Browse",
+          "Curate"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
         "msrp": 19.99,
         "currency": "USD"
       }
@@ -88,7 +150,49 @@
     "giftable": [
       {
         "skuId": "0001",
-        "availabilityId": "9WG0XZXFQPTK",
+        "availabilityId": "9S2QCGC0BPQN",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "GamePass",
+          "productId": "CFQ7TTC0K6L8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9TLK67BX7313",
+        "discountPercentage": 20.010006,
+        "eligibilityInfo": {
+          "eligibility": "Remediation",
+          "type": "PCGamePass",
+          "productId": "CFQ7TTC0KGQ8"
+        },
+        "availabilityActions": [
+          "Details",
+          "Fulfill",
+          "Browse",
+          "Curate",
+          "Gift"
+        ],
+        "hasXPriceOffer": false,
+        "listPrice": 15.99,
+        "msrp": 19.99,
+        "currency": "USD"
+      },
+      {
+        "skuId": "0001",
+        "availabilityId": "9WV5393XKRMC",
         "discountPercentage": 0,
         "eligibilityInfo": {
           "eligibility": "None",
@@ -101,17 +205,46 @@
           "Curate",
           "Gift"
         ],
-        "endDateUtc": "12/30/9998 00:00:00",
+        "endDateUtc": "11/19/2025 19:59:59",
         "hasXPriceOffer": false,
         "listPrice": 19.99,
         "msrp": 19.99,
         "currency": "USD"
       }
     ],
-    "totalPurchaseablePricesCount": 1
+    "totalPurchaseablePricesCount": 3
   },
   "title": "Lara Croft and the Temple of Osiris",
-  "passMetadataByPassProductId": {},
+  "passMetadataByPassProductId": {
+    "CFQ7TTC0K6L8": {
+      "entryDateUTC": "2025-11-11T00:00:00Z"
+    },
+    "CFQ7TTC0KHS0": {
+      "entryDateUTC": "2025-11-11T00:00:00Z"
+    },
+    "CFQ7TTC0KGQ8": {
+      "entryDateUTC": "2025-11-11T00:00:00Z"
+    },
+    "CFQ7TTC0P85B": {
+      "entryDateUTC": "2025-11-11T00:00:00Z"
+    }
+  },
+  "xCloudPropertiesV2": {
+    "xCloudId": "LARACROFTANDTHETEMPLEOFOSIRIS",
+    "xboxTitleId": 1857859131,
+    "programs": [
+      "GPULTIMATE",
+      "CALLISTO",
+      "DIA",
+      "EUROPA",
+      "IO",
+      "GANYMEDE"
+    ],
+    "supportedInputTypes": [
+      "Controller"
+    ],
+    "supportsTouch": false
+  },
   "isAvailableOnGarrison": true,
   "hasUbisoftCrossEntitlementProduct": false
 }

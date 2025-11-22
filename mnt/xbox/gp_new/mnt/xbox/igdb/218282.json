@@ -1,0 +1,108 @@
+{
+  "general": {
+    "id": 218282,
+    "game_engines": [
+      {
+        "id": 13,
+        "name": "Unity"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 188002,
+        "company": {
+          "id": 43443,
+          "name": "sunset visitor 斜陽過客"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 264494,
+        "company": {
+          "id": 18629,
+          "name": "Fellow Traveller"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "1000xResist",
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      },
+      {
+        "id": 2,
+        "name": "Third person"
+      },
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      },
+      {
+        "id": 4,
+        "name": "Side view"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      }
+    ],
+    "url": "https://www.igdb.com/games/1000xresist",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 820855,
+      "date": 1762214400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 820856,
+      "date": 1762214400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 585205,
+      "date": 1715212800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 589366,
+      "date": 1715212800,
+      "platform": 130,
+      "status": 6
+    }
+  ]
+}

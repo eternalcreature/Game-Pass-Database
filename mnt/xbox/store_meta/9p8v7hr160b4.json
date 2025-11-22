@@ -1,10 +1,12 @@
 {
   "availableOn": [
+    "XboxOne",
     "XboxSeriesX",
     "PC",
-    "XCloud"
+    "XCloud",
+    "Handheld"
   ],
-  "averageRating": 3.5,
+  "averageRating": 3.6,
   "badges": [
     {
       "type": 3
@@ -19,33 +21,39 @@
   "bundledProductIds": [],
   "bundlesBySeed": [],
   "capabilities": {
+    "Capability4k": "4K Ultra HD",
     "SinglePlayer": "Single player",
+    "60fps": "60 fps+",
     "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+    "ConsoleCrossGen": "Smart Delivery",
     "XblAchievements": "Xbox achievements",
-    "XblPresence": "Xbox presence",
     "XblCloudSaves": "Xbox cloud saves",
     "XPA": "Xbox Play Anywhere"
   },
   "categories": [
-    "Action & adventure",
-    "Puzzle & trivia"
+    "Strategy",
+    "Card & board",
+    "Simulation"
   ],
   "contentRating": {
     "boardName": "ESRB",
-    "description": "For all ages",
+    "description": "For ages 13 and up",
     "disclaimers": [],
     "descriptors": [
-      "Mild Fantasy Violence"
+      "Mild Violence",
+      "Blood",
+      "Crude Humor",
+      "Simulated Gambling"
     ],
-    "imageUri": "https://store-images.microsoft.com/image/global.23456.image.87f616db-3cfc-4611-b3b8-c57bbb87de71.7e7baf95-3edb-4b7c-a960-75e7537b07c9",
+    "imageUri": "https://store-images.microsoft.com/image/global.17268.image.4cc004ee-a56d-4f11-ae99-67a89379b743.13d51d69-d3ba-4760-8fdf-f996abafa50a",
     "imageLinkUri": "https://www.esrb.org/ratings-guide/",
     "interactiveDescriptions": [],
-    "rating": "EVERYONE",
-    "ratingAge": 1,
-    "ratingDescription": "For all ages"
+    "rating": "TEEN",
+    "ratingAge": 13,
+    "ratingDescription": "For ages 13 and up"
   },
-  "description": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch speech bubbles in a wacky world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!!\n\nOnce in a generation, the gods come together to postpone the apocalypse. But this time, the god of communication started a bunch of heavenly fights and then went awol.\n\nWith the sky splitting and the gods in disarray, who’s gonna join the Bizzyboys to help SAVE DA WORLD FROM A-POCKY-LIPS???\n\n• SUCK UP AND LAUNCH DIALOGUE! As the gods’ new mail-carrier, you can suck up speech bubbles and fire them at anyone to communicate! Solve puzzles! Flirt! HURT GODS’ FEELINGS! Aww…\n• DISCOVER BIZARRE GODS: The god of teamwork? The god of LOVE SONGS? Drain it, who’s in charge around here…?\n• Experience talking scarecrows! Cooking puppets!! THE END OF THE WORLD AS WE KNOW IT!!!",
-  "developerName": "LimboLane",
+  "description": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!\n\nClover Pit is a demonic rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin – literally!\n\nManipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom.",
+  "developerName": "Panik Arcade",
   "editions": [],
   "hasAddOns": false,
   "hhVerified": {
@@ -60,23 +68,23 @@
     "LegalNoticeDiaAndPurchase",
     "DataSharingDisclaimer"
   ],
-  "maxInstallSize": 1923964928,
+  "maxInstallSize": 795230208,
   "optimalSatisfyingPassId": "CFQ7TTC0P85B",
   "optimalSkuId": "0010",
   "preferredSkuId": "0010",
   "productFamily": "Games",
-  "productId": "9N36BLQF3FX6",
+  "productId": "9P8V7HR160B4",
   "productKind": "Game",
-  "publisherName": "Fellow Traveller",
-  "ratingCount": 57,
-  "releaseDate": "2024-11-15T16:00:00.0000000Z",
-  "shortDescription": "THE WORLD IS ENDING AND THE GODS ARE SQUABBLING! Suck up and launch dialogue in a world of puzzles, puppets, and weird gods… or THE RIFT WILL CONSUME US ALL!",
+  "publisherName": "Future Friends Games",
+  "ratingCount": 212,
+  "releaseDate": "2025-11-20T19:00:00.0000000Z",
+  "shortDescription": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
   "showSupportedLanguageDisclaimer": false,
   "specificPrices": {
     "purchaseable": [
       {
         "skuId": "0010",
-        "availabilityId": "9X039GB963X0",
+        "availabilityId": "B16C56LKJXVS",
         "discountPercentage": 0,
         "eligibilityInfo": {
           "eligibility": "None",
@@ -90,16 +98,16 @@
           "Curate",
           "Redeem"
         ],
-        "endDateUtc": "11/19/2025 19:59:59",
+        "endDateUtc": "11/16/2027 09:59:59",
         "hasXPriceOffer": false,
-        "listPrice": 19.99,
-        "msrp": 19.99,
+        "listPrice": 9.99,
+        "msrp": 9.99,
         "currency": "USD"
       },
       {
         "skuId": "0010",
-        "availabilityId": "9WFQNPKCPZ9M",
-        "discountPercentage": 20.010006,
+        "availabilityId": "9N45X7M9FKTH",
+        "discountPercentage": 20.02002,
         "eligibilityInfo": {
           "eligibility": "Remediation",
           "type": "GamePass",
@@ -113,14 +121,14 @@
           "Curate"
         ],
         "hasXPriceOffer": false,
-        "listPrice": 15.99,
-        "msrp": 19.99,
+        "listPrice": 7.99,
+        "msrp": 9.99,
         "currency": "USD"
       },
       {
         "skuId": "0010",
-        "availabilityId": "9Z369SBC1TSP",
-        "discountPercentage": 20.010006,
+        "availabilityId": "B035H90M8PRJ",
+        "discountPercentage": 20.02002,
         "eligibilityInfo": {
           "eligibility": "Remediation",
           "type": "PCGamePass",
@@ -134,16 +142,16 @@
           "Curate"
         ],
         "hasXPriceOffer": false,
-        "listPrice": 15.99,
-        "msrp": 19.99,
+        "listPrice": 7.99,
+        "msrp": 9.99,
         "currency": "USD"
       }
     ],
     "giftable": [
       {
         "skuId": "0010",
-        "availabilityId": "9QBSBWHVXW1W",
-        "discountPercentage": 20.010006,
+        "availabilityId": "9PG0HLKX6RTD",
+        "discountPercentage": 20.02002,
         "eligibilityInfo": {
           "eligibility": "Remediation",
           "type": "GamePass",
@@ -157,14 +165,14 @@
           "Gift"
         ],
         "hasXPriceOffer": false,
-        "listPrice": 15.99,
-        "msrp": 19.99,
+        "listPrice": 7.99,
+        "msrp": 9.99,
         "currency": "USD"
       },
       {
         "skuId": "0010",
-        "availabilityId": "9XXBBKDDMQ31",
-        "discountPercentage": 20.010006,
+        "availabilityId": "9NMMSQ8NQR69",
+        "discountPercentage": 20.02002,
         "eligibilityInfo": {
           "eligibility": "Remediation",
           "type": "PCGamePass",
@@ -178,13 +186,13 @@
           "Gift"
         ],
         "hasXPriceOffer": false,
-        "listPrice": 15.99,
-        "msrp": 19.99,
+        "listPrice": 7.99,
+        "msrp": 9.99,
         "currency": "USD"
       },
       {
         "skuId": "0010",
-        "availabilityId": "9SHB281SVB4N",
+        "availabilityId": "9SGQW47V9700",
         "discountPercentage": 0,
         "eligibilityInfo": {
           "eligibility": "None",
@@ -197,35 +205,40 @@
           "Curate",
           "Gift"
         ],
-        "endDateUtc": "11/19/2025 19:59:59",
+        "endDateUtc": "11/16/2027 09:59:59",
         "hasXPriceOffer": false,
-        "listPrice": 19.99,
-        "msrp": 19.99,
+        "listPrice": 9.99,
+        "msrp": 9.99,
         "currency": "USD"
       }
     ],
     "totalPurchaseablePricesCount": 3
   },
-  "title": "Great God Grove",
+  "title": "CloverPit",
+  "xCloudProperties": {
+    "xCloudId": "CLOVERPIT",
+    "xboxTitleId": 1891953464,
+    "supportsTouch": false
+  },
   "passMetadataByPassProductId": {
     "CFQ7TTC0K6L8": {
-      "entryDateUTC": "2025-11-11T00:00:00Z"
+      "entryDateUTC": "2025-11-20T19:00:00Z"
     },
     "CFQ7TTC0KHS0": {
-      "entryDateUTC": "2025-11-11T00:00:00Z"
+      "entryDateUTC": "2025-11-20T19:00:00Z"
     },
     "CFQ7TTC0KGQ8": {
-      "entryDateUTC": "2025-11-11T00:00:00Z"
+      "entryDateUTC": "2025-11-20T19:00:00Z"
     },
     "CFQ7TTC0P85B": {
-      "entryDateUTC": "2025-11-11T00:00:00Z"
+      "entryDateUTC": "2025-11-20T19:00:00Z"
     }
   },
   "xCloudPropertiesV2": {
-    "xCloudId": "GREATGODGROVE",
-    "xboxTitleId": 2143007580,
+    "xCloudId": "CLOVERPIT",
+    "xboxTitleId": 1891953464,
     "programs": [
-      "BYOG",
+      "GPULTIMATE",
       "CALLISTO",
       "DIA",
       "EUROPA",

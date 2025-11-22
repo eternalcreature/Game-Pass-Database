@@ -1,41 +1,39 @@
 {
   "basic_info": {
-    "base_id": 204533,
-    "specific_id": 204533,
-    "title": "Kulebra and the Souls of Limbo",
-    "store_title": "Kulebra and the Souls of Limbo",
-    "pid": "9PFT2MJKJHWX",
+    "base_id": 305156,
+    "specific_id": 305156,
+    "title": "Winter Burrow",
+    "store_title": "Winter Burrow",
+    "pid": "9ND3HTTQ0GKB",
     "alternate_xbox_id": null,
     "related_skus": [],
     "sku_groups": [
       [
-        "9PFT2MJKJHWX"
+        "9ND3HTTQ0GKB"
       ]
     ],
-    "original_release_date": "2025-05-16",
-    "release_date": "2025-05-16",
+    "original_release_date": "2025-11-12",
+    "release_date": null,
     "platforms": [
+      "XboxOne",
       "XboxSeriesX",
       "PC",
-      "XCloud"
+      "XCloud",
+      "Handheld"
     ]
   },
   "availabilities": [
     {
       "Console": {
-        "added": "2025-05-16",
-        "removed": null
-      },
-      "PC": {
-        "added": "2025-05-16",
+        "added": "2025-11-12",
         "removed": null
       },
       "Ultimate": {
-        "added": "2025-05-16",
+        "added": "2025-11-12",
         "removed": null
       },
-      "Premium": {
-        "added": "2025-11-19",
+      "PC": {
+        "added": "2025-11-12",
         "removed": null
       }
     }
@@ -47,68 +45,71 @@
   },
   "xbox_store_meta": {
     "capabilities": {
+      "Capability4k": "4K Ultra HD",
       "SinglePlayer": "Single player",
-      "60fps": "60 fps+",
       "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
       "XblAchievements": "Xbox achievements",
       "XblCloudSaves": "Xbox cloud saves",
       "XPA": "Xbox Play Anywhere"
     },
     "categories": [
-      "Action & adventure",
-      "Puzzle & trivia"
+      "Simulation",
+      "Other",
+      "Action & adventure"
     ],
-    "publisher": "Fellow Traveller",
-    "developer": "Galla Games"
+    "publisher": "Noodlecake",
+    "developer": "Pine Creek Games"
   },
   "igdb_meta": {
     "main": {
-      "id": 204533,
-      "name": "Kulebra and the Souls of Limbo",
-      "url": "https://www.igdb.com/games/kulebra-and-the-souls-of-limbo",
+      "id": 305156,
+      "name": "Winter Burrow",
+      "url": "https://www.igdb.com/games/winter-burrow",
       "publishers": [
-        "Fellow Traveller"
+        "Noodlecake Studios"
       ],
       "developers": [
-        "Galla"
+        "Pine Creek Games"
       ],
       "genres": [
-        "Puzzle",
+        "Simulator",
         "Adventure",
         "Indie"
       ],
-      "themes": [
-        "Comedy",
-        "Mystery"
-      ],
+      "themes": [],
       "game_modes": [
         "Single player"
       ],
       "player_perspectives": [
-        "Side view"
+        "Bird view / Isometric"
       ],
-      "engine": [],
+      "engine": [
+        "Unity 2022"
+      ],
       "game_type": "main_game",
       "release_dates": {
-        "release_date": "2025-05-16",
+        "release_date": "2025-11-12",
         "PC": {
           "release_date_ea": null,
-          "release_date_1_0": "2025-05-16"
+          "release_date_1_0": "2025-11-12"
         },
         "Xbox One": {
           "release_date_ea": null,
-          "release_date_1_0": null
+          "release_date_1_0": "2025-11-12"
         },
         "Xbox Series X|S": {
           "release_date_ea": null,
-          "release_date_1_0": "2025-05-16"
+          "release_date_1_0": "2025-11-12"
         },
         "Xbox 360": {
           "release_date_ea": null,
           "release_date_1_0": null
         }
       }
-    }
+    },
+    "specific": null
   },
   "steam_store_meta": {}
 }

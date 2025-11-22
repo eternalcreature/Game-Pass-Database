@@ -1,0 +1,68 @@
+{
+  "general": {
+    "id": 346956,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 356925,
+        "company": {
+          "id": 19006,
+          "name": "Raw Fury"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 356927,
+        "company": {
+          "id": 45422,
+          "name": "Ludogram"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Monsters are Coming! Rock & Road",
+    "player_perspectives": [
+      {
+        "id": 3,
+        "name": "Bird view / Isometric"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/monsters-are-coming-rock-and-road",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 826981,
+      "date": 1763596800,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}

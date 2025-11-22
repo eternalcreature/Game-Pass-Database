@@ -1,0 +1,83 @@
+{
+  "general": {
+    "id": 301071,
+    "game_engines": [
+      {
+        "id": 1251,
+        "name": "Unity 2021"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 303209,
+        "company": {
+          "id": 37729,
+          "name": "Trigger Happy Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 303210,
+        "company": {
+          "id": 37730,
+          "name": "Apogee Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Total Chaos",
+    "parent_game": 125766,
+    "player_perspectives": [
+      {
+        "id": 1,
+        "name": "First person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      }
+    ],
+    "url": "https://www.igdb.com/games/total-chaos--2",
+    "game_type": 8
+  },
+  "release_dates": [
+    {
+      "id": 836107,
+      "date": 1763596800,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 836106,
+      "date": 1763596800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 836120,
+      "date": 1763596800,
+      "platform": 167,
+      "status": 6
+    }
+  ]
+}

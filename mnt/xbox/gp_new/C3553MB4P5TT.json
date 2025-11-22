@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "base_id": 7325,
+    "specific_id": 7325,
+    "title": "Lara Croft and the Temple of Osiris",
+    "store_title": "Lara Croft and the Temple of Osiris",
+    "pid": "C3553MB4P5TT",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "C3553MB4P5TT"
+      ]
+    ],
+    "original_release_date": "2014-12-09",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-11",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-11",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-11",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-11-11",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblLocalCoop": "Xbox local co-op (2-4)",
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblLocalMultiPlayer": "Xbox local multiplayer (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-4)",
+      "XblAchievements": "Xbox achievements"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "Crystal Dynamics",
+    "developer": "Crystal Dynamics"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 7325,
+      "name": "Lara Croft and the Temple of Osiris",
+      "url": "https://www.igdb.com/games/lara-croft-and-the-temple-of-osiris",
+      "publishers": [
+        "Crystal Dynamics",
+        "Square Enix"
+      ],
+      "developers": [
+        "Crystal Dynamics"
+      ],
+      "genres": [
+        "Shooter",
+        "Puzzle",
+        "Adventure"
+      ],
+      "themes": [
+        "Action",
+        "Fantasy",
+        "Historical"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Bird view / Isometric"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2014-12-08",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-12-08"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2014-12-09"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

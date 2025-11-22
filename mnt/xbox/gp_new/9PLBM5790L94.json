@@ -1,0 +1,124 @@
+{
+  "basic_info": {
+    "base_id": 348220,
+    "specific_id": 348220,
+    "title": "Call of Duty: Black Ops 7",
+    "store_title": "Call of Duty®: Black Ops 7 - Cross-Gen Bundle",
+    "pid": "9PLBM5790L94",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9PLBM5790L94"
+      ]
+    ],
+    "original_release_date": "2025-11-15",
+    "release_date": null,
+    "platforms": [
+      "XboxOne",
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-14",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-14",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-14",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": false,
+    "first_party": true,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-40)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "CapabilityHDR": "HDR10",
+      "SinglePlayer": "Single player",
+      "CapabilityVRR": "Variable Refresh Rate",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "60fps": "60 fps+",
+      "SpatialSound": "Spatial Sound",
+      "DolbyAtmos": "Dolby Atmos",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "ConsoleKeyboardMouse": "Console Keyboard & Mouse",
+      "PcGamePad": "PC Game Pad",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Shooter"
+    ],
+    "publisher": "Activision Publishing Inc.",
+    "developer": "Activision Publishing Inc."
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 348220,
+      "name": "Call of Duty: Black Ops 7",
+      "url": "https://www.igdb.com/games/call-of-duty-black-ops-7",
+      "publishers": [
+        "Activision"
+      ],
+      "developers": [
+        "Raven Software",
+        "Treyarch"
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "themes": [
+        "Action",
+        "Warfare"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "First person"
+      ],
+      "engine": [
+        "IW Engine"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-10-05",
+        "PC": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-05"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-05"
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-10-05"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}
