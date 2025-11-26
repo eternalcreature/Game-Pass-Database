@@ -15,7 +15,7 @@ __pychache__
 # Now whitelist files in root
 !json_maker.py
 !flask_for_json.py
-!flask_for_sql.py
+!flask_app.py
 !gp.csv
 !models.py
 !mnt/xbox/basic_data.csv
@@ -28,3 +28,4 @@ __pychache__
 !utils/*.py
 
 !example_analysis.ipynb
+!render.yaml
