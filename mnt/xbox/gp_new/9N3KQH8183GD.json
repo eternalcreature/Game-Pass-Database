@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "base_id": 378678,
+    "specific_id": 378678,
+    "title": "Young Suns",
+    "store_title": "Young Suns (Game Preview)",
+    "pid": "9N3KQH8183GD",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9N3KQH8183GD"
+      ]
+    ],
+    "original_release_date": "2025-11-25",
+    "release_date": null,
+    "platforms": [
+      "PC",
+      "XboxOne",
+      "XboxSeriesX",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblCrossPlatformMultiPlayer": "Xbox cross-platform multiplayer",
+      "Capability4k": "4K Ultra HD",
+      "SinglePlayer": "Single player",
+      "XblCrossPlatformCoop": "Xbox cross-platform co-op",
+      "XboxLiveCrossGenMP": "Xbox Live Cross-Gen Multiplayer",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "ConsoleCrossGen": "Smart Delivery",
+      "XblCloudSaves": "Xbox cloud saves",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure",
+      "Family & kids",
+      "Racing & flying",
+      "Role playing",
+      "Simulation"
+    ],
+    "publisher": "KO_OP",
+    "developer": "KO_OP"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 378678,
+      "name": "Young Suns",
+      "url": "https://www.igdb.com/games/young-suns",
+      "publishers": [
+        "KO_OP"
+      ],
+      "developers": [
+        "KO_OP"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure"
+      ],
+      "themes": [
+        "Science fiction",
+        "Sandbox"
+      ],
+      "game_modes": [
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [
+        "Third person"
+      ],
+      "engine": [],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2025-11-25",
+        "PC": {
+          "release_date_ea": "2025-11-25",
+          "release_date_1_0": null
+        },
+        "Xbox One": {
+          "release_date_ea": "2025-11-25",
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": "2025-11-25",
+          "release_date_1_0": null
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

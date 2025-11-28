@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "base_id": 252847,
+    "specific_id": 252847,
+    "title": "Kill it with Fire 2",
+    "store_title": "KILL IT WITH FIRE! 2",
+    "pid": "9MXHL3TT792F",
+    "alternate_xbox_id": null,
+    "related_skus": [],
+    "sku_groups": [
+      [
+        "9MXHL3TT792F"
+      ]
+    ],
+    "original_release_date": "2024-04-16",
+    "release_date": null,
+    "platforms": [
+      "XboxSeriesX",
+      "PC",
+      "XCloud"
+    ]
+  },
+  "availabilities": [
+    {
+      "Console": {
+        "added": "2025-11-25",
+        "removed": null
+      },
+      "Ultimate": {
+        "added": "2025-11-25",
+        "removed": null
+      },
+      "PC": {
+        "added": "2025-11-25",
+        "removed": null
+      },
+      "Premium": {
+        "added": "2025-11-25",
+        "removed": null
+      }
+    }
+  ],
+  "flags": {
+    "indie": true,
+    "first_party": false,
+    "f2p": false
+  },
+  "xbox_store_meta": {
+    "capabilities": {
+      "XblOnlineCoop": "Online co-op (2-4)",
+      "XblOnlineMultiPlayer": "Online multiplayer  (2-8)",
+      "SinglePlayer": "Single player",
+      "ConsoleGen9Optimized": "Optimized for Xbox Series X|S",
+      "XblAchievements": "Xbox achievements",
+      "XblClubs": "Xbox clubs",
+      "XPA": "Xbox Play Anywhere"
+    },
+    "categories": [
+      "Action & adventure"
+    ],
+    "publisher": "tinyBuild",
+    "developer": "Casey Donnellan Games LLC"
+  },
+  "igdb_meta": {
+    "main": {
+      "id": 252847,
+      "name": "Kill it with Fire 2",
+      "url": "https://www.igdb.com/games/kill-it-with-fire-2",
+      "publishers": [
+        "tinyBuild"
+      ],
+      "developers": [
+        "Casey Donnellan Games LLC"
+      ],
+      "genres": [
+        "Simulator",
+        "Adventure",
+        "Indie"
+      ],
+      "themes": [
+        "Action",
+        "Horror",
+        "Comedy"
+      ],
+      "game_modes": [
+        "Single player",
+        "Multiplayer",
+        "Co-operative"
+      ],
+      "player_perspectives": [],
+      "engine": [
+        "Unreal Engine 5"
+      ],
+      "game_type": "main_game",
+      "release_dates": {
+        "release_date": "2024-04-16",
+        "PC": {
+          "release_date_ea": "2024-04-16",
+          "release_date_1_0": "2025-11-25"
+        },
+        "Xbox One": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        },
+        "Xbox Series X|S": {
+          "release_date_ea": null,
+          "release_date_1_0": "2025-11-25"
+        },
+        "Xbox 360": {
+          "release_date_ea": null,
+          "release_date_1_0": null
+        }
+      }
+    },
+    "specific": null
+  },
+  "steam_store_meta": {}
+}

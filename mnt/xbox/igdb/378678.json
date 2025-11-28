@@ -1,0 +1,90 @@
+{
+  "general": {
+    "id": 378678,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 360254,
+        "company": {
+          "id": 25796,
+          "name": "KO_OP"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Young Suns",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 18,
+        "name": "Science fiction"
+      },
+      {
+        "id": 33,
+        "name": "Sandbox"
+      }
+    ],
+    "url": "https://www.igdb.com/games/young-suns",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 837856,
+      "platform": 49,
+      "status": 6
+    },
+    {
+      "id": 837681,
+      "date": 1764028800,
+      "platform": 169,
+      "status": 3
+    },
+    {
+      "id": 837857,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 837858,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 837682,
+      "date": 1764028800,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 837680,
+      "date": 1764028800,
+      "platform": 49,
+      "status": 3
+    }
+  ]
+}

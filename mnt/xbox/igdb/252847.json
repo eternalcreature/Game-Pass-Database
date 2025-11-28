@@ -1,0 +1,102 @@
+{
+  "general": {
+    "id": 252847,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 359315,
+        "company": {
+          "id": 25576,
+          "name": "Casey Donnellan Games LLC"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 359316,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kill it with Fire 2",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 19,
+        "name": "Horror"
+      },
+      {
+        "id": 27,
+        "name": "Comedy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/kill-it-with-fire-2",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 585265,
+      "date": 1713225600,
+      "platform": 6,
+      "status": 3
+    },
+    {
+      "id": 835495,
+      "date": 1764028800,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 835494,
+      "date": 1764028800,
+      "platform": 6,
+      "status": 6
+    },
+    {
+      "id": 835496,
+      "date": 1764028800,
+      "platform": 169,
+      "status": 6
+    }
+  ]
+}

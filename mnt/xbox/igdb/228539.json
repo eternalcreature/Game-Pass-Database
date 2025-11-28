@@ -1,0 +1,86 @@
+{
+  "general": {
+    "id": 228539,
+    "game_engines": [
+      {
+        "id": 982,
+        "name": "Unreal Engine 5"
+      }
+    ],
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 195815,
+        "company": {
+          "id": 894,
+          "name": "DON'T NOD"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 195816,
+        "company": {
+          "id": 110,
+          "name": "Focus Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Banishers: Ghosts of New Eden",
+    "player_perspectives": [
+      {
+        "id": 2,
+        "name": "Third person"
+      }
+    ],
+    "themes": [
+      {
+        "id": 1,
+        "name": "Action"
+      },
+      {
+        "id": 17,
+        "name": "Fantasy"
+      }
+    ],
+    "url": "https://www.igdb.com/games/banishers-ghosts-of-new-eden",
+    "game_type": 0
+  },
+  "release_dates": [
+    {
+      "id": 520271,
+      "date": 1707782400,
+      "platform": 169,
+      "status": 6
+    },
+    {
+      "id": 520270,
+      "date": 1707782400,
+      "platform": 167,
+      "status": 6
+    },
+    {
+      "id": 520269,
+      "date": 1707782400,
+      "platform": 6,
+      "status": 6
+    }
+  ]
+}
